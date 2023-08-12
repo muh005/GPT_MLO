@@ -1,0 +1,1673 @@
+CA-DFPI SAFE PE
+Study Guide
+Modules
+1 & 2
+CA-DFPI SAFE PE Course I Study Guide (v.04122023) Ameritrain. All Rights Reserved. Page 1 | 53
+Welcome
+This course is designed for Mortgage Loan Originators and is part of the required training for a
+PE License in the state of California.
+How to use this Study Guide
+The Study Guide is designed to assist you after training. Unlike the Learning Resource, this tool is
+designed for you to take a ‘deeper dive’ into this state’s regulations as you prepare for your
+licensing test.
+Legend
+Icons Descriptions
+Information General information related to content
+Reminders Important information
+Note Place to take notes about content
+California Code, Financial Code
+CA Fin Code § Division 20-California Residential Mortgage Lending Act (50000-50706)
+Division 9-California Financing Law (22000-22780)
+California Code of Regulations, Title 10. Investment, Chapter 3. Commissioner
+10 CCR § of Business Oversight, Division of Corporations,
+Subchapter 6. California Finance Lenders Law (Finance Company Rules)
+Source Material
+Unless otherwise noted, most of the content was derived from the following sources:
+1. California Legislative Information
+http://leginfo.legislature.ca.gov/faces/codes.xhtml;jsessionid=9fb4004e7757236ea47152ce76f4
+2. Nationwide Mortgage Licensing System & Registry (NMLS)
+http://mortgage.nationwidelicensingsystem.org/Pages/Default.aspx
+CA-DFPI SAFE PE Course I Study Guide (v.04122023) Ameritrain. All Rights Reserved. Page 2 | 53
+Rules of Conduct for NMLS Approved Pre-
+Licensure (PE) and Continuing Education (CE)
+Courses
+The Secure and Fair Enforcement for Mortgage Licensing Act (SAFE ACT) requires that state-licensed
+MLO’s complete pre-licensing (PE) and continuing education (CE) courses as a condition to be licensed.
+The SAFE Act also requires that all education completed as a condition for state licensure be NMLS
+approved. Since 2009 NMLS has established course design, approval, and delivery standards which NMLS
+approved course providers are required to meet. To further ensure students meet the education
+requirements of the SAFE Act, NMLS has established a Rules of Conduct (ROC). The ROC, which have been
+approved by the NMLS Mortgage Testing & Education Board, and the NMLS Policy Committee, both of
+which are comprised of state regulators, are intended to stress that NMLS approved education be
+delivered and completed with integrity.
+Rules of Conduct
+NMLS approved course providers are not authorized by NMLS to grant exceptions to these rules and that I
+alone am responsible for my conduct under these rules. I also understand these rules are in addition to
+whatever applicable rules the course provider may have set.
+Additionally, I understand that the course provider or others may report any alleged violations to NMLS.
+NMLS may conduct an investigation into alleged violations and may report alleged violations to the
+state(s) in which I am seeking licensure or maintain licenses, or to other states.
+As an individual completing either pre-licensure education (PE) or continuing education (CE) I attest the
+course format I am being credit banked for has been entirely completed be myself alone and have met
+required below:
+Classroom (live)
+• Completed sign-in by providing my signature prior to the start of the course
+o Provided government issued ID at time of sign-in of the course to verify who I say I
+am
+• Engaged with other students and instructor(s)
+• Returned from breaks and lunches on time as required
+• Participated and was engaged throughout the entire course
+o Properly completed the entire seat-time the SAFE Act required for the approved
+NMLS course in order to receive an end-of-course completion certificate
+CA-DFPI SAFE PE Course I Study Guide (v.04122023) Ameritrain. All Rights Reserved. Page 3 | 53
+Classroom Equivalent (webinar)
+• Provided at the time of entering the webinar platform:
+• Government issued ID
+• Knowledge-Based Authentication
+• Returned from breaks and lunches on time as required
+• Properly completed the entire seat-time the SAFE Act required for the approved NMLS course in
+order to receive an end-of-course completion certificate by the following means:
+• Use of camera for the entire duration of the course and visible from the shoulders up
+• Understand that if I fail to maintain camera presence for a period of greater than 10 minutes I
+will be removed from the class and not receive credit
+• Engaged and completed all course quizzes and case studies
+• Engaged and completed all polls
+• Understand at various times during the CEQ/webinar course, I will be required to authenticate
+my identity and engagement.
+• Engaged with other students and facilitators/instructor(s)
+Online Instructor-Led (online with instructor)
+• Provided at the time of entering the Learning Management System (LMS):
+• Met the personal identification requirements set forth by the provider
+• Will not divulge my login ID or password or login credentials to another individual for any online
+course
+• Used my own personal login information to complete the NMLS approved online course
+• Properly completed the entire seat-time the SAFE Act required for the approved NMLS course in
+order to receive an end-of-course completion certificate by the following means:
+• Engaged and completed all course quizzes and case studies
+• Engaged with other students and facilitators/instructor(s)
+Online Self-Study (online without instructor)
+• Provided at the time of entering the Learning Management System (LMS):
+• Met the personal identification requirements set forth by the provider
+• Used and authenticated my own personal login for BioSig to enter and complete the NMLS
+approved online course
+• Will not divulge my login ID or password or login credentials to another individual for any online
+course
+• Understand at various times during the online course, I will be required to authenticate my
+identity through a biometric system.
+• Properly completed the entire seat-time the SAFE Act required for the approved NMLS course in
+order to receive an end-of-course completion certificate by the following means:
+• Engaged with all the course content and completed all course quizzes and case studies
+Additionally, I
+1. Attest that I am the person who I say I am and that all my course registration information is
+accurate.
+2. Acknowledge that I am required to show a current government issued form of identification
+prior to class entry and that the name on the identification matches the name as it appears
+on this course registration.
+CA-DFPI SAFE PE Course I Study Guide (v.04122023) Ameritrain. All Rights Reserved. Page 4 | 53
+3. Understand that the SAFE Act and state laws require me to spend a specific amount of time
+in specific subject areas. Accordingly, I will not attempt to circumvent the requirements of
+any NMLS approved course.
+4. Will not give or attempt to give assistance to any other person who is registered to take an
+NMLS approved pre-licensure or continuing education course
+5. Understand that the course provider has the right to dismiss anyone from class that creates
+a disturbance or interferes with the administration of the course or other students' learning,
+including, but not limited to cell phone/smart watch usage.
+6. Acknowledge that any outside activities are prohibited while attending class and grounds for
+immediate removal from class.
+7. Will not engage in any conduct that would be contrary to good character or reputation or
+engage in any behavior that would cause the public to believe that I would not operate in
+the mortgage loan business lawfully, honestly or fairly.
+8. Will not engage in any conduct that is dishonest, fraudulent, or would adversely impact the
+integrity of the course(s) I am completing or the conditions for which I am seeking licensure
+or renewal of licensure.
+9. Understand and acknowledge my responsibility to report any violations or misconduct
+involving any of the above Rules of Conduct to the Mortgage Testing and Education Board
+(MTEB).
+10. Understand the CSBS Privacy Notice is applicable to these Rules of Conduct. The CSBS
+Privacy Notice can be found here:
+https://nationwidelicensingsystem.org/about/policies/NMLS%20Document%20Library/CSBS
+%20External%20Privacy%20Notice-6.18%20(1).pdf#search=PRIVACY%20NOTICE
+By signing below, I understand the Rules of Conduct listed above, and that any violations to these rules
+will be subject to an investigation by the state(s) in which I am seeking licensure in or maintaining licenses
+in. The results of any investigation may subject me to disciplinary actions by the state(s) or the State
+Regulatory Registry (SRR), including but not limited to:
+§ Revocation, suspension, or denial of license
+§ Disqualification from receiving class credit
+§ Retraction of class credit
+§ Fines
+§ Additional education
+Print Name: ____________________________________ Course Number(s): _____________________
+Signature: _____________________________________ Date (mm/dd/yyyy): ____________________
+Email: ________________________________________ NMLS ID#. ____________________________
+CA-DFPI SAFE PE Course I Study Guide (v.04122023) Ameritrain. All Rights Reserved. Page 5 | 53
+Table of Contents
+MODULE 1 ........................................................................................................................................... 9
+SECTION: STATE REGULATORY AUTHORITY ........................................................................................ 10
+Regulatory Authority Purpose & Mission ............................................................................................................... 10
+Department Agency Structure ................................................................................................................................ 10
+Responsibilities and Limitations ............................................................................................................................. 10
+SECTION: STATE LAW AND REGULATION DEFINITIONS ....................................................................... 11
+California Financing Law [CA Fin § 22000-22014] .................................................................................................. 11
+California Residential Mortgage Lending Act [CA Fin § 50003] .............................................................................. 13
+10 CCR § 1404 ......................................................................................................................................................... 14
+SECTION: LICENSE LAW AND REGULATIONS ....................................................................................... 15
+How Statutes and Regulations are Created ............................................................................................................ 15
+Rulemaking ............................................................................................................................................................. 15
+Constitutional Terms .............................................................................................................................................. 15
+California Residential Mortgage Lending Act [CA Fin § 50142] .............................................................................. 16
+Persons Required to be Licensed ....................................................................................................................... 16
+In State or Out-of-state ...................................................................................................................................... 16
+California Financing Law [CA Fin § 22050-22067] .................................................................................................. 17
+Exemptions ........................................................................................................................................................ 17
+California Financing Law [CA Fin § 22100-22112]; 10 CCR § 1437 ......................................................................... 18
+Licensee Qualifications and Application Process ............................................................................................... 18
+Financial Responsibility (net worth) ................................................................................................................... 19
+California Residential Mortgage Lending Act [CA Fin § 50146] .............................................................................. 20
+Background Check and Fingerprints (criminal check; credit report) .................................................................. 20
+California Residential Mortgage Lending Act [CA Fin § 50142]; 10 CCR § 1422.6.1 ............................................... 21
+Pre-licensing Education and Experience ............................................................................................................ 21
+California Residential Mortgage Lending Act [CA Fin § 50143] .............................................................................. 22
+Testing ................................................................................................................................................................ 22
+License Fees ....................................................................................................................................................... 22
+Filing Fees .......................................................................................................................................................... 22
+California Residential Mortgage Lending Act [CA Fin § 50141] .............................................................................. 24
+Grounds for Denying a License ........................................................................................................................... 24
+California Residential Mortgage Lending Act [CA Fin § 50144, 50145]; 10 CCR § 1422.6.3 ................................... 25
+License Maintenance ......................................................................................................................................... 25
+Continuing Education Requirements ................................................................................................................. 25
+Renewal ............................................................................................................................................................. 26
+CA-DFPI SAFE PE Course I Study Guide (v.04122023) Ameritrain. All Rights Reserved. Page 6 | 53
+Personal Information Updates and Required Notifications ............................................................................... 26
+MODULE 2 ......................................................................................................................................... 28
+SECTION: COMPLIANCE ...................................................................................................................... 29
+California Residential Mortgage Lending Act [CA Fin § 50144, 50145] .................................................................. 29
+License Maintenance (continued) ...................................................................................................................... 29
+Record Keeping and Reporting .......................................................................................................................... 29
+California Financing Law [CA Fin § 22156-22160]; 10 CCR § 1430.5 ...................................................................... 29
+California Residential Mortgage Lending Act [CA Fin § 50330] .............................................................................. 30
+California Residential Mortgage Lending Act [CA Fin § 50329] .............................................................................. 31
+California Residential Mortgage Lending Act [CA Fin § 50150-50152] ................................................................... 31
+California Residential Mortgage Lending Act [CA Fin § 50301] .............................................................................. 32
+California Financing Law [CA Fin § 22172] .............................................................................................................. 33
+California Financing Law [CA Fin § 22168] .............................................................................................................. 34
+Suspension and Reinstatement ......................................................................................................................... 34
+10 CCR § 1422.10 .................................................................................................................................................... 34
+Surrender of License .......................................................................................................................................... 34
+SECTION: COMPLIANCE ...................................................................................................................... 35
+Prohibited Conduct and Practices ...................................................................................................................... 35
+California Residential Mortgage Lending Act [CA Fin § 50507] .............................................................................. 35
+California Financing Law [CA Fin § 22100] .............................................................................................................. 35
+California Residential Mortgage Lending Act [CA Fin § 50204] .............................................................................. 35
+California Residential Mortgage Lending Act [CA Fin § 50203] .............................................................................. 36
+California Residential Mortgage Lending Act [CA Fin § 50302] .............................................................................. 37
+Required Conduct .............................................................................................................................................. 37
+Fees and Charges ............................................................................................................................................... 37
+California Residential Mortgage Lending Act [CA Fin § 50302] .............................................................................. 38
+10 CCR § 1414 ......................................................................................................................................................... 38
+Supervision of Mortgage Loan Originators ........................................................................................................ 38
+California Residential Mortgage Lending Act [CA Fin § 50306]; 10 CCR § 1409.1 .................................................. 39
+Change of control ............................................................................................................................................... 39
+Notice of Changes by Mortgage Lender, Mortgage Broker, Mortgage Lender and Broker, and Mortgage Loan
+Originator ....................................................................................................................................................... 39
+Disclosures and Agreements .............................................................................................................................. 40
+California Financing Law [CA Fin § 22161 - 22166]; 10 CCR § 1552, 1556, 1557 .................................................... 41
+Advertising ......................................................................................................................................................... 41
+§ 1026.24(i)(2) ........................................................................................................................................................ 43
+California Residential Mortgage Lending Act [CA Fin § 50202] .............................................................................. 44
+Escrow Account and Loan Requirements ........................................................................................................... 44
+CA-DFPI SAFE PE Course I Study Guide (v.04122023) Ameritrain. All Rights Reserved. Page 7 | 53
+Trust funds ......................................................................................................................................................... 44
+SECTION: DISCIPLINARY ACTION ........................................................................................................ 45
+California Residential Mortgage Lending Act [CA Fin § 50516] .............................................................................. 45
+Notifications, Hearings, and Appeals ................................................................................................................. 45
+Suspension, Revocations, and Rescission of Licenses ........................................................................................ 45
+California Residential Mortgage Lending Act [CA Fin § 50205] .............................................................................. 45
+California Residential Mortgage Lending Act [CA Fin § 50318] .............................................................................. 45
+California Residential Mortgage Lending Act [CA Fin § 50320] .............................................................................. 46
+California Residential Mortgage Lending Act [CA Fin § 50321] .............................................................................. 47
+California Residential Mortgage Lending Act [CA Fin § 50322] .............................................................................. 47
+California Residential Mortgage Lending Act [CA Fin § 50323] .............................................................................. 47
+California Residential Mortgage Lending Act [CA Fin § 50324] .............................................................................. 47
+California Residential Mortgage Lending Act [CA Fin § 50325] .............................................................................. 48
+California Residential Mortgage Lending Act [CA Fin § 50326] .............................................................................. 48
+California Residential Mortgage Lending Act [CA Fin § 50327] .............................................................................. 49
+California Financing Law [CA Fin § 22168] .............................................................................................................. 49
+California Financing Law [CA Fin § 22172] .............................................................................................................. 50
+California Residential Mortgage Lending Act [CA Fin § 50500- 50502] .................................................................. 50
+California Residential Mortgage Lending Act [CA Fin § 50505] .............................................................................. 51
+California Residential Mortgage Lending Act [CA Fin § 50512] .............................................................................. 52
+REFERENCES ....................................................................................................................................... 53
+CA-DFPI SAFE PE Course I Study Guide (v.04122023) Ameritrain. All Rights Reserved. Page 8 | 53
+MODULE 1
+Regulatory Authority and Licensing Process
+Module Learning Objectives
+During this module, you will review and be asked to demonstrate the following:
+§ Key definitions relating to the state’s laws and regulations
+§ Knowledge of the structure and responsibilities of the state regulatory authority
+§ How to meet and apply the specific state licensing requirements and qualifications
+CA-DFPI SAFE PE Course I Study Guide (v.04122023) Ameritrain. All Rights Reserved. Page 9 | 53
+SECTION: STATE REGULATORY AUTHORITY
+IMPORTANT: The term ‘Regulatory Authority’ used throughout this course refers to the California
+Department of Financial Protection and Innovation (DFPI) and/or the Commissioner of the California
+Department of Financial Protection and Innovation.
+Regulatory Authority Purpose & Mission
+Per the department’s website, below is the California Department of Financial Protection and
+Innovation’s (DFPI) mission statement:
+Serve Californians by effectively overseeing financial service providers, enforcing laws and
+regulations, promoting fair and honest business practices, enhancing consumer awareness,
+and protecting consumers by preventing potential marketplace risks, fraud, and abuse.
+Department Agency Structure
+The DFPI is led by Clothilde V. Hewlett, Commissioner who has responsibility for several areas
+including:
+§ Administration
+§ Division of Corporations
+§ Division of Financial Institutions
+§ Legal
+§ Legislation and Policy
+§ Public Affairs
+Responsibilities and Limitations
+The California Department of Financial Protection and Innovation (DFPI) exists to protect the
+financial interests of citizens of the state of California from abusive, unfair or deceptive
+practices from financial service providers and products.
+To accomplish this mission, the DFPI maintains oversight responsibilities of state-licensed
+financial institutions, including banks, credit unions, and money transmitters. In addition, the
+DFPI licenses and regulates a variety of financial service providers, including securities brokers
+and dealers, investment advisers, payday lenders and other consumer finance lenders.
+_______________________________________________
+_______________________________________________
+_______________________________________________
+_______________________________________________
+_______________________________________________
+CA-DFPI SAFE PE Course I Study Guide (v.04122023) Ameritrain. All Rights Reserved. Page 10 | 53
+SECTION: STATE LAW AND REGULATION DEFINITIONS
+California Department of Financial Protection and Innovation (DFPI) requires its MLOs to become
+familiar with key definitions that govern the construction of the department. Unless the context
+otherwise requires, the definitions below govern the construction of this division.
+California Financing Law [CA Fin § 22000-22014]
+Branch office Means a license to engage in business as a finance lender or broker at a location other
+license than the location identified in a finance lender or broker license application or
+amended application.
+Broker Includes any person who is engaged in the business of negotiating or performing any
+act as broker in connection with loans made by a finance lender.
+Commissioner Means the Commissioner of Business Oversight.
+Depository Has the same meaning as in Section 3 of the Federal Deposit Insurance Act, and
+institution includes any credit union.
+Expungement Means an order that allows an individual to withdraw his or her plea of guilty and to
+enter a plea of not guilty or setting aside the verdict of guilty or dismissing the
+accusation, information, or indictment. As it relates to criminal convictions in another
+state, that state’s definition of expungement will apply.
+Federal banking Means the Board of Governors of the Federal Reserve System, the Comptroller of the
+agencies Currency, the Director of the Office of Thrift Supervision, the National Credit Union
+Administration, and the Federal Deposit Insurance Corporation.
+Finance lender Includes any person who is engaged in the business of making consumer loans or
+making commercial loans. The business of making consumer loans or commercial
+loans may include lending money and taking, in the name of the lender, or in any
+other name, in whole or in part, as security for a loan, any contract or obligation
+involving the forfeiture of rights in or to personal property, the use and possession of
+which property is retained by other than the mortgagee or lender, or any lien on,
+assignment of, or power of attorney relative to wages, salary, earnings, income, or
+commission. It is the intent of the Legislature that the definition of finance lender can
+be interpreted to include a personal property broker.
+CA-DFPI SAFE PE Course I Study Guide (v.04122023) Ameritrain. All Rights Reserved. Page 11 | 53
+Finance lender Do not include employees regularly employed at the location specified in the license of
+and broker the finance lender or broker, except that an employee, when acting within the scope
+of his or her employment, is exempt from any other law from which his or her
+employer is exempt.
+Licensee Means any finance lender or broker who receives a license.
+Nationwide (NMLS) means a mortgage licensing system developed and maintained by the
+Mortgage Conference of State Bank Supervisors and the American Association of Residential
+Licensing Mortgage Regulators for the licensing and registration of licensed mortgage loan
+System and originators.
+Registry
+Nontraditional Means any mortgage product other than a 30-year fixed rate mortgage.
+mortgage
+product
+Person Means an individual, a corporation, a partnership, a limited liability company, a joint
+venture, an association, a joint stock company, a trust, an unincorporated
+organization, a government, or a political subdivision of a government.
+Regulatory Is a statement in a section or subdivision that specifies an original bona fide principal
+ceiling provision loan amount at or above which that section or subdivision does not apply to a loan.
+Residential Means any loan primarily for personal, family, or household use that is secured by a
+mortgage loan mortgage, deed of trust, or other equivalent consensual security interest on a
+dwelling, or residential real estate upon which is constructed or intended to be
+constructed a dwelling. “Dwelling” means a residential structure that contains one to
+four units, whether or not that structure is attached to real property. The term
+includes an individual condominium unit, cooperative unit, mobile home, or trailer, if
+it is used as a residence.
+SAFE Act Means the federal Secure and Fair Enforcement for Mortgage Licensing Act of 2008.
+Unique Means a number or other identifier assigned by protocols established by the
+identifier Nationwide Mortgage Licensing System and Registry.
+CA-DFPI SAFE PE Course I Study Guide (v.04122023) Ameritrain. All Rights Reserved. Page 12 | 53
+California Residential Mortgage Lending Act [CA Fin § 50003]
+Borrower Means the loan applicant.
+Control Means the possession, directly or indirectly, of the power to direct, or cause the
+direction of, the management and policies of a licensee under this division, whether
+through voting or through the ownership of voting power of an entity that possesses
+voting power of the licensee, or otherwise. Control is presumed to exist if a person,
+directly or indirectly, owns, controls, or holds 10 percent or more of the voting power
+of a licensee or of an entity that owns, controls, or holds, with power to vote, 10
+percent or more of the voting power of a licensee. No person will be deemed to
+control a licensee solely by reason of his or her status as an officer or director of the
+licensee.
+Engage in the Means the dissemination to the public, or any part of the public, by means of written,
+business printed, or electronic communication or any communication by means of recorded
+telephone messages or spoken on radio, television, or similar communications media,
+of any information relating to the making of residential mortgage loans, the servicing
+of residential mortgage loans, or both. “Engage in the business” also means, without
+limitation, making residential mortgage loans or servicing residential mortgage loans,
+or both.
+Means a person that satisfies either of the following:
+Lender § The person is or does all of the following:
+o The person is an approved lender for the Federal Housing Administration,
+Veterans Administration, Farmers Home Administration, Government
+National Mortgage Association, Federal National Mortgage Association, or
+Federal Home Loan Mortgage Corporation.
+o The person directly makes residential mortgage loans.
+o The person makes the credit decision in the loan transactions.
+§ The person is either of the following:
+o Is not a natural person and engages in the activities of a loan processor or
+underwriter for a residential mortgage loan but does not solicit loan
+applicants, originate mortgage loans, or fund mortgage loans unless the
+person is also a lender as defined above.
+o Is a natural person and an independent contractor who engages in the
+activities of a loan processor or underwriter for a residential mortgage
+loan but does not solicit loan applicants, originate mortgage loans, or
+fund mortgage loans unless the person is also a lender as defined above.
+Mortgage
+Means a person that is an approved servicer for the Federal Housing Administration,
+servicer or
+Veterans Administration, Farmers Home Administration, Government National
+residential
+Mortgage Association, Federal National Mortgage Association, or Federal Home Loan
+mortgage loan
+Mortgage Corporation, and directly services or offers to service mortgage loans
+servicer
+CA-DFPI SAFE PE Course I Study Guide (v.04122023) Ameritrain. All Rights Reserved. Page 13 | 53
+Means receiving more than three installment payments of principal, interest, or other
+Service or amounts placed in escrow, pursuant to the terms of a mortgage loan and performing
+servicing services by a licensee relating to that receipt or the enforcement of its receipt, on
+behalf of the holder of the note evidencing that loan.
+10 CCR § 1404
+Call report Means a report of condition on the company and its operations including financial
+statements and production activity volumes, also known as the “NMLS Mortgage Call
+Report.”
+Finance Means a company subject to the California Finance Lenders Law and also has the same
+company meaning as “licensee” as defined in Financial Code Section 22007.
+• Please note that the California Finance Lenders Law is now the California
+Financing Law.
+Mortgage
+Means a finance company, finance lender, or broker who makes, brokers, or services
+lender or
+residential mortgage loans and who is required to be licensed pursuant to Section
+Mortgage
+22100 of the Code.
+broker
+_______________________________________________
+_______________________________________________
+_______________________________________________
+_______________________________________________
+_______________________________________________
+_______________________________________________
+_______________________________________________
+_______________________________________________
+_______________________________________________
+_______________________________________________
+_______________________________________________
+_______________________________________________
+_______________________________________________
+CA-DFPI SAFE PE Course I Study Guide (v.04122023) Ameritrain. All Rights Reserved. Page 14 | 53
+SECTION: LICENSE LAW AND REGULATIONS
+How Statutes and Regulations are Created
+§ Like the U.S. government, this state’s government is divided into 3 separate branches:
+o Legislature (Senate and Assembly members elected by citizens)
+o Judiciary (includes trial courts, Courts of Appeal, state Supreme Court)
+o Executive (includes governor’s office)3
+§ The legislative branch of the state’s government creates new laws as follows:
+1. A bill is introduced in either of the state’s legislature's houses (Senate or the
+Assembly).
+2. An identical version of the bill is passed in both houses and sent to the Governor
+for signature.
+3. The Governor signs the bill.
+4. The bill is "chaptered" by the Secretary of State and becomes an enacted statute.
+5. The statute is codified in the appropriate section(s) of the state’s code.5
+Rulemaking
+A variety of state agencies, departments, offices, commissions, boards, etc. carry out the laws
+found in statutes. These entities are created by the state’s constitution or statute. The groups
+often have "rulemaking" power (e.g., making of rules and regulations).
+Depending on the authority granted under the statute (or constitution), these entities may
+follow the Administrative Procedure Act to adopt, amend, or repeal regulations.3
+Constitutional Terms
+§ Statutes: are Chaptered Bills. A bill is “chaptered” by the Secretary of State after it has
+passed through both houses of the legislature and is signed by the Governor (or
+becomes law without the Governor’s signature).
+§ Articles: the state’s constitution groups areas of the law by subject matter. These are
+known as Articles. Each Article is organized by a heading and section numbers.4
+CA-DFPI SAFE PE Course I Study Guide (v.04122023) Ameritrain. All Rights Reserved. Page 15 | 53
+California Residential Mortgage Lending Act [CA Fin § 50142]
+Persons Required to be Licensed
+In State or Out-of-state
+Licensed vs. Registered MLOs
+§ A licensed MLO works for a non-depository institution (lender or broker) and must
+meet the following guidelines to obtain and maintain a license:
+o Complete 20 hours of pre-license education
+o Complete 8 hours of continuing education annually
+o Pass a national exam (In some states, may be required to complete state-specific
+mandated education)
+o Work for a sponsor (employer)
+o Named on the surety bond of a sponsor or participate in a state recovery account
+o Obtain a unique identifier from the Nationwide Mortgage Licensing System
+(NMLS)
+o Process license application requirements via the NMLS
+§ A registered MLO works for a depository institution (bank or credit union) and must
+meet the following guidelines:
+o Works for a sponsor (employer)
+o Obtain and maintain a unique identifier from the NMLS
+W2 Processors vs. Independent Contract Processors
+Processors provide a very important service, in that they perform important clerical functions,
+such as verification of employment, ordering appraisals, and scheduling closing dates to settle
+loan transactions.
+§ A processor who receives a W2 annually from an employer:
+o Performs clerical or support duties as an employee.
+o May take direction from or may be supervised by a licensed mortgage loan
+originator (works for a lender or broker) or a registered mortgage loan originator
+(works for a bank or credit union).
+§ An independent contract loan processor:
+o May represent to the public, through advertising or other means, including the use
+of business cards, stationery, brochures, signs, rate lists, or other promotional
+items, that they can or will perform any of the activities of a mortgage loan
+originator.
+o Is required to be licensed as a mortgage loan originator.
+An independent contract processor may represent multiple MLOS, brokers, and lenders at the
+same time. They are business entities that provide processing services for a fee. An
+CA-DFPI SAFE PE Course I Study Guide (v.04122023) Ameritrain. All Rights Reserved. Page 16 | 53
+independent contract processor would also need to obtain a broker or company license to
+represent more than one broker or company
+Reminder: So, while a W2 processor cannot function as a MLO, a contractor processor can.
+This also extends to contract underwriters as well.
+California Financing Law [CA Fin § 22050-22067]
+Exemptions
+Individuals not considered MLOs include those who:
+§ Perform purely administrative or clerical tasks on behalf of a MLO.
+§ Are solely involved in extensions of credit relating to timeshare plans.
+§ Are employees of a federal, state, or local government agency or housing finance
+agency.
+§ Are employed by a bona fide nonprofit organization who exclusively originates
+residential mortgage loans for a bona fide nonprofit organization.
+§ Until January 1, 2022, a person that makes one commercial loan in a 12-month period.
+_______________________________________________
+_______________________________________________
+_______________________________________________
+_______________________________________________
+_______________________________________________
+_______________________________________________
+_______________________________________________
+_______________________________________________
+_______________________________________________
+_______________________________________________
+_______________________________________________
+_______________________________________________
+_______________________________________________
+_______________________________________________
+CA-DFPI SAFE PE Course I Study Guide (v.04122023) Ameritrain. All Rights Reserved. Page 17 | 53
+California Financing Law [CA Fin § 22100-22112]; 10 CCR § 1437
+Licensee Qualifications and Application Process
+In California, an individual must obtain and maintain a mortgage loan originator license that
+includes:
+§ A license endorsement from the Commissioner of Real Estate
+§ Meet requirements for a licensed MLO
+In addition to these things, an individual applying to obtain and maintain a MLO license must
+also meet the following:
+§ Financial responsibility (net worth)
+§ Background check and fingerprints (criminal check; credit report)
+§ Pre-licensing education and Experience
+§ Testing
+§ Pay filing fees
+Prior to Congress passing the SAFE Act (the law upon which this state’s MLO licensing
+requirement is based), individuals did not need a license to originate loans. Moreover,
+individuals did not have to conform to any financial or character standards that would
+demonstrate they possess certain characteristics essential for a person to be successful in the
+role of MLO.
+Today, an applicant must demonstrate:
+§ Financial responsibility
+§ Character
+§ General fitness.
+These qualities are deemed important to command the confidence of the community and to
+warrant a determination that the mortgage loan originator will operate honestly, fairly,
+efficiently, and consistent with the mission of the department.
+CA-DFPI SAFE PE Course I Study Guide (v.04122023) Ameritrain. All Rights Reserved. Page 18 | 53
+Financial Responsibility (net worth)
+In keeping with these characteristics, license applicants must meet certain financial
+requirements. The tables below outline these requirements.
+Net worth requirements
+License Type MLO Employees Minimum Net Worth
+Requirement
+Finance lender or Broker license None $25,000
+Finance lender or Broker license One or more $250,000
+(makes residential loans)
+Finance broker (arranges, but does One or more $50,000
+makes residential loans)
+A mortgage lender, mortgage broker, or mortgage lender and broker must post a surety bond
+based on the aggregate dollar amount of residential mortgage loans originated by the
+mortgage lender, mortgage broker, mortgage lender and broker in the preceding year. A
+finance company that does not make residential mortgage loans and does not employ one or
+more mortgage loan originators will post a surety bond in the amount of $25,000.
+Minimum Bond Requirement
+License Type Aggregate Loans Minimum Bond
+Residential Mortgage lender $50,000 (Can increase
+or Servicer license to $100,000 by
+Regulatory authority)
+Mortgage Lender, Mortgage 0 - $1,000,000 $25,000
+Broker, Mortgage Lender $1,000,001 - $50,000,000 $50,000
+and Broker $50,000,001 - $500,000,000 $100,00
+Over $500,000,001 $200,000
+A mortgage lender, mortgage broker, or mortgage lender and broker applicant without a prior
+year operating history will make a good faith estimate of the aggregate amount of loans
+anticipated to be originated in the upcoming year to determine the amount of the surety
+bond.
+When an action is commenced on a licensee’s bond, the regulatory authority may require the
+filing of a new bond. Immediately upon the recovery of an action on the bond, the licensee
+must file a new bond.
+A surety bond is an agreement between three parties – the licensee (a broker or lender), a
+surety (insurance company) and the regulatory authority (CA-DFPI). Upon execution, the
+instrument commits each licensee to comply with laws and regulations surrounding the
+issuance of their license. If for some reason a licensee is unable to meet any of those
+requirements successfully, then the surety will assume financial obligations to ensure
+performance under that bond on behalf of the licensee. Financial obligations are for amounts
+owed to consumers, who qualify, other creditors, or possibly the Department.
+CA-DFPI SAFE PE Course I Study Guide (v.04122023) Ameritrain. All Rights Reserved. Page 19 | 53
+Reminder: The regulatory authority may make or edit rules or regulations that affect the
+requirements for minimum net worth, to ensure compliance with the SAFE Act.
+California Residential Mortgage Lending Act [CA Fin § 50146]
+Background Check and Fingerprints (criminal check; credit report)
+License applicants must pass certain background and credit checks through the NMLS.
+MLOs must:
+§ Submit fingerprint images and related information to enable a federal, or both a state
+and federal, criminal history background check
+§ Complete an application containing personal history and experience via a form on the
+NMLS including providing an authorization to NMLS and the regulatory authority to
+obtain:
+o An independent credit report obtained from a consumer reporting agency.
+o Information related to any administrative, civil, or criminal findings by any
+governmental jurisdiction.
+Reminder: At any time, the regulatory authority may ask the NMLS to obtain state criminal
+history background check information on applicants seeking licensure in the state.
+How fingerprints are processed
+Once the NMLS receives authorization to begin a background check of an applicant for a MLO
+licensee, fingerprint images and related information are submitted electronically to the
+Department of Justice (DOJ). The DOJ will confirm the existence and content of the following:
+§ A record of state convictions
+§ State arrests
+§ Record of state arrests for which the DOJ establishes that the person is free on bail
+§ An applicant’s recognizance pending trial or appeal
+The DOJ will provide an electronic response to:
+§ NMLS
+§ Regulatory authority
+CA-DFPI SAFE PE Course I Study Guide (v.04122023) Ameritrain. All Rights Reserved. Page 20 | 53
+California Residential Mortgage Lending Act [CA Fin § 50142]; 10 CCR §
+1422.6.1
+Pre-licensing Education and Experience
+Before an applicant for a MLO license can complete the application process, the individual
+must complete at least 20 hours of approved education. The 20 hours of education must
+include a core of eight (8) hours of:
+§ three (3) hours of instruction on federal law and regulations;
+§ three (3) hours of ethics, to include instruction on fraud, consumer protection, and fair
+lending issues;
+§ two (2) hours of training related to lending standards for the nontraditional mortgage
+product marketplace
+§ two (2) hours of training related to relevant California law and regulations.
+Before any pre-licensing education course can be offered, both the course provider and
+courses must be reviewed and approved by NMLS.
+Education formats include:
+§ Classroom
+§ Online
+§ Any other means approved by the NMLS
+Reciprocity
+Means any pre-licensing education requirements approved by the NMLS for any state other
+than this one will be accepted as credit toward completion of pre-licensing education
+requirements in this state.
+Experience requirements
+There is no experience requirement for MLOs.
+_______________________________________________
+_______________________________________________
+_______________________________________________
+_______________________________________________
+_______________________________________________
+_______________________________________________
+_______________________________________________
+CA-DFPI SAFE PE Course I Study Guide (v.04122023) Ameritrain. All Rights Reserved. Page 21 | 53
+California Residential Mortgage Lending Act [CA Fin § 50143]
+Testing
+After completing the pre-license course, an applicant for a mortgage loan originator license
+must:
+§ pass a qualified written test developed or otherwise deemed acceptable by the NMLS;
+§ and take a written test administered by a test provider approved by the NMLS.
+The written test must adequately measure an applicant’s knowledge and comprehension in
+the following areas:
+§ Ethics
+§ Federal law and regulation relating to mortgage origination
+§ State law and regulation relating to mortgage origination
+§ Federal and state law and regulation, including instruction on fraud, consumer
+protection, the nontraditional mortgage marketplace, and fair lending issues
+Passing Score
+You must pass an exam that covers the pre-license content. An individual is considered to have
+passed a qualified written test administered once after achieving a test score of 75 percent of
+correct answers.
+§ An individual is subject to a waiting period of thirty (30) calendar days from the
+previous test date prior to retaking the test.
+§ After every third failed test, the individual is subject to a waiting period of one
+hundred eighty (180) calendar days before he or she is able to retake the test.
+Other Testing Conditions
+§ A licensed mortgage loan originator who fails to maintain a valid license for a period of
+five years or longer (≥ 5 years) must take the test.
+§ Any time spent working for a non-depository institution (bank or credit union) as a
+registered mortgage loan originator will not count as part of this time.
+License Fees
+Mortgage loan originators are required to pay the following license fees through the NMLS.
+The fees are not refundable or transferable.
+§ NMLS Initial Processing Fee: $30
+§ CA-DFPI Application Fee: $300
+§ Credit Report: $15
+§ FBI Criminal Background Check: $36.25
+Filing Fees
+After filing an application and paying the appropriate fees, the regulatory authority will:
+§ investigate the applicant and its general partners and;
+§ persons owning or controlling, directly or indirectly, 10 percent or more of the
+outstanding interests or;
+CA-DFPI SAFE PE Course I Study Guide (v.04122023) Ameritrain. All Rights Reserved. Page 22 | 53
+§ any person responsible for the conduct of the applicant’s lending activities in this
+state, if the applicant is a partnership.
+Application and Investigation Fees apply to:
+§ Finance lenders
+§ Brokers
+§ Branch office license
+Applicants must pay to the regulatory authority $200.00 as application fee and a $100.00 fee
+for:
+§ Investigating the application
+§ Cost of fingerprint processing
+§ Criminal history record check
+Reminder: The investigation fee, including the amount for the criminal history record check,
+and the application fee are not refundable if an application is denied or withdrawn.
+About investigation
+The regulatory authority will investigate the person responsible for the lending activity of the
+licensee at the new location listed in the application.
+The investigation may be limited to information that was not included in prior applications
+filed with the division. If the regulatory authority does not find facts constituting reasons for
+denial, it will issue and deliver a license to the applicant.
+_______________________________________________
+_______________________________________________
+_______________________________________________
+_______________________________________________
+_______________________________________________
+_______________________________________________
+_______________________________________________
+_______________________________________________
+CA-DFPI SAFE PE Course I Study Guide (v.04122023) Ameritrain. All Rights Reserved. Page 23 | 53
+California Residential Mortgage Lending Act [CA Fin § 50141]
+Grounds for Denying a License
+The regulatory authority may deny a mortgage loan originator license application if the
+applicant:
+§ Has had a mortgage loan originator license revoked in any governmental jurisdiction,
+(except that a subsequent formal vacation of a revocation will not be deemed a
+revocation).
+§ Has been convicted of, or pled guilty or nolo contendere to; a felony in a domestic,
+foreign, or military court during the seven-year period:
+o preceding the date of the application for licensing and registration or;
+o at any time preceding the date of application, if the felony involved an act of
+fraud, dishonesty, or a breach of trust, or money laundering.
+Felony crime classification
+A specific crime is classified as a felony if it is determined by the law of the jurisdiction in which
+the individual is convicted to be a felony.
+For example, assume an individual acquires marijuana in a state where purchasing and
+consumption of marijuana is legal; however, while driving home this person is stopped by a
+police officer in the state of Alabama where possession of the amount of marijuana is classified
+as a felony. The felony conviction is based on Alabama law.
+When applications may not be denied
+There are two ways in which an applicant for a MLO license may receive approval and not be
+denied by the regulatory authority. The applicant must:
+§ Comply with all outlined application guidelines
+§ Have felony conviction expunged or pardoned
+Reminder: The regulatory authority may consider the underlying crime, facts, or circumstances
+of an expunged or pardoned felony conviction when determining the eligibility of an applicant
+for licensure.
+_______________________________________________
+_______________________________________________
+_______________________________________________
+_______________________________________________
+_______________________________________________
+CA-DFPI SAFE PE Course I Study Guide (v.04122023) Ameritrain. All Rights Reserved. Page 24 | 53
+California Residential Mortgage Lending Act [CA Fin § 50144, 50145]; 10 CCR §
+1422.6.3
+License Maintenance
+Continuing Education Requirements
+MLOs must complete continuing education annually as part of the process to renew their
+license. Each year, a licensed MLO must complete at least eight (8) hours of continuing
+education by December 31 each year. The continuing education must include at least the
+following:
+§ Three (3) hours of instruction on federal law and regulations
+§ Two (2) hours of ethics, which includes instruction on fraud, consumer protection, and
+fair lending issues
+§ Two (2) hours of training related to lending standards for the nontraditional mortgage
+product marketplace
+§ One (1) hour of training related to relevant California law and regulations
+CE course approval and delivery
+Course providers are unable to deliver CE courses until NMLS reviews and approves them. This
+also includes reviewing and approving the course provider.
+An employer or affiliate by an agency contract or subsidiary of the employer of a MLO may
+submit courses to the NMLS for approval that will enable the employer to teach its own
+courses.
+Delivery of continuing education courses may be offered via several formats:
+§ Classroom
+§ Online
+§ By any other means approved by NMLS, including webinars
+Course and credit guidelines
+A licensed mortgage loan originator:
+§ May only receive credit for a continuing education course in the year in which the
+course is taken.
+§ May not take the same approved course in the same or successive years to meet the
+annual requirements for continuing education.
+§ Will receive credit toward completion of continuing education requirements in
+California from another state if NMLS approved the continuing education course.
+Continuing education Instructor
+A licensed MLO who is an approved instructor of an approved continuing education course
+may receive credit for the licensed mortgage loan originator’s own annual continuing
+education requirement at the rate of two hours of credit for every one hour taught.
+CA-DFPI SAFE PE Course I Study Guide (v.04122023) Ameritrain. All Rights Reserved. Page 25 | 53
+Unlicensed MLO
+If a MLO becomes unlicensed for some reason, they must complete the continuing education
+requirements for the last year in which the license was held prior to issuance of a new or
+renewed license. If an individual that was previously licensed as a mortgage loan originator,
+applies to be licensed again, then that person must prove that he or she has completed all the
+continuing education requirements for the year in which the license was last held.
+Renewal
+Once you become a licensed MLO, licenses must be renewed on an annual basis between
+November 1 and December 31. If a license is not renewed during those dates, it will be
+considered lapsed or expired. Specifically, a MLO must:
+§ Meet all continuing education requirements on or before December 31 of every year.
+§ Continue to meet the minimum standards for license (see grounds for denying a
+license).
+§ Satisfy annual continuing education requirements (see continuing education
+requirements).
+§ Pay all required fees for renewal of the license (can be paid by the MLO, finance lender
+or broker employing the MLO).
+If an MLO fails to renew their license by December 31
+The regulatory authority may adopt procedures for the reinstatement of expired licenses,
+consistent with the standards established by the NMLS, if a license of a mortgage loan
+originator fails to satisfy the minimum standards for license renewal by midnight on December
+31.
+Personal Information Updates and Required Notifications
+Licensee and applicants can anticipate they will receive notifications for various items
+associated with their license application or renewal status. In some cases, notification will be
+given to the regulatory authority from background check or credit service providers once they
+are complete.
+§ The regulatory authority will request from the Department of Justice subsequent
+arrest notification service from the Department of Justice fingerprint images and
+related information based on fingerprints required by the Department of Justice for all
+finance lender, broker license, and MLO candidates.
+§ If the regulatory authority denies an application for a new location, then the licensee
+has 10 days from the date of receipt of notification of the regulatory authority’s denial,
+to submit a new application designating a different person responsible for the lending
+activity at the new location. The regulatory authority can approve or deny alternative
+person.
+§ The regulatory authority may deny the application for a finance lender, broker and
+MLO licenses for any number of reasons. If an applicant fails to respond to written
+notification of a deficiency in the application within 90 days of the date of the
+notification, then the application will be considered withdrawn.
+CA-DFPI SAFE PE Course I Study Guide (v.04122023) Ameritrain. All Rights Reserved. Page 26 | 53
+_______________________________________________
+_______________________________________________
+_______________________________________________
+_______________________________________________
+_______________________________________________
+_______________________________________________
+______________________________________________
+_______________________________________________
+_______________________________________________
+_______________________________________________
+_______________________________________________
+_______________________________________________
+_______________________________________________
+_______________________________________________
+_______________________________________________
+_______________________________________________
+_______________________________________________
+_______________________________________________
+_______________________________________________
+_______________________________________________
+_______________________________________________
+_______________________________________________
+_______________________________________________
+_______________________________________________
+CA-DFPI SAFE PE Course I Study Guide (v.04122023) Ameritrain. All Rights Reserved. Page 27 | 53
+MODULE 2
+Compliance and Disciplinary Actions
+Module Learning Objectives
+During this module, you will review and be asked to demonstrate the following:
+§ Compliance for required recordkeeping, conduct, practices, disclosures, and advertising
+§ Knowledge of disciplinary actions relating to notifications, hearings, suspensions, revocations, and
+violations
+CA-DFPI SAFE PE Course I Study Guide (v.04122023) Ameritrain. All Rights Reserved. Page 28 | 53
+SECTION: COMPLIANCE
+California Residential Mortgage Lending Act [CA Fin § 50144, 50145]
+License Maintenance (continued)
+Record Keeping and Reporting
+Out of state requirements
+If an entity chooses to apply for a license for a business location outside this state, it
+automatically creates an agreement by the applicant to do all of the following:
+§ Make the licensee’s books, accounts, papers, records, and files available to the
+regulatory authority’s representatives in this state.
+§ Pay the reasonable expenses for travel, meals, and lodging of the regulatory
+authority’s representatives incurred during any investigation or examination made at
+the licensee’s location outside this state.
+A licensee located outside this state is not required to maintain books and records regarding
+licensed loans separate from those for other loans, if the licensed loans can be readily
+identified.
+California Financing Law [CA Fin § 22156-22160]; 10 CCR § 1430.5
+Additional requirements
+Requirements for books and records that apply to finance lender, broker, and mortgage loan
+originator licensees.
+§ Keep and use in their business, books, accounts, and records which will enable the
+regulatory authority to determine if the licensee is complying with the provisions of
+this division and with the rules and regulations made by the regulatory authority.
+§ Retain records and documents on any loan secured by real property in which loan
+proceeds were disbursed to an independent escrow holder.
+§ File an authorization for disclosure to the commissioner of financial records of the
+licensed business upon request of the regulatory authority.
+§ Preserve their books, accounts, and records, including cards used in the card system, if
+any, for at least three years after making the final entry on any loan recorded therein.
+CA-DFPI SAFE PE Course I Study Guide (v.04122023) Ameritrain. All Rights Reserved. Page 29 | 53
+Additional requirements (continued)
+Licensees must require the maintenance or preservation of original records, provided that any
+information requested by the regulatory authority can be furnished within 48 hours, excluding
+Saturdays, Sundays, and holidays.
+Licensees must:
+Do: File an annual report with the regulatory authority
+What: Provide relevant information that the regulatory authority reasonably requires
+concerning the business and operations within the state during the preceding calendar
+year for each licensed place of business.
+When: On or before the 15th day of March
+In addition to the annual report, a mortgage lender, mortgage broker, and mortgage lender
+and broker will file the NMLS Mortgage Call Report. Every mortgage loan originator must
+ensure that all residential mortgage loans that close as a result of his or her loan origination
+activities are included in the NMLS Mortgage Call Report submitted to NMLS or the
+Commissioner by his or her sponsoring mortgage lender, broker, or mortgage lender and
+broker.
+The regulatory authority may require:
+§ a licensee (lender or broker) to make other special reports if required by the
+regulatory authority.
+§ a licensee (lender or broker) that employs one or more mortgage loan originators to
+submit to the NMLS reports of condition, using any of the forms approved by the
+regulatory authority.
+§ a mortgage loan originator to submit reports of condition to the NMLS, instead of the
+reports of condition required of his or her employer (lender or broker).
+California Residential Mortgage Lending Act [CA Fin § 50330]
+Examinations
+The authority to make or conduct any examination or investigation may be delegated by the
+regulatory authority to any deputy, investigator, examiner, or auditor appointed for that
+purpose. An individual appointed by the regulatory authority may:
+§ Administer oaths
+§ Subpoena witnesses
+§ Take their testimony
+The appointment will be made by an instrument in writing signed by the regulatory authority.
+Upon any examination or investigation, the instrument must be produced by the appointed
+individual at any time upon demand.
+CA-DFPI SAFE PE Course I Study Guide (v.04122023) Ameritrain. All Rights Reserved. Page 30 | 53
+California Residential Mortgage Lending Act [CA Fin § 50329]
+Control documents
+In making an investigation or examination, the regulatory authority may, for a reasonable time
+not exceeding 30 days, control access to any documents and records of the licensee pertaining
+to the business of any residential mortgage lender or residential mortgage loan servicer.
+The regulatory authority may place a keeper in exclusive charge of the documents and records
+in the place where they are usually kept.
+During the period of control, no director, officer, partner, or employee should remove or
+attempt to remove any of the documents except pursuant to a court order or with the consent
+of the regulatory authority. However, the directors, officers, partners, and employees of the
+residential mortgage lender or residential mortgage loan servicer may examine the documents
+or records.
+The licensee’s employees will be permitted to make entries in the documents or records to
+reflect current transactions. Unless the regulatory authority has reasonable grounds to believe
+the documents or records of the licensee have been or are at risk of being altered or destroyed
+for purposes of concealing a violation of this division, the licensee will have access to the
+documents or records as necessary to conduct its ordinary business affairs.
+The regulatory authority or any officer designated by the regulatory authority may administer
+oaths and affirmations, subpoena witnesses, compel their attendance, take evidence, and
+require the production of any documents or records that the regulatory authority deems
+relevant.
+California Residential Mortgage Lending Act [CA Fin § 50150-50152]
+Relationship with NMLS
+As you probably suspect, the regulatory authority and the NMLS have a very close working
+relationship. So much so that the regulatory authority is authorized to establish relationships
+or contracts with the Nationwide Mortgage Licensing System and Registry, or other entities
+designated by the Nationwide Mortgage Licensing System and Registry to collect and maintain
+records and process transaction fees or other fees related to licensees or other persons.
+Specifically, the regulatory authority:
+§ Is authorized to waive or modify any or all of the requirements of this division and to
+establish new requirements as reasonably necessary to participate in the Nationwide
+Mortgage Licensing System and Registry.
+§ May use the NMLS as a channeling agent for requesting information from, and
+distributing information to, the Department of Justice or any governmental agency
+and any source directed by the regulatory authority.
+CA-DFPI SAFE PE Course I Study Guide (v.04122023) Ameritrain. All Rights Reserved. Page 31 | 53
+In addition, the regulatory authority may establish a process where applicants and licensees
+may challenge information entered into the Nationwide Mortgage Licensing System and
+Registry by the regulatory authority. Not that this will ever be a problem, but just in case.
+Since the regulatory authority is authorized to participate in the NMLS, it will require mortgage
+loan originators to be licensed and registered through the NMLS. To achieve this goal, the
+regulatory authority may require the following:
+§ Background information for the following:
+o Criminal history through fingerprint or other databases
+o Civil or administrative records
+o Credit history
+o Any other information as deemed necessary by the Nationwide Mortgage
+Licensing System and Registry.
+§ Payment of fees to apply for or renew licenses through the NMLS.
+§ Setting or resetting as necessary of renewal or reporting dates.
+§ Requirements for amending or surrendering a license or any other activities as the
+regulatory authority deems necessary for participation in the NMLS.
+California Residential Mortgage Lending Act [CA Fin § 50301]
+Power of the regulatory authority
+The regulatory authority has been assigned by law the functions, powers, and duties to:
+§ issue or refuse to issue a license.
+§ revoke or suspend for cause any license.
+§ keep records of licenses issued.
+§ receive, consider, investigate, and act upon complaints made in connection with a
+licensee.
+§ prescribe the forms of and receive:
+o applications for licenses;
+o reports and books and records required to be made by a licensee, including
+annual audited financial statements.
+§ subpoena documents and witnesses and compel their attendance and production, to
+administer oaths, and to require the production of books, papers, or other materials
+relevant to any inquiry.
+§ require information about a license applicant that the regulatory authority may deem
+necessary, with regard to the paramount public interest, such as:
+o experience
+o background
+o honesty
+o truthfulness
+o integrity
+o competency
+of the license applicant for financial transactions involving primary or subordinate
+mortgage financing.
+CA-DFPI SAFE PE Course I Study Guide (v.04122023) Ameritrain. All Rights Reserved. Page 32 | 53
+§ enforce by order any division provision.
+§ levy fees, fines, and charges in an amount sufficient to cover the cost of the services
+performed in administering this division.
+§ and appoint examiners, supervisors, experts, and special assistants as needed to
+effectively and efficiently administer this division.
+California Financing Law [CA Fin § 22172]
+Regulatory authority powers continued
+They can deny, suspend, revoke, condition, or decline to renew a mortgage loan originator
+license for a violation of this division:
+§ if an applicant or licensee:
+o makes a false statement of a material fact in the application;
+o employs a mortgage loan originator who is not licensed, or has not initiated an
+application to become licensed;
+o withholds information or makes a material misstatement in an application for a
+license or license renewal.
+§ order restitution against a mortgage loan originator or any finance lender or broker
+licensee employing a mortgage loan originator for a violation of this division.
+§ impose fines on a mortgage loan originator or any finance lender or broker licensee
+employing a mortgage loan originator that violates division rules.
+§ issue orders or directives to mortgage loan originators or any finance lender or broker
+licensee employing a mortgage loan originator under this division to:
+o desist and refrain from conducting business, including immediate temporary
+orders to desist and refrain;
+o cease any harmful activities or violations of this division, including immediate
+temporary orders to desist and refrain;
+o enter immediate temporary orders to cease business if the regulatory authority
+determines that the license was erroneously granted or the mortgage loan
+originator is currently in violation of this division.
+o and order or direct any other affirmative action as the regulatory authority deems
+necessary.
+Reminder: The regulatory authority oversees license entities, including mortgage loan
+originators, can do everything within its power to enforce compliance with law to protect
+California residents.
+CA-DFPI SAFE PE Course I Study Guide (v.04122023) Ameritrain. All Rights Reserved. Page 33 | 53
+California Financing Law [CA Fin § 22168]
+Suspension and Reinstatement
+Let’s say a licensee decides to violate a couple of laws enforced by the DFPI, then you can
+expect there will be a price to pay. The commissioner can suspend or bar a person for up to 12
+months after appropriate notice and opportunity for hearing. If any person is suspended or
+barred, then they are prohibited from:
+§ participating in any business activity of a licensed finance lender, broker, or mortgage
+loan originator;
+§ and engaging in any business activity on the premises where a licensed finance lender,
+broker, or mortgage loan originator is conducting its business.
+A suspended or barred person may have their personal transactions processed by a licensed
+finance lender, broker, or mortgage loan originator.
+10 CCR § 1422.10
+Surrender of License
+An application to surrender a license as a mortgage lender, mortgage broker, mortgage lender
+and broker, or mortgage loan originator must be filed on Form(s) MU1, MU3, and MU4
+through NMLS in accordance with its procedures for transmission to the Commissioner. Upon
+approval of the surrender by the Commissioner, a licensee will amend every branch office
+application Form MU3 and terminate the sponsorship of all mortgage loan originators.
+To surrender a branch office license, a licensee must file an amendment to Form MU3 in
+accordance with the instructions on the form for surrendering a branch office license.
+_______________________________________________
+_______________________________________________
+_______________________________________________
+_______________________________________________
+_______________________________________________
+_______________________________________________
+_______________________________________________
+CA-DFPI SAFE PE Course I Study Guide (v.04122023) Ameritrain. All Rights Reserved. Page 34 | 53
+SECTION: COMPLIANCE
+Prohibited Conduct and Practices
+Early sections of this course outlined licensing requirements and a lot of what you can do.
+What follows is a list of prohibited acts.
+California Residential Mortgage Lending Act [CA Fin § 50507]
+Any director, officer, partner, trustee, or employee of a licensee, its holding company, or its
+affiliates who knowingly makes or concurs in making or publishing any false entry in its books
+or records, any written report, exhibit, or statement of its affairs or pecuniary condition
+containing any material statement which is false, or having the custody of its books, willfully
+refuses or neglects to make any proper entry in the books as required by law or to allow the
+books to be inspected by the regulatory authority or his or her deputies or investigators,
+violates this division.
+A finance lender or broker is prohibited from employing a mortgage loan originator whose
+license or license endorsement has lapsed.
+California Financing Law [CA Fin § 22100]
+A finance lender or broker may not make or broker a residential mortgage loan unless that
+loan is offered by, negotiated by, or applied for through a licensed mortgage loan originator.
+California Residential Mortgage Lending Act [CA Fin § 50204]
+A licensee (lender or broker) may not do any of the following:
+§ Disburse the mortgage loan proceeds in a form other than direct deposit to the
+borrower’s or borrower’s designee’s account, wire, bank or certified check, ACH funds
+transfer, or attorney’s check drawn on a trust account.
+§ They may not fail to disburse funds in accordance with a commitment to make a
+mortgage loan that is accepted by the applicant.
+§ They may not accept fees at closing that are not disclosed to the borrower on the
+Closing Disclosure.
+§ Obtain or induce an agreement or other instrument in which blanks are left to be filled
+in after execution.
+CA-DFPI SAFE PE Course I Study Guide (v.04122023) Ameritrain. All Rights Reserved. Page 35 | 53
+§ Intentionally delay closing of a mortgage loan for the sole purpose of increasing
+interest, costs, fees, or charges payable by the borrower.
+§ Engage in fraudulent home mortgage underwriting practices.
+§ Make payment of any kind to an appraiser for the purpose of influencing the
+independent judgment of the appraiser with respect to the value of real estate that is
+to be covered by the home mortgage.
+§ Knowingly misrepresent, circumvent, or conceal, any material aspect or information
+regarding a transaction to which it is a party.
+§ Do an act, whether of the same or a different character than specified in this section,
+that constitutes fraud or dishonest dealings.
+§ Sell more than eight loans in a calendar year made under the authority of this license
+to a person who is not an institutional investor.
+§ Make or service a loan that is not a residential mortgage loan.
+§ Make or broker a loan that is offered by, negotiated by, or applied for through a
+mortgage loan originator who is not licensed in this state through the NMLS, unless
+the mortgage loan originator is exempt from licensure.
+California Residential Mortgage Lending Act [CA Fin § 50203]
+A licensee may not require a borrower to pay fees or charges prior to the residential mortgage
+loan closing, except for:
+§ Actual charges to be incurred by the licensee on behalf of the borrower for services
+from third parties necessary to process the application, such as credit reports,
+appraisals, flood certification, and tax service, and in transactions where these services
+are provided by the licensee, a charge not to exceed the prevailing market rate for the
+service.
+§ An application fee.
+§ A rate-lock fee, provided:
+o There is a written agreement signed by the borrower and licensee.
+o The terms of the agreement include, but are not limited to:
+(i) The expiration date of the rate-lock fee agreement.
+(ii) The principal amount of the mortgage loan, the term of the mortgage loan,
+and identification of the property.
+(iii) The initial interest rate and the discount (points) to be paid.
+(iv) The amount and payment term of the rate-lock fee along with a statement
+disclosing whether the fee is refundable and the terms and conditions
+necessary to obtain a refund.
+§ The licensee demonstrates to the regulatory authority that it is able to perform under
+the terms of the agreement.
+§ A commitment fee, upon approval of the residential mortgage loan application,
+provided:
+o The commitment is in writing and signed by the licensee and the borrower.
+o The commitment contains all of the following information:
+(i) The terms and conditions of the residential mortgage loan.
+CA-DFPI SAFE PE Course I Study Guide (v.04122023) Ameritrain. All Rights Reserved. Page 36 | 53
+(ii) The terms and conditions of the commitment, including, but not limited to, all
+of the following:
+• The time period during which the commitment is irrevocable and may
+be accepted by the borrower, which may not be less than three
+calendar days from the date of commitment or the date of mailing,
+whichever is later.
+• The amount and payment terms of the commitment fee, along with a
+statement disclosing whether the fee is refundable and the terms and
+conditions necessary to obtain a refund.
+• The expiration date of the commitment.
+• Conditions precedent to closing.
+§ If the licensee has performed its obligations under the law related to the transaction,
+fees or charges collected pursuant to this section, then the fees can be refunded if a
+valid commitment or closing, respectively, does not occur, except that the licensee
+may retain appropriate fees upon the licensee’s demonstration to the regulatory
+authority that any of the following occurred:
+o The borrower withdrew the loan application.
+o The borrower made a material misrepresentation or omission on the loan
+application.
+o The borrower failed, after written request, to provide documentation necessary to
+the processing or closing of the loan application.
+o The closing failed to occur due solely to the fault of the borrower.
+NOTE: Pre-closing fees, other than a credit report, are further restricted by federal Regulation
+Z, 12 Code of Federal Regulations 1026.19(e)(1)(i) and (e)(2)(i) where the consumer must
+receive a Loan Estimate and indicate to the creditor an intent to proceed with the transaction
+described by those disclosures.
+California Residential Mortgage Lending Act [CA Fin § 50302]
+Required Conduct
+As often as the regulatory authority deems necessary and appropriate, but at least once every
+48 months, it can examine the affairs of each residential mortgage lender and servicer licensee
+for compliance with this division.
+Fees and Charges
+The regulatory authority may require the following submitted to NMLS:
+§ An application to be made through the NMLS.
+§ Fees, fingerprints, financial statements, supporting documents, changes of address,
+and any other information.
+CA-DFPI SAFE PE Course I Study Guide (v.04122023) Ameritrain. All Rights Reserved. Page 37 | 53
+The regulatory authority may:
+§ Establish the timelines, fees, and assessments applicable to applicants for original
+mortgage loan originator licenses, license renewals, and license changes.
+The regulatory authority will either issue a license or file a statement of issues within 60 days
+from the filing of a full and complete application for a license with the fees.
+Reminder: To protect the residents of this state, the state legislature has instituted the laws
+under this Act, which is enforced by the regulatory authority, to ensure there is transparency
+as it relates to the establishment, payment and collection of fees for services performed by
+any licensee. In addition, any licensing fees required by or paid on behalf of a licensee will have
+the same level of transparency.
+California Residential Mortgage Lending Act [CA Fin § 50302]
+The residential mortgage lender or servicer licensee must pay, and the regulatory authority
+will assess, the reasonable expenses of any examination of the licensee and affiliates.
+10 CCR § 1414
+Supervision of Mortgage Loan Originators
+Every mortgage lender, mortgage broker, and mortgage lender and broker:
+§ must exercise diligent supervision over the mortgage loan origination and lending
+activities of every mortgage loan originator that it sponsors. Every mortgage loan
+originator employed by a mortgage lender, mortgage broker, or mortgage lender and
+broker will be subject to the supervision of a branch manager designated by such
+mortgage lender, mortgage broker, or mortgage lender and broker. Every branch
+manager must be identified on Form MU3 and will submit a Form MU2 to NMLS.
+§ will establish, maintain and enforce written procedures, a copy of which must be kept
+in each business office, that set forth the procedures adopted by the mortgage lender,
+mortgage broker, and mortgage lender and broker to comply with the duties imposed
+by this section.
+§ will designate a Supervisor, an individual who must:
+o Supervise and periodically review the activities of the branch managers;
+o Periodically inspect each business office of the mortgage lender, mortgage broker,
+or mortgage lender and broker to ensure that the written procedures are
+enforced; and
+o In the event a mortgage lender, mortgage broker, or mortgage lender and broker
+does not have any branch offices, the supervisor will directly supervise and review
+the activities of the mortgage loan originators.
+CA-DFPI SAFE PE Course I Study Guide (v.04122023) Ameritrain. All Rights Reserved. Page 38 | 53
+The supervisor must be identified in Form MU1 as a qualifying individual and will submit a
+Form MU2. For purposes of this section, a qualifying individual is a person in charge and
+responsible for the actions of the mortgage lender, mortgage broker, and mortgage lender and
+broker.
+California Residential Mortgage Lending Act [CA Fin § 50306]; 10 CCR § 1409.1
+Change of control
+Prior to a change of control of the business of a licensee, the person wishing to acquire control
+must submit an application to the regulatory authority and pay an investigation fee of one
+hundred dollars ($100). The $100 charge is for each day up to 10 days and ten dollars ($10) for
+each day thereafter during which the branch office or changed locations is maintained without
+notifying the commissioner.
+Notice of Changes by Mortgage Lender, Mortgage Broker, Mortgage Lender
+and Broker, and Mortgage Loan Originator
+§ Upon any change in the information contained in a license application (other than
+financial information contained therein) an amendment must be promptly filed,
+setting forth the changed information.
+§ Any changes to Forms MU1, MU2, and MU3, and any exhibits thereto, must be filed
+through NMLS in accordance with its procedures for transmission to the
+Commissioner. Any change that cannot be submitted through NMLS must be filed
+directly with the Commissioner.
+§ A mortgage loan originator will file changed information contained in its Form MU4,
+and any exhibits thereto, through NMLS in accordance with its procedures for
+transmission to the Commissioner within twenty (20) days of changes to the
+information. Any change that cannot be submitted through NMLS will be filed directly
+with the Commissioner. A mortgage loan originator may not renew his or her license
+until all changes to the information contained in his or her Form MU4 are filed with
+the Commissioner.
+§ A licensed mortgage lender, mortgage broker, and mortgage lender and broker must
+notify the Commissioner of the employment of any new mortgage loan originator and
+of the termination of employment of any mortgage loan originator in California.
+§ If a mortgage lender, mortgage broker, or mortgage lender and broker discovers that a
+sponsored mortgage loan originator has not filed an amendment to his or her Form
+MU4, the mortgage lender, mortgage broker, or mortgage lender and broker will
+require the mortgage loan originator to file the amendment immediately. If, within
+five (5) days from the demand, the mortgage loan originator has not made the
+changes, the mortgage lender, mortgage broker, or mortgage lender and broker must
+inform the Commissioner in writing.
+CA-DFPI SAFE PE Course I Study Guide (v.04122023) Ameritrain. All Rights Reserved. Page 39 | 53
+Disclosures and Agreements
+As you can imagine, not everything you disclose to the NMLS should be shared with the public
+or entities that should not have access to your personal information. The regulatory authority
+must abide by specific confidentiality requirements to protect your interest.
+Confidentiality
+§ The regulatory authority is authorized to enter agreements or share arrangements
+with other governmental agencies, the Conference of State Bank Supervisors, the
+American Association of Residential Mortgage Regulators, or other associations
+representing governmental agencies as established by rule, regulation, or order of the
+regulatory authority.
+§ Information or material that is subject to a privilege or confidentiality will not be
+subject to the following:
+o Disclosure under any federal or state law governing the disclosure to the public of
+information held by an officer or an agency of the federal government or the state.
+o Subpoena or discovery, or admission into evidence, in any private civil action or
+administrative process, unless with respect to any privilege held by the Nationwide
+Mortgage Licensing System and Registry with respect to the information or
+material, the person to whom the information or material pertains waives, in
+whole or in part, in the discretion of the person, that privilege.
+o Will not apply with respect to the information or material relating to the
+employment history of, and publicly adjudicated disciplinary and enforcement
+actions against, mortgage loan originators that is included in the Nationwide
+Mortgage Licensing System and Registry for access by the public.
+Reminder: While there is a Consumer Access page located on the NMLS website where
+consumers can confirm that the financial-services company or licensed professional with
+whom they wish to conduct business is authorized to conduct business in their state, there is a
+limit of the type of information that can the public can access. No personal information, such
+as home address, personal telephone number, or criminal records is available through this free
+portal.
+_______________________________________________
+_______________________________________________
+_______________________________________________
+_______________________________________________
+_______________________________________________
+_______________________________________________
+_______________________________________________
+CA-DFPI SAFE PE Course I Study Guide (v.04122023) Ameritrain. All Rights Reserved. Page 40 | 53
+California Financing Law [CA Fin § 22161 - 22166]; 10 CCR § 1552, 1556, 1557
+Advertising
+While some might agree that all publicity is good, not everything should be shared. Here are
+several advertising guidelines you should know to keep out of trouble.
+No person should do any of the following:
+§ Make a materially false or misleading statement or representation to a borrower
+about the terms or conditions of that borrower’s loan, when making or brokering the
+loan.
+§ Advertise, print, display, publish, distribute, or broadcast, or cause or permit to be
+advertised, printed, displayed, published, distributed, or broadcast in any manner, any
+statement or representation with regard to the business subject to the provisions of
+this division, including the rates, terms, or conditions for making or negotiating loans,
+that is false, misleading, or deceptive, or that omits material information that is
+necessary to make the statements not false, misleading, or deceptive, or in the case of
+a licensee, that refers to the supervision of the business by the state or any
+department or official of the state.
+§ Knowingly misrepresent, circumvent, or conceal, through subterfuge or device, any
+material aspect or information regarding a transaction to which the person is a party.
+§ Commit an act that constitutes fraud or dishonest dealings.
+No licensee can place an advertisement disseminated primarily in this state for a loan unless
+the licensee discloses in the printed text of the advertisement, or in the oral text in the case of
+a radio or television advertisement, the license under which the loan would be made or
+arranged.
+A finance company must maintain in its home office, a file of all advertising copy for a period
+of at least two (2) years after the last date of its use. All advertising copy must have the name
+or names of all advertising media used and the dates when such advertising appeared. In the
+case of radio or television advertising, unless the full text of such announcements is retained
+by the broadcasting station or stations and is available to the commissioner, a finance
+company will cause a voice transcription of the full text of such announcements to be
+prepared and retained for two (2) years after the last date of its use.
+Any advertising used by a mortgage loan originator must be maintained by the sponsoring
+mortgage lender, mortgage broker, or mortgage lender and broker, in the manner set forth in
+this section. For purposes of this section, a finance company includes mortgage loan
+originators.
+The regulatory authority may require that rates of charge, rates of interest, charges, and costs
+of loans, if stated by a licensee, be stated fully and clearly in the manner that it deems
+necessary to prevent misunderstanding by prospective borrowers. If the rates or costs
+CA-DFPI SAFE PE Course I Study Guide (v.04122023) Ameritrain. All Rights Reserved. Page 41 | 53
+advertised do not apply to loans of all classes made or negotiated by the person, this fact must
+be clearly indicated in the advertisement.
+What happens if the regulatory authority disapproves an advertising copy? The ad copy cannot
+be used, and the licensee will be notified in writing of the disapproval. Also, the regulatory
+authority may direct any licensee to submit advertising copy to it for review prior to use. The
+regulatory authority may require licensees to maintain a file of all advertising copy for a period
+of two years from the date of its use. The file must be made available to the regulatory
+authority upon request.
+“Guaranteed loan offer” as used in this section means an offer by a finance company that
+purports to be a firm offer or guarantee or commitment that the finance company will make a
+loan to the individual or individuals named in the offer. A finance company is not permitted to
+make a guaranteed loan offer unless the following conditions are met:
+§ The complete offer package and any related advertising copy (the “Package”) have
+been submitted to the Commissioner for examination and the Commissioner has
+notified the company in writing that the use of the Package is not disapproved.
+§ The finance company makes the offer to an individual or individuals specifically named
+in the offer. The finance company may require each individual so named in the offer to
+be obligated on the loan.
+§ The finance company expressly agrees to make a loan or loans of any stated amount
+or amounts (or up to a definitely stated or determinable maximum amount or
+amounts) at a rate or rates not to exceed a stated annual percentage rate or rates,
+upon presentation of the offer, and without any credit investigation.
+§ The finance company expressly agrees to make the loan without security or to make a
+loan secured by personal property without considering the value of or insuring the
+security.
+§ The offer is dated accurately as of the date of issue and contains a termination date
+effective not more than 12 months from the date of issuance by the finance company.
+§ The offer is not a facsimile of a check, draft, bond, insurance policy, or any other form
+of commercial paper, which would tend to be false, misleading or deceptive.
+§ The offer clearly shows that a loan and repayment thereof, together with charges
+thereon, is involved.
+§ The offer specifies the location at which the loan will be made.
+§ The offer specifies that the finance company's loans are made pursuant to a California
+Finance Lenders license.
+A guaranteed loan offer may contain any of the following provisions:
+§ The finance company will honor the offer only if the prospective borrower or
+borrowers does not have a current loan balance outstanding with the finance
+company.
+§ The prospective borrower or borrowers will be required to choose between all
+outstanding guaranteed loan offers.
+§ The finance company will honor the offer only if the prospective borrower or
+borrowers agrees to combine the offered loan with the current loan balance
+outstanding with the finance company.
+CA-DFPI SAFE PE Course I Study Guide (v.04122023) Ameritrain. All Rights Reserved. Page 42 | 53
+“Blind” advertisements are prohibited. “Blind” advertising is an advertisement used to solicit
+business that gives only a telephone number, post office or newspaper box number, or name
+other than that of the licensee. For purposes of this section, a licensee includes a mortgage
+loan originator.
+§ 1026.24(i)(2)
+Misrepresentations about government endorsement
+It is prohibited to make any statement in an advertisement that the product offered is a
+“government loan program”, “government-supported loan”, or is otherwise endorsed or
+sponsored by any Federal, state, or local government entity, unless the advertisement is for an
+FHA loan, VA loan, or similar loan program that is, in fact, endorsed or sponsored by a Federal,
+state, or local government entity.
+Reminder: Advertising is an area that is governed under federal law, primarily under the Truth-
+in-Lending Act, and at the state level. It is important that licensees ensure they are compliant
+both governing bodies to avoid penalties or fines.
+_______________________________________________
+_______________________________________________
+_______________________________________________
+_______________________________________________
+_______________________________________________
+_______________________________________________
+_______________________________________________
+_______________________________________________
+_______________________________________________
+_______________________________________________
+_______________________________________________
+_______________________________________________
+_______________________________________________
+CA-DFPI SAFE PE Course I Study Guide (v.04122023) Ameritrain. All Rights Reserved. Page 43 | 53
+California Residential Mortgage Lending Act [CA Fin § 50202]
+Escrow Account and Loan Requirements
+Escrow funds for a residential mortgage loan contract must be maintained in a depository
+institution and may not be commingled with a licensee’s funds. A trust account will be placed
+in a non-interest-bearing account in a federally insured depository institution, a federal home
+loan bank, a federal reserve bank, or other similar government-sponsored enterprise, to be
+removed and used only for the following:
+§ Payments authorized by the borrower, allowed by the mortgage loan contract, or
+required by federal or state law.
+§ Refunds to the borrower.
+§ Transfer to another institution.
+§ Forwarding to the appropriate servicer in case of a transfer of servicing.
+§ Any other purpose authorized by the residential mortgage loan contract.
+§ Compliance with a regulatory or court order.
+Trust funds
+“Trust funds” are funds collected by a licensee during the making or servicing of a residential
+mortgage loan that the licensee holds on behalf of another. Benefits accruing from the
+placement in a non-interest-bearing account of a commercial bank (including a national
+banking association) of funds received by a licensee, will profit the licensee, unless otherwise
+agreed in writing by the licensee and the investor on whose behalf the licensee services the
+loan. A borrower will receive at least 2 percent simple interest per annum on impound account
+payments covered by Section 2954.8 of the Civil Code.
+Trust funds are not subject to the enforcement of a money judgment arising out of a claim
+against the licensee or person acting as the servicing agent, and in no instance, will the trust
+funds be considered or treated as an asset of the licensee or person performing the functions
+of a residential mortgage lender or loan servicer.
+A licensee may, at the request of the owner of the trust funds, transfer the funds initially
+deposited in a non-interest-bearing trust account into an interest-bearing account in a
+federally insured depository institution if all of the following requirements are met:
+§ The account is in the name of the residential mortgage lender licensee in trust for the
+specified beneficiary.
+§ All of the funds in the account are federally insured.
+§ The funds in the account are kept separate and distinct from the funds of the licensee
+or funds of any other person for whom the licensee holds funds in trust.
+§ The licensee discloses to the person from whom the funds are received and the
+beneficiary of the account how interest will be calculated and paid, whether service
+charges will be paid to the depository and by whom, and possible notice requirements
+or penalties for withdrawal of funds from the account.
+§ All interest earned on the account will be paid to the owner of the trust funds or the
+beneficiary.
+CA-DFPI SAFE PE Course I Study Guide (v.04122023) Ameritrain. All Rights Reserved. Page 44 | 53
+SECTION: DISCIPLINARY ACTION
+California Residential Mortgage Lending Act [CA Fin § 50516]
+Notifications, Hearings, and Appeals
+For any licensee, a disciplinary action taken by the State of California, another state, any
+agency of the federal government, or another country for any action substantially related to
+the activity regulated under this law may be a ground for disciplinary action by the regulatory
+authority. A certified copy of the record of the disciplinary action will be conclusive evidence of
+the events.
+Suspension, Revocations, and Rescission of Licenses
+The subject of suspension, revocation, and rescission of licenses is clearly serious which is why
+we want you to pay close attention as you review the details of this section.
+California Residential Mortgage Lending Act [CA Fin § 50205]
+Applies to residential mortgage lenders and servicers:
+Failure to file a new bond within 10 days of the recovery on a bond, or within 10 days after
+notification by the regulatory authority that a new bond is required, constitutes sufficient
+grounds for the suspension or revocation of the license.
+California Residential Mortgage Lending Act [CA Fin § 50318]
+The regulatory authority may, after appropriate notice and opportunity for hearing, by order:
+§ Censure or suspend for a period not exceeding 12 months, or
+§ Bar from any position of employment, management, or control any residential
+mortgage lender, residential mortgage loan servicer, or mortgage loan originator, or
+any other person, if the regulatory authority finds either of the following:
+o That the censure, suspension, or bar is in the public interest and the violation:
+• Was either known or should have been known by the person committing or
+causing it, or
+CA-DFPI SAFE PE Course I Study Guide (v.04122023) Ameritrain. All Rights Reserved. Page 45 | 53
+• Has caused material damage to the residential mortgage lender, residential
+mortgage loan servicer, mortgage loan originator, or to the public.
+o That the person:
+• Has been convicted of or pleaded nolo contendere to any crime, or
+• Has been held liable in any civil action by final judgment, or any administrative
+judgment by any public agency
+Within 15 days from the date of a notice of intention to issue an order, the person may
+request a hearing under the Administrative Procedure Act. Upon receiving a request, the
+matter will be set for hearing to commence within 30 days after receipt, unless the person
+consents to a later date.
+If no hearing is requested within 15 days after the mailing or service of the notice and none is
+ordered by the regulatory authority, the failure to request a hearing will constitute a waiver of
+the right to a hearing.
+After receiving a notice of intention to issue an order, the person is immediately prohibited
+from engaging in any activities subject to licensure under the law.
+Persons suspended or barred are prohibited from:
+§ Participating in any business activity of a licensed residential mortgage lender,
+residential mortgage loan servicer, or mortgage loan originator
+§ Engaging in any business activity on the premises where a licensed residential
+mortgage lender, residential mortgage loan servicer, or mortgage loan originator is
+conducting its business.
+This section will apply to any violation, conviction, plea, or judgment after the enactment of
+this section.
+California Residential Mortgage Lending Act [CA Fin § 50320]
+Whenever, in the opinion of the regulatory authority, a person is engaged in the business of:
+§ Making residential mortgage loans, servicing residential mortgage loans
+§ Engaging in business as a mortgage loan originator, without a license from the
+regulatory authority, may result in an order for the person to desist and refrain.
+If, within 30 days after an order is served, a request for a hearing is filed in writing and the
+hearing is not held within 60 days of the filing, the order is rescinded.
+CA-DFPI SAFE PE Course I Study Guide (v.04122023) Ameritrain. All Rights Reserved. Page 46 | 53
+California Residential Mortgage Lending Act [CA Fin § 50321]
+If, after investigation, the regulatory authority has reasonable grounds to believe that any
+licensee has violated its articles of incorporation or any law or rule, it will, by written order
+addressed to the licensee, direct the discontinuance of the violation. The order will be
+effective immediately,
+California Residential Mortgage Lending Act [CA Fin § 50322]
+If, after investigation, the regulatory authority has reasonable grounds to believe that any
+licensee is conducting business in an unsafe or injurious manner, it will direct the
+discontinuance of the unsafe or injurious practices. The order will be effective immediately.
+California Residential Mortgage Lending Act [CA Fin § 50323]
+The licensee has 10 days after an order is made final to commence an action to restrain
+enforcement of the order. If the enforcement of the order is not enjoined within 10 days by
+the court in which the action is brought, the licensee must comply with the order.
+California Residential Mortgage Lending Act [CA Fin § 50324]
+If, after investigation, the regulatory authority has reasonable grounds to believe that any
+person has engaged or is about to engage in any act or practice constituting a violation of any
+provision of this division or any rule, it may:
+§ Bring an action to enjoin the acts or practices.
+§ Enforce compliance with this law or any rule or order.
+The action will be brought in the name of the people of the State of California in the superior
+court. Upon a proper showing, a permanent or preliminary injunction, restraining order, or
+writ of mandate will be granted.
+A receiver, monitor, conservator, or other designated fiduciary or officer of the court, which
+may include the regulatory authority, may be appointed for the defendant or the defendant’s
+assets. Any other ancillary relief may be granted as appropriate.
+CA-DFPI SAFE PE Course I Study Guide (v.04122023) Ameritrain. All Rights Reserved. Page 47 | 53
+A receiver, monitor, conservator, or other designated fiduciary or officer of the court
+appointed by the superior court pursuant to this section may, with the approval of the court,
+exercise any or all of the powers of the defendant’s officers, directors, partners, trustees, or
+persons who exercise similar powers and perform similar duties. The powers include the filing
+of a petition for bankruptcy. No action at law or in equity may be maintained by any party
+against the regulatory authority, or a receiver, monitor, conservator, or other designated
+fiduciary or officer of the court, by reason of their exercising these powers or performing these
+duties pursuant to the order of, or with the approval of, the superior court.
+If the regulatory authority determines it is in the public interest, it may include in any action a
+claim for ancillary relief. The ancillary relief may include, but not be limited to, restitution or
+disgorgement or damages on behalf of the persons injured by the act or practice constituting
+the subject matter of the action. The court will have jurisdiction to award additional relief.
+California Residential Mortgage Lending Act [CA Fin § 50325]
+The regulatory authority may immediately revoke the residential mortgage lender’s;
+residential mortgage loan servicer’s; or mortgage loan originator’s license if the licensee fails
+to comply with any order issued under Section 50318, 50319, 50321, 50322, or 50503. The
+regulatory authority will not revoke the license if, within 10 days from the effective date of the
+revocation order, the licensee secures a court order restraining the enforcement of the
+regulatory authority’s revocation order.
+California Residential Mortgage Lending Act [CA Fin § 50326]
+If any licensee fails to do any of the following, the licensee forfeits to the people of the state a
+sum of up to one hundred dollars ($100) for every day up to the 10th day:
+§ To make any report required by law or by the regulatory authority within 10 days from
+the day designated for the making of the report, or within any extension of time
+granted by the regulatory authority, or
+§ Fails to include therein any matter required by law or by the regulatory authority.
+Thereafter, any failure will constitute grounds for the suspension or revocation of the license
+held by the residential mortgage lender or residential mortgage loan servicer.
+CA-DFPI SAFE PE Course I Study Guide (v.04122023) Ameritrain. All Rights Reserved. Page 48 | 53
+California Residential Mortgage Lending Act [CA Fin § 50327]
+§ The regulatory authority may, after notice and a reasonable opportunity to be heard,
+deny, decline to renew, suspend, or revoke any license if it finds that:
+o The licensee has violated any provision of this division or any rule or order of the
+regulatory authority thereunder.
+§ Any fact or condition exists that, if it had existed at the time of the original application
+for the license, reasonably would have warranted the regulatory authority in refusing
+to issue the license originally.
+Failure to Obey a Subpoena
+(Applies to a director, officer, partner, or employee of a licensee)
+In case of refusal to obey a subpoena issued to a licensee, the superior court may issue an
+order requiring that person to appear before the regulatory authority. When before the
+regulatory authority, licensee must produce documentary evidence or give evidence on the
+matter under investigation. Failure to obey the order of the court may be punished by the
+court as contempt.
+No person is excused from testifying or from producing any document or record before the
+regulatory authority, on the grounds that the testimony or evidence required by the regulatory
+authority may tend to incriminate the person or subject him or her to a penalty or forfeiture.
+However, no individual may be penalized for any matter concerning which he or she is
+compelled to testify or produce evidence, after validly claiming the privilege against self-
+incrimination. However, individual testimony is not exempt from prosecution and punishment
+for perjury or contempt committed in testifying.
+California Financing Law [CA Fin § 22168]
+The regulatory authority may, after appropriate notice and opportunity for hearing, suspend
+for a period not to exceed 12 months or bar a person from any position of employment with a
+licensee if it finds that the person has willfully used or claimed without authority a designation
+or certification of special education, practice, or skill that the person has not attained, or
+willfully held out to the public a confusingly similar designation or certification for the purpose
+of misleading the public regarding his or her qualifications or experience.
+Within 15 days from the date of a notice of intention to issue an order pursuant to subdivision
+(a), the person may request a hearing under the Administrative Procedure Act
+CA-DFPI SAFE PE Course I Study Guide (v.04122023) Ameritrain. All Rights Reserved. Page 49 | 53
+California Financing Law [CA Fin § 22172]
+Violations of rules will cost you.
+(Applies to mortgage loan originator or any finance lender or broker licensee)
+The regulatory authority may impose a civil penalty on a licensee, if it finds, on the record after
+notice and opportunity for hearing, that the entity has violated or failed to comply with any
+requirement or any regulation prescribed by the regulatory authority.
+The maximum amount of penalty for each act or omission will be twenty-five thousand dollars
+($25,000) for each violation or failure to comply.
+California Residential Mortgage Lending Act [CA Fin § 50500- 50502]
+Any person who willfully violates any provision, rule or order under this division, will upon
+conviction, be subject to:
+§ a fine of not more than ten thousand dollars ($10,000) or;
+§ imprisonment, or;
+§ in a county jail for not more than one year, or;
+§ both that fine and imprisonment.
+Any person who violates a provision, any rule or order under this division, will be liable for a
+civil penalty not to exceed two thousand five hundred dollars ($2,500) for each violation.
+Civil penalty, citations, and administrative fines
+This penalty will be assessed and recovered in a civil action brought in the name of the people
+of the State of California by the regulatory authority in any court of competent jurisdiction.
+If, upon inspection, examination, or investigation, the regulatory authority has cause to believe
+that a licensee or person is violating or has violated any provision, any rule or order, it may:
+§ Issue a citation to that licensee or person in writing, describing the basis of the
+citation.
+Each citation may contain an order to correct the violation or violations identified and provide
+a reasonable time period or periods by which the violation or violations must be corrected.
+In addition, each citation may assess an administrative fine not to exceed two thousand five
+hundred dollars ($2,500) that will be deposited in the State Corporations Fund. In assessing a
+fine, the regulatory authority will give due consideration to the appropriateness of the amount
+of the fine with respect to factors including the gravity of the violation, the good faith of the
+person or licensees cited, and the history of previous violations.
+CA-DFPI SAFE PE Course I Study Guide (v.04122023) Ameritrain. All Rights Reserved. Page 50 | 53
+A citation issued and a fine assessed, while constituting punishment for a violation of law, will
+be provided instead of other administrative discipline by the regulatory authority for the
+offense or offenses cited, and the citation and fine payment thereof by a licensee will not be
+reported as disciplinary action taken by the regulatory authority.
+The regulatory authority may issue an order to:
+§ Desist and refrain from engaging in a specific business or activity or activities, or
+§ Suspend all business operations to a person or licensee who is engaged in or who has
+engaged in continued or repeated violations of this division.
+In any of these circumstances, the sanctions authorized will be separate from, and in addition
+to, all other administrative, civil, or criminal remedies.
+If, within 30 days from the receipt of the citation, the person cited fails to notify the
+department of their intent to request a hearing, the citation will be deemed final.
+After the exhaustion of the review procedures, the regulatory authority may apply to the
+appropriate superior court for:
+§ A judgment in the amount of the administrative fine and
+§ An order compelling the cited person to comply with the order of the regulatory
+authority.
+The application, which will include a certified copy of the final order of the regulatory
+authority, will constitute a sufficient showing to warrant the issuance of the judgment and
+order.
+It is a violation of this division for any person to:
+§ Make any untrue statement of a material fact in any document filed with the
+regulatory authority.
+§ Omit any material fact which is required to be stated in any document.
+California Residential Mortgage Lending Act [CA Fin § 50505]
+Any person who violates any provision of any of the following federal acts or regulations
+violates this division:
+§ The federal Real Estate Settlement Procedures Act
+§ The federal Truth in Lending Act, as amended
+§ The federal Home Ownership Equity Protection Act
+CA-DFPI SAFE PE Course I Study Guide (v.04122023) Ameritrain. All Rights Reserved. Page 51 | 53
+California Residential Mortgage Lending Act [CA Fin § 50512]
+It is unlawful for any person to knowingly:
+§ Alter, destroy, mutilate, conceal, cover up, falsify, or make a false entry in any record,
+document, or tangible object with the intent to impede, obstruct, or influence the
+administration or enforcement of any provision of this division.
+§ Make an untrue statement to the regulatory authority during the course of licensing,
+investigation, or examination, with the intent to impede, obstruct, or influence the
+administration or enforcement of any provision of this division.
+Reminder: There is a difference between criminal and civil penalties. Penalties are categorized
+as criminal or civil. Criminal penalties are punishable by imprisonment or a fine and are further
+classified, for example, Class A, Class B, etc. Civil penalties require a financial payout as
+restitution for wrongdoing. In either case, the judicial system will impose the type and/or
+amount of the penalty.
+_______________________________________________
+_______________________________________________
+_______________________________________________
+_______________________________________________
+_______________________________________________
+_______________________________________________
+_______________________________________________
+_______________________________________________
+_______________________________________________
+_______________________________________________
+_______________________________________________
+_______________________________________________
+_______________________________________________
+_______________________________________________
+_______________________________________________
+CA-DFPI SAFE PE Course I Study Guide (v.04122023) Ameritrain. All Rights Reserved. Page 52 | 53
+REFERENCES
+1. California Legislative Information
+http://leginfo.legislature.ca.gov/faces/codes.xhtml;jsessionid=9fb4004e7757236ea47152ce76f4
+2. Nationwide Mortgage Licensing System & Registry (NMLS)
+http://mortgage.nationwidelicensingsystem.org/Pages/Default.aspx
+3. CA Gov. Office of Administrative Law
+http://www.oal.ca.gov/faq.htm
+4. California State Legislature Laws and Constitution
+http://www.legislature.ca.gov/research_and_publications/laws_and_constitution/laws_and_constit
+ution.html
+5. Harvard Law School Library
+http://guides.library.harvard.edu/c.php?g=310533&p=2078319
+CA-DFPI SAFE PE Course I Study Guide (v.04122023) Ameritrain. All Rights Reserved. Page 53 | 53

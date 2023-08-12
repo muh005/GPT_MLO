@@ -1,0 +1,79 @@
+6/15/23, 10:11 PM Courses
+Part 1: 15 Hour Portion - 10 Day Course
+13. Module 4 Quiz
+< Back Next >
+Date - 06/16/23 1:10 AM
+Total Questions: 10 | Grade Based On: Number Correct | Passing Score: 7 | Questions Correct: 10
+Question 1:
+Question:
+Why is non-taxable income increased by 125% for income qualifying purposes?
+Answer (Correct): It makes it equivalent to gross income
+Feedback: Because ECOA does not allow a lender to discriminate based on income, it is unlawful to qualify
+an applicant using gross income, (which includes social security, Medicare, and withholding) and another
+applicant using non-taxable income (which does not have the taxable items included). For that reason, non-
+taxable income is increased by 125%.
+Question 2:
+Question:
+When is a payment cycle not relevant to calculating gross monthly income?
+Answer (Correct): When annual or monthly income can be determined without knowing the pay cycle
+Feedback: If there is a way to a calculate income without knowing the pay cycle then the pay cycle is not
+needed. Knowing the borrower’s hourly rate, number of hours worked in the week is enough to calculate
+monthly gross income. The pay cycle is not important.
+Question 3:
+Question:
+For manually underwritten loans there are DTI limits for different loan programs. Identify those limits for
+FHA, VA and Conventional in that order.
+Answer (Correct): 43%,41%,36%
+Feedback: Remember that DTI includes the housing payment.
+Question 4:
+Question:
+https://ameritrain.tiltlms.com/lesson/play/progress/1310022 1/3
+6/15/23, 10:11 PM Courses
+If a borrower is considered an employee for qualification purposes, then the processor will not require the
+following to verify income and employment status:
+Answer (Correct): Contributions to the church – past two years
+Feedback: Religious contributions have no bearing on income and employment. Any such inquiry would
+violate the provisions of ECOA.
+Question 5:
+Question:
+Housing payments are generally defined as PI, PITI or PITIA. What would need to be added to the PI portion
+of the payment to reach PITIA?
+Answer (Correct): Taxes, property related insurance and a special assessment like HOA fee
+Feedback: The second "I" in PITI is property related insurance, like hazard insurance, fire insurance and
+flood insurance. "A" refers to special assessment like Homeowners Association. (HOA).
+Question 6:
+Question:
+Non-employee income must meet the three year continuance test. Which of the following does not meet this
+test?
+Answer (Correct): Annual teaching employment contract
+Feedback: The annual teaching employment contract does not require the 3-year test because the borrower is
+an employee. All the other forms of income (alimony, child support, social security) are non-employment
+based income and will need to meet the 3-year continuance test.
+Question 7:
+Question:
+The following would not be income from non-employment activities:
+Answer (Correct): Salary
+Feedback: Salary is employment-based income.
+Question 8:
+Question:
+The three year continuance rule is important when using income associated with a child because:
+Answer (Correct): Children related income generally ends at age 18
+Feedback: Since child related income generally ends at age 18, income related to a child already 15 at the
+time of application is not available for qualifying income because it will expire within 3 years.
+Question 9:
+Question:
+https://ameritrain.tiltlms.com/lesson/play/progress/1310022 2/3
+6/15/23, 10:11 PM Courses
+What item is not included in gross monthly income?
+Answer (Correct): Child care
+Feedback: Gross monthly income include income before deductions. Child care is not one of those
+deductions.
+Question 10:
+Question:
+Sometimes employed individuals are considered self-employed. Which of the following would not be
+considered self-employed for purposes of mortgage loan financing?
+Answer (Correct): Receives 10% bonus annually
+Feedback: Someone receiving a 10% annual bonus would not be considered self-employed because this
+percentage does not meet the 25% threshold. Employees qualified as self-employed must provide two years
+of filed tax returns.
+https://ameritrain.tiltlms.com/lesson/play/progress/1310022 3/3

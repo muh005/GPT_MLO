@@ -1,0 +1,674 @@
+Upon completion of the chapter, you will be able to:
+• Understand a summary of federal mortgage related
+laws
+• Review various numbers in the residential mortgage
+industry
+Chapter Introduction
+Now that you have completed your study of the various elements of the
+mortgage process, we can now address specific areas of review. This
+assessment should assist you with transferring newly acquired
+information to long term memory, the basis for developing the ability to
+apply the knowledge to answer complex and scenario based
+questions. In this module we will review the basic elements of federal
+laws and critical numbers that are important in the residential mortgage
+industry.
+1
+ACROYNM NAME REG AGENCY KEY FACTORS
+AMTPA ALTERNATIVE D CONSUMER • Pre-empted states’ rights to limit
+MORTGAGE FINANCIAL loans to fixed rate mortgages and
+TRANSACTION PROTECTION allowed ARMS
+PARITY ACT BUREAU • Pre-empted states’ rights to limit
+pre-payment penalties and late
+fees
+• Pre-emption over prepayment
+penalties lifted in 2002
+BSA/AML BANK US • Requires reporting of cash in
+SECRECY DEPARTMENT excess of $10,000
+ACT/ANTI OF THE • Requires a reporting
+MONEY TREASURY program under FINCEN
+LAUNDERING
+DIDMCA DEPOSITORY • Deregulated interest rates
+INSTITUTIONS
+DEREGULATION
+MONETARY
+CONTROL ACT
+DO NOT DO NOT CALL FEDERAL Limits mortgage companies from
+CALL IMPROVEMENT TRADE contacting a client who is on the
+ACT COMMISSION national Do-Not −Call registry:
+• Up to 18 months after the last
+transaction with the mortgage
+company for clients
+• Up to 3 months after a client
+makes an inquiry
+Prohibited from contacting a person
+• Who contacts company not to call. The
+company must put person on
+the Company Do-Not- Call list.
+• Violators can be accessed a
+$50,120 fine per violation
+• The fines for a violation of state Do Not
+Call rules can vary from $100 up to
+$25,000 per call.
+2
+ACROYNM NAME REG AGENCY KEY FACTORS
+ECOA EQUAL CREDIT B CONSUMER • Prohibits discrimination based on:
+OPPORTUNITY FINANCIAL Age, Sex, Marital Status, Race,
+ACCT PROTECTION Religion, Color, National Origin,
+BUREAU Receipt of public assistance
+• Unmarried, an ECOA category,
+not single, divorced, or
+widowed
+• Requires: Notice of action
+taken within 30 days
+• Requires: Notice of right to
+receive a copy of the appraisal
+anytime during the application but
+no later when action taken
+• Requires: Lenders to provide a
+copy of the appraisal to least 3
+days prior to closing
+• If a loan does not close, a copy
+of the appraisal must be made
+available to the borrower within
+30 days
+• Requires consumers to receive a
+reason for a denial, the contact
+information for the provider of
+the information, and contact
+information for ECOA
+• Adverse Summary is the same
+as a denial notice
+• Record retention is 25 months
+FCRA FAIR CREDIT V CONSUMER • Controls how Consumer
+REPORTING FINANCIAL Reporting Agencies (CRA) collect
+ACT PROTECTION and share consumer information
+BUREAU • Limits reporting derogatory
+information to 7 years (bk’s,
+10 years)
+• Allows consumers to challenge
+inaccuracies on the credit
+report
+• Allows consumers to receive a
+free copy of a credit report
+annually from each bureau
+3
+ACROYNM NAME REG AGENCY KEY FACTORS
+FACTA FAIR AND V CONSUMER • Made the provisions of
+ACCURATE FINANCIAL FCRA permanent in 2003
+TRANSACTION PROTECTION • Relates to identity theft
+ACT BUREAU • Requires 4 reasons for a credit score
+• Requires credit reporting agencies
+to put a 1 year alert on a consumer’s
+credit file if they get a call indicating
+the possibility of identity theft
+• Fraud alert extended to 7 years
+when a police report is filed
+• FTC created the RED FLAG program
+to implement FACTA, includes 26 red
+flag items and requires all lenders
+and mortgage brokers to implement
+a red flag program
+FH ACT FAIR HUD Addresses discrimination in housing,
+HOUSING ACT prohibited basis: Race, Color, Religion,
+Sex, Family Status, National Origin,
+Handicap
+• Blockbusting
+• Steering
+• Redlining
+FINCEN FINANCIAL DEPARTMENT Requires companies to have a program
+CRIMES OF THE to report Suspicious Activity Reports
+ENFORCEMENT TREASURY (SARS)
+NETWORK
+GLBA GRAMM, P CONSUMER • Requires creditors to provide a
+LEACH, BLILEY FINANCIAL privacy notice to customers giving
+ACT PROTECTION them the right to opt out of having
+BUREAU their information shared between
+creditors.
+• Requires all mortgage companies to
+have a SAFEGUARD Rule to implement
+the provisions of GLBA. The rule
+Requires all mortgage brokers and
+lenders to have a safeguard policy that
+protects the privacy rights of its clients
+relating to access to sensitive
+information.
+• Covers pretexting, which relates to
+getting consumers information
+through false means.
+• Penalty- Max. $100,000 per company;
+$10,000 for responsible individuals;
+Individuals may also be sentenced up
+to 5 years in prison
+4
+ACROYNM NAME REG AGENCY KEY FACTORS
+HMDA HOME C CONSUMER • Designed to identify
+MORTGAGE FINANCIAL discrimination in lending
+DISCLOSURE ACT PROTECTION • Requires depository institutions and non-
+BUREAU depository institutions to report
+• Have a home or branch office in an MSA:
+o on the preceding December 31, or
+o receive applications related to property
+located in the same MSA in the
+preceding calendar year?
+• Company originates: 25 closed-end or
+200 open-end mortgages
+• Does not include pre-qualifications
+• Requires report on:
+o Application date
+o Loan information
+o Location and type of property
+o Disposition of application
+approved or denied
+o Name, ethnicity, race, sex, and
+income of borrower
+• Upload data via Loan Application
+Register (LAR) by Mar 31 of the
+following year to CFPB
+HOEPA HOME CONSUMER
+Establishes the thresholds for high cost
+OWNERSHIP FINANCIAL
+loans which are subject section 1026.32
+EQUITY PROTECTION
+of the Truth-In-Lending Act:
+PROTECTION ACT BUREAU
+• APR threshold 6.5% above
+APOR for a first mortgage
+• Points and fees threshold 5% of
+loan amount
+HPML HIGHER CONSUMER HPML loans exceed the “average
+PRICED FINANCIAL prime offer rate” (APOR) by:
+MORTGAGE PROTECTION • 1.5% APR for a first mortgage
+LOANS BUREAU • 3.5% APR for a second mortgage
+• 2.5% APR for a jumbo loan
+HPA HOMEOWNERS CONSUMER Requires PMI to be
+PROTECTION ACT FINANCIAL automatically terminated
+PROTECTION when:
+BUREAU • LTV reaches 78% of original
+value.
+• Borrower can request
+cancellation of the PMI when the
+loan has been paid down to 80%
+of the original value.
+Termination of PMI requires a
+good payment history:
+• No 60 day lates in 24 months
+• No 30 day lates in 12 months
+• Loan current at time of termination
+5
+ACROYNM NAME REG AGENCY KEY FACTORS
+MAP MORTGAGE N • Applies only to non-depository
+ACTS AND institutions
+PRACTICES • Prohibits deceptive advertising in
+mortgage products
+• Prohibits deceptive advertising in
+any form of media
+communications
+MARS MORTGAGE CONSUMER • Advance fee ban on
+ASSISTANCE O FINANCIAL loan modifications
+RELIEF PROTECTION • Suggesting to a consumer not to
+SERVICES BUREAU make a scheduled payment is
+encouraging default
+NFIP NATIONAL FEDERAL • Structure must be located in
+FLOOD EMERGENCY Special Flood Hazard Area
+INSURANCE MANAGEMEN (SFHA)
+PROGRAM T AGENCY • Zones within A or V designation
+require flood insurance
+• Max coverage: $250,000 (structure)
+RESPA REAL ESTATE X CONSUMER Refers to federally related mortgage
+SETTLEMENT FINANCIAL loans: See RESPA Summary Study
+PROCEDURES PROTECTION Guide
+ACT BUREAU
+RHS RURAL US Rural development loans to
+HOUSING DEPARTMENT encourage growth in non-rural areas:
+SERVICE OF • 100% financing
+AGRICULTURE • 90% coverage for the lender in the
+event of a borrower’s default
+SAFE SECURE AND H CONSUMER • Regulation requiring MLOs
+FAIR (non- FINANCIAL working for a depository
+depository)
+ENFORCEMENT PROTECTION institution to be registered
+G
+FOR MORTGAGE (depository BUREAU • Regulation requiring MLO’s
+LICENSING ACT working for a non-depository
+institution to be both registered
+and licensed
+TILA TRUTH-IN- Z CONSUMER See TILA study guide
+LENDING FINANCIAL
+ACT PROTECTION
+BUREAU
+6
+7
+# Category Number Source
+1 The TILA/RESPA Integrated Disclosure Rule 4 / 5 TRID
+amends RESPA Sections and .
+2 A change that makes the APR inaccurate 3 TRID
+by increasing it more than 1/8th for a
+regular loan after the initial disclosure will
+require a new day waiting period.
+3 The Closing Disclosure must be provided 3 TRID
+to the applicant at least days prior
+to consummation.
+4 A revised Loan Estimate must be delivered 4 TRID
+to the applicant no later than days
+prior to consummation.
+5 How much can the creditor or closing Zero TRID
+agent charge the borrower for preparing
+the Closing Disclosure?
+6 The origination fee on the Loan Estimate Zero TRID
+has a tolerance.
+7 The period to provide a refund for a 60 TRID
+tolerance violation on the Loan Estimate is
+days after consummation.
+8 The borrower has the right to review the 1 TRID
+Closing Disclosure day(s) before
+consummation.
+9 Most third party fees on the Loan Estimate 10% TRID
+have a % tolerance.
+10 The Loan Estimate has pages. 3 TRID
+11 RESPA and TRID require that early 3/3 RESPA/TRID
+disclosures be provided to the consumer
+no later than business days after
+receiving the loan application unless the
+loan is denied within days.
+12 The civil penalty for violating RESPA 3 RESPA
+section 8 is times the amount of
+the money received.
+13 Escrow collection and other requirements 10 RESPA
+are covered under RESPA section :
+14 An analysis of an escrow account must be once RESPA
+done a year.
+15 The section of RESPA that addresses 8 RESPA
+kickbacks and excessive fees is RESPA
+section:
+16 RESPA records must be retained for a 5 RESPA
+period of years.
+8
+17 The criminal penalty for violating RESPA is $10,000/1 RESPA
+up to a $ and year in
+prison or both.
+18 The lender is allowed to collect a 2 RESPA
+month cushion reserve on an escrow
+account.
+19 After an annual escrow account analysis if $50/30 RESPA
+there is a surplus of greater than
+the lender has days to send a check
+to the borrower for the surplus amount.
+20 If there is a shortage in the escrow 12 RESPA
+account, after the annual analysis, greater
+than one month escrow, the lender can
+add the amount to the total escrow
+amount and collect it over a month
+period
+21 The servicing disclosure requirements are 6 RESPA
+covered under RESPA section :
+22 For days from the date of transfer 60 RESPA
+the new servicer may not charge the
+borrower a late fee or report a negative
+rating to the consumer reporting agency.
+23 RESPA does not cover loans on properties 25 RESPA
+that are acres or more.
+24 A servicer must acknowledge a written 5/30 RESPA
+request from a borrower within
+days and respond to the issue within
+days.
+25 A servicer who transfers a loan to another 15 RESPA
+servicer must notify the borrower in
+writing of the impending transfer within
+days prior to the transfer.
+26 A servicer receiving the transferred loan 15 RESPA
+must notify the borrower in writing within
+days of receiving the transferred
+loan.
+27 A “Higher Priced Mortgage Loan” HPML 1.5%/3.5% TILA/REG Z
+uses the “Average Prime Offer Rate” APOR
+as a threshold. If the APR for a first lien
+loan exceeds the APOR by % or
+greater or by % or greater for a
+second or subordinate lien loan then the
+loan is subject to the requirements of
+section 1026.35 of TILA/REG.Z
+28 If a loan is a HPML loan then the minimum 5 TILA/REG Z
+period to escrow for taxes and insurance,
+regardless of the LTV, is years
+9
+29 The criminal penalty for violating 5000/1 TILA/REG Z
+Reg.Z/TILA is up to a $ fine and
+or years in prison.
+30 The individual civil penalty for violating $400/$4,000 TILA/REG Z
+TILA/Reg. Z is a minimum of $ up to
+a maximum of $ .
+31 The civil penalty for a class action suit is $500,000 TILA/REG Z
+$ or % of net worth which is and 1%
+less.
+32 If a person on title does not receive the 3 TILA/REG Z
+notice of the right to rescind, then the
+right to rescind the transaction extends to
+years.
+33 If a borrower rescinds a loan the lender 20 TILA/REG Z
+has days to return all monies paid
+in connection with the loan and cancel the
+security instrument.
+34 The record retention period for retaining 2 TILA/REG Z
+the TILA disclosures is years.
+35 A borrower has until midnight of the 3rd TILA/REG Z
+business day to rescind a loan on a
+primary residence. Saturday is included in
+the rescission days.
+36 The Truth-In-Lending Act is Title of 1 TILA/REG Z
+the Consumer Credit Protection Act.
+37 If there is an ARM loan, the CHARM 3 TILA/REG Z
+booklet and the specific ARM program
+disclosure are considered early disclosures
+and are required to be delivered to the
+borrower within business days of
+receiving the application.
+38 As a general rule, the APR is considered 1/8th TILA/REG Z
+accurate if it is not more than of
+1% above or below the previously
+disclosed APR on regular transactions.
+39 The Mortgage Disclosure improvement Act 3,7,3 MDIA/ TILA/REG Z
+(MDIA) has a , , rule.
+Only the credit report fee may be charged 7/3
+before the applicant has received the GFE,
+the lender must wait days before
+closing the loan after the GFE has been
+delivered and if there has been an APR
+tolerance violation the lender must re-
+disclose the TILA statement and wait
+business days to close.
+10
+40 Under HOEPA If the points and fees 5% HOEPA/ TILA/REG Z
+charged by the lender exceed % of
+the loan amount then the loan is a “high
+cost loan.”
+41 A loan that exceeds the HOEPA thresholds 32/32 HOEPA/ TILA/REG Z
+for APR and points and fees is subject to
+section CFR 1026. of TILA/Reg. Z. Also
+known as a section loan and a “high
+cost loan.”
+42 The Home Owners Equity Protection Act 6.5%/8.5% HOEPA/ TILA/REG Z
+(HOEPA) has established the “annual
+prime offer rate” APOR , as the basis for
+determining if a loan is a high cost loan. If
+the APR exceeds the APOR by more than
+% for a first lien loan and %
+for a second lien loan, the loan is a “high
+cost loan.”
+43 The SAFE Act passing Score is . 75% SAFE Act
+44 The SAFE Act pre-license education 3/3/2/12 SAFE Act
+requirement includes hrs federal
+law, hrs Ethics, hrs non-
+traditional lending products, and
+hrs electives.
+45 The SAFE Act annual renewal education 3/2/2/1 SAFE Act
+requirements are hrs federal law,
+hrs ethics, hrs non-
+traditional lending, and hour
+elective.
+46 The national test has questions 120/115 SAFE Act
+and are scored.
+47 The regulatory department over 34,401 SAFE Act
+residential mortgage financing can charge (2023)
+a civil penalty for non-compliance up to
+$ per violation.
+48 The SAFE Act defines a non-traditional 30 SAFE Act
+mortgage as any product other than a
+year fixed rate mortgage.
+49 The Telemarketing Sales Rule requirement 18/3 TSR
+for businesses that communicate with
+consumers that are on the Do-Not-Call
+registry are the following: A business can
+contact a consumer up to months
+after the final transaction, months if
+only an inquiry was made, and never if the
+consumer contacts the business to not
+call them.
+50 The potential criminal penalty for 1,000,000
+mortgage fraud is up to $ and 30 years
+in prison, or both.
+11
+51 Mortgage loan compensation agreement 3 Dodd Frank Act
+records must be retained for
+years.
+52 The Dodd Frank Act Title regulates IV Dodd Frank Act
+the mortgage industry.
+53 The Dodd Frank Act requires the lender to 3 Dodd Frank Act
+provide a copy of the appraisal prior to
+days of closing a loan.
+54 The maximum loan term for a qualified 30 years Dodd Frank/CFPB
+mortgage is:
+55 The maximum points and fees for a 3% Dodd Frank/CFPB
+$100,000 loan or greater qualified
+mortgage is:
+56 The maximum time a creditor can hold NQM 36 months Dodd Frank/CFPB
+HPML QMs to receive Safe Harbor::
+57 The minimum time a creditor must keep a 3 years Dodd Frank/CFPB
+loan and not sell it to maintain QM status
+for Small Creditor QM and Balloon QM is:
+58 The Home Mortgage Disclosure Act 1 HMDA
+(HMDA) requires reporting data by March
+__ of the following year.
+59 Violation of the Fair Housing Act could 100,000/1 FH Act
+result in criminal penalties of up to
+$ and or year in prison.
+60 A Consumer Reporting Agency (CRA) must 30 FCRA
+address disputes within days.
+61 The Fair Credit Reporting Act (FCRA) is VI FCRA
+Title of the Consumer Credit
+Protection Act.
+62 Under FCRA, a bankruptcy may be 10/7 FCRA
+reported on a credit report for years and
+other derogatory credit for a period of
+years.
+63 FCRA was permanently extended by the 2003 FCRA/FACTA
+Fair and Accurate Credit Transaction Act
+(FACTA) in .
+64 A one phone call fraud alert request can 1/7 FCRA/FACTA
+include an alert on a credit file for
+year and years if a police
+report is filed and submitted to the CRA.
+65 If a lender collects credit scores on a 4 FCRA/FACTA
+borrower, the lender discloses the scores
+to the borrower and must also give
+reasons for each score.
+66 The range for credit scores is: 300-850 FCRA/FACTA
+12
+67 Payment history makes up what 35% FCRA/FACTA
+percentage of a credit score?
+68 The Red Flag identity theft program is a 26 FCRA/FACTA
+mandatory program and includes
+red flag items created by the FTC.
+69 The Equal Credit Opportunity Act (ECOA) is VII ECOA
+Title of the Consumer Credit
+Protection Act.
+70 ECOA requires a notice of action taken to 30 ECOA
+be provided within days
+of receiving an application for credit,
+denying an application, or denying an
+incomplete application.
+71 ECOA requires a notice of action taken 90 ECOA
+within days of a counter offer that
+is not accepted.
+72 ECOA requires a copy of an appraisal or 3/30 ECOA
+any evaluation of the subject property
+within days prior to the loan
+closing and days after it is
+determined the loan will not close.
+73 ECOA record retention is months. 25 ECOA
+74 Liability for violating ECOA could result in a 10,000/ ECOA
+penalty of up to $ ,and in a class 500,000
+action suit $ and % of net /1%
+worth whichever is less.
+75 Conventional conforming loan limit for a $726,200 Conventional
+single family unit is: (2023)
+76 Private mortgage insurance and escrow 80% Conventional
+required when loan-to-value is greater
+than:
+77 The housing payment and total debt ratios 28/36 Conventional
+as a percentage of gross monthly income
+for standard conventional financing are:
+78 One discount point is equal to % of 1% Residential Financing
+the loan.
+79 basis points equal 100/1 Residential Financing
+discount point.
+80 The housing payment and total debt ratios 31/43 Residential Financing
+as a percentage of gross monthly income
+for standard FHA financing are:
+81 The housing payment and total debt ratios 41/41 Residential Financing
+as a percentage of gross monthly income
+for standard VA financing are:
+82 Number of units allowed in residential 1-4 Residential Financing
+mortgage financing are:
+83 An adjustable rate mortgage that has a 5/1 Residential Financing
+fixed rate for 5 years and can change 1/8th
+annually is a ARM. The rate is
+rounded to the nearest .
+13
+84 A fully amortized 30 year loan would be 360/360 Residential Financing
+payments based on months and the
+loan is due in months.
+85 A 30 year mortgage with a 15 year balloon 360/180 Residential Financing
+would have payments based on
+months and the loan would be due in
+months.
+86 A bi-weekly payment plan has 13 Residential Financing
+monthly payments in the year
+87 A temporary 2/1 buydown loan means 2%/1% Residential Financing
+that the note rate is reduced by % in
+year one and % in year two.
+88 Seasoned funds have been in the bank for 60 Residential Financing
+days or more.
+89 The IRS form number for a lender to 4506T or C Residential Financing
+obtain a copy of the borrower’s tax
+transcript is:
+90 Non-taxable can be grossed up: 25% Residential Financing
+91 If a debt has no payment associated with 5% Residential Financing
+the debt, the underwriter will allocate
+of the debt as a qualifying payment.
+92 The number of months non-traditional 12 Residential Financing
+credit is evaluated, for loan approval is:
+93 The Uniform Residential Loan Application 1003 Fannie Mae
+is a Fannie Mae form number:
+94 The 1003 loan application has 10 Fannie Mae
+sections.
+95 Verification of employment (VOE) covers 2 Fannie Mae
+the most recent years.
+96 Verification of deposit (VOD) covers the 60 Fannie Mae
+most recent days.
+97 A verification of rental (VOR) and a 12 Fannie Mae
+verification of mortgage (VOM) covers the
+most recent months.
+98 If the LTV is equal to or greater than 90% 3% Fannie Mae
+the maximum seller contributions is
+% of the lower of the sales price or
+appraised value.
+99 The maximum seller contributions for an 2% Fannie Mae
+investment property is:
+100 A limited cash-out refinance allows the $2,000/2% Fannie Mae
+borrower to get cash back, the lower of
+$ or %
+101 The full appraisal form for an interior and 1004 Fannie Mae
+exterior inspection of a single unit
+property is the Fannie Mae form
+number .
+102 The exterior only appraisal for a single 2055 Fannie Mae
+family unit is a Fannie Mae form
+number .
+14
+103 Maximum age for credit documentation is 120 Fannie Mae
+days when the promissory note
+is signed.
+104 The minimum credit score for Fannie Mae 620 Fannie Mae
+and Freddie Mac is:
+105 To be used in loan qualification, income 3 Fannie Mae
+must meet the year likelihood of
+continuance test.
+106 Income qualifying requires the verification 30 Fannie Mae
+of the most recent days of
+earnings.
+107 A borrower who has more than % 25%/25% Fannie Mae
+in commission earnings or who owns more
+than % of a company is considered
+Self-employed.
+108 A representative credit score is the middle 3/2/1 Fannie Mae
+of scores or the lower of
+scores and the lender will not underwrite a
+loan with score.
+109 A borrower can use of a stock 100% Fannie Mae
+portfolio account for reserves.
+110 A borrower can use of the 100% Fannie Mae
+vested interest in a retirement account for
+reserves.
+111 Fannie Mae requires insurance coverage 100%/80% Fannie Mae
+equal to the lesser of % of the
+insurable value of the improvements as
+determined by the insurer or the unpaid
+principal balance as long as it equals
+% of the insurable value.
+112 Fannie Mae allows % of the face 5% Fannie Mae
+amount of the insurance policy as the
+deductible.
+113 If a borrower is using rental income to 75/25 Fannie Mae
+qualify and the amounts are not already
+included on the tax return only % of
+the actual rental income can be
+considered. There is a % deduction
+for vacancy and maintenance.
+114 After a borrower closes on a loan 60 Fannie Mae
+transaction they have days to move
+in.
+115 The minimum age to get a reverse 62 FHA
+mortgage is:
+116 If a FHA borrower defaults, the lender will 100 FHA
+receive % of the loss.
+117 The minimum cash investment from a 3.5% FHA
+borrower on a FHA loan is:
+118 FHA allows of the funds needed 100% FHA
+at closing to be a gift.
+15
+119 Maximum seller contributions towards 6% FHA
+closing costs and prepaid items on a FHA
+loan are:
+120 The most popular FHA loan program is the 203B FHA
+Section insured mortgage.
+121 The up-front mortgage ins on a full 1.75% FHA
+qualifying FHA loan is:
+122 A borrower can get a prorated refund of 3 FHA
+FHA mortgage insurance for years
+when refinancing from one FHA loan to
+another.
+123 VA allows % percent financing. 100% VA
+124 On a VA guaranteed loan the maximum $36,000 VA
+entitlement that is reflected on the
+certificate of eligibility is:
+125 If a VA borrower has already left the DD214 VA
+military, the borrower must have a
+reflecting an honorable
+discharge.
+126 In the event of default, the VA will 25%/ VA
+guarantee $726,200
+up to of $ . (2023)
+127 VA charges an upfront funding fee for 2.15% VA
+most borrowers. The funding fee for a
+borrower using their entitlement for the
+first time putting down less than 5% is:
+128 The USDA Rural Housing Service loans will 90% USDA/RHS
+guarantee % in the event of the
+borrowers default.
+129 The USDA/RHS loans allow % 100% USDA/RHS
+financing
+130 USDA/RHS loans have income limits based 115% USDA/RHS
+on % of the US median income.
+131 Home Owners Protection Act requires 78% HPA
+lenders to automatically terminate
+mortgage insurance when the loan
+reaches of the original value.
+132 Home Owners Protection Act allows a 20% HPA
+borrower to request cancellation of the
+mortgage insurance when the borrower
+can prove a % equity position.
+133 A good payment history under the Home 60/30 HPA
+Owners Protection Act means no __ lates
+in the last 24 months and no
+lates in the past 12 months.
+16

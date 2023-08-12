@@ -1,0 +1,644 @@
+PE Comprehensive
+Learning Resource
+Module 4
+PE Comprehensive Course | Learning Resource | version 12012022 P ag e 1 | 23
+Ameritrain Mortgage Institute. All Rights Reserved.
+Welcome
+This course is designed for Mortgage Loan Originators and is part of the required training for a
+PE License in any state.
+How to use this Learning Resource
+The Learning Resource is designed to assist you during training. Use this tool to take notes as
+you go. You may also use it as a preparation tool for your licensing test.
+During Training
+▪ Take notes
+▪ Complete activities / exercises
+Legend:
+Icons Descriptions
+Note Place to take notes about content
+Key Points Important information to remember
+Reminders Critical benefits and information
+Activity Document, practice, demonstrate, or solve
+Discussion Discussion activity
+PE Comprehensive Course | Learning Resource | version 12012022 P ag e 2 | 23
+Ameritrain Mortgage Institute. All Rights Reserved.
+Table of Contents
+MODULE 4 .........................................................................................................................................4
+TOPIC: DEFINITIONS ...........................................................................................................................5
+ACTIVITY: KNOWLEDGE CHECK #1.......................................................................................................7
+TOPIC: DEBT TO INCOME (DTI) ............................................................................................................9
+DTI Review ................................................................................................................................................ 9
+Monthly Income ........................................................................................................................................ 9
+ACTIVITY: KNOWLEDGE CHECK #2..................................................................................................... 12
+ACTIVITY: Q&A................................................................................................................................. 14
+Debt Obligations ..................................................................................................................................... 15
+Mortgage Payment as Debt ................................................................................................................ 16
+Housing Payment Ratio ....................................................................................................................... 20
+ACTIVITY: Q&A................................................................................................................................. 21
+ACTIVITY: KNOWLEDGE CHECK #3..................................................................................................... 22
+PE Comprehensive Course | Learning Resource | version 12012022 P ag e 3 | 23
+Ameritrain Mortgage Institute. All Rights Reserved.
+MODULE 4
+Pre-Qualifying
+Module Learning Objectives
+During this module, you will review and be asked to demonstrate the following:
+▪ Define and memorize key mortgage terms
+▪ Identify DTI components and calculate DTI ratios
+▪ Examine income factors, calculate income based on frequencies, and determine self-employment
+requirements
+▪ Explore types of debt, determine debt as DTI component, and calculate total monthly debt
+obligation
+▪ Identify each element of PITIA and calculate monthly P&I payments
+PE Comprehensive Course | Learning Resource | version 12012022 P ag e 4 | 23
+Ameritrain Mortgage Institute. All Rights Reserved.
+TOPIC: DEFINITIONS
+The following terms are important to know for this module and will help you improve your mortgage
+vocabulary and knowledge of the universe of real estate financing. Be sure to memorize these terms to
+improve your exam scores.
+IRS 4506C Lenders use this IRS form to order a transcript of the filed tax return or other return
+information free of charge from the IRS. The borrower will sign to authorize the lender
+to receive their previously completed taxes.
+Gross Monthly An individual's total personal income each month, before accounting for taxes or
+Income deductions, including social security, Medicare, and taxes.
+PITIA An acronym for principal, interest, taxes, insurance, and other assessments. These
+are components of the monthly mortgage payment that is included within a debt-
+to-income ratio (DTI).
+Reminder: DTI is the total monthly debts, including the proposed mortgage
+payment, as a percentage of the borrower’s monthly gross income.
+Principal The actual amount of money borrowed and is the loan amount.
+Interest The fee a borrower pays a lender for the right to have access to the money (loan or
+principal) is called interest.
+Taxes More specifically, property taxes. These taxes will vary depending on local tax rates
+and a property’s assessed value.
+This is assessed annually and requires the lender to divide the total by 12 to
+determine the monthly tax burden.
+The tax payment amount is held in an escrow account with the loan servicer and
+paid along with the principal and interest as part of the monthly mortgage
+payment.
+Insurance The lender will require that the borrower carry property insurance to protect both
+the borrower and the lender.
+This is assessed annually and requires the lender to divide the total by 12 to
+determine the monthly insurance charge.
+PE Comprehensive Course | Learning Resource | version 12012022 P ag e 5 | 23
+Ameritrain Mortgage Institute. All Rights Reserved.
+The property insurance payment amount held in an escrow account and paid along
+with the principal and interest as part of the monthly mortgage payment.
+Mortgage Mortgage insurance is required when the lender loans more than 80 % of the value
+Insurance of the property. The insurance provides protection for the lender if the borrower
+defaults on the loan. All loan programs have some form of mortgage insurance.
+Mortgage insurance is part of the monthly mortgage payment.
+Assessments Another fee includes a HOA fee (Homeowner Association Fee) which is also a part
+of the monthly mortgage payment.
+Ratio A math tool where one item is divided by another that allows for meaningful
+comparisons. Some ratios are expressed as fractions or decimals, and some as
+percentages.
+Example ratio: Debt-to-Income ratio (DTI) is when a borrower’s debts are divided by
+their income. This provides the DTI ratio.
+$1,000 debt ÷ $4,000 income = 25% DTI ratio
+Housing
+Payment Ratio Housing payment (PITIA) divided by income (before tax). The ratio is used by
+or Housing lenders to qualify borrowers for a mortgage. The limit is generally 28%.
+Expense Ratio
+Amortization A number used to easily compute for monthly amortization payments. It ‘factors’
+Factor enough principal and interest into each monthly payment so the loan is paid off by
+a specific date.
+PE Comprehensive Course | Learning Resource | version 12012022 P ag e 6 | 23
+Ameritrain Mortgage Institute. All Rights Reserved.
+ACTIVITY: KNOWLEDGE CHECK #1
+Here’s your chance to show how good your memory is and practice the terms you just reviewed.
+Can you add their definitions in the column to the right (without peeking)? How many can you
+remember? Good luck! If you get stuck, look back to pages 5-6 of this resource guide for help.
+IRS 4506C
+Gross Monthly
+Income
+PITIA
+Principal
+Interest
+Taxes
+Insurance
+PE Comprehensive Course | Learning Resource | version 12012022 P ag e 7 | 23
+Ameritrain Mortgage Institute. All Rights Reserved.
+Mortgage
+Insurance
+Assessments
+Ratio
+Housing
+Payment Ratio
+Amortization
+Factor
+PE Comprehensive Course | Learning Resource | version 12012022 P ag e 8 | 23
+Ameritrain Mortgage Institute. All Rights Reserved.
+TOPIC: DEBT-TO-INCOME (DTI)
+DTI Review
+Key Points About Debt-to-Income Ratio (DTI):
+▪ The residential mortgage industry uses the debt-to-income (DTI) ratio as one
+of the major factors in determining an applicant’s ability to repay the loan
+▪ DTI ratio is expressed as a percentage
+▪ Borrower’s monthly debt (D) ÷ gross monthly income (I) = DTI ratio %
+To help remember:
+▪ The debts will always be substantially smaller
+▪ Debt goes on top of equation
+▪ Generally, the DTI ratio should be below 36% to get a qualified mortgage (with
+some exceptions)
+Percentages:
+▪ There are different DTI percentages based on the loan program
+▪ DTI smaller than 36% is preferable with no more than 28% of the income being
+applied to repay the mortgage or mortgage payment
+Monthly Income
+The two components of DTI are a borrower’s monthly income and debt. When determining a
+borrower’s monthly income and debt you’ll need to start with their gross monthly income.
+Key Points Income before deductions:
+▪ Start with the borrower’s income
+▪ Count income before deductions (i.e., before social security, Medicare, and
+taxes are withheld)
+▪ Gross monthly income = annual income ÷ 12 months
+Gross monthly income considerations:
+▪ Income before deductions
+▪ Frequency of paychecks
+▪ Average part-time/temporary employment income
+▪ Average self-employment income
+▪ Non-employment/non-taxable income
+Frequency of paychecks:
+▪ Hourly
+Formula:
+PE Comprehensive Course | Learning Resource | version 12012022 P ag e 9 | 23
+Ameritrain Mortgage Institute. All Rights Reserved.
+o Hourly rate x hours worked weekly x weeks worked in the year =
+annual income ÷ 12 = gross monthly income
+▪ Semi-monthly, paid twice a month
+Formula:
+o Semi-monthly pay x 2 = gross monthly income
+▪ Bi-Weekly, paid every two weeks
+Formula:
+o Bi-weekly pay x 26 = annual income ÷ 12 = gross monthly income
+▪ Monthly
+Formula:
+o Annual income ÷ 12 = gross monthly income
+Qualified income from part-time, seasonal, or temporary employment:
+▪ Average the income over a two-year period
+▪ Take total income last 2 years ÷ 24 months = gross monthly income
+Who is considered self-employed:
+▪ Persons working for themselves
+▪ Persons who own 25% or more of a company
+▪ Company employees who receive ≥ 25% income from commission or
+incentives
+▪ Persons who work and are paid by family members
+Self-employed requirements:
+▪ Provide the most recent 2 years of filed tax returns
+▪ Use income after deductions (i.e., expenses, depreciation of assets, etc.)
+▪ Underwriter income considerations:
+o If declining income, may use most recent income
+o If decline indicates risk, may not qualify borrower
+o Profit and loss statement generally required
+Reminder Important:
+Regarding depreciated assets; because the mortgage industry recognizes that
+depreciation isn’t really a cash deduction, the depreciated amount can be added
+back into the applicant’s income, thus increasing their qualifying income.
+Non-employment/taxable income
+▪ Applicants can use income from non-employment sources
+▪ Income from non-employment activities:
+o Social security (may be taxable)
+o Child support (not taxable)
+o Alimony (taxable)
+o Disability (may be taxable depending on type)
+▪ Must meet these conditions to qualify:
+o Likely income will continue for the next 3 years
+PE Comprehensive Course | Learning Resource | version 12012022 P ag e 10 | 23
+Ameritrain Mortgage Institute. All Rights Reserved.
+o Supported by documentation and historical activity
+o Generally, income associated with children ends when the child
+reaches the age of 18
+Reminder Important:
+Underwriting for mortgage loans will only consider the income through age 18.
+For non-taxable income:
+▪ When using non-taxable income, must increase it to meet equivalent gross
+income
+▪ Simplest method to ‘gross up’:
+o Non-taxable income x 125% = grossed up income (i.e., approximates if
+borrower has a 25% tax rate)
+Reminder Important:
+It is unlawful to qualify one applicant using gross income, (which includes social
+security, Medicare, and withholding) and another applicant using non-taxable
+income (which does not have the taxable items included).
+For that reason, non-taxable income is increased (grossed up) by 125%.
+Notes _________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+PE Comprehensive Course | Learning Resource | version 12012022 P ag e 11 | 23
+Ameritrain Mortgage Institute. All Rights Reserved.
+ACTIVITY: KNOWLEDGE CHECK #2
+If you get stuck, look back to pages 9-11 of this resource guide for help.
+Q1: Fill in the Blank
+Lisa and Frank are jointly applying for a loan. You review their monthly income and debt
+and determine a Gross Monthly Income of $3,700 and a Monthly Recurring Debt of $1,221.
+Q: What is their DTI ratio? _________
+A:
+Q2: Fill in the Blank
+Q: As you may remember from the Fannie Mae Underwriting Guidelines review, an
+employee is treated as a self-employed borrower if they:
+▪ Earn > _____ % of their income in commission or incentives
+▪ Own > _____ % of a company
+▪ Work for _______ members
+A:
+Q3: Yes/No & Fill in the Blank
+Nancy is interested in a loan.
+▪ She works at a restaurant and makes just close to minimum wage and works 40 hours a
+week.
+▪ Her weekly pay equates to $290 + tips. She averages $58 in tips each week.
+Q: Is she considered self-employed?
+Q: What is her gross monthly income? Gross monthly income = ________
+A:
+Q4: Fill in the Blank
+William is an owner of a small business he has had for the past 5 years. He wants to find
+out if he qualifies for a loan to purchase a home.
+Q: You will ask William to sign a ______ IRS form at application to get an official transcript
+of the filed tax returns. You will also ask for copies of the most recent ______ years of filed
+tax returns. When you evaluate the income after expenses on the tax return you
+determine:
+In the previous year William had:
+▪ Qualifying income = $48,056
+▪ Deductions = $1,256
+PE Comprehensive Course | Learning Resource | version 12012022 P ag e 12 | 23
+Ameritrain Mortgage Institute. All Rights Reserved.
+Most recent year William had:
+▪ Qualifying income = $54,870
+▪ Deductions = $1,322
+Q: What is his gross monthly income averaged over last two years?
+Gross monthly income = ________
+A:
+Q5: Fill in the Blank
+Bryan and Debra Davis are interested in a house. They are applying jointly.
+▪ Bryan’s W2 shows his annual income is $62,472
+▪ Debra’s W2 shows her annual income is $37,896
+▪ Debra also receives court ordered child support from her first husband for their son (age
+14 1/2) in the amount of $296 per month. She has evidence it is paid regularly.
+▪ She also works seasonally during the winter holidays. Last year she made an extra
+$1,420. The year before she made $1,460.
+Q: What is their combined gross monthly income?
+Q: Gross monthly income = ________
+A:
+Notes _________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+PE Comprehensive Course | Learning Resource | version 12012022 P ag e 13 | 23
+Ameritrain Mortgage Institute. All Rights Reserved.
+ACTIVITY: Q&A
+Here are a few common questions related to the previous topic.
+How will I know if the social security or disability is taxable since they can also be non-
+Q:
+taxable?
+A: Generally, these items are not taxable. However, if you have additional income then
+depending on the amount of the additional income your social security could be taxable.
+Q: What proof is required as evidence that child support is being paid regularly?
+A: When there is evidence that it has been received consistently for the past 6 months.
+Inconsistent child support payments or if the child is older than 15 at the time of application
+are not eligible for consideration in the qualifying income.
+Can someone work for a company and on the side work for family members and still not
+Q:
+be considered self-employed?
+A: If the borrower can qualify based on the company income no tax returns are needed. If the
+income from the family employment is needed to qualify for the loan, then the tax returns
+are needed.
+Notes _________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+PE Comprehensive Course | Learning Resource | version 12012022 P ag e 14 | 23
+Ameritrain Mortgage Institute. All Rights Reserved.
+Debt Obligations
+As the MLO, once you’ve determined the qualifying income the borrower(s) can use, the next step is to
+calculate the borrower’s recurring monthly debts and the available amount for the housing payment.
+Rely on Fannie Mae’s underwriting guidelines.
+Key Points Fannie Mae describes obligations that should and should NOT be considered in
+underwriting the loan.
+Not considered debt obligations:
+▪ Utilities/cell phones
+▪ Business debt in borrower’s name
+o A self-employed borrower may claim a monthly obligation (that appears
+on their personal credit report)
+▪ Debts paid by others
+o A borrower may not be obligated on a non-mortgage debt (i.e.,
+installment, revolving, lease payments, alimony, child support, and
+separate maintenance)
+▪ Loans secured by financial assets
+o When a borrower uses his or her financial assets (i.e., life insurance
+policies, 401(k) accounts, IRAs, CDs, stocks, bonds, etc.) as security for a
+loan
+o Lender must obtain a copy of the loan instrument that shows the
+borrower’s financial asset acts as collateral for the loan.
+▪ Open 30-day charge accounts
+o Includes 30-day charge accounts that require balances to be paid in full
+every month
+Considered debt obligations:
+▪ Alimony/child support/separate maintenance payments
+o When borrower is legally required for more than 10 months to pay
+alimony, child support, or maintenance payments
+o Note: voluntary payments do not need to be taken into consideration.
+▪ Deferred installment debt
+o When borrower doesn’t have to repay for a year or two.
+o For deferred installment debts other than student loans, MLO should:
+▪ Check credit report to see if it indicates the monthly amount that
+will be payable at the end of the deferment period; or
+▪ Obtain copies of the borrower’s payment letters or forbearance
+agreements; or
+▪ Use the 5% rule which means multiplying the balance by 5% and
+using this amount as the qualifying monthly payment.
+▪ Home equity lines of credit
+o HELOC must be considered as part of the borrower’s recurring monthly
+debt obligations
+▪ Garnishments
+PE Comprehensive Course | Learning Resource | version 12012022 P ag e 15 | 23
+Ameritrain Mortgage Institute. All Rights Reserved.
+o All garnishments with more than ten months remaining must be
+included
+▪ Installment debt
+o All installment debt that is not secured by a financial asset (i.e., student
+loans, automobile loans, and home equity loans) must be included if
+there are more than ten monthly payments remaining
+o However, an installment debt with fewer monthly payments remaining
+also should be considered as a recurring monthly debt obligation if it
+significantly affects the borrower’s ability to meet his or her credit
+obligations
+▪ Revolving accounts
+o Revolving charge accounts and open lines of credit (i.e., credit cards,
+department store charge cards, etc.) are open-ended and should be
+treated as long-term debts
+o If the credit report does not show a required minimum payment amount
+(and there is no supplemental documentation to support a payment of
+less than 5%), the lender must use 5% of the outstanding balance as the
+borrower's recurring monthly debt obligation
+▪ Student Loans
+o All student loans must be included
+o If the credit report does not provide a monthly payment for the student
+loan, or if the credit report shows $0 as the monthly payment (which
+may be the case for deferred loans or loans in forbearance), the lender
+must calculate a qualifying monthly payment using one of the options
+below:
+▪ 1% of the outstanding student loan balance (even if this
+amount is lower than the actual fully amortizing payment),
+or
+▪ A fully amortizing payment using the documented loan
+repayment terms.
+Reminder Important:
+You probably noticed in some instances with deferred debt, or with debt that carried
+no minimum payment, underwriters will at times use the 5% rule. That means they’ll
+look at the balance and apply 5% as the monthly recurring debt obligation.
+Mortgage Payment as Debt
+All loan programs provide some limitations on how much the mortgage payment may be; this limit is
+usually determined as a percentage of the gross monthly income. This ratio of the monthly mortgage
+payment to the borrower’s gross monthly income is referred to as the “front end ratio” quoted as a
+percentage of gross monthly income.
+You may remember PITIA is the acronym that describes the monthly mortgage. It stands for:
+Principal, Interest, Taxes, Insurance, and Other Assessments.
+PE Comprehensive Course | Learning Resource | version 12012022 P ag e 16 | 23
+Ameritrain Mortgage Institute. All Rights Reserved.
+Key Points Principal
+▪ The amount loaned out is the principal
+▪ Example: a home cost $250,000 and the borrower puts down 20%, or $50,000,
+what they owe to the lender is $200,000 (principal)
+Interest
+▪ The ‘fee’ for loaning money to borrowers
+▪ Interest rate to charge on loan is based on market conditions and the lender’s
+desired profit
+▪ Because mortgage payments are paid monthly, the interest is paid monthly
+(called ‘periodic interest’)
+o Annual interest rate formula: loan x interest rate = annual interest paid
+Example:
+▪ $200,000 (loan) x 5% (interest) = $10,000 (annual interest)
+o Periodic interest rate formula: annual interest rate ÷ 12 months =
+periodic interest
+Example:
+▪ 5% (interest) ÷ 12 months = .42% (periodic interest)
+o Monthly interest formula: principal x periodic interest rate = monthly
+interest
+Example:
+▪ $200,000 (loan) x .42% (periodic rate) = $840 (interest each
+month)
+▪ Fixed loan payments: (principal and interest) are the same for the life of the
+loan
+▪ Fully amortized loans: pay off loan by a specific date (i.e., within 10, 15, 30
+years)
+Amortization Factor
+▪ Most lenders depend on software or tables to identify how much the borrower
+should pay in principal and interest (P&I) each month
+▪ These tables rely on a numeric value called a ‘factor’
+▪ Steps to calculate P&I using a table:
+1. Locate factor from amortization table (locate the correct interest rate
+and length of loan)
+2. Formula 1: loan amount ÷ 1,000 = (number of times 1,000 goes into
+loan)
+3. Formula 2: (number of 1,000s) x factor = P&I (principal and interest)
+payment
+4. Note: the borrower’s P&I amount is before other items in PITIA like
+taxes, insurance, and assessments
+5. Example:
+▪ If amortization factor = 5.37
+▪ If loan is $200,000, then formula 1 is $200,000 ÷ 1,000 = 200
+▪ Formula 2 is; 200 x 5.37 = $1074 (P & I)
+PE Comprehensive Course | Learning Resource | version 12012022 P ag e 17 | 23
+Ameritrain Mortgage Institute. All Rights Reserved.
+Principal vs. Interest
+▪ Once P&I is calculated and periodic interest is calculated, MLO can subtract the
+interest from P&I payment to determine how much is going to the principal each
+month.
+Example:
+o Month 1: $1,074 (P&I) - $840 (interest) = $234 (principal)
+o Month 2: updates after 1st payment:
+▪ $200,000 (principal) - $234 (principal paid) = $199,766 (updated
+principal balance)
+▪ To calculate next month’s interest with updated lower principal;
+$199,766 x .42% = $839.02 (updated monthly interest payment)
+o Month 2 calculation: $1,074 (P&I) – $839.02 (interest) = $234.98
+o Repeat each month until loan paid in full
+Taxes and Insurance
+▪ Generally, taxes and insurance are billed on an annual basis
+▪ To calculate: (potential annual tax + insurance bill) ÷ 12 = monthly liability
+Additional Requirements:
+Whenever a lender is loaning more than 80 % of the value or loan-to-value (LTV) is
+greater than 80%, the loan is considered a higher risk and lender will apply additional
+requirements to reduce the risk, including escrow and mortgage insurance.
+▪ Escrow account for taxes and insurance
+o Borrower pays the lender the prorated monthly portion of the annual
+taxes and insurance bill with the P&I payment
+o T&I (taxes/insurance) amount is held by the lender (servicer) in a prepaid
+account (escrow or impound account)
+o Ensures funds are guaranteed when required
+o The lender (servicer) will pay taxing authority and the insurance
+company directly from the funds in the escrow account
+▪ Mortgage Insurance
+o Mortgage insurance required when LTV (loan-to-value) is greater than
+80% to protect the lender against a borrower’s default
+o Other loan programs also have mortgage insurance as a requirement
+o Mortgage insurance company will pay the lender based on the amount
+of coverage that is agreed to in the instance of a default
+o Mortgage insurance premium is calculated on an annual basis and paid
+on a periodic monthly basis
+o Payment is in addition to the principal, interest, taxes, and property
+related insurance
+o The mortgage insurance premium is based on:
+▪ Loan-to-value
+PE Comprehensive Course | Learning Resource | version 12012022 P ag e 18 | 23
+Ameritrain Mortgage Institute. All Rights Reserved.
+▪ Borrower’s credit
+▪ Other variables
+o Because of these variables, a factor is determined by the mortgage
+insurance company or by the rules established for a particular loan
+program and then applied to the loan amount
+Assessments
+▪ Last part of PITIA (the ‘A’)
+▪ Assessments may include:
+o Home Owners’ Association fee (HOA) associated with a
+home/condominium
+o Planned Unit Development (PUD) fee
+o Payments may be billed annually
+o To calculate: annual assessment ÷ 12 = monthly assessment (added to
+PITIA)
+Summary
+In summary, a consumer’s income and debts are primary components of the loan
+qualifying process.
+▪ The total monthly debts include PITIA (mortgage payment)
+▪ DTI ratio = total monthly debts (debts + PITIA) ÷ monthly gross income
+▪ Recurring debts, regardless of the payment frequency, are generally included
+▪ Some debts like utilities and telephone expenses are not included
+▪ The mortgage payment is comprised of just the interest payment (if interest-only
+loan program selected) or includes the principal
+▪ Mortgage payments also include taxes, insurance, and other assessments (PITIA)
+Notes _________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+PE Comprehensive Course | Learning Resource | version 12012022 P ag e 19 | 23
+Ameritrain Mortgage Institute. All Rights Reserved.
+Housing Payment Ratio
+It’s important to know that all loan programs limit the mortgage payment amount as a standalone debt
+and percentage of the monthly gross income.
+Key Points ▪ This requirement is known as the Housing Payment Ratio (or Housing Expense
+Ratio)
+▪ To calculate: PITIA ÷ borrower’s income
+Example:
+o $1,552 (PITIA or monthly mortgage payment) ÷ $6,500 income = 23.9%
+▪ Most lenders prefer housing expense ratios ≤ 28%
+▪ Other loan programs have different requirements for this ratio:
+o FHA is ≤ 31%
+o VA is ≤ 41%
+o USDA is ≤ 29%
+Notes _________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+PE Comprehensive Course | Learning Resource | version 12012022 P ag e 20 | 23
+Ameritrain Mortgage Institute. All Rights Reserved.
+ACTIVITY: Q&A
+Here are a few common questions related to the previous topic.
+Q: Can you explain LTV again?
+A: LTV stands for Loan-to-Value. It’s the ratio as a percentage of the loan compared with total
+appraised property value. If property is appraised at $250,000 and borrower only puts down
+$50,000 which leaves 80% LTV.
+Q: Is the HOA always factored into the PITIA?
+A: Yes, HOA fees are always included in PITIA and are generally not paid by the servicer.
+Q: Is there a penalty for a borrower if they choose to pay more on their monthly payments?
+A: It depends on the type of loan product selected. Most allow borrowers to pay more toward
+their principal, thus paying off the loan sooner and decreasing their interest paid over the life
+of the loan.
+Notes _________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+PE Comprehensive Course | Learning Resource | version 12012022 P ag e 21 | 23
+Ameritrain Mortgage Institute. All Rights Reserved.
+ACTIVITY: KNOWLEDGE CHECK #3
+If you get stuck, look back to pages 15-22 of this resource guide for help.
+Instructions: Use the information below to answer the questions.
+Melanie has been offered the opportunity to purchase a home from a friend that is being relocated. The
+home appraises for $220,000 and the friend is willing to sell the home for $200,000. Melanie has
+$10,000 to put down and has been referred to you, a mortgage loan originator licensed to originate
+loans for a local lender. Melanie meets with you and after reviewing the application information and the
+documents you determine the following:
+Melanie’s income:
+▪ Earns $50 per hour
+▪ Works an average of 40 hours per week.
+▪ Is paid on a bi-weekly basis
+Melanie’s monthly debts:
+▪ Auto payment: $520
+▪ Current rent: $950
+▪ Utilities: $215
+▪ Furniture debt: $5,000 no payment due for 1 1/2 years
+▪ Credit cards: $125 minimum payments
+▪ Child support: $340
+▪ Cell phone: $120
+Proposed mortgage payment details:
+▪ Principal amount of loan: $200,000 at 90% LTV
+▪ Interest rate: 6%
+▪ Loan type: interest only for first 10 years
+▪ Mortgage insurance factor: 5.8%
+▪ Annual taxes: $3,000
+▪ Annual insurance: $600
+▪ Annual HOA fee: $360
+Use this information to answer the questions.
+Q1: What is her gross monthly income?
+A:
+Q2: What is her total monthly debt?
+A:
+Q3: What is her P&I?
+PE Comprehensive Course | Learning Resource | version 12012022 P ag e 22 | 23
+Ameritrain Mortgage Institute. All Rights Reserved.
+A:
+Q4: What is the total PITIA?
+A:
+Q5: What is her DTI?
+A:
+Q6: What is her Housing Payment Ratio?
+A:
+PE Comprehensive Course | Learning Resource | version 12012022 P ag e 23 | 23
+Ameritrain Mortgage Institute. All Rights Reserved.

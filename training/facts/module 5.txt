@@ -1,0 +1,698 @@
+PE Comprehensive
+Learning Resource
+Module 5
+PE Comprehensive Course | Learning Resource | version 12012022 P ag e 1 | 30
+Ameritrain Mortgage Institute. All Rights Reserved.
+Welcome
+This course is designed for Mortgage Loan Originators and is part of the required training for a
+PE License in your state.
+How to use this Learning Resource
+The Learning Resource is designed to assist you during training. Use this tool to take notes as
+you go. You may also use it as a preparation tool for your licensing test.
+During Training
+▪ Take notes
+▪ Complete activities / exercises
+Legend:
+Icons Descriptions
+Note Place to take notes about content
+Key Points Important information to remember
+Reminders Critical benefits and information
+Activity Document, practice, demonstrate, or solve
+Discussion Discussion activity
+PE Comprehensive Course | Learning Resource | version 12012022 P ag e 2 | 30
+Ameritrain Mortgage Institute. All Rights Reserved.
+Contents
+MODULE 5 ............................................................................................................................. 4
+TOPIC: DEFINITIONS .............................................................................................................. 5
+ACTIVITY: KNOWLEDGE CHECK #1 .......................................................................................... 8
+TOPIC: FHA .......................................................................................................................... 11
+ACTIVITY: KNOWLEDGE CHECK #2 ........................................................................................ 15
+ACTIVITY: Q&A .................................................................................................................... 18
+TOPIC: VA ............................................................................................................................ 19
+ACTIVITY: KNOWLEDGE CHECK #3 ........................................................................................ 23
+TOPIC: USDA/RHS ................................................................................................................ 26
+ACTIVITY: KNOWLEDGE CHECK #4 ........................................................................................ 28
+PE Comprehensive Course | Learning Resource | version 12012022 P ag e 3 | 30
+Ameritrain Mortgage Institute. All Rights Reserved.
+MODULE 5
+Government Loan Programs
+Module Learning Objectives
+During this module, you will review and be asked to demonstrate the following:
+▪ Define and memorize key mortgage terms.
+▪ Review, understand and apply FHA, VA, and USDA government insured or backed loan
+programs.
+PE Comprehensive Course | Learning Resource | version 12012022 P ag e 4 | 30
+Ameritrain Mortgage Institute. All Rights Reserved.
+TOPIC: DEFINITIONS
+The following terms are important to know for this module and will help you improve your mortgage
+vocabulary and knowledge of the universe of real estate financing. Be sure to memorize these terms to
+improve your exam scores.
+Federal Housing Administration has been around since 1934. It was
+formed to improve home ownership by insuring loans so lenders can offer
+FHA
+lower down payments, lower closing costs, and make credit qualifying
+easier.
+All loan programs covered in this course have some form of mortgage
+Mortgage
+insurance that protects the lender in the event of the borrower’s default.
+Insurance
+The FHA mortgage insurance program has both an upfront mortgage
+Premium
+insurance premium (UFMIP) and an annual mortgage insurance premium
+(MIP)
+(MIP) paid each month.
+An AUS is used by mortgage lenders to determine a borrower’s loan
+Automated
+eligibility. It retrieves borrower data (like credit history) and then uses a
+Underwriting
+custom algorithm to make loan decision. It saves time and helps eliminate
+System (AUS)
+human error.
+MSAs are used in the mortgage industry and represent geographic areas
+Metropolitan
+with large, dense populations. There are approximately 400 in the United
+Statistical
+States. These are defined by the Office of Management and Budget and
+Area (MSA)
+are used in support of the census and for statistical reporting analysis.
+Housing and
+Urban A government agency that deals with housing issues; now under the
+Development Consumer Financial Protection Bureau.
+(HUD)
+Contributions made by the seller are called seller concessions. Examples
+Seller
+include the seller contributing to closing costs, loan origination fees,
+Concessions
+discount points, or leaving personal property behind like appliances.
+PE Comprehensive Course | Learning Resource | version 12012022 P ag e 5 | 30
+Ameritrain Mortgage Institute. All Rights Reserved.
+A statistically derived algorithm developed by HUD to evaluate a
+FHA Total
+borrower’s credit history and application information. TOTAL is accessed
+Scorecard
+through an Automated Underwriting System (AUS) and is not an AUS itself.
+An origination fee is an upfront fee charged by a lender for processing a
+Origination new loan application and is quoted as a percentage of the total loan
+Fee (generally between 0.5% - 1%). It’s used as compensation for putting the
+loan in place.
+United States Department of Veterans Affairs makes mortgage loans
+available to servicemen and women, allowing them to qualify for loan
+VA amounts larger than traditional loans. These loans are guaranteed and
+offer no down payments, no private mortgage insurance, and veterans
+may borrow up to 100% of the value of the home.
+Certificate of
+A COE verifies the length of a veteran’s service and the amount he/she is
+Eligibility
+eligible to use as part of the VA home loan benefit.
+(COE)
+The Department of Veterans Affairs (VA) issues this document as a
+Certificate of prerequisite for a VA loan based on an approved appraisal.
+Reasonable
+Value (CRV) The CRV sets the maximum property value for the purposes of determining
+the maximum amount of VA loan.
+Upon retirement or separation from the military, members receive a
+DD214 discharge form. This important document is proof of their service
+DD214
+and the nature of their discharge.
+Discharge
+Form
+The DD214 discharge form is required so retired service people can prove
+eligibility for veteran benefits like a VA loan.
+The United States Department of Agriculture was established in 1991 as a
+rural development loan program designed to help Americans buy a home
+USDA
+in rural and suburban areas. Rural Housing Service (RHS) is part of the U.S.
+Department of Agriculture (USDA) and addresses the requirements of
+section 502 of the Housing Act of 1949 by offering loans that include no
+PE Comprehensive Course | Learning Resource | version 12012022 P ag e 6 | 30
+Ameritrain Mortgage Institute. All Rights Reserved.
+money down, low interest rates, flexible credit guidelines, among other
+things.
+Residual Income an individual has after all personal debts and expenses, including a
+Income mortgage, have been paid. The calculation is generally made each month.
+The USDA’s Rural Housing Service (RHS) utilizes an automated
+Guaranteed
+underwriting system known as Guaranteed Underwriting System (GUS) to
+Underwriting
+underwrite loans based on historical data and statistical information of
+System (GUS)
+borrower profiles.
+PE Comprehensive Course | Learning Resource | version 12012022 P ag e 7 | 30
+Ameritrain Mortgage Institute. All Rights Reserved.
+ACTIVITY: KNOWLEDGE CHECK #1
+Here’s your chance to show how good your memory is and practice the terms you just
+reviewed. Can you add their definitions in the column to the right (without peeking)? How
+many can you remember? Good luck! If you get stuck, look back to pages 5-6 of the resource
+guide for help.
+FHA
+Mortgage
+Insurance
+Premium
+(MIP)
+Automated
+Underwriting
+System (AUS)
+Metropolitan
+Statistical
+Area (MSA)
+Housing and
+Urban
+Development
+(HUD)
+Seller
+Concessions
+PE Comprehensive Course | Learning Resource | version 12012022 P ag e 8 | 30
+Ameritrain Mortgage Institute. All Rights Reserved.
+FHA Total
+Scorecard
+Origination
+Fee
+VA
+Certificate of
+Eligibility
+(COE)
+Certificate of
+Reasonable
+Value (CRV)
+DD214
+Discharge
+Form
+USDA
+Residual
+Income
+PE Comprehensive Course | Learning Resource | version 12012022 P ag e 9 | 30
+Ameritrain Mortgage Institute. All Rights Reserved.
+Guaranteed
+Underwriting
+System (GUS)
+PE Comprehensive Course | Learning Resource | version 12012022 P ag e 10 | 30
+Ameritrain Mortgage Institute. All Rights Reserved.
+TOPIC: FHA
+This topic will review 3 government backed programs starting with the FHA. It will be important to
+understand what makes each program unique.
+Key Points FHA History
+▪ Created by the National Housing Act of 1934
+▪ Provides affordable housing and protections to borrowers
+▪ FHA, unlike Fannie Mae, does NOT purchase loans. FHA insures
+loans by covering a lender’s loss in the event of a borrower’s
+default.
+▪ References to FHA may also be a reference to HUD as it may be a
+HUD policy that is implemented within FHA
+FHA Loan Features:
+▪ Low down payment
+▪ Longer terms
+▪ More liberal underwriting requirements
+▪ Allows for gift funds
+▪ Seller concessions are allowed
+▪ In most cases mortgage insurance referred to as a mortgage
+insurance premium (MIP) is required
+▪ Loans are assumable
+▪ Borrower Eligibility
+FHA Loan Types:
+▪ Section 203(b) – Insured Mortgage
+▪ Section 203(k) – Rehabilitation loan
+▪ Section 251 – ARM loans
+FHA Loan Limits
+▪ FHA loan limits based on Metropolitan Statistical Areas (MSA)
+▪ The maximum loan amount based on 65% of conforming loan limit
+for a single-family property in low-cost areas.
+FHA and Insurance
+▪ The FHA mortgage insurance program has both an up-front
+mortgage insurance premium (UFMIP) and a monthly insurance
+premium (MIP).
+▪ UFMIP is paid at closing or financed into the loan, and annual
+mortgage insurance paid on a monthly basis as part of the PITIA.
+PE Comprehensive Course | Learning Resource | version 12012022 P ag e 11 | 30
+Ameritrain Mortgage Institute. All Rights Reserved.
+▪ The MIP with FHA is very important because it is utilized to fund the
+insurance payments that are provided to the lenders in the event of
+a borrower’s default. That coverage is 100% of the lender’s loss.
+FHA Up Front Mortgage Insurance (UFMIP)
+▪ All full qualifying purchases and refinance transactions require
+UFMIP
+▪ Cost is 1.75% of the loan amount
+▪ Can be financed into the loan
+▪ Can be financed over the FHA loan amount limits
+▪ Can be paid by the seller as a concession
+▪ Can be refunded under the following condition:
+o Refinancing to another FHA loan within a 3-year period
+o Refund is prorated over a 3-year period
+Annual Mortgage Insurance
+Annual mortgage insurance varies and is based on the loan amount, loan
+term, and loan-to-value:
+▪ Paid monthly with the PITIA payment
+▪ Minimum annual MIP term is 11 years
+▪ Maximum annual MIP term is the loan term
+FHA Qualifying Guidelines
+FHA (like all other loan programs) has requirements for mortgage payment
+and DTI ratios for manually underwritten loans.
+▪ Mortgage payment ratio = 31% (PITIA ÷ Income)
+▪ DTI ratio = 43% [(Debt + PITIA) ÷ Income]
+FHA TOTAL Scorecard
+FHA uses an automated underwriting program with a custom algorithm to
+determine the loan decision. The program is called the FHA TOTAL
+Scorecard.
+FHA Credit Score
+FHA down payment requirements are tied directly to the representative
+credit score.
+▪ Minimum credit score 580 – down payment 3.5%
+▪ Minimum credit score 500-579 – down payment 10%
+▪ Credit scores below 500 are not eligible for FHA financing
+Seller Concessions
+PE Comprehensive Course | Learning Resource | version 12012022 P ag e 12 | 30
+Ameritrain Mortgage Institute. All Rights Reserved.
+FHA will allow the seller to contribute to the borrower’s closing cost and
+prepaid items:
+▪ Up to 6% of the sales price
+▪ Closing costs and allowable fees include origination fees, discount
+points, processing, underwriting, etc.
+▪ Tax service is not allowed
+▪ Cannot be applied towards the down payment
+FHA Anti-Flip Policy
+▪ FHA will not approve a borrower for an FHA loan if the seller of the
+property had owned the property for less than 90 days at the time
+the sales contract was executed.
+▪ FHA will require the lender to request a second appraisal at the
+lender’s expense if the property is being sold for 100% or more over
+the acquisition price if the contract is entered into within the 91st
+day up to the 180th day after acquisition.
+Reminder Important:
+FHA loans use the Single-Family Policy Handbook 4000.1 to underwrite FHA
+loans. A copy can be found here.
+More information about the FHA can be found in the Ameritrain FHA
+Brochure available here. All rights reserved.
+FHA videos online:
+▪ FHA Requirements Video: https://youtu.be/3afo8nB1ZD8
+▪ MIP Video: https://youtu.be/xv-gsA3jUsk
+▪ DTI Video: https://youtu.be/t7r6HXHOl0I
+Notes __________________________________________
+__________________________________________
+__________________________________________
+__________________________________________
+__________________________________________
+__________________________________________
+__________________________________________
+__________________________________________
+PE Comprehensive Course | Learning Resource | version 12012022 P ag e 13 | 30
+Ameritrain Mortgage Institute. All Rights Reserved.
+__________________________________________
+__________________________________________
+__________________________________________
+__________________________________________
+__________________________________________
+PE Comprehensive Course | Learning Resource | version 12012022 P ag e 14 | 30
+Ameritrain Mortgage Institute. All Rights Reserved.
+ACTIVITY: KNOWLEDGE CHECK #2
+If you get stuck, look back to pages 9-11 of the resource guide for help.
+Single Choice
+Q1:
+FHA maximum loan limits are based on:
+a) Credit scores
+b) Age
+c) MSAs
+Q2: Fill in the Blanks.
+a) Down payment of ____% on a minimum credit score of 580
+b) Down payment of ___% on a minimum credit score of 500-579
+c) Home expense max ratio of _____%
+d) DTI max ratio of _____%
+Matching
+Q3: Which of the following is NOT accurate about the Up-Front Mortgage Insurance
+Premium (UFMIP)?
+▪ The most popular FHA loan where
+the standard FHA requirements
+apply.
+▪ This loan type allows borrowers to Section 251 ARM Loan
+finance improvements (minimum
+$5000) into the loan before taking Section 203(b) Insured Mortgage
+possession.
+Section 203(k) Rehabilitation Loan
+▪ This loan has an annual adjustment
+rate of 1% annually with a
+maximum rate increase over the
+loan life of 5%.
+Q4: Fill in the Blank
+PE Comprehensive Course | Learning Resource | version 12012022 P ag e 15 | 30
+Ameritrain Mortgage Institute. All Rights Reserved.
+Calculate the Up-Front Mortgage Insurance Premium (UFMIP) on a loan amount of
+$225,000.
+$_____.50
+True/False
+Q5: FHA allows 100% of the funds needed at closing to be in the form of a gift from a
+relative or non-profit?
+a)True
+b)False
+Notes __________________________________________
+__________________________________________
+__________________________________________
+__________________________________________
+__________________________________________
+__________________________________________
+__________________________________________
+__________________________________________
+__________________________________________
+__________________________________________
+__________________________________________
+__________________________________________
+__________________________________________
+__________________________________________
+__________________________________________
+__________________________________________
+__________________________________________
+__________________________________________
+__________________________________________
+__________________________________________
+PE Comprehensive Course | Learning Resource | version 12012022 P ag e 16 | 30
+Ameritrain Mortgage Institute. All Rights Reserved.
+__________________________________________
+__________________________________________
+PE Comprehensive Course | Learning Resource | version 12012022 P ag e 17 | 30
+Ameritrain Mortgage Institute. All Rights Reserved.
+ACTIVITY: Q&A
+Here are a few common questions related to the previous topic.
+Q: Are there maximum loan limits on 2, 3, and 4 units?
+A: Yes. These loan limits can be found on the HUD FHA mortgage lookup site.
+What percent of the sales price can sellers contribute toward a borrower’s closing
+Q:
+costs?
+A: Seller can contribute up to 6%.
+Q: What is the Mortgage Insurance Premium percentage based on?
+A: It’s based on 3 things: the loan amount, loan term, and loan-to-value.
+Notes _________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+PE Comprehensive Course | Learning Resource | version 12012022 P ag e 18 | 30
+Ameritrain Mortgage Institute. All Rights Reserved.
+TOPIC: VA
+The next government backed programs to review is VA. Unlike some military benefits (healthcare,
+insurance, etc.) veterans are not immediately granted the benefit of a VA loan. Like everyone else, they
+must apply for the VA loan, have their credit checked, and qualify.
+Key Points NOTE: Fannie Mae will purchase VA loans that stay within the Fannie Mae
+conforming guidelines.
+VA Loan Features
+▪ VA allows 100% financing for qualified military borrowers
+▪ VA does NOT have a maximum loan amount but it DOES have a
+maximum guarantee amount
+▪ Lenders can make loans the borrower can qualify for, however, VA
+has a guarantee limit
+▪ VA uses the Fannie Mae conforming loan limits as a maximum
+guarantee amount for most counties around the country
+▪ VA will guarantee 25% of the loan amount (up to the guarantee
+amount) in the event of the borrower’s default
+VA Entitlement, Discharge, and Fees
+▪ A loan entitlement is a dollar amount the VA promises to repay back
+to a lender in the event of a borrower’s default. Generally, it’s 25%
+of the loan amount.
+o Lenders will generally loan up to 4 times a Veteran's
+available entitlement without a down payment, provided
+the Veteran is income and credit qualified and the property
+appraises for the asking price.
+▪ Two tiers of entitlement:
+o The first tier is up to $36,000
+o The second tier is an additional entitlement up to $106,550
+▪ In most counties, the maximum loan limit is $726,200. In high-cost
+counties, the VA will still guarantee 25% which means the
+guarantees may be higher than the $181,550 guaranty amount.
+Discharge Status and Loan Eligibility
+When a military borrower leaves military service, they receive a DD214
+discharge document that shows proof of their service and the nature of
+their discharge.
+▪ To be eligible for VA guaranteed financing the borrower must:
+PE Comprehensive Course | Learning Resource | version 12012022 P ag e 19 | 30
+Ameritrain Mortgage Institute. All Rights Reserved.
+o Have a certificate of eligibility (proof of entitlement)
+o A DD214 discharge document reflecting an honorable
+discharge
+VA Funding Fee
+The VA funding fee is a charge assessed by the Veterans Administration to
+receive a VA guaranteed loan
+▪ First time regular military user with less than 5% down are required
+to pay an upfront funding fee of 2.15% of the loan amount.
+▪ Subsequent use of the loan entitlement will result in increased
+funding fee percentages.
+▪ A borrower that is considered disabled because of military action is
+exempt from paying the upfront funding fee.
+▪ A surviving spouse of those who died in the service, or from service
+related disabilities, are exempt from paying the funding fee.
+▪ VA does not allow a refund of the funding fee if a borrower pays off
+the loan.
+▪ VA does not have an annual funding fee, just an upfront funding fee.
+▪ VA funding fees may be financed into the loan amount, paid by the
+borrower upfront, or paid by the seller.
+VA Closing Costs
+Seller contributions are limited to 4% of the sales price
+The borrower is allowed to pay limited closing costs, some of which include:
+▪ VA appraisal called a “Certificate of Reasonable Value” (CRV)
+▪ Credit report fee (actual third-party charge)
+▪ Hazard insurance premium
+▪ Prepaid items
+▪ Flood certification fee
+▪ Survey
+▪ Title examination and title insurance
+▪ Recording fee
+▪ Lender origination fee
+Lender may charge a 1% flat fee to cover origination charges which can
+include fees for:
+▪ Underwriting
+▪ Processing
+▪ Application fees
+PE Comprehensive Course | Learning Resource | version 12012022 P ag e 20 | 30
+Ameritrain Mortgage Institute. All Rights Reserved.
+▪ Documentation preparation
+▪ Attorney fees other than for title
+▪ Other loan related fees retained by the lender
+Residual Income
+VA is the only loan program that underwrites loans with a significant
+emphasis on residual income when qualifying the borrower for a VA
+guaranteed loan.
+VA actually puts more value on residual income than the DTI.
+Residual income calculation is based on:
+▪ Loan amount
+▪ Where the borrower lives
+▪ Square footage of the home
+▪ How many persons will occupy the home
+▪ Residual income varies based on location
+Reminder Important:
+More information on VA can be found in the Ameritrain VA Brochure
+available here. All rights reserved.
+VA videos online:
+▪ Explore VA Benefits Video: https://youtu.be/h3gR_BmMP7A
+▪ VA Eligibility Video: https://youtu.be/E1NO7ma8hDU
+Notes __________________________________________
+__________________________________________
+__________________________________________
+__________________________________________
+__________________________________________
+__________________________________________
+__________________________________________
+__________________________________________
+__________________________________________
+__________________________________________
+__________________________________________
+PE Comprehensive Course | Learning Resource | version 12012022 P ag e 21 | 30
+Ameritrain Mortgage Institute. All Rights Reserved.
+__________________________________________
+__________________________________________
+__________________________________________
+__________________________________________
+__________________________________________
+__________________________________________
+PE Comprehensive Course | Learning Resource | version 12012022 P ag e 22 | 30
+Ameritrain Mortgage Institute. All Rights Reserved.
+ACTIVITY: KNOWLEDGE CHECK #3
+If you get stuck, look back to pages 15-17 of the resource guide for help.
+Single Choice
+Q1:
+Which of the following is NOT a general feature of a VA loan?
+a) VA allows 100% financing for qualified military borrowers
+b) VA has a maximum loan amount
+c) Lenders can make loans the borrower can qualify for, however, VA has a guarantee
+limit
+d) VA uses the Fannie Mae conforming loan limits as a maximum guarantee amount for
+most counties around the country
+e) VA will guarantee 25 percent of the loan amount in the event of the borrowers default
+up to the guarantee amount
+Q2: Fill in the Blank
+To be eligible for VA guaranteed financing the borrower must present a Certificate of
+_______ (COE) and a ______ discharge form reflecting an honorable discharge.
+Single Choice
+Q3:
+Which of the following is NOT accurate about the Up-Front Funding Fee?
+a) Subsequent use of the loan entitlement will result in increased funding fee
+percentages.
+b) Disabled veterans (due to military action) are exempt from paying funding fee.
+c) A surviving spouse of those who died in the service, or from service-related disabilities,
+are exempt from paying the funding fee.
+d) VA allows for a refund of the funding fee if a borrower pays off the loan.
+e) VA funding fees may be financed into the loan amount, paid by the borrower upfront,
+or paid by the seller.
+Single Choice
+Q4:
+Which of the following can be included in the Closing Cost?
+a) Seller contributions limited to ≤ 3% of sales price
+b) Borrower may pay limited closing costs like CRV, credit report fee, hazard insurance,
+prepaid items
+PE Comprehensive Course | Learning Resource | version 12012022 P ag e 23 | 30
+Ameritrain Mortgage Institute. All Rights Reserved.
+c) Borrower may pay limited closing costs like flood certification fee, survey, title
+examination, recording fee
+d) Lender may charge 1% origination charges that include underwriting, processing,
+application fees
+e) Lender may charge 1% origination charges that include documentation prep, attorney
+fees, other loan related fees
+Fill in the Blank
+Use the borrower information and chart to determine borrower’s residual income.
+Loan amount: $133,000
+Family members: 4
+Property location: Kentucky
+Monthly Income: $5,200
+Monthly Recurring debt: $2,750
+Monthly Mortgage payment: $1,400
+Q5:
+PE Comprehensive Course | Learning Resource | version 12012022 P ag e 24 | 30
+Ameritrain Mortgage Institute. All Rights Reserved.
+Residential income = ______ monthly.
+Do they meet the requirements? ____
+PE Comprehensive Course | Learning Resource | version 12012022 P ag e 25 | 30
+Ameritrain Mortgage Institute. All Rights Reserved.
+TOPIC: USDA/RHS
+The RHS is part of the U.S. Department of Agriculture (USDA). The Rural Housing Service (RHS) offers
+mortgage programs that can help low- to moderate-income rural residents purchase, construct, and
+repair homes.
+Key Points The RHS, unlike FHA and VA, both lends directly to qualified borrowers and
+guarantees loans that meet RHS program requirements made by approved
+lenders.
+The loan guarantee program guarantees the lender 90% of the outstanding
+debt in the event of a borrower’s default.
+RHS Loan Features and Benefits
+Features Benefits
+No down payment required Borrowers with or without savings may apply
+100% financing Allows more buyers to become homeowners
+No reserves No seasoned funds or assets required
+Qualifying ratios: Borrowers with satisfactory credit histories
+Housing expense ratio (front end ratio) = may exceed ratios
+29%
+DTI (back end ratio) = 41%
+No limit on seller contributions Helps borrowers to reduce cost
+No minimum FICO score Borrowers can use nontraditional or
+traditional credit history
+Upfront 1% Guarantee fee of the loan Non-refundable
+amount.
+Annual Guarantee fee of .35% of loan
+amount of unpaid principal balance (life
+of loan)
+Income limits based on 115% of US Supports borrowers with limited income
+median income
+No maximum purchase price limit Borrowers can purchase the home they can
+qualify for
+Program not just for first-time All homebuyers are eligible
+homebuyers
+PE Comprehensive Course | Learning Resource | version 12012022 P ag e 26 | 30
+Ameritrain Mortgage Institute. All Rights Reserved.
+Reminder Important:
+More information RHS/USDA loans, checkout the Ameritrain USDA Brochure
+available here. All rights reserved.
+Notes __________________________________________
+__________________________________________
+__________________________________________
+__________________________________________
+__________________________________________
+__________________________________________
+__________________________________________
+__________________________________________
+__________________________________________
+__________________________________________
+__________________________________________
+__________________________________________
+__________________________________________
+__________________________________________
+__________________________________________
+__________________________________________
+__________________________________________
+__________________________________________
+__________________________________________
+__________________________________________
+__________________________________________
+__________________________________________
+__________________________________________
+__________________________________________
+PE Comprehensive Course | Learning Resource | version 12012022 P ag e 27 | 30
+Ameritrain Mortgage Institute. All Rights Reserved.
+ACTIVITY: KNOWLEDGE CHECK #4
+If you get stuck, look back to pages 20-21 of the resource guide for help.
+Fill in the Blank
+Q1:
+Which 2 programs guarantee loans?
+_____________ and _______________
+Matching
+Q2: Match the loan program with the percentage that is covered should the borrower
+default.
+FHA Covers 25%
+VA Covers 90%
+RHS Covers 100%
+Matching
+Q3:
+Match the insurance requirements with the corresponding loan program.
+Funding fee from 1.4% - 2.3% for first
+FHA
+time users
+VA MIP and UFMIP
+Guaranteed fees: upfront fee = 1%
+RHS loan amount, annual = .35% principal
+balance
+Fill in the Blanks
+Q4: Enter the down payment percentage requirement for each government mortgage
+loan program. Be sure to enter any decimals.
+a) FHA: __%
+b) VA: __%
+c) RHS: __%
+Matching
+Q5: Match the seller contributions limits with the corresponding government mortgage
+loan program.
+PE Comprehensive Course | Learning Resource | version 12012022 P ag e 28 | 30
+Ameritrain Mortgage Institute. All Rights Reserved.
+FHA Unlimited
+VA 6% of sale price
+RHS 4% of sale price
+Matching
+Q6: Match the Housing Expense Ratio and DTI Ratio to the corresponding government
+mortgage loan programs. Expense ratio is the first number and DTI is 2nd number.
+FHA 41% / 41%
+VA 29% / 41%
+RHS 31% / 43%
+Notes __________________________________________
+__________________________________________
+__________________________________________
+__________________________________________
+__________________________________________
+__________________________________________
+__________________________________________
+__________________________________________
+__________________________________________
+__________________________________________
+__________________________________________
+__________________________________________
+__________________________________________
+__________________________________________
+__________________________________________
+__________________________________________
+__________________________________________
+__________________________________________
+__________________________________________
+PE Comprehensive Course | Learning Resource | version 12012022 P ag e 29 | 30
+Ameritrain Mortgage Institute. All Rights Reserved.
+__________________________________________
+__________________________________________
+PE Comprehensive Course | Learning Resource | version 12012022 P ag e 30 | 30
+Ameritrain Mortgage Institute. All Rights Reserved.

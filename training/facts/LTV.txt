@@ -1,0 +1,70 @@
+Down Payment
+The difference between the purchase price of a property and the loan amount is down payment. It may
+also be stated as a relationship to loan-to-value (LTV). If the LTV is 80 percent, then the expected down
+payment would be 20 percent. Down payment should come from the borrower’s own funds and should
+not be provided by the seller or lender.
+Example
+Sales Price $200,000
+Loan amount $160,000
+Down payment $40,000
+or
+Sales Price 100% ($200,000) same as appraised value
+Loan-to-Value 80%
+Down payment 20%
+1
+Edition v.01072020 | Ameritrain Mortgage Institute | All Rights Reserved
+Loan-to-Value
+Loan-to-Value includes three categories of values: LTV, CLTV and TLTV.
+• Loan-to-Value (LTV) – The loan amount as a percentage of the purchase price of a property or the appraised value
+whichever is less. Loan to value is always based on the first mortgage.
+• Combined Loan-to-Value (CLTV) – Combined Loan-to-Value involves more than one loan. In this case the loans are
+combined as a percentage of the value. When there is a first mortgage and a second mortgage, the LTV would be
+based on the first mortgage and the CLTV is a combination of both mortgages.
+• Total Loan-to-Value (TLTV) – Total Loan-to-Value describes the total loans in relation to the value. It is generally
+used when there is a refinance transaction that may include a Home Equity Line of Credit (a revolving account)
+where the borrower does not use the entire credit line immediately at closing. In this scenario, the LTV would be
+the amount of the first mortgage, the CLTV would include the amount of the first mortgage plus the amount drawn
+from the HELOC at closing, and the TLTV would be the total amount of all loans including the maximum amount
+available with the HELOC.
+Example 1 Loan-to-Value LTV
+A borrower is looking to purchase a house and has a 20% down payment. The appraised value is $220,000 and the
+real estate agent negotiated a purchase price of $200,000. The Loan-to-Value is based on the purchase price
+because it is lower.
+Appraised Value $220,000
+Purchase price $200,000
+Down payment $40,000
+Loan amount $160,000
+Loan-to-Value (loan amount/purchase price) $160,000/$200,000 = 80%
+2
+VVeerriiffiiccaattiioonnss
+Example 2 Combined-Loan-Value (CLTV)
+The same borrower in the example above does not have enough for a 20 % down payment. The bank would only
+lend him 80% for the purchase. He only has enough for a $25,000 down payment, so he decides to get a second
+mortgage for $15,000. This means his LTV will be 80% and his CLTV will be 87.5%. Let’s see how this is calculated:
+Appraised Value $220,000
+Purchase Price $200,000
+Down Payment $25,000
+Second Mortgage $15,000
+First Mortgage $160,000
+Loan-to-Value (LTV) $160,000/$200,000 = 80%
+First mortgage loan amount/purchase price
+Combined Loan-to-Value (CLTV) ($160,000 + $15,000)/$200,000 = 87.5%
+(First mortgage + second mortgage)/purchase
+price
+Example 3 Total-Loan-to-Value (Refinance with a first mortgage and a
+HELOC)
+In this scenario, the borrower wants to refinance his home to lower his interest rate and get some additional
+cash. The house appraised for $200,000 and the bank offered him a maximum loan of $160,000, which was
+enough to pay off the old loan and cover the closing costs. However, this does not leave any additional money for
+other expenses. The borrower accepts the bank’s offer because of the low interest rate. He then decides to go to
+another mortgage company and apply for a line of credit secured by the remaining equity in the home. The other
+company offers him a HELOC for $20,000. He decides to accept the offer and withdrew $10,000 at closing to pay
+for his college tuition and had a remaining balance of $10,000 left for future emergencies.
+Appraised Value $200,000
+First Mortgage $160,000 = LTV of 80%
+HELOC $20,000
+Drawn at closing $10,000
+First loan plus amount drawn at closing $170,000 = CLTV of 85%
+Balance left $10,000
+Total available credit, first plus HELOC $180,000 = TLTV of 90%
+3

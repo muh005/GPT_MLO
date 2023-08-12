@@ -1,0 +1,184 @@
+QUALIFIED
+MORTGAGE
+LOANS
+What the heck are they?
+▪
+Types of Qualified Mortgages
+▪
+Higher Priced Mortgage Loans
+▪
+Non-Qualified Mortgages
+▪
+Sail into a Safe Harbor
+▪
+1
+Edition v.120122 | Ameritrain Mortgage Institute | All Rights Reserved
+What
+the heck
+are
+the y?
+Background: General Benefits: Primary Benefits:
+The Dodd-Frank Act set standards Consumers are protected The rule specifically
+for qualified mortgages and non- against unduly risky provides the presumption
+qualified mortgages. features. that creditors that originate
+Qualified mortgages differ from Creditors have more a qualified mortgage have
+non-qualified mortgages in that certainty against complied with the ATR
+the loan will NOT contain risky potential liability. requirement which means
+features. Qualified mortgages are courts will treat a case
+good for both consumers and for differently if a consumer
+the lenders that originate them. files an ATR claim.
+A borrower received a loan from a creditor. The borrower, in a conversation with
+the loan originator during the application interview, discussed that he drove 85
+miles each way to work. That was not a factor in the loan decision because the
+· borrower qualified based on the traditional ATR criteria. A year later the borrower
+E
+· had an accident and the insurance did not cover all the repairs.
+S
+·
+A The borrower lost time from work and subsequently was terminated. He sued the
+· lender claiming that the lender did not meet the ATR requirement because the
+C
+distance to work should have been a consideration. The lender prevailed because
+the borrower had received a qualified mortgage and the presumption that the ATR
+had been met was not up for challenge in the court.
+2
+Types of Qualified Mortgages
+Can be originated Can be originated by small creditors
+by ALL lenders operating primarily in rural areas
+Qualified Mortgage Features and Limitations
+No negative amortization
+Interest portion of the payment must be covered
+No interest only
+A portion of the payment must be allocated to principal
+Points and fee thresholds change yearly. Current maximum 30-year loan term fees are:
+Points/Fees Loan Amount
+Limited to 3% ≥ $124,331
+$3,730 ≥ $74,599 and < $124,331
+5% ≥ $24,866 and < $74,599
+$1,243 ≥ $15,541 and < $24,866
+8% < $15,541
+Underwriting Requirements vary by qualified mortgage (see next page).
+3
+Types of Qualified Mortgages
+UNDERWRITING
+GUIDELINES
+G
+eneral
+▪ Must qualify borrower using the maximum rate potential within first five
+years:
+o If the rate has the potential to increase the maximum rate must be used to
+qualify.
+▪ Limits based on a loan’s pricing:
+o For first liens with loan amounts ≥ $124,331, the annual percentage rate (APR) may not
+exceed the average prime offer rate (APOR) for a comparable transaction by 2.25 or more
+percentage points as of the date the interest rate is set.
+▪ Loans must meet a full amortization schedule:
+o The qualifying payment must be the payment that will pay off the loan by the
+loan’s due date.
+Seasoned
+To meet seasoned QM eligibility requirements and to receive a safe harbor from ATR liability
+at the end of the 36-month seasoning period, the loan must meet the following criteria:
+▪ Secured by a first lien with a maximum 30-year loan term
+▪ H as a fixed rate, with regular equal periodic payments, fully amortizing and no balloon
+payments
+▪ Is not subject to the Home Ownership and Equity Protection Act
+▪ Points and fees do not exceed the 3% threshold (or other applicable limit)
+▪ Creditor must consider the consumer’s debt-to-income ratio or residual income, income
+or assets, other than the value of the dwelling, and debts, and verify the consumer’s
+income or assets, other than the value of the dwelling, and the consumer’s debts, using
+t he same consider and verify requirements established for general QMs in the general
+QM rule.
+▪ There must have been no more than two delinquencies of 30 or more days and no
+d elinquencies of 60 or more days at the end of the seasoning period
+4
+Types of Qualified Mortgages
+Small
+Creditor & Balloon
+Small creditor and balloon payment qualified mortgages are primarily for rural
+and underserved areas where the preservation of available financing is the
+highest priority.
+Only lenders that meet the asset and loan activity criteria are eligible to provide
+these categories of qualified mortgages. The following is a sample of the criteria:
+▪ Loans must have a fixed interest rate.
+▪ Loan term is 5 years or longer.
+▪ The small lender must hold the loan for three years unless selling the loan to
+another small lender.
+▪ More than 50 percent of mortgages originated must be secured by properties
+designated as rural or underserved. (Note: Consumer Financial Protection
+Bureau publishes this list.)
+5
+Higher Priced Mortgage Loans (HPML)
+HPML are loans that allow interest rates to exceed a predetermined threshold based
+on the Average Prime Offer Rate (APOR) and a fixed interest rate standard.
+What does that mean?
+From a risk perspective, a Qualified Mortgage that is a Higher Priced Mortgage Loan
+(HPML) allows the borrower to challenge if the Ability to Repay was met.
+What determines HPML loans?
+Loan Exceeds APOR By ___%
+If the rate is locked and the APOR is 1st lien loan Exceeds APOR By 1.5%
+exceeded as shown in table:
+1st jumbo loan Exceeds APOR By 2.5%
+2nd lien loan Exceed APOR By 3.5%
+E A lender offered a borrower a qualified mortgage for $200,000 at 5.5% on a
+·
+first lien. At the time the loan was locked, the APOR was 4%.
+L
+·
+P
+This is a HPML loan because the rate offered exceeds the APOR by 1.5% for a
+·
+M
+first lien loan. The borrower would be able to challenge in court that the ATR
+·
+was not met.
+A
+·
+X
+·
+E
+6
+Safe Harbor
+Non-Qualified Mortgage.
+These are mortgages that meet
+If a consumer closes on a loan that is a qualified
+the Ability to Repay
+mortgage and is not a HPML (higher priced
+requirement however, they are
+mortgage loan), then the consumer is
+allowed to have risky features
+considered to be in the Safe Harbor region.
+such as:
+Safe Harbor means the presumption that the
+QM (qualified mortgage) meets ATR (Ability to ▪ Negative amortization
+Repay) requirements and cannot be challenged. ▪ Interest only
+▪ Terms greater than 30 years
+Because of this, a court will conclusively
+▪ Fees that exceed the QM
+presume the loan complies with the ATR
+threshold
+requirements.
+Lenders that choose to originate
+these loans do NOT have the
+N on-Safe Harbor
+presumption that the Ability to
+Repay has been met and are
+open to challenge by the
+Qualified mortgage loans that are Higher Priced consumer in court.
+Mortgage Loans (HPML) are open for dispute.
+Because of the risk involved
+The consumer is able to challenge in court
+non-qualified mortgage loans
+(rebut the presumption) that the qualified
+carry higher interest rates and
+mortgage meets the Ability to Repay
+less favorable terms.
+requirements.
+Ultimately, the court will decide.
+NOTE:
+If the annual percentage rate (APR) does not exceed the average prime offer rate (APOR) for a comparable
+tra nsaction by 1.5 percentage points or more as of the date the interest rate is set, then the loan is in Safe Harbor.
+A f irst-lien loan receives a “rebuttable presumption” (borrower can challenge in court) that the consum er had the ability to
+re pay if the APR exceeds the APOR for a comparable transaction by 1.5 percentage points or more but by less than 2.25
+pe rcentage points. This loan is possibly in Non-Safe Harbor.
+7
+8

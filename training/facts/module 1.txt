@@ -1,0 +1,1059 @@
+PE Comprehensive
+Learning Resource
+Module 1
+PE Comprehensive Course | Learning Resource | version 12012022 P ag e 1 | 35
+Ameritrain Mortgage Institute. All Rights Reserved.
+Welcome
+This course is designed for Mortgage Loan Originators and is part of the required training for a
+PE License in any state.
+How to use this Learning Resource
+The Learning Resource is designed to assist you during training. Use this tool to take notes as
+you go. You may also use it as a preparation tool for your licensing test.
+During Training
+▪ Take notes
+▪ Complete activities / exercises
+Legend:
+Icons Descriptions
+Note Place to take notes about content
+Key Points Important information to remember
+Reminders Critical benefits and information
+Activity Document, practice, demonstrate, or solve
+Discussion Discussion activity
+PE Comprehensive Course | Learning Resource | version 12012022 P ag e 2 | 35
+Ameritrain Mortgage Institute. All Rights Reserved.
+Table of Contents
+MODULE 1 .........................................................................................................................................4
+TOPIC: DEFINITIONS ...........................................................................................................................5
+ACTIVITY: KNOWLEDGE CHECK #1.......................................................................................................7
+TOPIC: PROCESS PARTICIPANTS ..........................................................................................................8
+ACTIVITY: KNOWLEDGE CHECK #2..................................................................................................... 10
+ACTIVITY: Q&A................................................................................................................................. 11
+TOPIC: MORTGAGE LOAN PROCESS .................................................................................................. 12
+START: PURCHASE DECISION .................................................................................................................. 12
+STEP 1: ORIGINATION ............................................................................................................................. 14
+Loan Programs .................................................................................................................................... 14
+Loan Products ..................................................................................................................................... 15
+Rules, Regulations, Disclosures ........................................................................................................... 18
+ACTIVITY: KNOWLEDGE CHECK #3..................................................................................................... 20
+STEP 1: ORIGINATION ............................................................................................................................. 23
+General Process Steps ......................................................................................................................... 23
+STEP 2: PROCESSING STAGE 1 ................................................................................................................. 25
+General Process Steps ......................................................................................................................... 25
+STEP 3: REAL ESTATE ACTIVITY ............................................................................................................... 26
+General Process Steps ......................................................................................................................... 26
+STEP 4: PROCESSING STAGE 2 ................................................................................................................. 27
+General Process Steps ......................................................................................................................... 27
+STEP 5: PROCESSING STAGE 3 ................................................................................................................. 28
+General Process Steps ......................................................................................................................... 28
+STEP 6: Underwriting .............................................................................................................................. 29
+General Process Steps ......................................................................................................................... 29
+STEP 7: Pre-Closing.................................................................................................................................. 30
+General Process Steps ......................................................................................................................... 30
+STEP 8: Closing ........................................................................................................................................ 31
+General Process Steps ......................................................................................................................... 31
+STEP 9: Post-Closing ................................................................................................................................ 33
+General Process Steps ......................................................................................................................... 33
+ACTIVITY: KNOWLEDGE CHECK #4..................................................................................................... 34
+PE Comprehensive Course | Learning Resource | version 12012022 P ag e 3 | 35
+Ameritrain Mortgage Institute. All Rights Reserved.
+MODULE 1
+Mortgage Loan Process
+Module Learning Objectives
+During this module, you will review and be asked to demonstrate the following:
+▪ Explain the universe of residential real estate financing
+▪ Identify residential mortgage channels
+▪ Define key mortgage terms
+PE Comprehensive Course | Learning Resource | version 12012022 P ag e 4 | 35
+Ameritrain Mortgage Institute. All Rights Reserved.
+TOPIC: DEFINITIONS
+The following terms are important to know for this module and will help you improve your mortgage
+vocabulary and knowledge of the universe of real estate financing. Be sure to memorize these terms to
+improve your exam scores.
+Residential Real Land with a maximum of 4 dwelling units designed for occupancy. Land with
+Estate greater than 4 dwelling units would not be considered residential and would be
+commercial. The 4 types of residential units include:
+Single – unit designed for single family
+Duplex – two units
+Triplex – three units
+Quadplex – four units
+Residential Real This is a loan for personal, family, and household reasons. The loan will require the
+Estate Loan property being purchased to be used as collateral or security for the loan. A
+dwelling structure must be on the land; otherwise, intent to add the structure on
+the land is required.
+Security Documents that are signed by the borrower and then recorded in county
+Instrument courthouse records so that the public is aware that the real estate has a claim
+against it by a lender.
+Lien A claim that is recorded in courthouse records letting the public know that there is
+an official claim outstanding. Some liens are voluntary, and some are not.
+Generally, liens must be satisfied by the time a sale of the property is completed.
+Mortgage Deed Each state determines the type of security instrument. Even if a state uses a deed
+and Trust of trust or other security instrument, the industry refers to the loan associated
+with the document as a mortgage. Whenever you see the term mortgage and it is
+not referring to the actual security document…think “real estate loan”.
+Promissory The IOU that the borrower signs promising to pay the loan based on the agreed to
+Note terms is the promissory note. It includes the interest rate on the loan referred to
+as the note rate and all agreed to conditions relative to payments. It is evidence of
+a promise to pay but is not a recorded document.
+Hypothecate This means that a borrower can pledge the property as collateral for the loan and
+get the benefit of using the property during the loan term.
+PE Comprehensive Course | Learning Resource | version 12012022 P ag e 5 | 35
+Ameritrain Mortgage Institute. All Rights Reserved.
+Equity The value that is accrued in a property less the amount that the borrower owes is
+equity. Value comes from funds contributed to the loan balance as well as
+environmental factors. The equity built up in a property can be used to secure
+another loan.
+Amortization The calculation (or formula) a lender uses that outlines the required payments. It
+includes the monthly principal and interest required to pay off the debt over a
+predetermined period time.
+Mortgage Designed to protect the lender in the event a borrower defaults. A borrower will
+Insurance be required to purchase mortgage insurance if the loan is considered risky.
+Notes _________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+PE Comprehensive Course | Learning Resource | version 12012022 P ag e 6 | 35
+Ameritrain Mortgage Institute. All Rights Reserved.
+ACTIVITY: KNOWLEDGE CHECK #1
+Here’s your chance to show how good your memory is and practice the terms you just reviewed. Can
+you add their definitions in the column to the right (without peeking)? How many can you remember?
+Good luck! If you get stuck, look back to pages 5-6 of this resource guide for help.
+Residential Real
+Estate
+Residential Real
+Estate Loan
+Security
+Instrument
+Lien
+Mortgage Deed
+and Trust
+Promissory
+Note
+Hypothecate
+Equity
+Amortization
+Mortgage
+Insurance
+PE Comprehensive Course | Learning Resource | version 12012022 P ag e 7 | 35
+Ameritrain Mortgage Institute. All Rights Reserved.
+TOPIC: PROCESS PARTICIPANTS
+This list represents the primary participants within the mortgage process. You’ll need to be aware of
+their role and responsibilities.
+Applicant This is the person(s) seeking the loan.
+Mortgage Loan Person originating the loan. They will advise the applicant on a suitable loan
+Originator program and product, take the application and negotiate the rates and terms. May
+(MLO) only originate for one entity.
+Loan Processor Verifies the information on the application following the origination of the loan.
+Can contact applicant for the purposes of gathering additional or missing
+information. Does not originate loans.
+Loan Determines if the applicant meets the conditions of the loan program and product.
+Underwriter Approves or disapproves the loan application.
+Closing Agent Executes the legal documents at closing, collects and distributes funds and records
+security documents after closing.
+Depending on state customs, the closing agent may be an attorney, title company,
+or escrow agent.
+Servicer Collects the monthly mortgage payments, makes distributions to tax authorities
+and reports the payment history to the credit bureaus.
+Appraiser Provides a professional objective opinion of value. Must adhere to strict
+independence and integrity guidelines.
+Generally, works for an appraisal management company (AMC), not lender. This
+ensures integrity in the process. Customers pay the lender for the appraisals or
+may pay directly online to the AMC.
+Mortgage An entity that originates loans. Must have at least one loan originator to originate
+Broker loans.
+Unlike an individual mortgage loan originator (limited to originating for one
+lender), the mortgage broker can originate for multiple lenders.
+PE Comprehensive Course | Learning Resource | version 12012022 P ag e 8 | 35
+Ameritrain Mortgage Institute. All Rights Reserved.
+Mortgage An entity with funding capacity that originates loans, funds loans with its own
+Lender money, services loans, and purchases loans. Must have at least one loan originator
+to originate a loan.
+In our course, Ameritrain Loan Services is a lender.
+Correspondent An entity that originates loans, funds loans with a line of credit called a warehouse
+Mortgage line of credit, and generally sells the loans along with the servicing rights on the
+Lender loans it originates.
+Notes _________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+PE Comprehensive Course | Learning Resource | version 12012022 P ag e 9 | 35
+Ameritrain Mortgage Institute. All Rights Reserved.
+ACTIVITY: KNOWLEDGE CHECK #2
+Time to test your memory again. Can you remember what each participant does in the mortgage
+process? Try to not look back at the slides unless it is necessary. Good luck! If you get stuck, look back to
+pages 8-9 of this resource guide for help.
+Applicant
+Mortgage Loan
+Originator
+(MLO)
+Loan Processor
+Loan
+Underwriter
+Closing Agent
+Servicer
+Appraiser
+Mortgage
+Broker
+Mortgage
+Lender
+PE Comprehensive Course | Learning Resource | version 12012022 P ag e 10 | 35
+Ameritrain Mortgage Institute. All Rights Reserved.
+ACTIVITY: Q&A
+Here are a few common questions related to the previous topic.
+Q: What is the difference between a correspondent and regular mortgage lender?
+A: Regular mortgage lenders fund loans with their own money, but correspondent lenders fund
+loans with a line of credit called a warehouse line of credit. They generally sell loans and
+servicing rights on any loans they originate.
+Q: What is the difference between a loan processor and a loan underwriter?
+A: A mortgage loan processor’s role is to verify the accuracy of the information submitted. The
+underwriter’s role is to ensure the borrower meets the conditions of the loan program.
+Q: What is an involuntary lien?
+A: An involuntary lien is a claim placed against the property generally by a judicial or statutory
+authority. Many times, unpaid taxes or assessments by the borrower create the need for the
+involuntary lien.
+Notes _________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+PE Comprehensive Course | Learning Resource | version 12012022 P ag e 11 | 35
+Ameritrain Mortgage Institute. All Rights Reserved.
+TOPIC: MORTGAGE LOAN PROCESS
+START: PURCHASE DECISION
+Most mortgages follow this same general
+process starting with a loan origination and you,
+the MLO (Mortgage Loan Originator). Well,
+technically, it starts with a borrower wanting to
+buy, or, I should say borrow money, to purchase
+a property. In this next topic, we’ll lay out a
+roadmap you can refer to periodically, so you
+know where you are within the process.
+Key Points ▪ The participant in this step is the Applicant, or person(s) seeking the loan.
+▪ 3 primary reasons for pursuing a real estate financing loan (mortgage loan):
+o Purchase real estate
+o Refinance an existing loan with a new loan
+o Second loan where the first (or primary) loan is maintained, and the
+equity is used to secure another loan. When a second loan is acquired,
+that loan is junior or subordinate to the primary loan. The original loan
+on the property is the primary loan also considered in first position.
+▪ Property types / categories
+Residential real estate financing is limited to 4 dwelling types (1, 2, 3, 4-unit
+dwellings). These dwelling units include three categories:
+o Owner occupied - primary residence and the lowest risk to the lender
+o Second home - vacation home that comes with a moderate risk
+o Investment or rental property - the highest risk to the lender because
+the borrower may depend on rental income to make the monthly
+mortgage payment
+▪ Residential vs. commercial
+o Residential lending includes 1, 2, 3, and 4-unit dwellings
+o Units greater than 4 are considered commercial financing
+▪ An attached property can be a townhouse or a condominium.
+o A townhouse is a single-family residence sharing at least one adjoining
+wall with another unit. An individual who owns a townhouse has title
+to the land and the building structure.
+o Condominiums differ from townhouses; ownership extends to the
+interior dwelling only. Residents have shared ownership of common
+external areas and must pay a monthly, homeowner’s association fee
+(HOA).
+PE Comprehensive Course | Learning Resource | version 12012022 P ag e 12 | 35
+Ameritrain Mortgage Institute. All Rights Reserved.
+PE Comprehensive Course | Learning Resource | version 12012022 P ag e 13 | 35
+Ameritrain Mortgage Institute. All Rights Reserved.
+STEP 1: ORIGINATION
+Generally, the applicant will contact the MLO
+(Mortgage Loan Originator) via phone, in person,
+or through the internet.
+Most folks are interested in discussing
+qualification requirements and getting pre-
+approved so they know how much they can
+spend. The lender will review a number of
+factors, collect information, inform the applicant
+about protections, discuss payments options,
+and then determine buying capacity.
+Before we dive any deeper it’s important to review key background information about loans and laws.
+Loan Programs
+There are two major categories of loan types. Government backed loans, those that are guaranteed
+or insured by an agency of the federal government, and those that are not.
+Key Points Conventional conforming loans:
+▪ Loan program not backed by an agency of the federal government
+▪ Is the primary loan and meets the loan requirements of Fannie Mae and
+Freddie Mac
+▪ Has maximum loan limits of $726,200 for a single unit (considered conforming
+loans) and are available for purchase by Fannie Mae and Freddie Mac
+Non-conforming loans:
+▪ Loans that exceed the conforming loan limits are considered non-conforming
+or jumbo and are NOT eligible for purchase by Fannie and Freddie.
+▪ Generally purchased by private investors
+Non-traditional:
+Another form of non-conforming loans are non-traditional loans.
+▪ Designed for higher risk borrowers
+▪ May include risky features and high interest rates
+▪ Generally purchased by private investors
+Federal Housing Administration (FHA):
+FHA loans were created in 1934 to provide affordable financing.
+▪ Program under the Housing and Urban Development (HUD), a government
+entity that ensures fairness in any aspect of housing
+▪ Insures loans against default by borrowers as an incentive for lenders to loan
+money to those borrowers
+▪ Underwriting standards are more liberal than conventional loans
+▪ FHA does not purchase loans; only insures them
+PE Comprehensive Course | Learning Resource | version 12012022 P ag e 14 | 35
+Ameritrain Mortgage Institute. All Rights Reserved.
+Veterans Administration (VA):
+VA loans resulted from the GI bill after the WWII.
+▪ Designed for qualified military borrowers
+▪ Guarantees a lender’s loss will be covered by VA in the event of a borrower’s
+default
+▪ Like FHA, VA does not purchase loans, only guarantees them
+United States Department of Agriculture (USDA):
+The USDA loan program is designed to ensure the development of rural less
+populated communities.
+▪ Referred to as the Rural Housing Service (RHS) program
+▪ Guarantees a significant amount of the loss to the lender if the borrower
+defaults
+▪ No down payment required
+▪ Unlike FHA and VA, USDA is a direct lender and guarantees USDA loans closed
+by other lenders
+Loan Products
+Within each loan program there are loan products. The primary function of a mortgage loan
+originator is to find the loan product that’s best for the applicant. Obviously, this is an important part
+of your day-to-day responsibilities.
+These products vary relative to the degree of risk.
+Key Points Fixed loans:
+▪ Lower risk product where the interest rate remains fixed over the life of the
+loan
+▪ Borrower has certainty with principal and interest payments each month
+Adjustable rate mortgage (ARM):
+▪ Loan product where loan rates can vary over the term of the loan
+▪ Most ARMs have an introductory period where the rate is fixed; these loans
+are referred to as hybrid arms
+▪ Fixed periods on a typical 30-year ARM loan (hybrid) vary from 3-10 years
+▪ ARM rate changes based on an index (market instrument not under the
+control of the lender)
+▪ Lenders add their profit (margin) to the index to determine rate
+▪ Lenders establish caps (limits up and down) to avoid uncontrolled swings in
+the rate that could put the consumer at risk
+▪ Lenders are required to provide consumers with an ARM handbook along with
+disclosures about ARM specifics
+Interest-only:
+▪ Allows the borrower to pay only the interest during a portion of the loan
+▪ No reduction of principal is made during the interest only (I/O) period
+▪ Product referred to as a “non-moving loan” because the principal is not
+moving during the interest only period
+PE Comprehensive Course | Learning Resource | version 12012022 P ag e 15 | 35
+Ameritrain Mortgage Institute. All Rights Reserved.
+▪ Although payments during the I/O period are very affordable, the borrower
+will be required to make a higher payment including contribution to principal
+once the interest only period ends
+Reminder Important:
+Any loan product that does not require a reduction of principal poses a risk to both
+the lender and the borrower.
+Negative amortization:
+▪ Allows borrower to defer a portion of the interest payment
+▪ When interest portion of a payment is not covered, the borrower still owes
+the portion that was not paid (means principal amount increases)
+▪ This loan product (called an option ARM) was popular when home values were
+rising, and the deferred interest could be hedged against the rising property
+values
+Home equity loans:
+▪ Home equity loans are loans secured by the equity in a borrower’s home.
+▪ Generally, in a secondary lien position because there is usually a primary loan
+▪ Two types of home equity loans - fixed rate & term and lines of credit
+▪ Fixed Rate Home Equity Loans:
+o Generally referred to as a second mortgage
+o Fixed rate and a fixed term, generally with a 15-year maximum
+o All the proceeds are received at closing and the loan is fully amortized,
+meaning the payment plan will pay off the loan by the loans due date
+▪ Home Equity Line of Credit (HELOC):
+o Open-end revolving account secured by the equity in a property
+o Generally, in a secondary position subordinate to the primary loan
+o Funds are drawn as needed and the required minimum payment
+terms are interest only payments until a point when the interest only
+period has ended, and the fully amortized payments are required
+o Tied to an index and the rates vary based on the index
+o The prime index is the most popular index for a HELOC
+o Lenders will often provide borrowers with a credit card or checking
+account to access funds from the equity line
+Balloon mortgage:
+▪ Allows borrower to have payment terms that will not pay off the loan by the
+due date
+▪ When due date arrives, borrower will owe a lump sum to pay off the loan
+▪ Loan popular in a rising property value marketplace because borrowers could
+refinance the loan to pay off the loan
+▪ Risky because if property values fall, then property value may not secure the
+loan and create a problem for borrower to get financing
+▪ A 360/120 balloon means:
+o Borrower making payments based on a 360-month amortization
+period
+PE Comprehensive Course | Learning Resource | version 12012022 P ag e 16 | 35
+Ameritrain Mortgage Institute. All Rights Reserved.
+o Loan is due in 120 months and will require a lump sum payment
+Bridge mortgage:
+▪ A short-term loan that temporarily extends financing between the termination
+of one mortgage and the beginning of another
+▪ Serves as a lien against the property up for sale until it is sold
+▪ Once the property sells, the bridge loan is paid in full releasing the lien
+Construction loans:
+A construction loan is a temporary loan during the construction period.
+▪ Requires the loan to be paid at the end of the construction period
+▪ Permanent financing involves a much longer term typically 15 or 30 years
+▪ Like a line of credit, the money is not owed until it is used
+▪ Payments made to the builder when each phase of a project is completed are
+called draw payments
+▪ Only the interest is due during the construction loan period
+▪ In summary, a construction loan is characterized by rising principal, draw
+payments, and interest only payments.
+Construction to permanent loan:
+When the permanent financing is combined with the construction loan it is called
+a construction perm loan.
+▪ Borrower is approved for the permanent financing and the loan is closed
+before the construction begins
+▪ Characteristics of the construction period remain the same, however, at the
+end of the construction period the loan converts to permanent financing
+▪ Benefit to the borrower is that there is only one closing which reduces the cost
+associated with two closings
+Reverse Mortgages:
+This type of loan is the opposite of a forward mortgage (where equity is being
+created).
+▪ Equity is being used or disbursed to the borrower
+▪ Product was created to provide seniors over the age of 62 a stream of income
+in their later years
+▪ Home Equity Conversion Mortgage (HECM) Reverse mortgage is most
+popular; FHA’s version has these features:
+o All borrowers must be at least 62 years old
+o All borrowers must have counseling from FHA or HUD for the HECM
+o Borrowers are responsible for their own taxes and insurance
+o Subject property must be the borrowers’ primary address
+o At least one borrower must occupy the home
+Refinance:
+When a borrower wants to replace an existing loan with another loan it is a
+refinance transaction.
+PE Comprehensive Course | Learning Resource | version 12012022 P ag e 17 | 35
+Ameritrain Mortgage Institute. All Rights Reserved.
+▪ Lender’s responsibility to ensure transaction results in a net tangible benefit to
+the borrower
+▪ Primary types of refinance transactions in residential mortgage financing are:
+o Rate and term refinance - reduce the rate and or reduce the term
+o Limited cash out refinance - borrower gets some cash back during the
+refinance either $2,000 or 2% of the loan amount whichever is less
+o Cash out refinance - borrower takes cash out of the equity in the
+property to be used for debts not associated with the mortgage
+Loan assumption:
+Some loan programs are assumable such as FHA, VA and USDA loans.
+▪ A borrower may pay a seller for their equity in the property and take over the
+loan
+▪ Lender must agree that the new borrower is qualified
+Reminder Important:
+Conventional loans are not assumable because they have a “due on sale” clause,
+which means the loan must be paid if the property is sold.
+Rules, Regulations, Disclosures
+So far, you’ve learned about loan programs and loan product. It’s now time to examine how these are
+regulated. Because of the mortgage industry’s complexity, it’s critically important that you focus on
+fairness and consumer protections, so applicants are NOT potentially harmed during the loan process.
+It’s the largest purchase most folks will make, and any misstep can have life-changing consequences.
+Because of these concerns, many laws have been enacted over the years to ensure that the process is
+fair, and the average consumer does not become a victim of unscrupulous mortgage activity. What
+follows is an introduction to some of the most important regulations.
+Key Points
+Dodd Frank Act:
+▪ The umbrella authority for most of the residential mortgage related laws
+▪ Enacted to provide a broad area of protections for consumers relating to
+financial services
+▪ Authorized the creation of the Consumer Financial Protection Bureau (CFPB)
+which is the rulemaking and enforcement agency for the Dodd Frank Act
+▪ Most of the laws that regulate the residential mortgage industry are now
+under the umbrella of the CFPB
+Fair lending laws:
+▪ Equal Credit Opportunity Act (ECOA) – ensures fairness in the application
+process, the extension of credit, and the appraisal disclosure requirements
+▪ Fair Housing Act (FH Act) – ensures fairness in the extension of credit relating
+to housing and other housing related discrimination practices
+PE Comprehensive Course | Learning Resource | version 12012022 P ag e 18 | 35
+Ameritrain Mortgage Institute. All Rights Reserved.
+▪ Home Mortgage Disclosure Act (HMDA) – ensures fairness on a larger scale by
+looking at patterns of discrimination
+Consumer protection laws:
+Consumer protection laws address the requirement that all MLOs pass FBI criminal
+background checks and register with and receive a unique identifier number from
+the Nationwide Mortgage Licensing Registry (NMLS).
+▪ Secure and Fair Enforcement for Mortgage Licensing Act (SAFE Act) –
+Requires MLOs, employed by a non-depository institution, to be state
+licensed, complete pre-license education, pass a national exam, and on annual
+basis, complete ongoing continuing education
+▪ Gramm, Leach, Bliley Act (GLBA) - protects consumer’s non-public
+information. Includes Safeguards Rule, Pretexting, and Financial Privacy (SPF)
+▪ Fair and Accurate Credit Transaction Act (FACTA) - protects consumer’s
+information from identity thieves
+▪ Fair Credit Reporting Act (FCRA) – ensures accuracy of credit related
+information and how it’s collected and reported
+▪ Homeowners Protection Act (HPA) – ensures the right to have mortgage
+insurance automatically terminated or the right to request the cancellation of
+Private Mortgage Insurance (PMI)
+▪ The Telemarketing Sales Rule (TSR) – ensures the right to place a number on a
+registry to avoid solicitations by marketers and the establishment for times
+when contact can be made
+▪ National Flood Insurance Program (NFIP) – ensures the requirement to carry
+flood insurance when a consumer’s structure is in an area that has 1% chance
+of being inundated by flood waters in any given year
+▪ The Ability to Repay/Qualified Mortgage Rule (ATR/QM) - requires lenders to
+verify a borrower’s ability to repay the loan before it closes
+▪ Mortgage Acts and Practices (MAP) - requires that non-depository institution
+lenders avoid deceptive advertising when promoting mortgage loan products
+Cost of Services:
+Laws relating to cost of services and financing (special disclosures are required)
+include:
+▪ Real Estate Settlement Procedures Act (RESPA) - regulations and disclosures
+relating to the cost of services
+▪ Truth-in-Lending Act (TLA) - regulations and disclosures relating to the cost of
+financing
+▪ TILA-RESPA Integrated Disclosure Rule (TRID) - regulations and disclosures for
+lenders that close more than five loans annually
+▪ The Home Ownership and Equity Protection Act (HOEPA) and The Higher
+Priced Mortgage Loan Act (HPML) - regulations and disclosures for lenders
+that offer loans which exceed certain thresholds like interest rates and fees
+PE Comprehensive Course | Learning Resource | version 12012022 P ag e 19 | 35
+Ameritrain Mortgage Institute. All Rights Reserved.
+ACTIVITY: KNOWLEDGE CHECK #3
+If you get stuck, look back to pages 14-19 of this resource guide for help.
+Matching
+Q1:
+Match the loan products with the correct description.
+A: Products Match these with the correct product.
+1) Fixed rate loan a) Rates on the loan can vary over the term of the loan.
+2) Adjust rate mortgage ARM b) Defer portion of interest payment.
+3) Interest only loan (I/O) c) Replace an existing loan with another loan.
+4) Negative amortization loan d) Interest rate does not change for the life of the loan.
+5) Refinance e) Pay only the interest during a portion of the loan.
+Matching
+Q2:
+Match more loan products with the correct description.
+A: Products Match these with the correct product.
+1) HELOC a) Requires a lump sum to pay off the loan.
+2) Fixed Rate Home Equity b) 2nd loan moves to the first position before the new
+Loan loan is in place.
+c) Referred to as a 2nd mortgage with a set rate and
+3) Balloon Mortgage
+term.
+d) An open-end revolving account secured by the equity
+4) Bridge Mortgage
+in a property.
+5) Refinance a Subordinate
+e) Temporarily extends financing between mortgages.
+Loan
+Matching
+Q3:
+Match more loan products with the correct description.
+A: Products Match these with the correct product.
+a) Starts off as temporary financing but converts to
+1) Construction Loan
+permanent.
+b) With this loan type, the equity is disbursed to the
+2) Construction to Perm Loan
+borrower.
+c) With this loan type, the equity is disbursed to the
+3) Reverse Mortgage
+borrower.
+d) May pay for equity in a property and take over the
+4) HECM
+loan.
+5) Loan Assumption e) A temporary loan used when building a home.
+PE Comprehensive Course | Learning Resource | version 12012022 P ag e 20 | 35
+Ameritrain Mortgage Institute. All Rights Reserved.
+Matching
+Q4:
+Match the primary types of refinance transactions.
+A: Refinance Transactions Match these with the transactions.
+1) Rate and Term Refinance a) Borrower takes cash from equity to use for debts.
+2) Limited Cash Out Refinance b) Reduces the rate and term of a loan.
+c) Borrower gets either $2,000 or 2% of loan (whichever
+3) Cash Out Refinance
+is less).
+Matching
+Q5:
+Match the fair lending laws with the correct description.
+A: Laws Match these with the correct law.
+1) Equal Credit Opportunity a) Fairness in credit relating to housing and other
+Act (ECOA) discrimination practices.
+2) Fair Housing Act (FH Act) b) Fairness that looks at patterns of discrimination.
+3) Home Mortgage Disclosure c) Fairness in application process, credit and appraisal
+Act (HMDA) disclosure requirements.
+Matching
+Q6:
+Match consumer protection laws with the correct description.
+A: Laws Match these with the correct law.
+a) Right to have accurate credit related information
+1) SAFE Act
+collected and reported.
+2) Gramm, Leach, Bliley Act
+b) Protects consumer’s non-public information.
+(GLBA)
+3) Fair and Accurate Credit c) Right to have mortgage insurance automatically
+Transaction Act (FACTA) terminated.
+d) Requires MLOs complete background check and
+4) Fair Credit Reporting Act
+education requirements.
+5) Homeowners Protection Act e) Protects consumer’s information from identity
+(HPA) thieves.
+PE Comprehensive Course | Learning Resource | version 12012022 P ag e 21 | 35
+Ameritrain Mortgage Institute. All Rights Reserved.
+Matching
+Q7:
+Match more consumer protection laws with the correct description.
+A: Laws Match these with the correct law.
+a) Regulations and disclosures relating to the cost of
+1) Dodd Frank Act
+financing.
+2) Real Estate Settlement b) Provides broad protections for consumers relating to
+Procedures Act (RESPA) financial services.
+c) Regulations and disclosures for lenders that close
+3) Truth-in-Lending Act (TLA)
+more than five loans annually.
+4) TILA-RESPA Integrated d) Regulations/disclosures for lenders when rate & fee
+Disclosure Rule (TRID) thresholds are exceeded.
+5) Home Ownership and Equity e) Regulations and disclosures relating to the cost of
+Protection Act (HOEPA) services.
+Notes _________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+PE Comprehensive Course | Learning Resource | version 12012022 P ag e 22 | 35
+Ameritrain Mortgage Institute. All Rights Reserved.
+STEP 1: ORIGINATION
+We’re going to return to the Mortgage Loan
+Process. As you may remember, the process
+begins with someone wanting to buy a home.
+The next step is for them to meet with a lender,
+or specifically with you, the Mortgage Loan
+Originator.
+General Process Steps
+Key Points Loan application:
+▪ Consumer protection laws help protect applicants as they meet with MLOs
+▪ Applicant info should be available during this meeting and include:
+o Two years of residence history
+o Two years of employment history
+o Source of money needed to close
+o Credit report to show debts and credit history
+NOTE: The MLO may ask for a credit report fee at this time. This is the
+exact cost of the third-party credit report fee. The company is NOT
+allowed to make a profit on third party fees.
+o Debts like child support and alimony do not show on the credit report
+Automated underwriting:
+Once the preliminary qualification is complete, the MLO (or designated person)
+will input the information into an automated underwriting system (i.e., DU/LP,
+Total Scorecard, or GUS) to:
+▪ Determine the debt to income ratio (DTI) and the housing payment ratio
+▪ Determine the maximum loan to value (LTV) based on the funds available
+▪ Determine the appropriate loan program
+▪ Determine the most suitable loan product
+After pre-approval:
+▪ MLO turns over signed loan application and disclosures to a loan processor
+▪ MLO sends pre-approval letter to borrower
+• Borrower may contact real estate agent to find a home
+Reminder Important:
+The fair lending laws protect applicants against discrimination based on several
+prohibited factors.
+Notes _________________________________________
+_________________________________________
+PE Comprehensive Course | Learning Resource | version 12012022 P ag e 23 | 35
+Ameritrain Mortgage Institute. All Rights Reserved.
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+PE Comprehensive Course | Learning Resource | version 12012022 P ag e 24 | 35
+Ameritrain Mortgage Institute. All Rights Reserved.
+STEP 2: PROCESSING STAGE 1
+The next step in the mortgage loan process is
+processing. Processing happens in a few stages.
+General Process Steps
+Key Points Verification of information:
+The primary participant at this stage is the processor. They will:
+▪ Verify the applicant’s information for accuracy including:
+o Employment
+o Bank balances
+o Rental/mortgage payment history
+▪ Ensure required information identified during the automated underwriting
+stage has been collected
+▪ Ensure file is ready for a final review by the underwriter
+Processor and MLO collaborate:
+▪ Processor works with MLO to collect any missing or outstanding items
+▪ MLO delivers a pre-approval letter to borrower
+Processor waits:
+At this point, the processor waits for sales contract from real estate agent.
+Notes _________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+PE Comprehensive Course | Learning Resource | version 12012022 P ag e 25 | 35
+Ameritrain Mortgage Institute. All Rights Reserved.
+STEP 3: REAL ESTATE ACTIVITY
+With the borrower pre-approved and informed
+about what they can afford, it’s time to partner
+with a real estate agent.
+Of course, this step may occur earlier, but for
+this training we assumed the borrower wanted
+to get pre-approved first.
+General Process Steps
+During this step, the borrower and real estate agent are the primary participants, until they sign the
+contract and send it to the MLO.
+Key Points Borrower engages a realtor to secure a contract to purchase from a seller:
+▪ Searches for home
+▪ Finds home
+▪ Makes offer on home
+Offer accepted
+▪ Contract executed
+▪ Realtor sends copy of contracts to MLO
+▪ Once copy received, application is completed
+Notes _________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+PE Comprehensive Course | Learning Resource | version 12012022 P ag e 26 | 35
+Ameritrain Mortgage Institute. All Rights Reserved.
+STEP 4: PROCESSING STAGE 2
+Processing continues during this stage.
+After the MLO receives the contract, there are
+certain requirements of the MLO. After the
+MLO has completed their responsibilities, they
+turn over the file to the Processor.
+General Process Steps
+During this step, both the MLO and processor are participants.
+Key Points MLO receives intent to proceed:
+▪ MLO provides disclosures by mail, email or upon consent (through ESIGN rule)
+electronically
+▪ One of the most important disclosures will be the loan estimate that includes:
+o All the fees, rates, and payment for principal and interest
+o Annual percentage rate (includes the dollar amount the loan will cost
+annualized over the term of the loan)
+o Information about mortgage insurance (if required)
+o Estimated taxes and insurance and assessments
+o Estimated amount needed to close the loan
+o Services the borrower can shop for
+o Services the borrower pays for that cannot be shopped (i.e., appraisal
+and credit report fees)
+▪ Other information and considerations MLO discloses include:
+o The appraisal
+o If the loan is assumable
+o Borrower’s right to select own provider of property insurance
+o Late payment terms
+o If the lender intends to service or not to service the loan
+Reminder Important:
+When the borrower signs the loan estimate, they ONLY confirm receipt of
+disclosures. Borrowers are NOT required to accept the loan because of disclosures.
+MLO receives intent to proceed:
+Once the MLO receives an intent to proceed, (means borrower wants to move
+forward with the loan) the MLO will:
+▪ Offer to lock in the interest rate
+▪ Inform borrower of the payment process for the appraisal or get them to
+execute a credit card authorization for the fee
+▪ Turn the file over to the processor
+PE Comprehensive Course | Learning Resource | version 12012022 P ag e 27 | 35
+Ameritrain Mortgage Institute. All Rights Reserved.
+STEP 5: PROCESSING STAGE 3
+We reached the last stage of processing. Here
+the processor orders different items, confirms
+information, and may work behind the scenes
+with others to the ensure the loan is processed
+correctly.
+In the end, they submit the file onto the
+underwriter.
+General Process Steps
+Key Points Processor order:
+▪ The processor is the primary participant at this stage
+▪ Either the processor (or designated person) will order an appraisal of value
+and the preliminary title report to get the details relating to ownership, liens,
+taxes, easements, etc. associated with the property
+Processor confirms:
+▪ The processor verifies information and may need to contact borrower for
+something that is missing or needed for the loan file.
+▪ NOTE: the processor is not a loan originator and has no involvement with the
+loan terms or rates or negotiating those items.
+Processor submits:
+Once the processor has completed the verifications the loan file is submitted to
+the underwriter.
+Notes _________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+PE Comprehensive Course | Learning Resource | version 12012022 P ag e 28 | 35
+Ameritrain Mortgage Institute. All Rights Reserved.
+STEP 6: Underwriting
+Now it’s the underwriter’s turn to review the file
+sent to them from the Processor. They’ll make
+sure it meets the conditions for the loan program.
+The underwriter reviews the loan file to ensure it
+meets the conditions for the loan program and
+loan product being offered prior to approving it.
+General Process Steps
+At this step, the primary participant is the underwriter. However, the MLO and processor also have a
+part to play.
+Key Points Underwriter reviews:
+▪ The loan file to ensure it meets the conditions for the loan program and loan
+product being offered
+▪ The appraisal to ensure the value of the property adequately secures the loan
+being sought
+▪ Title report to ensure the property is free of any encumbrances that could
+prevent a clear title and also if the chain of ownership and other factors, such
+as the taxes, are correctly accounted for in the loan calculations
+Processor clears conditions:
+Any outstanding conditions are cleared by the efforts of the processor and the
+mortgage loan originator.
+Final approval:
+After conditions are cleared, the underwriter issues a final approval and sends the
+loan file to pre-closing.
+Notes _________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+PE Comprehensive Course | Learning Resource | version 12012022 P ag e 29 | 35
+Ameritrain Mortgage Institute. All Rights Reserved.
+STEP 7: Pre-Closing
+The borrower is in the ‘home stretch’. At this
+point, documents are being finalized and a closing
+date is being scheduled.
+General Process Steps
+Key Points Pre-closer coordination:
+While the pre-closer is the primary participant at this step, there is a lot of
+coordination going on with the closing agent, title company, realtor, seller, and
+borrower.
+Schedule closing:
+Pre-closer schedules the closing and/or consummation date when the legal
+documents will be executed.
+Disclosures finalized:
+Pre-closer provides additional disclosures during this process:
+▪ The most important disclosure is the closing disclosure which must be delivered
+to the borrower at least 3 business days prior to consummation
+▪ NOTE: The closing disclosure resembles the loan estimate in structure and is
+easy for the borrower to compare differences from the estimate to the final
+disclosure
+▪ Revised disclosures are delivered if changes requiring additional disclosures are
+made
+Notes _________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+PE Comprehensive Course | Learning Resource | version 12012022 P ag e 30 | 35
+Ameritrain Mortgage Institute. All Rights Reserved.
+STEP 8: Closing
+The borrower is almost done. Now there are a lot
+of documents to sign.
+General Process Steps
+Key Points Closing starts:
+The closing agent takes the lead during this step; however, nearly all parties are
+involved in some way to ensure a successful closing.
+▪ Consummation and Closing occurs with a closing agent who may be an
+attorney, a title company, or an escrow agent. The choice is based on state
+customs.
+▪ Consummation occurs when the legal documents (specifically when the
+promissory note is signed) are executed, however, the loan has not been
+funded.
+▪ The lender will clear the funding conditions and close the loan (process adds a
+few days to the process prior to closing)
+▪ Consummation may also take place the same day as closing (means the loan is
+funded the same day the legal documents are executed)
+Reminder Important:
+State customs determine if the loan is consummated and closed the same day or if
+they are done at different times.
+Borrower responsibility:
+At the closing the borrower:
+▪ Brings certified or wired funds
+▪ Executes legal documents including the promissory note and the security
+instrument
+▪ Signs and verifies certain loan related documents in the presence of the closing
+agent
+▪ Receives the initial escrow statement, if applicable
+▪ Lender ensures funds are available
+▪ Disbursements are processed for all parties
+MLO Responsibility:
+▪ May attend closing, although not a requirement
+Final steps:
+▪ Lender ensures funds are available
+▪ Disbursements are made to all parties
+▪ Borrower receives keys to the home
+PE Comprehensive Course | Learning Resource | version 12012022 P ag e 31 | 35
+Ameritrain Mortgage Institute. All Rights Reserved.
+PE Comprehensive Course | Learning Resource | version 12012022 P ag e 32 | 35
+Ameritrain Mortgage Institute. All Rights Reserved.
+STEP 9: Post-Closing
+The borrower is now a homeowner. Besides the
+normal home maintenance, their loan must also
+be serviced.
+General Process Steps
+Key Points Documentation:
+▪ Documents returned to lender
+▪ Security instruments recorded
+Loan servicing:
+The servicer is the primary participant during this final step. Depending on whether
+the loan is sold or not, the lender will service the loan or hand it off to another
+servicer.
+Service release premium: A servicer will pay a lender for the right to service a loan.
+The fee that a servicer pays the lender is a service release premium (SRP).
+Sold with recourse: When a lender sells a loan to an investor the lender agrees to
+buy back the loan if certain conditions are not met or, for example, the loan is
+found to be fraudulent. The lender sells the loan with recourse.
+Notes _________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+PE Comprehensive Course | Learning Resource | version 12012022 P ag e 33 | 35
+Ameritrain Mortgage Institute. All Rights Reserved.
+ACTIVITY: KNOWLEDGE CHECK #4
+If you get stuck, look back to pages 23-33 of this resource guide for help.
+Single Choice
+Q1: What law protects consumers against discrimination during this step in the approval
+process?
+A: a) Consumer protection laws
+b) Fair lending laws
+c) Fair Credit Reporting Act
+Single Choice
+Q2: Conventional loans that have maximum loan limits of $________ for a single unit are
+considered conforming loans and are available for purchase by Fannie and Freddie.
+A: a) $726,200
+b) $548,250
+c) $484,350
+True/False
+At this stage, MLO receives the contract and discloses information, including the loan
+Q3: estimate. The loan estimate includes fees, rates, principal & interest payments, annual
+percentage rate and closing estimate, among other info. Does the receipt and signature by
+borrower of the loan estimate indicate loan acceptance?
+A: a) True
+b) False
+True/False
+Q4: Outstanding conditions must be cleared by MLO and processor prior to the underwriter
+approving the loan.
+A: a) True
+b) False
+Single Choice
+During the pre-closing step, the most important disclosure is the closing disclosure. The
+Q5:
+pre-closer must deliver it to the borrower at least ___ business days prior to
+consummation.
+A: a) 3
+b) 5
+c) 7
+PE Comprehensive Course | Learning Resource | version 12012022 P ag e 34 | 35
+Ameritrain Mortgage Institute. All Rights Reserved.
+Single Choice
+Q6:
+At closing, state customs determine which TWO of the following?
+A: a) Closing agent type
+b) Funds required to close
+c) Same day or different closing
+Notes _________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+PE Comprehensive Course | Learning Resource | version 12012022 P ag e 35 | 35
+Ameritrain Mortgage Institute. All Rights Reserved.

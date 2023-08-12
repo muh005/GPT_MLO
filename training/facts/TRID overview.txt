@@ -1,0 +1,347 @@
+1
+n
+o
+i
+t
+c
+e
+S
+1
+Edition v.110817 | Ameritrain Mortgage Institute | All Rights Reserved
+TILA-RESPA Integrated Disclosures (TRID)
+In this section we will:
+• Discuss TILA-RESPA Rule rationale
+• Explore implementation of TILA-RESPA Rule
+• Review which transactions are covered under the rule
+• Examine record retention requirements
+• Analyze Loan Estimate and Closing Disclosure requirements
+History and Purpose
+In July 2010, the Dodd-Frank Act was enacted to provide consumer protections against abusive practices in
+financial services. Title XIV of the act specifically addresses residential mortgage lending. The Dodd-Frank Act
+transferred rulemaking authority under both TILA and RESPA to the Consumer Financial Protection Bureau
+(Bureau), an agency created by Congress to confront issues relating to consumer protections. In addition,
+Dodd-Frank Act sections 1032(f), 1098, and 1100A mandate that the Bureau establish a single disclosure for
+use by lenders or creditors in complying with the disclosure requirements of both RESPA and TILA. These
+disclosures are the early RESPA Good Faith Estimate and the TILA disclosures, the RESPA HUD1 Settlement
+Statement and the final TILA disclosure. Also, the Special Information Booklet that explains the RESPA
+settlement process for consumers was amended to meet the requirements of the new disclosures. Section
+1098(2) of the Dodd-Frank Act amended RESPA section 4(a) to require that the Bureau publish a single,
+integrated disclosure for mortgage loan transactions. Similarly, section 1100A(5) of the Dodd-Frank Act
+amended TILA section 105(b) to require that the Bureau publish a single, integrated disclosure for mortgage
+loan transactions. The Dodd-Frank Act required the Bureau to issue for public comment purposes, rules and
+model disclosures that integrated the TILA and RESPA disclosures by July 21, 2012.
+The Bureau issued proposed integrated disclosure forms and rules for public comment on July 9, 2012 (the
+2012 TILA-RESPA Proposal). On December 31, 2013, more than 17 years after Congress first directed the
+Federal Reserve Board and the Department of Housing and Urban Development (HUD) to integrate the
+disclosures under TILA and RESPA, the Bureau published the 2013 TILA-RESPA Final Rule. The rule was
+enacted on October 3, 2015.
+The Road to Implementation:
+• The Bureau engaged in extensive consumer and industry research, analysis of public comments, and
+public outreach for more than a year.
+• After issuing the proposal, the Bureau conducted a large-scale quantitative study of its proposed
+integrated disclosures with approximately 850 consumers.
+• The study concluded that the Bureau’s integrated disclosures performed statistically and significantly
+better on average than previous disclosures under TILA and RESPA.
+2
+The TRID final rule applies to:
+▪ Most closed-end consumer mortgages
+▪ Certain types of loans that are currently subject to TILA, but not RESPA. Rules subject to RESPA and not
+TILA are now subject to the TILA-RESPA rule’s integrated disclosure requirements, including the
+following loans for personal family and household reasons:
+o Closed-end loans secured by real property
+o Construction-only loans (not currently covered by RESPA)
+o Loans secured by vacant land or by 25 or more acres (not currently covered by RESPA)
+o Timeshare plans
+TRID does not apply to:
+(These loans will continue using current disclosures – GFE and HUD 1)
+▪ Home Equity Lines of Credit (HELOCs)
+▪ Reverse mortgages
+▪ Mortgages secured by a mobile home or by a dwelling that is not attached to real property (i.e., land)
+▪ Loans made by persons who are not considered “creditors” because they make five or fewer mortgages
+in a year.
+3
+Requirements
+Record Retention*
+Depending on a party’s role as a creditor or servicer, the TILA-RESPA Rule mandates retention of specific
+documents for a defined period. The table below provides an overview of these requirements:
+Who What How Long
+Creditors Closing Disclosure (and all Five (5) years after consummation
+documents related to the Closing
+Disclosure)
+Creditors and Post-Consummation Escrow Two (2) years
+Servicers Cancellation Notice (Escrow
+Closing Notice) and the Post-
+Consummation Partial
+Payment Policy disclosure
+Creditors and For all other evidence of Three (3) years after
+Servicers compliance with the Integrated consummation
+Disclosure provisions of
+Regulation Z
+(including the Loan Estimate)
+Table 16: Record Retention Requirements
+*NOTE: Creditors should be aware of various state laws that require record retention periods that may exceed
+Federal record retention requirements.
+4
+Applications received on or after October 3, 2015, require that applicants receive the loan
+estimate and the tool kit* within three business days.
+Initial Loan Estimate:
+•
+Required three (3) business days after receiving the loan application. (The TILA and RESPA regular
+business day rule applies. “Any day the creditor is open for business”)
+•
+The earliest the loan can close is seven (7) business days after the Loan Estimate is placed in the mail. A
+different rule is applied when referring to closing or consummation. This is the mailbox rule which is all
+calendar days except Sundays and legal public holidays
+•
+The consumer may modify or waive the seven-business-day waiting period after receiving the Loan
+Estimate, if the consumer has a bona-fide personal financial emergency that necessitates
+consummating the credit transaction before the end of the waiting period. To modify or waive the
+waiting period, the consumer must give the creditor a dated written statement describing the
+emergency, requesting the waiting period be waived and signed by all consumers liable on the
+obligation. The creditor may not provide the consumer with a pre-printed waiver form.
+•
+A loan originator may not collect any fees other than the credit report fee until the applicant has
+received the Loan Estimate and indicates an intent to proceed.
+•
+The terms of the Loan Estimate are available for a minimum of 10 business days. The interest rate is not
+included in the available terms. The creditor determines how long a quoted interest rate is available.
+5
+Timing & Delivery
+The Toolkit
+Required within three (3) business days of receiving the Loan Application. Replaces the Special Information
+Booklet under RESPA for TRID covered transactions.
+Example: Timing and Delivery Table
+Action Date
+Application received Monday, October 5
+Loan Estimate mailed Thursday, October 8
+Date Loan Estimate received Tuesday, October 13
+First Date loan can close Thursday, October 15
+Table 17: Timing and Delivery Table
+Figure 9: Three-Day Closing Disclosure Rule
+6
+Loan Estimate
+12 CFR 1026.37 1026.19(e)
+A MLO must provide a Loan Estimate to an applicant in accordance with these conditions:
+▪ For closed-end credit transactions secured by real property (other than reverse mortgages), the creditor
+is required to provide the consumer with the best estimate known at the time of credit costs and
+transaction terms on a new form called the Loan Estimate.
+▪ Integrates and replaces the existing RESPA GFE and the initial TIL
+▪ Creditor to provide Loan Estimate within three-business days of a consumer’s loan application
+▪ Must be in writing
+▪ Creditor responsible for delivering or mailing the Loan Estimate by the 3rd business day of an application
+▪ If an originator of a loan is a mortgage broker, either the creditor or the mortgage broker may provide
+the Loan Estimate
+▪ May issue revised Loan Estimates only when changed circumstances apply
+▪ Revised Loan Estimate must be delivered within three business days of the creditor becoming aware of
+the information resulting in the change
+▪ For any loans subject to the TILA-RESPA rule that are also federally related mortgage loans subject to
+RESPA, creditors must use the new integrated TILA-RESPA Form (form H-24)
+▪ If the Loan Estimate is not provided to the consumer in person, the consumer is considered to have
+received the Loan Estimate three (3) business days after it is delivered or placed in the mail. The only
+exception is if the creditor has evidence the customer received it earlier.
+Loan Estimate Key Provisions
+Loan Estimate Trigger
+A loan estimate is triggered once an application is established.
+An application:
+▪ means the submission of a consumer’s financial information for purposes of obtaining an extension of
+credit.
+▪ may be submitted in written or electronic format, and includes a written record of an oral application.
+▪ consists of the submission of the following six pieces of information:
+1. A address of the property
+2. L loan amount
+3. I income
+4. E estimated value
+5. N name(s) of applicant
+6. S social security number to make a credit inquiry
+Once the six pieces of information are received, the loan estimate must be delivered within 3 business days of
+receiving the application.
+7
+Application Withdrawal/Denial
+An application may be withdrawn or denied under the following conditions and the creditor does not have to
+provide the Loan Estimate, if the:
+▪ creditor determines within the three-business-day period that the consumer’s application will not or
+cannot be approved on the terms requested by the consumer
+▪ consumer withdraws the application within the three-business-day period, the creditor does not have
+to provide the Loan Estimate.
+Good Faith*
+Creditors are responsible for ensuring that the figures stated in the Loan Estimate are made in good faith and
+consistent with the best information reasonably available to the creditor at the time they are disclosed.
+Whether or not a Loan Estimate was made in good faith is determined by calculating the difference between
+the estimated charges originally provided in the Loan Estimate and the actual charges paid by or imposed on
+the consumer in the Closing Disclosure.
+Generally, if the charges paid by or imposed on the consumer exceeds the amount originally disclosed on the
+Loan Estimate, it is not in good faith, regardless of whether the creditor later discovers a technical error,
+miscalculation, or underestimation of a charge.
+However, a Loan Estimate is considered to be in good faith if the creditor charges the consumer less than the
+amount disclosed on the Loan Estimate, without regard to any tolerance limitations.
+*NOTE: Under TRID, MLOs are expected to act in good faith and exercise due diligence. This can be
+accomplished by using estimates and identifying costs accurately.
+8
+2
+n
+o
+i
+t
+c
+e
+S
+9
+Edition v.042717 | Ameritrain Mortgage Institute | All Rights Reserved
+Charging More than Disclosed Figures
+A creditor may charge the consumer more than the amount disclosed in the Loan Estimate in specific
+circumstances (TILA-RESPA rule (§ 12 CFR 1026.19(e)(3)(iii)):
+Condition 1: Unlimited change
+Charges in this category may change without regard to tolerance limitations are:
+• Prepaid interest; property insurance premiums; amounts placed into an escrow, impound, reserve or a
+similar account
+• For services required by the creditor, if the creditor permits the consumer to shop and the consumer
+selects a service provider other than the service provider recommended by the creditor
+• Charges paid to third-party service providers for services not required by the creditor
+Condition 2: 10% Tolerance
+Charges for third-party services and recording fees paid by or imposed on the consumer are grouped together
+and subject to a 10% cumulative tolerance. This means the creditor may charge the consumer more than the
+amount disclosed on the Loan Estimate for any of these charges as long as the total sum of the charges added
+together does not exceed the sum of all such charges disclosed on the Loan Estimate by more than 10%. (§ 12
+CFR 1026.19(e)(3)(ii))
+• Recording fees
+• Charges for third-party services where:
+o The charge is not paid to the creditor or the creditor’s affiliate
+o The consumer is permitted by the creditor to shop for the third-party service, and the consumer
+selects a third-party service provider on the creditor’s written list of service providers
+NOTE: A creditor may charge more than 10% in excess of an individual estimated charge in this category, as
+long as the sum of all charges is within the 10% cumulative tolerance.
+Condition 3: Zero Tolerance Change
+Fees in this category may not change once disclosed to a loan applicant.
+Condition 3: Zero Tolerance
+The amount charged falls within a zero-tolerance threshold category where variations are never permitted) (§
+12 CFR 1026.19(e)(3)(ii))
+In some cases, a creditor may charge a fee that was not initially charged. Depending of the fee, it may be
+subject to “zero tolerance” meaning this amount cannot change once disclosed on the loan estimate. These
+zero tolerance charges are:
+• Fees paid to the creditor, mortgage broker, or an affiliate of either
+• Fees paid to an unaffiliated third party if the creditor did not permit the consumer to shop for a
+third-party service provider for a settlement service (§ 12 CFR 1026.19(e)(3)(ii)(C)); or
+• Transfer taxes.
+10
+Loan Estimate Thresholds Exceeded
+If the amounts paid by the consumer at closing exceed the amounts disclosed on the Loan Estimate beyond the
+applicable tolerance threshold, the creditor must refund the excess to the consumer no later than 60 calendar
+days after consummation.
+Charges subject to zero tolerance, any amount charged beyond the amount disclosed on the Loan Estimate,
+must be refunded to the consumer.
+For charges subject to a 10% cumulative tolerance, to the extent the total sum of the charges added together
+exceeds the sum of all such charges disclosed on the Loan Estimate by more than 10%, the difference must be
+refunded to the consumer.
+Changed Circumstance
+A changed circumstance for purposes of a revised Loan Estimate is:
+▪ An extraordinary event beyond the control of any interested party or other unexpected event specific
+to the consumer or transaction
+▪ Information specific to the consumer or transaction that the creditor relied upon when providing the
+Loan Estimate and that was inaccurate or changed after the disclosures were provided
+▪ New information specific to the consumer or transaction that the creditor did not rely on when
+providing the Loan Estimate.
+Changed Circumstances That Affect Settlement Charges
+A creditor may provide and use a revised Loan Estimate redisclosing a settlement charge if changed
+circumstances cause the estimated charge to increase, or in the case of charges subject to the 10% cumulative
+tolerance, resulted in the sum of those charges to increase by more than the 10% tolerance.
+Examples of changed circumstances affecting settlement costs include:
+▪ A natural disaster, such as a hurricane or earthquake, damages the property or otherwise results in
+additional closing costs;
+▪ The creditor provided an estimate of title insurance on the Loan Estimate, but the title insurer goes out
+of business during underwriting;
+Examples of general changed circumstances:
+▪ New information not relied upon when providing the Loan Estimate is discovered, such as a neighbor of
+the seller filing a claim contesting the boundary of the property to be sold.
+▪ There are two co-applicants applying for a mortgage loan and the creditor relied on a combined income
+when providing the Loan Estimate, but one applicant subsequently becomes unemployed.
+11
+Revised Loan Estimate after a Rate Lock
+A creditor may use a revised Loan Estimate if the rate is locked after the initial Loan Estimate is provided.
+If the interest rate for the loan was not locked when the Loan Estimate was provided, and when the rate is
+locked at a later date and points or lender credits for the mortgage loan change, the creditor is required to
+provide a revised Loan Estimate, 3 business days after the interest rate is locked, so the borrower may use the
+revised Loan Estimate to compare points and lender credits charged.
+The revised Loan Estimate must reflect the revised interest rate as well as any revisions to the points disclosed
+on the Loan Estimate pursuant to § 12 CFR 1026.37(f)(1), lender credits, and any other interest rate dependent
+charges and terms that have changed due to the new interest rate.
+Timing for Revisions to Loan Estimates
+▪ Revised Loan Estimate must be delivered no later than three business days after receiving the
+information sufficient to establish that one of the reasons for the revision has occurred.
+▪ The Revised Loan Estimate and the Closing Disclosure may not be delivered on the same day.
+▪ When a revised Loan Estimate is provided in person, it is considered received by the consumer on the
+day provided.
+▪ If mailed or delivered electronically, it is considered to have been received three business days later.
+▪ If the creditor has evidence the consumer received the disclosure before the 3rd business day via email
+or electronic means, the creditor can use that evidence to prove the actual date of delivery. Disclosures
+sent and received on the due date under the ESIGN rule are considered to be delivered and received
+the same day.
+Revising a Loan Estimate after a Closing Disclosure Already Has Been Provided
+▪
+The creditor may not provide a revised Loan Estimate on or after the date it provides the Closing
+Disclosure.
+▪
+The creditor must ensure that the consumer receives the revised Loan Estimate no later than four
+business days prior to consummation.
+If the creditor is mailing the revised Loan Estimate and relying upon the three (3) business day mailbox rule,
+the creditor would need to place the Loan Estimate in the mail no later than seven business days before
+consummation of the transaction to allow three (3) business days for receipt.
+Revised Loan Estimate after Closing
+▪ The creditor may not provide a revised Loan Estimate after closing.
+▪ The revised Loan Estimate must be provided before the consumer receives the Closing Disclosure.
+12
+Closing Disclosure
+12 CFR 1026.38, 1026.19(f)
+▪ For loans that require a Loan Estimate (LE) and that proceed to closing, creditors must provide a new final
+disclosure reflecting the actual terms of the transaction called the Closing Disclosure.
+▪ The Closing Disclosure (CD) combines the RESPA HUD1 settlement statement and the TILA final TILA disclosure.
+▪ The Closing Disclosure must be provided to the consumer no later than three (3) business days before
+consummation.
+▪ This means the consumer must receive a revised Loan Estimate no later than four business days prior to
+consummation because the LE must be provided prior to the CD.
+▪ The consumer may also request a copy of the CD one business day prior to consummation.
+▪ When a consumer signs the CD, they are acknowledging that they have received the disclosure; however, they
+are not committed to the terms.
+▪ Consummation is the point the consumer becomes obligated for the loan. This generally occurs when the
+borrower signs the promissory note.
+Changes before Consummation that Require a New Three-day Waiting Period
+If the creditor provides a corrected Closing Disclosure, it may also be required to provide the consumer with an additional
+three-business-day waiting period prior to consummation. There are three triggers for this additional waiting period. (§
+12 CFR 1026.19(f)(2))
+▪ The disclosed APR becomes inaccurate. If the annual percentage rate (APR) previously disclosed becomes
+inaccurate, the creditor must provide a corrected Closing Disclosure with the corrected APR disclosure and all
+other terms that have changed. If the APR increases by a 1/8th or more, an additional three day waiting period is
+required. The APR’s accuracy is determined according to § 12 CFR 1026.22. (§ 12 CFR 1026.19(f)(2)(ii)(A))
+▪ The loan product changes. If the loan product previously disclosed becomes inaccurate, the creditor must
+provide a corrected Closing Disclosure with the corrected loan product and all other terms that have changed. (§
+12 CFR 1026.19(f)(2)(ii)(B))
+▪ This period may be waived if the consumer is facing a bona fide personal financial emergency. (§ 12 CFR
+1026.19(f)(1)(iv))
+▪ A prepayment penalty is added. If a prepayment penalty is added to the transaction, the creditor must provide a
+corrected Closing Disclosure with the prepayment penalty provision disclosed and all other terms that have
+changed. (§ 12 CFR 1026.19(f)(2)(ii)(C))
+For all other changes, there is no additional three-business-day waiting period required. The creditor must ensure that
+the consumer receives the revised Closing Disclosure at or before consummation.
+13
+Corrected Disclosures After Consummation
+Creditors must provide a corrected Closing Disclosure, if an event in connection with the settlement occurs during the 30-
+calendar-day period after consummation that causes the Closing Disclosure to become inaccurate and results in a change
+to an amount paid by the consumer from what was previously disclosed. (§ 12 CFR 1026.19(f)(2)(iii); Comment
+19(f)(2)(iii)-1)
+When a post-consummation event requires a corrected Closing Disclosure, the creditor must deliver or mail a corrected
+Closing Disclosure not later than 30 calendar days after receiving information sufficient to establish that such an event
+has occurred. (§ 12 CFR 1026.19(f)(2)(iii); Comment 19(f)(2)(iii)-1)
+Corrected Closing Disclosure-Refunds & Tolerance Cure
+If the creditor cures a tolerance violation by providing a refund to the consumer, the creditor must deliver or place in the
+mail a corrected Closing Disclosure that reflects the refund no later than 60 calendar days after consummation.
+Timeshare Interests
+Loans secured by interests in timeshare plans are still subject to the TILA-RESPA rule, but the Bureau recognizes that
+these loans may commonly be consummated within a few days of the consumer’s application. The Bureau has adopted
+abbreviated timing, delivery, and disclosure obligations for these loans when consummation occurs within three business
+days of the application. For these loans, creditors may forego a Loan Estimate and provide only the Closing Disclosure. (§
+12 CFR 1026.19(e)(1)(iii)(C)) and (f)(1)(ii)(B); Comment 19(e)(1)(iii)-4 and Comment 19(f)(1)(ii)-3)
+14
+TRID Overview
+The waiting periods and timing requirements applicable to most loans subject to the TILA-RESPA Rule are inapplicable to
+loans secured by timeshare interests. Rather, creditors are required to ensure only that the consumer receives the
+Closing Disclosure no later than consummation. (§ 12 CFR 1026.19(f)(1)(ii)(B))
+15

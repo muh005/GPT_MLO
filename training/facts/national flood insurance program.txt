@@ -1,0 +1,233 @@
+National Flood Insurance Program (NFIP)
+The National Flood Insurance Program is administered by the Federal Emergency Management Agency
+(FEMA).
+Flood Zones
+Flood hazard areas identified on the Flood Insurance Rate Map are identified as a Special Flood Hazard
+Area (SFHA). SFHA are defined as the area that will be inundated by the flood event having a 1-percent
+chance of being equaled or exceeded in any given year. The 1-percent annual chance flood is also
+referred to as the base flood or 100-year flood. Moderate flood hazard areas are labeled Zone B and
+Zone X which are areas outside the SFHA, but still shaded on the map. These flood areas are between
+the limits of the base flood and the 0.2-percent-annual-chance referred to as 500-year flood. Zones C
+and X not shaded on the map are also outside the SFHA, but are considered areas of low risk.
+1
+Edition v.122220 | Ameritrain Mortgage Institute | All Rights Reserved
+Special Flood Hazard Area (SFHA)
+A high‐risk flood area that has special flood, mudflow, or flood‐related erosion hazards. The land area covered by
+the floodwaters of the base flood is the Special Flood Hazard Area (SFHA) on NFIP maps. The SFHA is the area
+where the National Flood Insurance Program's (NFIP's) flood plain management regulations are enforced where
+the mandatory purchase of flood insurance applies. The SFHA includes Zones with an A or V designation.
+Zone VE or V are the most hazardous areas, usually first row beach front properties. Zone A relates to areas
+near lakes, streams or other bodies of water. Both of Zones V and A:
+• Considered a high flood risk
+• Require mandatory flood insurance
+• Have a 1 percent annual chance of flooding and a 26 percent chance of flooding during a 30‐year
+mortgage.
+Zones Requiring Mandatory Flood Insurance
+A – 100 year - 1% annual chance of flood - near water
+V – 100 year - 1% annual chance of flood - costal region (storm induced wave)
+VE- 100 year - 1% annual chance of flood - costal region (storm induced velocity wave action)
+2
+VVeerriiffiiccaattiioonnss
+Zones Not Requiring Mandatory Flood Insurance
+B & X shaded on map – 500 year between .2% and 1%
+C & X not shaded on the map
+D – areas not yet studied by FEMA
+Base Flood Elevation (BFE)
+Computed elevation to which floodwater is anticipated to rise during the base flood. BFEs are shown on Flood
+Insurance Rate Maps (FIRMs) and on flood profiles. This relationship between the BFE & elevation determines the
+flood insurance premium.
+Mortgage Lenders Responsibilities:
+A mortgage lender must:
+• Determine if a structure is located in a SFHA
+• Ensure a borrower has flood insurance if their structure is located in an SFHA
+• Require a borrower to escrow for flood insurance If the borrower currently escrows for taxes and
+insurance
+• Implement force placed insurance coverage after a 45-day notice period if the borrower lets their flood
+insurance lapse
+If there is a dispute between the borrower and the lender on the need for flood insurance, then FEMA can
+resolve the matter.
+3
+Pre-Closing,
+Closing, & Ti tle
+·-
+..
+·-
+--
+· -
+..
+Mortgage loan origi nators are expected to have an in-depth understanding of laws, terms, and procedures associated with
+residential mortgage industry. This chapter provides an extensive overview of how the industry works from a MLO perspective.
+=
+. I
+:IJ
+1
+Edition v.122220 | Ameritrain Mortgage Institute | All Rights Reserved
+Settlement Documents
+Settlement Documents
+There are two categories of documents in the settlement process. Documents that relate to a sale and
+documents that relate to a loan.
+Sale Loan
+Instrument Participants and Details Instrument Participants and Details
+Deed or • Instrument that transfers real • Mortgage • Instrument that shows the
+Warranty Deed property from a seller to a real estate as security for the
+buyer • Recorded loan
+Recorded • Seller signs the Deed and is • Borrower signs and is the
+the Grantor • Used mostly in a Mortgagor
+• Buyer is the Grantee Lien theory state • Lender is the Mortgagee
+• Deed of Trust • Instrument that shows the
+real estate as security for the
+• Recorded loan
+• Borrower signs and is the
+• Used in a Title Trustor
+Theory state • Third party is the Trustee
+• Lender is the Beneficiary
+2
+Settlement Documents
+The settlement agent will explain the following documents associated with the consummation and recording of a real
+estate transaction. At settlement, several of these documents are executed in accordance with a lender’s instructions and
+state law.
+• Certificate of Occupancy (CO) – A local city or county inspector provides this document as evidence a
+building met all building and zoning codes and regulations.
+• Deed – A deed transfers ownership of real property. The document lists the buyers’ and sellers’ names and
+the legal description of the property. The most common form of a deed is a warranty deed; as it certifies that
+the sellers will be liable if clear title is not available. Because the seller has warranted that it has no liens, and
+he or she has no liens, the property can be conveyed.
+• Deed in Lieu – A voluntary transfer of ownership to the lender in exchange for the release from liability on
+the loan. Happens when the borrower is no longer able to make payments and this will avoid a foreclosure if
+the lender agrees to the transfer and terminates the liability on the loan.
+• Deed of Trust – A deed of trust is a three-party security instrument for the transfer of real estate, which
+includes a beneficiary. Deed of trust is associated with a title theory state.
+• Deficiency Judgement – A lender may seek a deficiency judgement against a borrower after the sale of a
+foreclosed property if the lender did not receive enough from the sale to cover the outstanding balance.
+Lenders are required to disclose to the borrower if the state protects or does not protect the borrower from
+liability after foreclosure.
+• Deed Restrictions – Restricted use of the land that has been recorded in the county register. Restrictive
+covenants in a subdivision relating to elements like square footage limitations, color schemes, use of fencing,
+etc. are examples of deed restrictions.
+• Foreclosure – The process where a lender exercise the right to force the sale of a property that secures the
+loan when the borrower has reached the level of delinquency allowed by law to allow such right to be
+exercised.
+• Insurance – Homeowner’s Insurance is a requirement of a loan. It guarantees replacement of the
+improvements if loss occurs within the boundaries of the insurance policy. Includes fire, hazard and flood
+insurance.
+• Mortgage – The purpose of a mortgage is the creation of a voluntary lien that real estate collateralizes
+for the repayment of a debt. The mortgage is a two-party instrument including the mortgagor and
+mortgagee, and is associated with a lien theory state.
+• Note - Borrowers sign a separate promissory note giving a personal guarantee to repay the outstanding
+loan. The note is secured by the security property using the Deed of Trust or Mortgage. It is not a
+recorded document.
+• Satisfaction of Mortgage – In a state where the mortgage is the recorded instrument, the Satisfaction of
+Mortgage is evidence that the debt has been paid and the lien has been extinguished.
+• Survey – A survey is a plan that outlines the boundaries and measurements of a property. It includes all
+barriers, driveways and all buildings located on the property.
+• Title Insurance (Lender) – Title insurance is a policy that protects the lender against any liens or
+encumbrances that may affect the title. This policy is a transferable one-time payment at settlement
+where the lender coverage decreases as the outstanding liability decreases.
+• Title insurance (Owner - Optional) – Title insurance policy protects the owner against existing defects
+against the title that may have been missed in the title examination. It is not transferable. This is a one-
+time payment at settlement.
+• Transfer tax is a tax charged by a city or county when a title to real property is transferred to a new
+party.
+3
+Settlement Process
+The settlement process includes the executing of the legal documents associated with the real estate
+transaction.
+▪ The process is facilitated by a closing agent who may be an attorney, settlement agent, notary, escrow
+agent etc.
+▪ Includes the collection and transfer of money from the buyer to the seller in a purchase transaction or
+the payoff and transfer of funds between lenders and borrowers in a refinance transaction
+▪ Includes executing documents and the collection of fees for title insurance, property insurance,
+government fees, wire fees and other related fees
+▪ The Closing Disclosure is the documents that is provided to the applicant, generally by the lender, at
+least 3 business days before closing. This document reflects the actual final totals relating to items
+disclosed on the Loan Estimate. The lender may choose to use the settlement agent to review the
+Closing Disclosure at the time of consummation when the legal documents are executed.
+▪ Other documents that are executed at the time of consummation are the:
+o Promissory note – applicant’s promise to pay based on the terms in the note
+o Deed - the instrument transferring the ownership of the property. This document is recorded.
+o Mortgage or Deed-of-Trust – security instruments associated with the loan. These documents
+are recorded.
+Closing Agent
+A closing agent, also known as a settlement agent, is an impartial third party that oversees the finalization of a
+real estate transaction. Closing agents execute the documents related to finalizing the transaction including the
+collection and distribution of funds and recording of the documents. Closing agents are either a title company,
+escrow agent, attorney, or notary. The document used to reconcile the transaction is a Closing Disclosure (CD).
+There is a CD for the borrower; which is the responsibility of the lender, and a CD for the seller; which is the
+responsibility of the closing agent.
+Explanation of Fees
+Settlement fees include:
+▪ Origination for the lender and/or the broker (underwriting, processing, wire, etc.)
+▪ Third party vendor
+o Closing agent
+o Title related
+o Government related, transfer taxes, intangible tax, and recording
+▪ Prepaid items like homeowner’s policy paid at closing and per diem interest
+▪ Setup an escrow account
+4
+Many states follow the guidelines of the wet settlement act, which requires lenders to provide funds to settle
+all loans at the time of closing. This ensures that a settlement agent can disburse funds to all parties of the
+transaction. In wet funding or non-escrow states, funds to settle the loan are sent to the settlement agent prior
+to the borrower signing all closing documents and all parties meeting for the closing. All conditions must be
+satisfied before the lender gives permission to the settlement agent to release funds.
+Dry settlement, or escrow, states operate differently from wet funding states. In these states, a borrower must
+first sign closing documentation and then bring any required funds to settle the loan at closing. The settlement
+agent then sends several signed documents for review to the lender. Once the lender determines the loan is in
+order, funds are wired to the escrow account of the settlement agent for disbursement. In essence, a borrower
+can still have outstanding conditions prior to funding in dry funding states.
+Table funding: Mortgage brokers can close loans in the broker’s name. The funds are provided by the lender at
+closing. The mortgage broker transfers the loan to the funding lender at closing. This is not a secondary market
+transaction and no service release premium is earned.
+Acceptable Funds at Settlement
+Depending on state law, the following are examples of good funds that a settlement agent may accept from a
+buyer or seller at closing:
+1. Certified bank check
+2. Bank Cashier’s check
+3. Certified credit union check
+4. Check from an attorney’s escrow or trust account
+5. Wired funds credited to the closing attorney’s escrow account
+The following are examples of what is NOT acceptable as good funds.
+1. A personal check
+2. A mutual fund or money market check
+3. An out-of-state attorney’s check
+4. A credit union check
+Whose name should be on the check?
+Borrowers should have checks payable to themselves, which they can then endorse over to the settlement
+agent at closing.
+5
+Preparing the Borrower for Closing
+Borrower Checklist
+1. Certified Funds – Many states comply with the wet settlement act. A borrower must bring good funds to the
+closing. The Borrower will be given instructions by the Closing Attorney or Closing Agent of an Escrow Company,
+as to the form and amount of funds that should be brought to closing.
+2. The borrowers should also bring their checkbook in the event additional funds are needed.
+3. Picture Identification - Some form of picture identification will be required from each borrower at closing – a
+driver’s license or passport is acceptable. If the borrower has neither, the settlement agent will need prior
+approval of any alternative identification.
+4. Proof of Insurance or Original homeowner’s insurance policy (Fire or Hazard Policy)– In some instances the
+borrower can bring an acceptable insurance policy in an amount deemed necessary by the lender, and not less
+than an amount sufficient to replace improvements on the property to cover the first year’s premium. It must
+have a proper mortgagee clause. In most instances, the insurance company will provide an insurance binder in an
+amount to be adequate to replace all improvements on the property. It is customary to verify adequate
+insurance is available and paid in full before the loan can close.
+5. Power of Attorney or Attorney-In-Fact – A power of attorney, also known as a general power of attorney, gives
+an individual the right to represent the physical, financial or legal interests of a particular person. Typically, the
+lender will only allow the use of a specific power of attorney in real estate transactions. This gives the power of
+attorney an ability to sign closing documents for the subject property only. The power of attorney document
+must receive lender and attorney or escrow approval prior to closing. Settlement Agents will require the original
+specific power of attorney document with original signatures prior to closing. Copies of the form are not
+acceptable. The settlement attorney will record the original document along with the warranty deed and other
+closing documents.
+6. Any closing conditions required by the lender, such as pay stubs or a gift letter, must be brought to the closing.
+7. Other required documents – This could include an original termite letter or applicable septic and well water
+inspections.
+Seller Checklist
+1. Picture Identification - Some form of picture identification will be required from each borrower at closing,
+whether it be a driver’s license or passport. If the borrower has neither, prior approval of alternative
+identification from the attorney is required.
+2. Power of Attorney – Usually a power of attorney for the seller does not require lender approval, but must be in
+an acceptable form requested by the settlement agent.
+3. House keys and garage door openers
+4. Other documents - Original termite letter (if applicable) and septic and well water inspections (if applicable).
+5. Certificate of Occupancy (CO) – This document is issued by the county for newly constructed or renovated
+homes. If the seller is a builder, a CO will be required at closing.
+6

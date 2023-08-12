@@ -1,0 +1,1072 @@
+Upon completion of the chapter, you will be able to:
+• Understand a summary of RESPA-TILA-TRID
+• Understand a summary of ECOA
+• Review ATR/QM
+• Review HOEPA/HPML
+Chapter Introduction
+Now that you have completed your study of the various elements of the
+mortgage process, we can now address specific areas of review. This
+assessment should assist you with transferring newly acquired
+information to long term memory, the basis for developing the ability to
+apply the knowledge to answer complex and scenario based
+questions. In this module we will review the basic elements of federal
+laws and critical numbers that are important in the residential mortgage
+industry.
+1
+Real Estate Settlement Procedures Act (RESPA)
+• Regulation X.
+• Administered by CFPB (Originally administered by HUD).
+• Covers one-to-four family residential property.
+• TILA-RESPA Integrated Disclosure Rule (TRID) amended RESPA Sections 4 and 5 disclosure requirements.
+• RESPA Disclosure Requirements:
+o limited to reverse mortgage loans.
+o loans made by a creditor who makes five or fewer loans in a year.
+• All other RESPA disclosure requirements apply to loans covered under RESPA and TRID.
+Purpose
+• To help consumers become better shoppers for settlement services.
+• To eliminate kickbacks and referral fees (RESPA Section 8).
+RESPA Required Disclosures
+When borrowers apply for a mortgage loan, mortgage brokers and/or lenders must give the borrowers:
+• RESPA Section 4: HUD-1 Settlement Statement: Required at closing or settlement. Amended under TRID.
+• RESPA SECTION 5: Special Information Booklet, Required for purchase transactions only, three days
+after receiving the loan application. Amended under TRID.
+• RESPA SECTION 5: Good Faith Estimate (GFE) of settlement costs required three days afterreceiving
+the loan application. Amended under TRID.
+• RESPA Section 6: Mortgage Servicing Disclosure Statement
+o Discloses to the borrower whether the lender intends to service the loan or transfer it to another
+lender and is required within three business days of receiving a loan application for a mortgage
+servicing loan
+o It must indicate whether the servicing of the loan may be assigned, sold, or transferred to any other
+person at any time while the loan is outstanding.
+Each transferor servicer and transferee servicer of any mortgage servicing loan shall deliver to the
+borrower a written Notice of Transfer, of any assignment, sale, or transfer of the servicing of the loan.
+2
+Transfer of existing servicing
+• The transferor must deliver notice to the borrower no less than 15 days before the effective date of the
+transfer of the servicing of the mortgage servicing loan.
+• The transferee must deliver the notice to the borrower no more than 15 days after the effective date of the
+transfer.
+Consumer protection during transfer of servicing
+• If during the 60-day period, beginning on the effective date of transfer, a servicer receives payment on
+or before the applicable due date:
+o a late fee may not be imposed on the borrower with respect to that payment
+o the payment may not be treated as late for any other purposes
+Duty of loan servicer to respond to borrower inquiries
+• 5 business days – a servicer must acknowledge a written request from a borrower
+• 30 business days – a servicer must take action on a qualified written request from a borrower
+A servicer must notify a borrower of any delinquency by the 36th day of the delinquency on the loan payment.
+Affiliated Business Arrangement (ABA) Disclosure
+Required whenever a settlement service provider involved in a RESPA covered transaction refers the
+consumer to a provider with whom the referring party:
+▪ Has a greater than 1% ownership or other beneficial interest.
+▪ The parties have an Associate relationship, meaning the transaction would not qualify as “arms-length.”
+▪ Disclosure required at or before the time of the referral.
+RESPA Section 8 Violations – Prohibition Against Kickbacks & Unearned Fees
+• Any referral of a settlement service is not a compensable service.
+• A business entity, whether or not in an affiliate relationship, may not pay any other business entity or the
+employees of any other business entity for the referral of settlement service business.
+• For a federally-related mortgage loan, payments may only be received for services actually performed.
+• The term payment is synonymous with the giving or receiving any "thing of value,'' and does not require transfer
+of money.
+RESPA permits:
+• An employer's payment to his or her own employees for any referral activities.
+▪ Examples of service providers (federally related mortgage loans):
+o Attorney, Real Estate Agent, MLO, Appraiser, Surveyor, Title Insurance Agent, etc.
+3
+Record Keeping, Violations, Enforcement
+Record keeping
+Any documents provided pursuant to this section shall be retained for five (5) years from the date of
+execution.
+Violations of Section 8
+Violations of Section 8 anti-kickback provisions fines can be up to $10,000 and/or imprisonment up to one
+year. For civil law suits, liability is limited up to three times of the charge paid for the service. Civil penalties
+may include up to three times the amount of the service received.
+RESPA Section 9: Seller Required Title Insurance
+RESPA prohibits a seller from requiring the home buyer to use a particular title insurance company.
+RESPA Section 10: Escrow Accounts
+Initial Escrow Statement – itemizes the estimated taxes, insurance premiums, and other charges anticipated
+to be paid from the Escrow Account during the first twelve months of the loan. Required at closing or within
+45 days of closing.
+Annual Escrow Statement – provides an estimate of the escrows once a year. Due within 30 days of end of
+calendar year.
+4
+Truth-in-Lending Act (TILA)
+• Regulation Z.
+• Title 1 of the Consumer Credit Protection Act.
+• Originally under the authority of the Federal Reserve Board.
+• Now under Consumer Financial Protection Bureau (CFPB).
+• Promotes the informed use of consumer credit by requiring disclosures about its terms and cost.
+• Amended under TRID.
+• CFPB amended Regulation Z early and closing TILA disclosures by integrating them with RESPA Sections 4 and 5
+disclosures effective October 3, 2015.
+Coverage of Regulation Z
+Regulation Z applies to each individual or business that offers or extends credit when key conditions are met:
+• The credit is offered or extended to consumers.
+• The credit is subject to a finance charge or is payable by a written agreement in more than four
+installments.
+• The credit is primarily for personal, family, or household purposes.
+Definitions
+Terms Definitions
+Consumer A natural person to whom consumer credit is offered or extended.
+Consummation The time that a consumer becomes contractually obligated on a credit
+transaction. Generally when the promissory note is signed. May be a different
+date from the settlement (RESPA) or closing date.
+Creditor A person:
+(A) Who regularly extends consumer credit that is subject to a finance charge
+or is payable by written agreement in more than four installments, not
+including a down payment.
+(B) To whom the obligation is initially payable, either on the face of the note or
+contract, or by agreement when there is no note or contract.
+Does not include a person that does not extend credit more than 5
+times within a year.
+Finance Charge Finance charge is the cost of consumer credit as a dollar amount. It includes
+any charge payable directly or indirectly by the consumer and
+imposed directly or indirectly by the creditor as a condition of the
+extension of credit.
+Periodic rate A rate of finance charge that is or may be imposed by a creditor on a balance
+for a day, week, month, or other subdivision of a year.
+Person Means a natural person or an organization, including a corporation,
+partnership, proprietorship, association, cooperative, estate, trust,
+or
+government unit.
+5
+Open End Credit
+Same as Home Equity Line of Credit (HELOC).A revolving account secured by the equity in real property.
+Early Disclosures (Due at time of application)
+• Application Disclosure
+• HELOC Brochure
+Tax Deductibility
+• A consumer must consult a tax advisor regarding the deductibility of interest and charges for the HELOC
+Account.
+• An MLO is acting outside the scope of his or her authority if tax advice or any other specialized advice outside of
+mortgage loan origination is provided.
+Closed –End Transactions
+Disclosures
+(a) Creditor - The identity of the creditor making the disclosures
+(b) Amount Financed - the amount of credit provided to you or on your behalf.
+(c) Finance Charge - the dollar amount the credit will cost you.
+(d) Annual Percentage Rate - the cost of your credit as a yearly rate.
+Pre-payment - Loan documents that disclose the prepayment penalty are the TIL disclosure, Good Faith
+Estimate, HUD1, Loan Estimate, Closing Disclosure, and the note.
+Balloon Payment - a payment that is more than two times a regular periodic payment.
+Variable Rate (ARMs) – If an ARM transaction, the consumer must be provided with:
+• the booklet titled Consumer Handbook on Adjustable-Rate Mortgages (CHARM).
+• a loan program disclosure for each variable-rate program in which the consumer expresses an interest.
+Determination of Annual Percentage Rate
+(1) The annual percentage rate is a measure of the cost of credit, expressed as a yearly rate.
+(2) The annual percentage rate shall be considered accurate if it is not more than 1/8 of 1 percentage point
+above or below the annual percentage rate determined for regular transactions as disclosed in the early
+disclosures.
+(3) In an irregular transaction, the annual percentage rate shall be considered accurate if it is not more than
+1/4 of1 percentage point above or below the annual percentage rate determined in the early disclosures.
+6
+Right of Rescission
+Consumer’s right to rescind
+1. A credit transaction (refinance or secondary financing) involving a consumer's principal dwelling only.
+2. Each consumer who has ownership interest has the right to rescind the transaction.
+3. May exercise the right to rescind until midnight of the third business day (mailbox rule) following:
+o consummation.
+o delivery of the notice.
+o delivery of all material disclosures, whichever occurs last.
+Notification of Rescission
+The consumer shall notify the creditor of the rescission by:
+o mail
+o other means of written communication
+Notice is considered given when:
+o mailed
+o filed for electronic transmission
+o sent by other means
+4. When more than one consumer in a transaction has the right to rescind, the exercise of the
+right by one consumer shall be effective as to all consumers.
+5. A creditor shall deliver two copies of the notice of the right to rescind to each consumer entitled to
+rescind (one copy to each if the notice is delivered in electronic form).
+6. Within 20 calendar days after receipt of a notice of rescission, the creditor shall return any money or
+property that has been given to anyone in connection with the transaction and shall take any action
+necessary to reflect the termination of the security interest.
+7. If the required notice or material disclosures are not delivered, the right to rescind shall expire three
+years after consummation.
+Record Retention
+A creditor must retain evidence of compliance with this regulation, other than advertising requirements, for 2 years
+after the date disclosures are required to be made or action is required to be taken.
+Penalties
+In the case of an individual action relating to a closed-end transaction secured by real property or a dwelling: either
+minimum $400, and maximum $4,000, or, in the case of a class action, such amount as the court may allow, no
+minimum per each member of the class, and the total recovery in any class action, or series of class actions, arising out
+of the same failure to comply by the same creditor may not be more than the lesser of $1,000,000 or 1% of the net
+worth of the creditor.
+7
+Equal Credit Opportunity Act (ECOA)
+• Regulation B
+• Administered by CFPB
+• Covers both individuals and businesses
+Purpose
+• The purpose of this part is to promote the availability of credit to all creditworthy applicants without regard to
+race, color, religion, national origin, sex, marital status, or age (provided the applicant has the capacity to
+contract).
+• Requires creditors to notify applicants of action taken on their application.
+• Requires creditors to report credit history in the names of both spouses on an account.
+• Prohibits creditor practices that discriminate on the basis of any of the prohibited factors.
+• Requires creditors to provide applicants with copies of appraisal reports used in connection with credit
+transactions.
+General Rules
+• Discrimination.
+A creditor shall not discriminate against an applicant on a prohibited basis regarding any aspect of a credit
+transaction.
+• Discouragement.
+A creditor shall not make any oral or written statement, in advertising or otherwise, to applicants or prospective
+applicants that would discourage on a prohibited basis a reasonable person from
+making or pursuing an application.
+• Marital status
+ECOA only considers married, unmarried, and separated as a marital status. Divorced, single, and widowed
+are not ECOA categories.
+• Disparate treatment
+Occurs when a creditor treats an applicant differently based on a prohibited basis.
+8
+General Rules concerning use of information
+A creditor shall not take a prohibited basis into account in any system of evaluating the creditworthiness of
+applicants.
+• The age of an elderly applicant may be considered when such age is used to favor the elderly applicant in
+extending credit.
+• Childbearing, childrearing may not be considered in evaluating creditworthiness or the potential for diminished
+income in the future.
+• A creditor shall not take into account whether there is a telephone listing in the name of an applicant for
+consumer credit but may take into account whether there is a telephone in the applicant's residence.
+• Immigration status. A creditor may consider the applicant's immigration status, or status as a permanent
+resident of the United States, and any additional information that may be necessary to ascertain the
+creditor's rights and remedies regarding repayment.
+• A creditor shall evaluate married and unmarried applicants by the same standards.
+• In evaluating joint applicants, a creditor shall not treat applicants differently based on the existence, absence, or
+likelihood of a marital relationship between the parties.
+ECOA Required Disclosures
+Notification of action taken, ECOA notice, and statement of specific reason.
+• Requires the creditor to notify applicant within 30 days after receiving a completed application.
+• Requires the creditor to notify the applicant 30 days after taking adverse action.
+• 90 days after notifying the applicant of a counteroffer if the applicant does not expressly accept or use the credit
+offered.
+Content of notification when adverse action is taken.
+• Notification must be in writing.
+• Must contain a statement of the action taken.
+• The name and address of the creditor.
+• The name and address of the Federal agency that administers compliance with respect to the creditor.
+• A statement of specific reasons for the action taken.
+• A disclosure of the applicant's right to a statement of specific reasons within 30 days, if the statement is
+requested within 60 days of the creditor's notification. The disclosure shall include the name, address, and
+telephone number of the person or office from which the statement of reasons can be obtained. If the creditor
+chooses to provide the reasons orally, the creditor shall also disclose the applicant's right to have them
+confirmed in writing within 30 days of receiving the applicant's written request for confirmation. (30 60 30 rule)
+9
+Appraisal notifications
+• Provide a notice of the right to receive a copy of the appraisal within 3 business days of receiving an application
+for credit.
+• Provide a copy of the appraisal no later than 3 days prior to consummation.
+• Provide a copy of the appraisal no later than 30 days after determining the loan will not close.
+Record Keeping, Violations, Enforcement
+Record keeping
+Documents must be retained for 25 months.
+Violations of ECOA
+• Civil liability for actual damages.
+• Civil liability for punitive damages.
+Punitive damages are limited to non-government entities and are capped as follows:
+▪ The lesser of $500,000 or 1% of a creditor’s net worth in a class action lawsuit.
+▪ $10,000 on an individual claim.
+10
+TILA-RESPA Integrated Disclosure Overview
+RESPA & TILA TRID
+(October 3, 2015)
+Initial Loan Estimate
+{5 Loans or Fewer) ( 6 Loans or More)
+• 3 Business Days after
+Application
+• 7 Business Days before
+Good Faith Estimate Closing
+• 10 Business Days terms
+(RESPA} Loan Estimate (LE)
+available
+{Combines GFE and Early TIL Revised LE
+Disclosure)
+• 3 Business Days after
+Early TIL Disclosure knowing the change
+• 4 Business days before
+{TILA}
+closing
+Form H-24 • 7 Business days before
+closing (if altered)
+• Never after CD
+Special Information Repla ed by Tool Kit • Not on Same Day as CD
+Booklet (TRIO)
+(RESPA) {3 Business Days after
+AlmlicotionJ
+HUD 1 & HUD lA
+• 3 Business Days
+Closing Disdosure (CD)
+before Closing
+(RESPA}
+(Combines HUD 1 and Final
+Tll Disclosure)
+Final TIL Disclosure
+Form H-25
+(TILA)
+11
+Disclosure RESPA TILA TRID ECOA Transaction Timing Citation
+Application X X 6 Items of Info (TRID) Considered CFR 1024
+A-Address received when all CFR 1026
+L-Loan Amount items have been
+I-Income received
+E-Estimated Value
+N-Name
+S-Social Security
+Number
+Good Faith X Closed-end loan 3 business days CFR 1024
+Estimate when creditor makes after receiving
+(GFE) 5 or fewer loans application
+annually and reverse
+RESPA mortgages
+Section 5
+Early TILA X Closed-end loan 3 business days CFR 1026
+Disclosure after receiving
+(TIL) application
+Special X Closed-end loan 3 business days CFR 1024
+Information purchase after receiving
+Booklet transactions when application
+creditor makes 5 or
+RESPA fewer loans annually
+Section 5
+(Explains GFE
+& HUD 1)
+Servicing X X All federally related 3 business days CFR 1024
+Disclosure mortgage loans after receiving
+loan application
+RESPA
+Section 6
+Homeowners X X X All federally related 3 business days CFR 1024
+hip mortgage loans after receiving CFR 1026
+counseling application
+list
+Right to X X Closed-end loans 3 business days CFR Part 1002
+Receive Copy after receiving
+of Appraisal application
+Disclosure
+12
+Disclosure RESPA TILA TRID ECOA Transaction Timing Citation
+Loan X • Closed-end loans • 3 business days (any CFR 1026
+Estimate (LE) attached to real day open for
+initial estate (6 or more business) after
+loans annually) receiving TRID
+• Construction loans version of loan
+3-page
+• Raw land application
+document
+• Land more than 25 • 7 business days
+acres before
+Combines
+consummation
+the RESPA
+(mailbox rule)
+GFE and the
+• Terms available
+early TILA minimum 10
+disclosure business days
+(except interest
+rate)
+• No fees, except
+credit report, can be
+collected before LE
+provided
+Tool Kit X Closed-end loans 3 business days after
+(Explains LE purchased attached receiving the
+& CD) to real estate (> 5 application
+loans annually)
+Replaces the
+RESPA
+Special
+Information
+booklet
+CHARM X X Adjustable Rate 3 business days CFR 1026
+Booklet Mortgages (ARMs) after application
+received
+Consumer
+Handbook on
+Adjustable
+Rate
+Mortgages
+Specific X X Adjustable Rate 3 business days CFR 1026
+Program Mortgages (ARMs) after application
+Disclosure received
+13
+Disclosure RESPA TILA TRID ECOA Transaction Timing Citation
+Loan X • Closed-end loans • Change CFR 1026
+Estimate (LE) attached to real circumstance
+Revised estate (6 or more • 3 business days
+loans annually) after knowing
+• Construction loans about the change
+• Raw land • 4 days before
+• Land more than 25 consummation
+acres • 7 business days
+before
+consummation, if
+mailed
+• Never on same
+day as CD
+• Never after CD
+provided
+HUD1 & X Closed-end loan At closing or CFR 1024
+HUD1 A when creditor makes settlement
+5 or fewer loans
+RESPA annually and reverse
+Section 4 mortgage
+Final TILA X Closed-end loans At closing or CFR 1026
+Disclosure settlement
+(TIL)
+Closing X • Closed-end loans • 3 business days CFR 1026
+Disclosure attached to real (mailbox rule)
+(CD) estate (> 5 loans before
+annually) consummation
+• Construction loans • Additional 3 days
+5-page
+• Raw land if:
+document
+• Land more than 25 1. APR changes by
+acres > 1/8th
+Combines
+• Timeshares 2. loan program
+the RESPA
+changes
+HUD1 and
+3. a prepayment
+the final TILA
+penalty added
+disclosure • Disclosed next day
+after revised LE
+provided
+• One day before
+consummation if
+borrower requests
+• Can change up to
+time of
+consummation
+• Can change after
+consummation
+14
+Disclosure RESPA TILA TRID ECOA Transaction Timing Citation
+Affiliated X All federally related • No later than CFR 1024
+Arrangement mortgage loans when a referral is
+Disclosure made to a
+company where
+greater than 1%
+ownership exists
+• An Associate
+relationship
+transaction
+Initial Escrow X All federally related Generally, at CFR 1024
+Disclosure mortgage loans closing
+where escrows exist
+Annual X All federally related Annually CFR 1024
+Escrow mortgage loans
+Disclosure where escrows exist
+Copy of X All mortgage loans • 3 business days CFR Part 1002
+Appraisal (cannot charge for before closing
+copy of appraisal) • Within 30 days if
+loan does not
+close
+15
+1
+Edition v.122220 | Ameritrain Mortgage Institute | All Rights Reserved
+Fair Lending Laws
+Fair Lending Laws -The three primary fair lending laws that regulate the residential mortgage industry are:
+1. The Equal Credit Opportunity Act (ECOA) – addresses fairness in the application process, the extension of
+credit, and appraisal disclosure requirements.
+2. The Fair Housing Act (FH Act) – addresses fairness in the extension of credit relating to housing and other
+housing related discrimination practices.
+3. The Home Mortgage Disclosure Act (HMDA) – addresses patterns of discrimination
+EQUAL CREDIT OPPORTUNITY ACT (REGULATION B) CFR 1002.
+Equal Credit Opportunity Act (Title VII of the Consumer Credit Protection Act)
+Purpose
+▪ Promote the availability of credit to all creditworthy applicants.
+▪ Prohibits discrimination on the basis of race, color, religion, national origin, sex, marital status, age, receipt of
+public assistance, or good faith exercise of any rights under the Consumer Credit Protection Act.
+▪ The Act also requires creditors to provide applicants, upon request, with the reasons underlying decisions to deny
+credit.
+▪ A requirement that creditors provide to applicants a copy of all appraisals and other written valuations used in
+connection with the applicant’s application for first lien loans secured by a dwelling.
+The regulation also requires creditors:
+▪ to notify applicants of action taken on their applications
+▪ to report credit history in the names of both spouses on an account
+▪ to retain records of credit applications
+▪ to collect information about the applicant's race and other personal characteristics in applications for certain
+dwelling-related loans for monitoring and federal law purposes
+▪ to provide applicants with copies of appraisal reports used in connection with credit transactions
+A completed application - An application which a creditor has received all the information that the creditor regularly
+obtains and considers in evaluating applications for the amount and type of credit requested including, but not limited to:
+▪ credit reports
+▪ any additional information requested from the applicant
+▪ any approvals or reports by governmental agencies or other persons that are necessary to guarantee, insure, or
+provide security for the credit or collateral
+Credit transaction - Every aspect of an applicant's dealings with a creditor regarding an application for credit or an
+existing extension of credit including, but not limited to:
+▪ information requirements
+▪ investigation procedures
+▪ standards of creditworthiness
+▪ terms of credit
+▪ furnishing of credit information, revocation, alteration, or termination of credit, and collection procedures
+Elderly - means age 62 or older.
+Marital status
+▪ The state of being unmarried, married, or separated, as defined by applicable state law.
+▪ The term “unmarried” includes persons who are single, divorced, or widowed.
+2
+ECOA
+1002.4
+General rules.
+Discrimination.
+▪ A creditor shall not discriminate against an applicant on a prohibited basis regarding any aspect of a credit
+transaction.
+Discouragement.
+▪ A creditor shall not make any oral or written statement, in advertising or otherwise, to applicants or prospective
+applicants that would discourage on a prohibited basis a reasonable person from making or pursuing an application.
+Written applications.
+▪ A creditor shall take written applications for the dwelling-related types of credit.
+Form of disclosures
+▪ A creditor that provides in writing any disclosures or information required must provide the disclosures in a clear
+and conspicuous manner in a form the applicant may retain.
+▪ The uniform residential Loan Application, Fannie Mae form 1003, and Freddie Mac form 65 are acceptable forms
+to meet this requirement. The form 1003 is considered the industry standard.
+1002.5
+Rules concerning requests for information.
+Requests for information.
+A creditor may request any information in connection with a credit transaction as long as the creditor does not violate any
+Federal or state law regarding privacy, privileged information, credit reporting limitations, or similar restrictions on
+obtainable information.
+Required collection of information.
+▪ A creditor shall request information for monitoring purposes for credit secured by the applicant's dwelling.
+▪ A creditor may obtain information required by a regulation, order, or agreement issued by, or entered into with, a
+court or an enforcement agency, including the Attorney General of the United States or a similar state official, to
+monitor or enforce compliance with this law Act or other Federal or state statutes or regulations.
+Limitation on information about race, color, religion, national origin, or sex.
+A creditor shall not inquire about the race, color, religion, national origin, or sex of an applicant or any other person in
+connection with a credit transaction, except to monitor or enforce compliance with federal or state regulations.
+Information about a spouse or former spouse
+A creditor may request information concerning the spouse or former spouse of an applicant under the following:
+▪ The spouse will be permitted to use the account.
+▪ The spouse will be contractually liable on the account.
+▪ The applicant is relying on the spouse's income as a basis for repayment of the credit requested.
+▪ The applicant resides in a community property state or is relying on property located in such a state as a basis for
+repayment of the credit requested.
+▪ The applicant is relying on alimony, child support, or separate maintenance payments from a spouse or former
+spouse as a basis for repayment of the credit requested.
+3
+ECOA
+Disclosure about income from alimony, child support, or separate maintenance.
+A creditor shall not inquire whether income stated in an application is derived from
+▪ Alimony
+▪ Child support
+▪ Separate maintenance payments
+Unless the creditor discloses to the applicant that such income need not be revealed if the applicant does not want the
+creditor to consider it in determining the applicant's creditworthiness.
+Childbearing, childrearing. A creditor shall not inquire about:
+▪ birth control practices
+▪ intentions concerning the bearing or rearing of children
+▪ capability to bear children
+A creditor may inquire about the following, provided such information is requested without regard to sex, marital status,
+or any other prohibited basis:
+▪ the number and ages of an applicant's dependents
+▪ about dependent-related financial obligations or expenditures
+Permanent residency and immigration status.
+▪ A creditor may inquire about the permanent residency and immigration status of an applicant or any other person
+in connection with a credit transaction.
+Income.
+A creditor shall not discount or exclude from consideration the income of an applicant or the spouse of an applicant because
+of a prohibited basis
+▪ because the income is derived from part-time employment.
+▪ is an annuity, pension, or other retirement benefit.
+▪ a creditor may consider the amount and probable continuance of any income in evaluating an applicant's
+creditworthiness.
+When an applicant relies on alimony, child support, or separate maintenance payments in applying for credit, the creditor
+shall consider such payments as income to the extent that they are likely to be consistently made.
+Credit history.
+To the extent that a creditor considers credit history in evaluating the creditworthiness of similarly qualified applicants for
+a similar type and amount of credit, in evaluating an applicant's creditworthiness, a creditor shall consider:
+▪ The credit history, when available, of accounts designated as accounts that the applicant and the applicant's spouse
+are permitted to use, or for which both are contractually liable.
+▪ On the applicant's request, any information the applicant may present that tends to indicate the credit history
+being considered by the creditor does not accurately reflect the applicant's creditworthiness.
+▪ On the applicant's request, the credit history, when available, of any account reported in the name of the
+applicant's spouse or former spouse, that the applicant can demonstrate, accurately reflects the applicant's
+creditworthiness.
+Insurance.
+A creditor shall not refuse to extend credit and shall not terminate an account because of the applicant’s age for the
+following reasons:
+▪ credit life ▪ accident
+▪ health ▪ disability
+4
+1002.9
+Notifications.
+Notification of action taken, ECOA notice, and statement of specific
+reasons. When notification is required.
+A creditor shall notify an applicant of action taken within:
+• 30 days after receiving a completed application concerning the creditor's approval of, counteroffer to,
+or adverse action on the application.
+• 30 days after taking adverse action on an incomplete application or a notice that the applicant can request
+within.
+• 60 days the specific reasons for the denial.
+• 30 days after taking adverse action on an existing account.
+• 90 days after notifying the applicant of a counteroffer if the applicant does not expressly accept or use
+the credit offered.
+(2) Content of notification when adverse action is taken.
+Shall be in writing and shall contain:
+▪ A statement of the action taken.
+▪ The name and address of the creditor.
+▪ The name and address of the Federal agency that administers compliance with respect to the creditor.
+▪ If the creditor chooses to provide the reasons orally, the creditor shall also disclose the applicant's right to have
+them confirmed in writing within 30 days of receiving the applicant's written request for confirmation.
+1002.12
+Record retention.
+Retention of prohibited information. A creditor may retain in its files information that is prohibited for use in evaluating
+applications, without violating the Act, if the information was obtained:
+▪ from consumer reporting agencies
+▪ from an applicant
+▪ or from others without the specific request of the creditor
+▪ or to monitor compliance with the Act and or other Federal or state statutes or regulations
+Preservation of records
+Applications.
+For 25 months after the date that a creditor notifies a consumer applicant of action taken on an application.
+5
+1002.13
+Information for monitoring purposes.
+Information to be requested.
+A creditor that receives an application for credit primarily for the:
+▪ purchase or refinancing of a dwelling occupied, or to be occupied by, the applicant as a principal residence
+▪ where the extension of credit will be secured by the dwelling, shall request as part of the application the
+following information regarding the applicant(s):
+Ethnicity:
+using the categories:
+▪ Hispanic or Latino
+▪ not Hispanic or Latino
+Race:
+using the categories:
+▪ American Indian or Alaska
+Native
+▪ Asian
+▪ Black or African American
+▪ Native Hawaiian or other
+Pacific Islander
+▪ White
+Sex:
+Marital status, using the categories
+▪ Married
+▪ Unmarried
+▪ separated
+Age.
+Redlining
+Making a geographical decision not to lend in a particular area. A violation of ECOA occurs because the credit may become
+unavailable to all credit worthy applicants that may reside in that area
+Reverse redlining
+Is a violation of ECOA because a geographic area is targeted because it may have a high percentage of credit challenged
+consumers and the creditor targets the area for purposes of predatory and abusive lending practices.
+6
+Fair Housing Act
+FAIR HOUSING ACT (as amended) (Title VIII of the 1968 Civil Rights Act) Sec. 800. [42 U.S.C. 3601 note] Short Title
+This title may be cited as the "Fair Housing Act". Sec. 801. [42 U.S.C. 3601]
+Another of the Fair Lending laws that impact residential lending and the behavior of mortgage professionals is
+the Fair Housing Act, which is also known as Title VIII of the Civil Rights act of 1968. The Department of Housing
+and Development (HUD) is responsible for the enforcement of the act. Since HUD is also responsible for the
+Federal Housing Administration (FHA), the Fair Housing Act is referred to as the FH Act to avoid confusion.
+Congress passed this act to address the problem of unlawful discrimination in housing based on a number of
+prohibited factors.
+Some important definitions used relating the FH Act are:
+Blockbusting
+The practice of realtors using scare methods to get homeowners to sell their properties at a deflated price by
+telling them that members of a particular class, for example, race, nationality or color, are moving into their
+neighborhood and that they should sell before their home values drop. Although lending professionals are
+typically not directly involved in this scheme it is important for mortgage loan originators to understand the
+practice and avoid being a beneficiary of the illegal activity.
+Familiar Status
+A protected class added to the FH Act in 1988. This protection against housing discrimination applies to any
+person who is pregnant or in the process of securing legal custody of any individual who is under the age of 18,
+including the person under the age of 18. Discrimination of this nature applies to refusing housing opportunities
+because of the existence, or likely existence, of children occupying the premises.
+Handicap
+Another protected class added to the FH Act in 1988. A person with a physical or mental impairment which
+substantially limits the capacity of that individual to navigate one or more major life activities. Handicap does
+not include a person addicted to a controlled substance such as a heroin addict.
+Redlining
+The discriminatory practice of lenders deciding not to make loans in certain geographic areas because the lender
+has concluded that these areas are high-risk areas. The offensive aspect of this practice relates to the fact that
+frequently the redlined areas involve portions of the city inhabited by minority group members. The illegal aspect
+of this practice is that credit-worthy residents within the area are denied access to loans for housing because of
+redlining.
+Reverse Redlining
+The illegal practice of targeting residents within a particular geographic location for predatory lending practices
+because they are potentially high-risk borrowers.
+Steering
+A potential customer is either encouraged or discouraged from purchasing housing in a particular area or
+community because of the agent's actions or lender’s actions. This is a violation of the FH Act because the
+customer has the right to full access and this right should not be interfered with based on a prohibited basis.
+7
+Discrimination in Residential Real Estate-Related Transaction Sec. 805. [42 U.S.C. 3605]
+In general it is unlawful for any person or other entity whose business includes engaging in residential real
+estate-related transactions to discriminate against any person in making available such a transaction, or in the
+terms or conditions of such a transaction, because of:
+▪ Race
+▪ Color
+▪ Religion
+▪ Sex
+▪ Handicap
+▪ Familial status
+▪ National origin
+Residential real estate-related transaction:
+▪ The making or purchasing of loans or providing other financial assistance relating to a dwelling for:
+o Purchasing
+o Constructing
+o Improving
+o Repairing
+o Maintaining
+▪ Loan secured by residential real estate.
+▪ The selling, brokering, or appraising of residential real property.
+The prohibited factors relating to protected classes under the Fair Housing Act have some common elements to
+the Equal Credit opportunity Act however there are some differences:
+Common to both acts:
+▪ Race
+▪ Color
+▪ National Origin
+▪ Sex
+▪ Religion
+Unique to FH Act:
+▪ Handicap
+▪ Familiar status
+Unique to ECOA
+▪ Age
+▪ Marital status
+▪ Income from public assistance
+▪ Exercising rights under the Consumer Credit Protection Act
+8
+Home Mortgage Disclosure Act
+Regulation C 12 U.S. Code Chapter 29
+The last of the three fair lending laws is the Home Mortgage Disclosure Act HMDA. HMDA’s purposes are to
+provide the public and public officials with sufficient information to enable them to:
+▪ determine whether institutions are serving the housing needs of the communities and neighborhoods in
+which they are located
+▪ to assist public officials in distributing public sector investments in a manner designed to improve the
+private investment environment
+▪ to assist in identifying possible discriminatory lending patterns and enforcing antidiscrimination statutes
+Unlike the other fair lending laws we have reviewed, HMDA, from a discrimination basis, is looking for patterns
+of discrimination, not just discrimination against an individual person.
+Financial institutions collect various types of information from consumers in the course of processing loan
+applications. To promote HMDA’s goals, HMDA and Regulation C require financial institutions to compile and
+report to regulators some of this information and other information obtained or generated concerning the
+application or loan.
+Regulation C requires institutions to report lending data to their supervisory agencies on a loan-by-loan and
+application-by-application basis by way of a “register” reporting format.
+9
+Home Mortgage Disclosure Act
+Applicability
+The regulation covers two categories of financial institutions.
+1. Depository institutions
+The first category is a “depository institution,” which the regulation defines as a bank, savings association, or a
+credit union that meets the following criteria:
+▪ On the preceding December 31, had a home or branch office in an MSA; in the preceding calendar year,
+originated at least one first lien home purchase loan, or a refinancing of such loan, on a one-to-four- family
+dwelling.
+▪ The institution is federally insured or regulated.
+▪ The mortgage loan referred to is federally guaranteed or insured.
+▪ The institution intended to sell the loan to Fannie Mae or Freddie Mac.
+▪ Originated at least:
+▪ on the preceding December 31, originated at least 200 open-end lines of credit in each of the two
+preceding calendar years.
+OR
+▪ 0n the preceding December 31, originated at least 25 closed-end loans in each of the two preceding
+calendar years.
+2. Non-depository mortgage lending institutions
+A non-depository mortgage lending institution is covered if:
+▪ on the preceding December 31, had a home or branch office in an MSA
+AND
+▪ receive applications for, originate, or purchase five or more home purchase loans, home improvement loans,
+or refinancing loans on property located in an MSA in the preceding calendar year
+AND
+either:
+o on the preceding December 31, originated at least 200 open-end lines of credit in each of the two
+preceding calendar years.
+OR
+o 0n the preceding December 31, originated at least 25 closed-end loans in each of the two preceding
+calendar years.
+10
+Home Mortgage Disclosure Act
+Loan Information
+For each application or loan, institutions are required to:
+▪ identify the purpose (home purchase, home improvement, or refinancing), lien status, and whether the
+property relating to the loan or loan application is to be owner-occupied as a principal dwelling.
+Applicant Information
+▪ Institutions must report data regarding the ethnicity, race, sex, and annual income of applicants for
+applications and originated loans. Reporting this data is optional for purchased loans.
+▪ Information regarding the ethnicity, race, and the sex of the borrower or applicant must be requested by
+the lender, including applications made entirely by telephone, mail, or Internet.
+▪ If the information is not provided by the applicant, and if the application is submitted in person, the
+lender is required to note the information on the basis of visual observation or surname.
+The Equal Credit Opportunity Act allows lenders to collect the data for monitoring purposes
+under HMDA.
+Pricing-Related Data
+Institutions must report the rate spread between the annual percentage rate (APR) and the average prime offer
+rate (APOR) for a comparable transaction as of the date the interest rate is set or locked.
+▪ The annual percentage rate is the annualized percentage of the dollar amount the loan will cost over the
+life of the loan.
+▪ The average prime offer rate is the average APRs of prime or the best borrowers reported every week by
+Freddie Mac.
+Rate spread disclosure requirement.
+Lien status Spread Reporting requirement
+First > 1.5% Home purchase loans,
+dwelling secured home improvement loans,
+refinancings.
+Second > 3.5% Home purchase loans,
+dwelling secured home improvement loans,
+refinancings.
+Excluded from the rate spread calculation:
+▪ Incomplete applications
+▪ Withdrawn applications
+▪ Denied, or approved but not accepted applications
+▪ Purchased loans
+▪ Home-improvement loans not secured by any dwelling
+▪ Assumptions
+▪ Home equity lines of credit
+▪ Loans not subject to Regulation Z
+11
+Lenders must also report whether the loan is subject to the Home Ownership and Equity Protection Act (HOEPA).
+▪ A loan becomes subject to HOEPA when the APR, or the points and fees on the loan, exceed the HOEPA
+triggers for High Cost Loans. We will discuss HOEPA loans later in this course.
+Reporting Format
+Financial institutions are required to record data regarding each application for, and each origination and
+purchase of:
+▪ home purchase loans
+▪ home improvement loans
+▪ refinancings
+▪ to be recorded on a Loan/Application Register, also known as the HMDA-LAR
+The HMDA-LAR
+▪ Must be submitted to the Federal Reserve and reference the financial institution’s regulatory agency by
+March 1 following the calendar year covered by the data.
+▪ An institution must make its loan application register available to the public after deleting fields which
+specifically identify loan data.
+▪ The modified HMDA-LAR for a given year must be publicly available for the previous calendar year by
+March 31 of the following year for requests received on, or before, March 1, and within 30 days for
+requests received after March 1.
+▪ A financial institution must retain its full, unmodified, HMDA-LAR for at least three years for examination
+purposes.
+▪ Institutions may impose reasonable fees for costs incurred in providing or producing the data for public
+release.
+12
+16
+QUALIFYING INCOME QUESTIONS
+(All Loan Transactions)
+Question Rationale
+1. What is your hourly, Verifiable and consistent income is necessary for mortgage approval.
+monthly, or annual Accurately calculating income is extremely important during the pre-
+income? Are you paid qualification stage. If the MLO does not correctly calculate income, a
+weekly, bi-monthly, borrower may not qualify for an affordable mortgage or may not obtain loan
+bi-weekly, or monthly? approval by an underwriter.
+2. Do you receive Additional income may be instrumental when qualifying a borrower. The
+additional monthly income type and its ability to be documented are relevant to the
+income? Can this qualification process. Without proper documentation, a borrower may not
+income be use these funds.
+documented for the
+last 12 months?
+3. Are more than 25% of Borrowers who are commission W2 earners must provide the last two years
+your earnings from of filed tax returns to average their earnings. The tax returns should include
+commissions and/or all schedules, but specifically the 2106 Employee Expense Form. For
+incentives? example, outside sales people, truck drivers, auto sales personnel, and
+mortgage loan originators.
+4. Do you receive bonus Only bonus income a borrower receives over two years can be used for
+income? qualification purposes. This income will be averaged over two years.
+5. Do you receive Temporary or part-time employees can use their income to purchase a
+income from a part- home by averaging those dollars over the past two years. Generally,
+time or temporary individuals who have been temporarily employed for less than 18 months
+employment? cannot use their income to qualify. If temporary employment is long-term
+with a single employer, underwriters view that differently than working with
+multiple contract assignments with a variety of employers. A person working
+in a part-time capacity must show a pattern of maintaining part-time
+employment over the most recent two years.
+6. Do you receive any These items must meet a 3 years continuance test to be included in
+additional income qualifying income.
+that you would like to
+disclose? (Alimony,
+social security,
+disability, child
+support, etc.)
+7. Do you have any Lenders view borrowers more favorably when they have a financial
+funds saved for down investment in the property than those who choose not to put any money
+payment and/or down. A down payment reduces the risk a lender assumes by extending
+closing costs? financing for a mortgage. A savings pattern indicates an applicant's ability to
+Example: 401K, manage their finances in a positive manner by limiting expenses and
+savings account, investing in their future.
+stocks, etc.
+17
+CALCULATING INCOME
+Type Definition/Calculation Information Needed
+Hourly (Hourly rate * 40)*52/12=Gross Monthly Income 30 days of paystubs
+Weekly (Weekly pay * 52)/12 = Gross Monthly Income 4 paystubs totaling 30 days
+Bi-weekly (Bi-weekly pay * 26)/12 = Gross Monthly Income 2 paystubs totaling 30 days
+Semi-monthly (Semi-monthly pay * 24)/12 = Gross Monthly 2 paystubs totaling 30 days
+Income
+Monthly Monthly 1 paystub
+Temporary/Part- Average over 2 years Two years of W2s and written
+time verification
+Self Employment Average of the most recent 2 years of filed tax Two years of the most recent
+income returns. filed tax returns
+Depreciation expense can be added back to the
+income to qualify the self employed borrower.
+TIP: Earnings used for qualifying purposes must be gross monthly income.
+18
+• The Dodd Frank Act mandated the requirements for the Ability to Repay (ATR)/ Qualified Mortgages (QM) rule.
+• MLOs under the ATR rule must make a good faith determination that a borrower has the ability to repaythe
+loan before it closes.
+• There are eight factors that must be considered under the ATR rule:
+1. Expected income and assets (excludes value of the property securing the loan)
+2. Employment status
+3. Mortgage payments considering:
+(a) The fully indexed rate or introductory rate, whichever is higher
+(b) Fully amortized payments
+4. Simultaneous loans on same dwelling
+5. Monthly payments for taxes, insurance, and homeowners assoc. fees
+6. Current debt obligations including alimony and child support including:
+(a) Installment debt
+(b) Revolving debt
+(c) Existing mortgages not being paid off
+7. Debt-to-Income ratio and residual income
+8. Credit history
+What can we use as a determination that the ATR was:
+Reasonable and in good faith
+(a) Underwriting standards resulted in low rates of default
+(b) Payment history
+Not reasonable and in good faith
+(a) Underwriting standards that were not effective in determining ATR were ignored
+(b) The consumer defaulted shortly after closing, or after an ARM reset
+Penalty
+If a consumer can prove in court that the loan did not meet ATR requirements the consumer is entitled to:
+• 3 years finance charges plus attorney fees
+• Maximum period to file a claim is 3 years
+19
+Qualified Mortgages
+• Qualified mortgages are mortgages that do not contain risky features
+• The QM rule provides a presumption the ATR requirements have been met
+Types of Qualified Mortgages
+General
+Seasoned
+Small Creditor
+Balloon
+• General and Seasoned QMs can be originated by all lenders
+• Small creditor and balloon can be originated by small creditors operating primarily in rural areas
+All QMs have the following features and limitations:
+• No negative amortization
+• No interest only
+• Maximum loan term 30 years
+• Points and fees limited to 3% for loans greater than or equal to $124,331
+General QM underwriting limitations:
+• Must qualify borrower using the maximum rate within first five years
+• Limits based on loan’s pricing
+o The annual percentage rate (APR) exceeds the average prime offer rate (APOR) for a comparable transaction by less
+than 2.25 percentage points as of the date the interest rate is set.
+▪ Loans must meet a full amortization schedule
+Seasoned QM - To become eligible to become a seasoned QM and receive a safe harbor from ATR liability at the end of the 36-
+month seasoning period, the loan must meet the following criteria:
+First lien; max. 30-yr term; fixed rate; fully amortizing; no balloon payments; max. 3% points and fees; max. two 30-day and no
+60-day delinquencies at end of seasoning period; and borrower must quality based on 8 QM factors (income, assets, debt, etc.)
+20
+If a consumer closes on a loan that is a QM and is not a Higher Priced Mortgage loan the
+consumer is in the Safe Harbor region. Which means that the presumption that the QM meets
+ATR requirements cannot be challenged.
+Non-Safe Harbor Loans
+QM loans that are HPML loans are open for dispute. The consumer is able to challenge in court
+(rebut the presumption) that the QM meets the ATR requirements.
+Higher Priced Mortgage Loans (HPML)
+• Exceeds the Average Prime offer rate by 1.5% APR or more for a 1st lien loan
+• Exceeds the Average Prime offer rate by 3.5% APR or more for a 2nd lien loan
+Average Prime Offer Rate (APOR) is the average of all APR rates in the US for the previous
+week, published the next week. Determination if the loan is a HPML loan is determined when
+the rate is locked.
+21
+The Home Ownership and Equity Protection Act (HOEPA) Section 1026.32
+• Amends the Truth-in-Lending Act (TILA) “Section 32,” to require special requirements for loans
+that exceed the HOEPA threshold.
+• Mortgages that exceed the HOEPA thresholds are referred to as “high-cost mortgages.”
+• HOEPA includes:
+o Purchase-money mortgages
+o Refinances
+o Closed-end home equity loans
+o Open-end (HELOCS)
+HOEPA Excludes:
+• Reverse mortgages
+• Construction loans
+HOEPA has three tests to determine if a mortgage exceeds the HOEPA thresholds:
+• The APR test
+• The Points and fees test
+• The Pre-payment Penalty test
+The APR Coverage Test. A loan is a high cost mortgage if the APR when the rate is locked is > the APOR* by:
+a. 6.5% on a first lien
+b. 8.5% on a first lien less than $50,000
+c. 8.5 % on a junior lien transaction
+*APOR – The Federal Reserve averages the APRs of prime borrowers at the end of a given week and publishes
+that average APR rate as the Average Prime Offer Rate (APOR) the following week. The APOR is used for both
+HOEPA and HPML APR thresholds.
+The Points and Fees Coverage Test. A loan is a high-cost mortgage if the points and fees are > the following
+thresholds:
+a. 5% of the loan amount for loans equal to or greater than $24,866
+b. 8% of the total loan amount or $1,243 for loan amounts less than $24,866
+Pre-payment Penalty Test. A transaction is a high-cost mortgage if you charge a prepayment penalty:
+a. > 36 months after closing
+b. In an amount > 2% of the amount prepaid
+NOTE: Definition of the following symbols:
+≥ means greater than and equals to; > means greater than
+22
+Homeownership counseling
+• Prior to making a “high cost mortgage,” the consumer must produce written evidence that they have
+received home ownership counseling.
+• The homeownership counselor cannot be affiliated with, or employed by, a MLO’s organization.
+• MLO’s cannot steer the consumer to a particular counseling agency.
+• The consumer must have received the LE before the counseling session.
+• A list of homeownership counselors is required to be provided to all federally related loan applications
+within 3 days of receiving the application.
+o List must come from the CFPB website or through HUD
+o Minimum of ten counseling agencies in local area
+o List cannot be more than 30 days old
+• MLO’s may pay the counseling fee for the consumer, but may not condition payment on the consumer
+getting the high cost loan.
+NOTE: All high cost loans REQUIRE homeownership counseling. All other federal related loans require
+consumers receive a list of homeownership counseling agencies, but they are NOT REQUIRED to receive
+counseling.
+Prohibited Acts or Restrictions on High-cost Mortgages
+• Cannot charge a fee to modify, renew, defer, extend, or amend a high-cost mortgage.
+• Late fee is limited to 4% of the past due payment. Most fees for payoff statements are banned.
+• Points and fees cannot be financed into the loan.
+• No negative amortization. No rate increase after default.
+• No paying a contractor directly from the proceeds of a high-cost loan
+• Refinancing a high-cost mortgage into another high-cost mortgage within one year after having
+extended credit.
+• All loans must meet the ability-to-repay requirements under the Dodd Frank Act.
+• Payment schedule that consolidates more than two periodic payments.
+• Requires disclosure 3-days before closing that the consumer does not have to continue with loan.
+23
+HOEPA Example
+Applicant applied for a $100,000 loan and the interest rate quoted was 4%. There was a prepayment penalty
+and points and fees were charged on the loan. The following actions would trigger TILA section 32 or a High
+Cost loan designation.
+1. The APR is 10.625% (exceeds the rate by more than 6.5%)
+2. The points and fees are $6,100 (exceeds the threshold of 5%)
+3. The prepayment penalty is for 4 years and is quoted as 3% of the payoff amount. ( exceeds the 36 month maximum
+prepayment period and exceeds the payoff penalty amount of 2%)
+Higher Priced Mortgage Loan (HPML) (Section 1026.35)
+• Known as Section 35 loans
+A loan is a HPML if:
+a. The APR ≥ APOR by 1.5% for a first lien
+b. The APR ≥ APOR by 3.5% for a subordinate lien
+c. The APR ≥ APOR by 2.5% for a jumbo loan
+Requirements
+a. Consumer’s ability to repay must be verified.
+b. Escrows for taxes and insurance required for a minimum of 5 years for non-QM HPML mortgage
+loans.
+c. LTV must be 80% or less to cancel the escrow account.
+d. Prepayment penalty not allowed:
+o After the two-year period following consummation.
+o If payments will change any time during the first 4 years after closing.
+NOTE: All HOEPA loans that exceed the APR threshold are also HPML and must meet the additional
+requirements of HPML loans.
+MLO Compensation
+• MLOs may be compensated for the amount of credit extended and not for any loan terms, for
+example, interest rates, APR, origination fees, etc.
+• MLO compensation may not vary based on terms of the loan.
+• MLO compensation records must be maintained for three (3) years.
+24

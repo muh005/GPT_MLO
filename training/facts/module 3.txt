@@ -1,0 +1,382 @@
+PE Comprehensive
+Learning Resource
+Module 3
+PE Comprehensive Course | Learning Resource | version 12012022 P ag e 1 | 15
+Ameritrain Mortgage Institute. All Rights Reserved.
+Welcome
+This course is designed for Mortgage Loan Originators and is part of the required training for a
+PE License in any state.
+How to use this Learning Resource
+The Learning Resource is designed to assist you during training. Use this tool to take notes as
+you go. You may also use it as a preparation tool for your licensing test.
+During Training
+▪ Take notes
+▪ Complete activities / exercises
+Legend:
+Icons Descriptions
+Note Place to take notes about content
+Key Points Important information to remember
+Reminders Critical benefits and information
+Activity Document, practice, demonstrate, or solve
+Discussion Discussion activity
+PE Comprehensive Course | Learning Resource | version 12012022 P ag e 2 | 15
+Ameritrain Mortgage Institute. All Rights Reserved.
+Table of Contents
+MODULE 3 .........................................................................................................................................4
+TOPIC: DEFINITIONS ...........................................................................................................................5
+ACTIVITY: KNOWLEDGE CHECK #1.......................................................................................................6
+TOPIC: CREDIT REPORTING 101 ..........................................................................................................7
+Credit History ............................................................................................................................................ 7
+FCRA: Fair Credit Reporting Act ................................................................................................................ 7
+Credit Report Basics .................................................................................................................................. 8
+What’s included in a typical credit report? ........................................................................................... 8
+Consumer Disclosure ............................................................................................................................ 9
+FICO: Fair Isaac & Company .................................................................................................................. 9
+RMCR: Residential Mortgage Credit Report ....................................................................................... 10
+Adverse Notice (Risk Based Pricing) .................................................................................................... 10
+ACTIVITY: KNOWLEDGE CHECK #2..................................................................................................... 11
+ACTIVITY: Q&A................................................................................................................................. 12
+TOPIC: SECURITY .............................................................................................................................. 13
+Security eMagazine ................................................................................................................................. 13
+ACTIVITY: KNOWLEDGE CHECK #3..................................................................................................... 14
+ACTIVITY: KNOWLEDGE CHECK #4..................................................................................................... 15
+PE Comprehensive Course | Learning Resource | version 12012022 P ag e 3 | 15
+Ameritrain Mortgage Institute. All Rights Reserved.
+MODULE 3
+Origination Part 2
+Module Learning Objectives
+During this module, you will review and be asked to demonstrate the following:
+▪ Define and memorize key mortgage terms
+▪ Review credit reporting basics, credit items, and the role of credit within the mortgage process
+▪ Discuss the laws that protect the borrower relating to the credit reporting process (FCRA)
+▪ Review the laws that protect consumer rights to privacy and from identify theft (FACTA, GLBA,
+Safeguard Rule)
+▪ Analyze the laws that protect against terrorism and money laundering (BSA/AML, FINCEN, USA
+Patriot Act)
+▪ Discuss electronic signature and document delivery (ESIGN)
+PE Comprehensive Course | Learning Resource | version 12012022 P ag e 4 | 15
+Ameritrain Mortgage Institute. All Rights Reserved.
+TOPIC: DEFINITIONS
+The following terms are important to know for this module and will help you improve your mortgage
+vocabulary and knowledge of the universe of real estate financing. Be sure to memorize these terms to
+improve your exam scores.
+Consumer For this section, the term ‘consumer’ refers to an individual who obtains or has
+obtained a financial product or service from a financial institution for personal,
+family, or household reasons.
+Customer For this section, the term ‘customer’ is a consumer with a continuing relationship
+with a financial institution.
+Consumer Any written or oral or other form of communication of any information from a
+Report/Credit consumer reporting agency bearing on a consumer’s creditworthiness, credit
+Report standing, credit capacity, character, and general reputation which is used, or
+expected to be used, as part of a decision to extend credit.
+Consumer
+Regularly engages in the practice of assembling or evaluating and maintaining for
+Reporting
+the purpose of furnishing consumer reports to third parties.
+Agency
+Credit Score A numerical value derived from a statistical tool used as a part of the
+determination as to a consumer’s likelihood of certain credit behaviors. The credit
+score is also referred to as a risk predictor or risk score.
+Active Duty A notification in a consumer’s credit file to alert the user of a credit report that the
+Alert consumer is active in the military and most likely deployed. Is part of the Red Flag
+Identity Theft program.
+Red Flag A red flag is a pattern, practice, or specific activity that indicates the possible
+existence of identity theft.
+PE Comprehensive Course | Learning Resource | version 12012022 P ag e 5 | 15
+Ameritrain Mortgage Institute. All Rights Reserved.
+ACTIVITY: KNOWLEDGE CHECK #1
+Here’s your chance to show how good your memory is and practice the terms you just reviewed. Can
+you add their definitions in the column to the right (without peeking)? How many can you remember?
+Good luck! If you get stuck, look back to page 5 of this resource document for help.
+Consumer
+Customer
+Consumer
+Report/Credit
+Report
+Consumer
+Reporting
+Agency
+Credit Score
+Active Duty
+Alert
+Red Flag
+PE Comprehensive Course | Learning Resource | version 12012022 P ag e 6 | 15
+Ameritrain Mortgage Institute. All Rights Reserved.
+TOPIC: CREDIT REPORTING 101
+Credit Reporting directly impacts you as a MLO along with your customer.
+Credit History
+One of your primary responsibilities is to ensure the borrower can repay the loan. That has been
+enshrined into law through the Ability to Repay and Qualified Mortgage Rule.
+Key Points There are the 8 factors used to determine a consumer’s ability to repay the loan:
+1. Income and Assets (exclude value of property securing the loan)
+2. Employment status
+3. Mortgage payments, considering fully indexed rate or introductory rate
+(whichever is higher)
+4. Fully amortized payments
+5. Simultaneous loans on same dwelling
+6. Monthly payments for taxes, insurance, and homeowner assoc. fees
+7. Current debt obligations including alimony, child support, and:
+o Installment debt (i.e., cars, appliances, etc.)
+o Revolving debt (i.e., credit cards, etc.)
+o Existing mortgages not being paid off
+o Debt-to-income ratio and residual income
+8. Credit history
+FCRA: Fair Credit Reporting Act
+Key Points Consumer Reporting Agencies (Credit Bureaus):
+▪ Credit reporting includes a history of a consumer’s credit
+▪ Credit reports reflect the status of a consumer’s file at one or more of the
+national consumer reporting agencies or credit bureaus:
+o Equifax
+o Experian
+o Transunion
+Fair Credit Reporting Act (FCRA):
+▪ Congress passed a law in 1970 called the Fair Credit Reporting Act (FCRA).
+PE Comprehensive Course | Learning Resource | version 12012022 P ag e 7 | 15
+Ameritrain Mortgage Institute. All Rights Reserved.
+▪ The law is implemented by Regulation V, and is Title VI of the Consumer Credit
+Protection Act
+▪ FCRA is enforced by the CFPB (Consumer Financial Protection Bureau)
+FCRA has three primary objectives:
+▪ Prevent the misuse of sensitive information by limiting the access to recipients
+who have a legitimate need
+▪ Improve the accuracy and integrity of credit reports
+▪ Promote the efficiency of the nation’s banking and consumer credit systems
+Credit Report Basics
+Let’s take a peek at the basics of what’s included in a typical credit report.
+Key Points What’s included in a typical credit report?
+▪ Personal identifying information
+o Current and past addresses
+o Phone number
+o Social security number
+o Birth Date
+▪ Loan account information for each credit bureau that has a file
+o Type of accounts (i.e., mortgage, installment, revolving)
+o Name of creditor
+o Date opened and or closed
+o Credit amount limit
+o Current balance
+o Payment history
+o Status (current or past due, in collection)
+▪ Inquiries
+o Companies that you requested credit from doing a credit inquiry
+o Companies that may have purchased information you did not request
+▪ Public record data
+o Liens
+o Judgments
+o Bankruptcies
+o Foreclosures
+PE Comprehensive Course | Learning Resource | version 12012022 P ag e 8 | 15
+Ameritrain Mortgage Institute. All Rights Reserved.
+Key Points Consumer Disclosure
+FCRA requires that consumers receive a copy of their credit scores whenever
+they’re used in connection with a real estate transaction.
+What are the time limits?
+FCRA requires the following timing limits for reporting certain information in a
+credit report:
+▪ Bankruptcy filings may only be reported for a period of ten years
+▪ All other derogatory credit reporting is limited to seven years:
+o Civil suits
+o Judgments
+o Paid tax liens
+o Charged off accounts
+What about disputes?
+▪ FCRA requires that CRA’s respond to consumer disputes as follows:
+o They have a thirty-day timeframe for completion of an investigation
+o They must provide mandatory written notice to the consumer of the
+results within five days of completion of the investigation
+FICO: Fair Isaac & Company
+How does Fannie Mae come into this story? Well, they established a relationship with the Fair Isaac and
+Company, the folks who developed the (FICO) credit scoring system you might have heard of.
+Key Points FICO Scoring System:
+The FICO scoring model is the standard that continues to be used in real estate loan
+transactions.
+▪ Examines things like payment history, accounts owed, length of credit history,
+new and credit mix.
+▪ Each of the factors are weighted differently
+▪ System creates a numerical value:
+o Determines the risk associated with a borrower by creating a numerical
+value that lenders use as part of the credit qualifying process
+o Each of the 3 national credit bureaus provide a score based on their
+model for credit scoring within the FICO scoring system
+FICO credit score ranges:
+The higher the score the lower the risk to the lender.
+▪ Low score = 300
+PE Comprehensive Course | Learning Resource | version 12012022 P ag e 9 | 15
+Ameritrain Mortgage Institute. All Rights Reserved.
+▪ High score = 850
+What to do with multiple scores:
+▪ Generally, lenders won’t accept a single score from one of the CRA (Credit
+Reporting Agencies)
+▪ When 2 scores are provided to the lender, the lower score is used (otherwise
+referred to as the representative score)
+▪ When 3 scores are provided to a lender, the middle score is used (otherwise
+referred to as the representative score)
+▪ If multiple borrowers, then the lender uses the lowest of the representative
+scores
+RMCR: Residential Mortgage Credit Report
+As you can imagine, with a couple borrowers involved, the lender could purchase up to 6 credit reports.
+To save time and eliminate some of the duplication, lenders use a third-party credit reporting agency
+reseller.
+Key Points ▪ Combine 3 CRAs: These companies (also known as mortgage reporting
+companies), combine the credit reporting from the 3 CRAs (Credit Reporting
+Agencies), into a single, concise credit report which lenders can then purchase.
+▪ Supplemental info: This credit report is called an “RMCR,” or Residential
+Mortgage Credit Report. Not only does it include info from the 3 CRAs, it also
+includes supplemental data, such as paid off accounts and employment
+verification.
+Adverse Notice (Risk Based Pricing)
+What if a consumer’s credit is not the best? The lender may choose to offer something called ‘risk-
+based pricing’.
+Key Points Adverse action notice for risk-based pricing:
+▪ Borrower must receive an adverse action notice for risk-based pricing.
+▪ Borrower has 60 days from the receipt of an adverse action notice to request a
+free credit report
+PE Comprehensive Course | Learning Resource | version 12012022 P ag e 10 | 15
+Ameritrain Mortgage Institute. All Rights Reserved.
+ACTIVITY: KNOWLEDGE CHECK #2
+If you get stuck, look back to pages 7-10 of this resource guide for help.
+Single Choice
+Q1:
+Which of the following statements is correct relating to FCRA?
+A: (a) FCRA provides a basis for consumers to compare the cost of credit.
+(b) FCRA covers the real estate settlement process.
+(c) FCRA ensures that consumer reporting activities are fair and equitable.
+(d) FCRA was originally created to address identity theft.
+Multiple Choice
+Q2: Which of the following is correct about the amount of time certain credit-related items
+may be reported in a consumer report?
+A: (a) Bankruptcy records are reported for a period of seven years.
+(b) A civil judgment is reported for ten years.
+(c) Charged off accounts are reported for a period of ten years.
+(d) Derogatory credit, except bankruptcy, is reported for seven years.
+Single Choice
+Q3:
+Lenders will underwrite a file with any of these credit reports EXCEPT:
+A: (a) Single bureau
+(b) RMCR
+(c) 2 bureaus
+Single Choice
+Q4: A credit report that has supplemental data, such as paid-off accounts or verification of
+employment, is known as a:
+A: (a) Single-bureau credit report
+(b) In-file credit report
+(c) Joint credit report
+(d) Residential mortgage credit report
+Single Choice
+Q5: What information can an applicant with no credit history give a lender to demonstrate a
+payment history?
+A: (a) Credit scores
+(b) Alternative credit
+(c) Traditional credit
+(d) Notarized agreement to repay
+PE Comprehensive Course | Learning Resource | version 12012022 P ag e 11 | 15
+Ameritrain Mortgage Institute. All Rights Reserved.
+ACTIVITY: Q&A
+Here are a few common questions related to the previous topic.
+Q: Which component of a credit score has the greatest impact on the score?
+A: Payment history makes up about 35% of the FICO score.
+Q: What is the highest credit score?
+A: An 850 is considered the highest credit score. 300 is the lowest.
+Q: Does the lender need to get special permission to get a credit report?
+An application by the consumer for credit gives rise to a permissible purpose to obtain
+A:
+consumer report, regardless of the form.
+Notes _________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+PE Comprehensive Course | Learning Resource | version 12012022 P ag e 12 | 15
+Ameritrain Mortgage Institute. All Rights Reserved.
+TOPIC: SECURITY
+Credit Reporting directly impacts you as a MLO along with your customer.
+Security eMagazine
+With your security, and the security of your future consumers in mind, back in 2003, Congress expanded
+the Fair Credit Reporting Act (FCRA). This extension was called Fair and Accurate Credit Transaction Act
+(FACTA).
+Not only did it tackle identity theft, it established a fraud alert system, required companies to hide credit
+card numbers, and set up secure information disposal procedures.
+The link provided below gives you access to the Ameritrain digital security eMagazine. In the issue, you
+will find details about this law and other security related information you must understand in order to
+perform your MLO responsibilities, while protecting your customers.
+Key Points Security Magazine link:
+▪ You can view the security eMagazine at this link. You may download or save it
+to your computer. All rights reserved.
+https://static.tiltlms.com/resource/70f46e8a5c7075993d383eb15c1c3438.pdf
+Notes ____________________________________________
+____________________________________________
+____________________________________________
+____________________________________________
+____________________________________________
+____________________________________________
+____________________________________________
+____________________________________________
+____________________________________________
+____________________________________________
+____________________________________________
+____________________________________________
+____________________________________________
+PE Comprehensive Course | Learning Resource | version 12012022 P ag e 13 | 15
+Ameritrain Mortgage Institute. All Rights Reserved.
+ACTIVITY: KNOWLEDGE CHECK #3
+If you get stuck, look back to pages 12-13 of this resource guide, as well as the digital security
+eMagazine, for help.
+Fill in the blank
+Q1:
+One of the things FACTA did was establish a national ______ alert system.
+A:
+Fill in the blank
+Q2: An active duty on a credit report gives public notice that the consumer is active in the
+_______.
+A:
+Fill in the blank
+A consumer reporting agency that receives a verified call indicating fraud against a consumer
+Q3:
+they maintain a file on must include a fraud alert in the file for _____ year beginning on the
+date of request.
+A:
+Fill in the blank
+Q4: FACTA requires companies to have secure procedures to get rid of consumer reports. This is
+called “The _________ Rule” (e.g., shredding documents).
+A:
+Fill in the blank
+Q5: Financial institutions must develop a written program that identifies and detects the relevant
+warning signs of identity theft. These are also called _________.
+A:
+PE Comprehensive Course | Learning Resource | version 12012022 P ag e 14 | 15
+Ameritrain Mortgage Institute. All Rights Reserved.
+ACTIVITY: KNOWLEDGE CHECK #4
+If you get stuck, look back to the digital security eMagazine for help.
+Fill in the blank
+Q1:
+The Bank Secrecy Act addresses money_____________.
+A:
+Fill in the blank
+Q2: The Bank Secrecy Act requires lenders to file a report if they receive _____ transactions
+exceeding $10,000.
+A:
+Fill in the blank
+Q3: The Customer _________ Program (CIP) sets a minimum standard for identifying information
+from customers opening an account.
+A:
+Fill in the blank
+Q4: The PATRIOT Act is designed to protect against ________, money laundering, and
+international threats.
+A:
+Fill in the blank
+Q5:
+FINCEN stands for the Financial _______ Enforcement Network.
+A:
+Fill in the blank
+Q6: One of the things the BSA requires financial institutions to file are suspicious ________
+reports. (‘‘SARs’’)
+A:
+PE Comprehensive Course | Learning Resource | version 12012022 P ag e 15 | 15
+Ameritrain Mortgage Institute. All Rights Reserved.

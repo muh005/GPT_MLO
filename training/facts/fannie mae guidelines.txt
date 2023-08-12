@@ -1,0 +1,520 @@
+Fannie Mae Underwriting Guidelines Matrix
+Contents:
+▪ Standards
+▪ Income
+▪ Assets
+▪ Credit
+▪ Liabilities
+▪ Mortgage Insurance
+▪ Tax Forms
+▪ Occupancy Types
+▪ Terms and Definitions
+Ameritrain Mortgage Institute | All rights reserved | Version 01012023 1 | P ag e
+Fannie Mae Underwriting Guidelines Matrix
+Although conventional loans meet the requirements of Fannie Mae and Freddie Mac, a greater
+emphasis here will be on Fannie Mae, the larger of the two GSEs.
+Standard Fannie Mae Conforming Guidelines
+A mortgage loan originator originating loan files must meet pre-determined underwriting guidelines to
+ensure a borrower’s mortgage is saleable to Fannie Mae. Although many mortgage standards are
+universal, every originator should become familiar with significant underwriting criteria. Originators can
+obtain a more extensive review of these guidelines directly from Fannie Mae’s servicing guide at
+http://www.fanniemae.com. Below is an overview of important underwriting guidelines.
+Standard Underwriting Guidelines Matrix
+Properties: single-family residence, 2-4 units, co-ops, leasehold estates, manufactured homes
+Occupancy Type: principal residence, second homes and investment properties
+Age of credit documents: Maximum age of credit documents is 120 days
+Transaction Types: purchase money, refinance transactions, co-op share loans, mortgages with
+financed mortgage insurance
+Second Liens: Closed-end seconds, HELOCs
+Loan Purpose: Purchase, limited cash-out, cash-out
+Amortization Type: fully amortized fixed rate, adjustable-rate mortgages, convertible ARMs, balloon
+mortgages, biweekly payment schedule, temporary interest rate buy down
+Borrower Eligibility: Persons who are legally able to obtain financing depending on state law. “There
+is no maximum age limit.”
+Non-US Citizens: “Lawful permanent and non-permanent residents of the U.S.” Each lender is
+responsible for determining eligibility status.
+Credit Score: minimum 620 credit score; credit score requirements vary by transaction type, number
+of units and the following: Loan-to-Value (LTV), Combined Loan-to-Value, (CLTV), High Combined Loan
+to Value (HCLTV). Freddie Mac term for HCLTV is Total Loan-to-Value (TLTV)
+LTV:
+• Purchase – The loan amount as a percentage of the purchase price or appraised value,
+whichever is less
+• Refinance – The loan amount as a percentage of the appraised value
+CLTV: Combines more than one loan
+TLTV: All outstanding loans, plus any available line of credit (HELOC), also referred to as HCLTV under
+Fannie Mae
+Pre-purchase Education and Counseling: “HomeReady” borrowers will be required to take a high-
+quality online homeownership education course offered by Framework® Reference: Selling Guide
+Ameritrain Mortgage Institute | All rights reserved | Version 01012023 2 | P ag e
+Fannie Mae Underwriting Guidelines Matrix
+Income
+General Salary Self-employment
+• Mortgage loan originator to • Evidence of stable income • Tax return for borrower
+request permission to obtain for two years. earning 25% of their income
+tax return (IRS Form4506-T • Continuance of some from commissions
+or C) income for three years • Individual with 25% or more
+• Non-taxable income can be (alimony, child support, ownership in a business
+used to qualify a • Borrowers employed by
+disability, social security).
+borrower if the income is • Verify the source of family member, receiving
+likely to continue for three income. rental income, claiming
+years (Social Security, • Provide evidence of most business unreimbursed
+disability retirement, child recent 30 days earnings. expenses; periodic
+support payment, • W2s covering the most employment
+workman’s compensation, recent two years.
+certain types of public • Verification of employment
+assistance) from employer.
+• Borrower’s non-taxable • Third-party verification
+income may be grossed up source acceptable (payroll
+by 25% vendor).
+Under what conditions are tax returns required:
+• Borrowers earning 25% of their income from commissions
+• Individuals with 25% or more ownership in a business
+• Borrowers employed by family members, receiving rental income, claiming business
+unreimbursed expenses
+• Periodic employment
+Commission: Bonus and/or Overtime Student and Installment
+Loans
+• Average of most recent two • Average income for the last Qualifying borrowers when
+years’ income two years no monthly payment is
+reflected:
+• 1% - Student Loan
+Balances
+• 5% - Installment Debt
+amount
+Assets
+Earnest Money Reserve Verification
+• Must be borrower’s own • Funds which can be easily • Verification of Deposit
+funds. converted to cash (VOD), bank and/ or
+• Considered a good faith portfolio statements for
+deposit in a real estate the most recent two
+purchase transaction. months
+• Funds will be credited at
+closing.
+Ameritrain Mortgage Institute | All rights reserved | Version 01012023 3 | P ag e
+Fannie Mae Underwriting Guidelines Matrix
+Acceptable Sources of Reserves – Generally funds that are easily convertible to cash
+Unacceptable Sources of Reserves – Funds that have not been vested and cannot easily be converted
+into cash
+Stocks, bonds, mutual funds: Maximum 100% of vested balance can be used to establish reserves
+Retirement: Maximum 60% of non-vested balance (100% of vested balance) can be used to establish
+reserves
+Stock options and non-restricted stock are no longer eligible for use as reserves
+Gift Funds: Acceptable from an eligible source, such as relative, domestic partner, fiancée, fiancé,
+church, municipality, or non-profit organization. “Must not be an interested third-party.” (The seller
+or lender cannot provide gift funds, unless they are an acceptable donor).
+If LTV ≤ 80% - 1-4 unit principal residence or second home – no min. contribution required from
+borrower
+If LTV > 80% - 1 unit principal residence - no min. contribution required from borrower
+2-4 unit properties – 5% contribution (3% special programs) required
+from borrower.
+Credit
+Credit Score Traditional Credit Reports Non-traditional Credit Reports
+• Required for most Fannie Mae • Require four tradelines with • Four sources of active non-
+products which can be a mix of revolving and traditional credit with a
+obtained from the three FICO installment for 24 months 12-month history
+system credit bureaus: • No history of delinquency for • No delinquent rental
+Equifax, Experian and Trans 30, 60, 90+ days payment history
+Union. • No public record which • Only one 30-day
+• Each borrower should have a would jeopardize lien delinquency from one of
+minimum of two scores. (judgments, foreclosures, the sources
+collections, charged-off
+Representative Score accounts)
+• Two credit scores; use the • No history of delinquent
+lower of the two mortgage or rental payments
+• Use the middle score if three • Revolving Accounts: No late
+scores reporting in the most recent
+• If multiple borrowers, use the 12 months; one 30-day late
+lower of the representative in 24 months
+score • Installments: No late
+reporting in the most recent
+24 months
+• DTI limit: Varies with AUS
+approval otherwise 36%
+Liabilities
+Types of Liabilities: owner-occupied mortgage payment, revolving/open-end and charge accounts,
+lease payments, real estate loans, HELOCs, non-reimbursed employee expenses, alimony, child
+support, all other reoccurring monthly debts. For installment debts with a balance of less than 10
+payments, an underwriter may choose not to include them in the qualifying debt ratios.
+Ameritrain Mortgage Institute | All rights reserved | Version 01012023 4 | P ag e
+Fannie Mae Underwriting Guidelines Matrix
+Total Monthly Debts or Debt to income ratio (DTI) or Debt Service: 36% for manually underwritten
+files including the housing payment.
+Housing Expense: 28% for manually underwritten files which includes principal, interest, escrowed
+taxes and hazard insurance; mortgage insurance, homeowner’s association dues; monthly condo or
+co-op fees and any subordinate financing, if applicable.
+Hazard (property) Insurance Coverage: “For a first mortgage, Fannie Mae requires coverage equal to
+the lesser of the following:
+➢100% of the insurable value of the improvements, as established by the property insurer; or
+➢the unpaid principal balance of the mortgage, as long as it equals the minimum amount—80% of
+the insurable value of the improvements—required to compensate for damage or loss on a
+replacement cost basis. If it does not, then coverage that does provide the minimum required amount
+must be obtained.”
+Deductible Amount: “The maximum allowable deductible for insurance covering a property (including
+common elements in a PUD, condo, or co-op project) securing a first mortgage loan is 5% of the face
+amount of the policy. When a policy provides for a separate wind-loss deductible (either in the policy
+itself or in a separate endorsement), that deductible must be no greater than 5% of the face amount
+of the policy.”
+Flood Insurance: “The lender must ensure that any flood insurance required for the security property
+is in place.”
+Mortgage Insurance: When the lender’s loan-to-value of the property exceeds 80%, or the lender is
+financing more than 80% of the value of the property securing the loan, the borrower will be required
+to carry mortgage insurance to protect the lender in the event of the borrower’s default. This
+mortgage insurance is referred to as Private Mortgage Insurance (PMI). The Homeowners Protection
+Act (HPA) sets the requirements for cancelation of mortgage insurance.
+1. Borrower requested termination: Loan-to-Value reaches 80% based on the value of the home at
+the time of the loan origination and the borrower requests termination
+2. Automatic termination: Loan-to-Value reaches 78%, of the original value and cancellation
+is automatic.
+3. Good payment history: Requested termination requires a good payment history:
+(a) No 60 day late payments in 24 months preceding termination
+(b) No 30 day late payments in the 12 months preceding termination
+(c) Must be current at the time of termination.
+The PMI premium is determined by the PMI company and is based on the LTV and other factors, such
+as a borrower’s credit and other risk factors. PMI is based on the loan amount, calculated on an
+annual basis and paid monthly with each mortgage payment.
+Net Rental Income Formula:
+(gross rental income* × 75%) − mortgage payment − insurance/maintenance/taxes/misc. = net rental
+income
+*Used only if tax returns are not available.
+Tax Forms:
+Ameritrain Mortgage Institute | All rights reserved | Version 01012023 5 | P ag e
+Fannie Mae Underwriting Guidelines Matrix
+Schedule C – Sole Proprietor
+Schedule E – Rental Schedules
+Form 2106 – Unreimbursed Employee Expenses
+Form 4506-T or Form 4506-C – To obtain tax transcripts
+Occupancy:
+Timeframe to occupy a property after settlement is 60 days.
+Seller Concessions: Fannie Mae will allow the seller or an interested party to contribute to the
+borrower’s closing costs and/or prepaid charges under the following conditions based on the lower of
+the sales price or the appraised value.
+Maximum Contribution
+Occupancy Type LTV/CLTV Ratio (Based on the Sales Price)
+Principal residence or Greater than 90% 3%
+second home
+75.01% – 90% 6%
+75% or less 9%
+Investment property All CLTV ratios 2%
+Automated Underwriting: Fannie Mae and Freddie Mac uses a computer-based automated
+underwriting system (AUS) to evaluate an applicant's information to provide automated findings.
+Based on the applicant's information entered, the electronic system will either provide
+recommendations to accept a loan or refer the loan to an underwriter for a manual review of the file.
+Both Fannie Mae and Freddie Mac have their own proprietary automated underwriting system.
+• The Fannie Mae system is Desktop Underwriter (DU)
+• The Freddie Mac system is Loan Prospector (LP)
+A borrower must provide documentation to support any information submitted to the AUS systems:
+• The findings from the AUS systems outline the required documentation that needs to be
+submitted with the loan file.
+• Each file, whether it receives an approval or referral from the automated system, must be a
+fully documented loan (most recent record of the past 30-days of paystubs, the most recent
+60-days of bank statements and the most recent two years of W2 tax forms).
+Source: Fannie Mae
+Ameritrain Mortgage Institute | All rights reserved | Version 01012023 6 | P ag e
+Fannie Mae Underwriting Guidelines Matrix
+Definitions and Terms
+Word/Term Fannie Underwriting and Definitions Guide
+Properties ▪ Single family – A single unit
+▪ Multi-family – considered 2-4 units
+▪ Co-ops – ownership rights to a unit where the owns share in common
+services and expenses
+▪ Leasehold estates – properties where the land has a long-term lease
+which will extend 5 years beyond the loan term
+▪ Manufactured homes – Manufactured homes attached to land and
+considered real property (excludes rental units)
+Occupancy Type ▪ Principle residence – occupied by owner as primary residence
+▪ Second home – typically a vacation home in a resort area must be at least
+50 miles from primary residence
+▪ Investment properties – purchased as non-owner-occupied properties
+Age of credit Credit documents such as credit reports, income and asset documents like
+documentation bank statements must not be more than 4 months old when the borrower
+signs the promissory note at closing.
+Transaction Types ▪ Purchase money mortgage – where proceeds are used to finance the
+purchase of a home. Non- Fannie Mae seller financing may also be
+defined as a purchase money mortgage.
+▪ Refinance – replacing an existing loan with another loan
+▪ CO-OP share loans – financing a property in a co-op where owners share
+in common services
+▪ Mortgages with financed mortgage insurance – mortgages where the
+upfront mortgage insurance premium is financed into the loan
+Second Liens Loans that are not primary and are in a junior position. These loans can:
+▪ Be closed-end with a defined ending date with no reuse of the loan funds
+▪ Open end secured by the equity in the home called a Home Equity Line of
+Credit (HELOC)
+Loan purpose ▪ Purchase – loan to finance a real estate purchase
+▪ Limited cash out – a refinance transaction where the lender will allow the
+borrower some cash back typically limited to 2% of the loan amount or
+$2,000 whichever is less
+▪ Cash out – a refinance transaction where the borrower is removing cash
+from the equity in the property to be used for expenditures that are not
+associated with the property (ex. debt consolidation)
+Amortization Amortization – loan term and payment period
+Type/Loan ▪ Fully amortized fixed rate – loan principal and interest payments remain
+Products the same for the life of the loan and will pay off the loans by the due date
+▪ Adjustable-rate loans – loans where the rate can adjust over the life of
+the loan
+Ameritrain Mortgage Institute | All rights reserved | Version 01012023 7 | P ag e
+Fannie Mae Underwriting Guidelines Matrix
+▪ Convertible ARM – an adjustable rate loan where a small fee is paid at
+closing giving the borrower the right to transfer to a fixed rate without
+refinancing the loan
+▪ Balloon mortgage – a loan where the payments will not pay off the loan
+by the due date of the loan. Borrower’s usually refinance to pay off a
+balloon mortgage
+▪ Biweekly payment schedule – making payments every two weeks.
+Equates to one extra payment a year and reduces interest over the life of
+the loan
+▪ Temporary interest rate buy-down – means that the borrower will have a
+lower interest during the first few years of the loan. Ex. 2/1 buy-down, the
+note rate on the loan is reduced by 2% in year one and 1% in year 2. The
+lender or seller generally pay for the cost of the buy-down.
+Borrower eligibility ▪ State law determines when a borrower is old enough to enter into a
+contract
+▪ The Equal Credit Opportunity Act (ECOA) does not allow discrimination
+based on age if the borrower is old enough to enter into a contract
+▪ There is no maximum age limit
+Non-US Citizens Lawful permanent and non-permanent residents of the U.S. are eligible for
+financing. The lender determines eligibility.
+Credit Score Fannie Mae uses the representative score as part of the borrower’s qualifying
+process:
+▪ Single score – not eligible
+▪ Two scores – use the lower of the two as the representative score
+▪ Three scores – use the middle score as the representative score
+▪ Multiple borrowers – use the lowest representative score
+Minimum credit score eligible for purchase by Fannie Mae
+▪ Fixed rate – 640
+▪ ARM – 660
+LTV/CLTV/TLTV Lenders make loans based on the value of the property.
+▪ Loan to Value – the loan amount as a percentage of the purchase price or
+appraised value whichever is less
+▪ Combined Loan to Value – combining more than one loan as a
+percentage of the value
+▪ Total Loan to Value – is a Freddie Mac term that means the maximum
+debt potential. A combination of any outstanding debts against the
+property and the HELOC.
+HomeReady Designed for credit worthy low to moderate income borrowers. Provides
+Mortgage expanded financing in low-income communities and requires borrowers to
+participate in pre-purchase education.
+IRS Form 4506T or Borrower signs form allowing the lender to get a copy of the filed tax
+4506C transcript as part of the income verification process
+Ameritrain Mortgage Institute | All rights reserved | Version 01012023 8 | P ag e
+Fannie Mae Underwriting Guidelines Matrix
+Non-taxable ▪ Non-taxable income like social security, disability and child support can be
+income used as qualifying income as long as it will continue for at least three
+years.
+▪ ECOA does not allow discrimination based on income. Since gross income
+is used to qualify the borrower to make it fair for the non-taxable income
+we increase it by 25 percent to make it equivalent to taxable income. This
+is called grossing up income.
+Salary ▪ Must show evidence of stable income over past two years
+▪ Must show that non-employment income will likely continue for at least
+three more years (ex. Social Security, Child Support, Disability, Alimony)
+▪ Must provide most recent 30 days of pay-stubs
+▪ Provide W2s covering the most recent 2 years
+▪ Verbal employer verification
+▪ Third party verification accepted (ex. Payroll service)
+Self - Employment Employed individuals are considered self-employed under the following
+circumstances:
+▪ Borrower earns 25% or more of income in commission or incentives
+▪ Borrower owns 25% or more of a company
+▪ Borrower is employed by family members
+Tax Returns Fannie Mae requires two years of filed tax returns for the following:
+required ▪ Borrower earns 25% or more of income in commission or incentives
+▪ Borrower owns 25% or more of a company
+▪ Borrower is employed by family members
+▪ Borrower has periodic employment
+▪ Borrower has rental property
+▪ Borrower claiming unreimbursed business expenses
+Commission, These forms of income may be used if the income can be verified that it has
+bonus, overtime, been received for at least two years
+tips and self -
+employment
+income
+Debt balance no ▪ General – multiply the balance by 5% to use as a qualifying payment
+monthly payment ▪ Student loans - multiply the balance by 1% to use as a qualifying payment
+Earnest Money ▪ Good faith deposit held by a seller or real estate broker on a real estate
+Deposit purchase transaction
+▪ Funds are credited to the borrower when the loan closes
+Reserves Assets that are easily converted to cash. May be required by the underwriter
+to provide more security that funds will be available to meet the monthly
+debt commitments.
+Acceptable ▪ Stock portfolio account – allows 100% of account value for reserves
+Reserves ▪ Retirement account – allows 60% of non-vested interest in account to be
+used for reserves. IRS penalties assessed for early withdrawal
+Ameritrain Mortgage Institute | All rights reserved | Version 01012023 9 | P ag e
+Fannie Mae Underwriting Guidelines Matrix
+Gift Funds Fannie Mae allows gift funds on primary and second home purchases, not
+investment properties. They must come from an acceptable donor:
+▪ Relative
+▪ Domestic partner
+▪ Fiancée
+▪ Non-profit
+The donor may not be, or affiliated with, the:
+▪ Builder
+▪ Developer
+▪ Real estate agent
+▪ Seller
+▪ Or other interested party to the transaction
+Credit Score Fannie Mae uses the FICO credit reporting system, developed by the Fair Isaac
+and Company. The system uses three national credit bureaus:
+▪ Equifax
+▪ Experian
+▪ Transunion
+Representative Each bureau provides a score that is derived from an algorithm that lenders
+credit score use as part of the determination that a borrower is likely to meet the loan
+payment requirements. Fannie Mae uses the representative score that will
+generally impact the interest rate and terms of the loan.
+Representative Score (requires a minimum of two scores)
+▪ Two bureaus reporting (two scores) – use the lower of the two scores
+▪ Three bureaus reporting (three scores) – use the middle numerical score
+▪ More than one borrower – use the lowest representative score
+Traditional Credit ▪ Required credit and public record information for each locality where the
+borrower has lived within the past 2 years
+All credit must be reported that is not considered obsolete:
+▪ General credit information is not considered obsolete up to 7 years (legal
+statute)
+▪ Bankruptcy is not considered obsolete up to 10 years (legal requirement)
+Non-Traditional ▪ Borrower does not have a credit score
+Credit ▪ Use rental, utilities and other credit records not reported in traditional
+credit reports
+▪ Generally, 12-month history required
+Liabilities There are levels of liabilities highest to lowest:
+▪ Mortgage payment
+▪ Installment
+▪ Revolving
+The underwriter may choose to not include installment debt with 10
+payments or less to pay. This will provide the borrower with greater qualifying
+loan amount.
+Ameritrain Mortgage Institute | All rights reserved | Version 01012023 10 | P ag e
+Fannie Mae Underwriting Guidelines Matrix
+Debt to income ▪ Monthly debts as a percentage of monthly gross income, income before
+(DTI) taxes
+▪ For manually underwritten conventional loans the maximum DTI is 36%
+(Back end ratio)
+▪ Included in the DTI is the amount of debt allowed for the housing
+payment. For conventional loans the maximum housing payment ratio is
+Housing payment 28%
+to income
+(Front end ratio)
+Automated Purchasers, insurers and guarantors of mortgage loans make decisions based
+underwriting (AUS) on the borrower’s ability to meet delivery requirements. These entities have
+significant historical data on loan performance based on borrower profiles.
+This data is incorporated in computer based models that allow any borrower’s
+credit profile to be compared to borrowers in the database. This allows for a
+system decision, not a human underwriter determination.
+Either the system will recommend that the loan be approved, denied or
+submitted for further review (refer) by an underwriter and also establish the
+required supporting documents. This process is automated underwriting
+(AUS). It often allows DTI ratios that exceed the maximum allowed by a
+manual underwritten loan. ex. greater than 36% for conventional.
+▪ Fannie Mae AUS system – Desktop underwriter (DU)
+▪ Freddie Mac AUS system – Loan prospector (LP)
+Lenders that meet the terms of an AUS decision are protected from liability in
+cases where the DTI exceeded 36% because the decision was not determined
+by the lender but by the AUS.
+Hazard insurance Insurance coverage is determined by the insurance company and is only for
+the improvements (dwelling) not the land:
+Requires the lower of:
+▪ 100% of the insurable value of the improvements
+▪ The unpaid balance, but not less than 80% of the value of the
+improvements
+It a violation of the law to require a borrower to carry insurance coverage that
+exceeds the replacement value of the improvements.
+The borrower can have a deductible that is up to 5 percent of the face
+amount of the policy.
+Flood insurance The lender is responsible for determining if the structure is located in a flood
+zone which would require the borrower to carry flood insurance.
+Mortgage Mortgage insurance is required when the lender originating a conventional
+Insurance for loan is loaning the borrower more than 80% of the value. Here are the facts
+conventional, about Private Mortgage Insurance required on conventional conforming
+loans:
+Ameritrain Mortgage Institute | All rights reserved | Version 01012023 11 | P ag e
+Fannie Mae Underwriting Guidelines Matrix
+Private mortgage ▪ Required if the lender is loaning more than 80% of the value
+insurance (PMI) ▪ Mortgage insurance premiums are primarily based on LTV, credit score,
+and loan product. The higher the risk the higher the mortgage insurance
+premium.
+▪ Coverage limitations are limited to a maximum of 35%
+o Ex. A borrower defaults and the outstanding balance is $100,000
+with 35% coverage the lender will receive $35,000 and will need
+to receive $65,000 in the foreclosure sale to break even.
+Homeowners Prior to the late 90s if a borrower was required to carry mortgage insurance
+Protection Act there was no required or automatic mechanism to cancel the insurance.
+(HPA) Uninformed consumers often carried mortgage insurance way beyond the
+time the loan was a risk to the lender. To address this issue Congress passed
+the Homeowners Protection Act which became effective in 1999.
+HPA has two methods to terminate private mortgage insurance on
+conventional loans:
+▪ Automatic termination
+o Automatically terminates when the borrower’s loan balance
+reaches 78% of the original value
+o No required action by the borrower for the termination to occur
+other than the borrower is current on the loan at the time of
+termination
+▪ Requested termination
+o Available to borrowers that have paid down their mortgage loan
+balance to 80% of the original value.
+o Borrower must initiate the request
+o Borrower must meet the “good payment history requirement.
+➢ No 60-day late payments within the past 24 months
+➢ No 30-day late payments within the past 12 months
+➢ Must be current at the time of termination.
+Rental Income Rental income, less rental and property related expenses, are defined as “net
+rental income” calculated based on two scenarios:
+▪ Borrower has included the rental income and associated expenses on the
+tax return (actual net rental income on the return is used)
+▪ Borrower is allowed to use a verified and documented lease agreement to
+verify rental income. The borrower will be allowed to use 75% of the
+rental revenue. There is a 25% deduction for customary vacancy and
+maintenance factors.
+▪ Positive net rental income adds to the borrower’s income and negative
+net rental income reduces the borrower’s income for mortgage loan
+qualifying purposes.
+Popular tax forms ▪ Form 1040 – individual tax return form
+used in mortgage ▪ Schedule C – sole proprietor (single owner business)
+financing ▪ Schedule E – rent revenues and expenses
+▪ Form 2106 – unreimbursed employee expenses
+Ameritrain Mortgage Institute | All rights reserved | Version 01012023 12 | P ag e
+Fannie Mae Underwriting Guidelines Matrix
+▪ Form 4506T or 4506C– allows access to filed taxes transcript
+▪ W2 – Shows borrower’s annual gross income
+Occupancy Property must be occupied by the borrower within 60 days of loan closing
+Seller Concessions A seller is an “interested party contributor” (IPC) and is not allowed to provide
+gifts toward the borrower’s down payment or participate in any (IPCs) not
+disclosed during the settlement process. However, the seller is allowed to
+contribute to the borrower’s closing costs and any pre-paid items associated
+with the loan transaction. Any IPCs are deducted from the sales price when
+determining LTV and CLTV ratios. The following are the guidelines for
+conventional mortgages:
+▪ Seller and or IPCs are based on the LTV which is the lower of the sales
+price or the appraised value. Ex. Appraised value $220,000 Sales Price
+$200,000 the value to be used is the sales price because it is lower.
+▪ Less than 10% down or LTV greater than 90% (100-10), maximum seller
+contribution 3%
+▪ Less than 25% down and up to 10% or LTV 75.01%-90%, maximum seller
+contribution 6%
+▪ More than 25% down or LTV less than 75%, maximum seller contribution
+9%
+▪ Investment/non-owner occupied, the maximum seller contributions of all
+LTVs is 2%
+Seller contributions may never exceed the actual closing costs and prepaid
+items associated with the loan.
+Non-conforming ▪ Loans that exceed the conventional conforming guidelines for maximum
+loans loan amount over $726,200 for a single unit property in standard areas
+are non-conforming loans and are not deliverable to Fannie Mae and
+Freddie Mac. They are purchased by other investors on the secondary
+market.
+▪ Exception – high-cost areas are allowed to have loan limits that exceed
+the conforming loan limits by up to 50 percent of the conforming limit of
+$726,200 which is $1,089,300 and in some areas like Alaska and Hawaii
+the limit can exceed $1,089,300. Under this scenario these loans would
+still be considered conforming loans.
+Borrower ▪ Prime – borrowers or “A” borrowers with the lowest risk generally have
+categories high credit scores, good assets and income and employment history.
+These borrowers get the best loan terms.
+▪ Alt/A – borrowers that have credit attributes that are slightly more risky
+than prime but more sound than subprime.
+▪ Subprime – borrowers that are substantially more risky than prime and
+are often referred to as B/C borrowers. Because these borrowers have
+limited loan options they are often victims of predatory lending practices.
+Ameritrain Mortgage Institute | All rights reserved | Version 01012023 13 | P ag e

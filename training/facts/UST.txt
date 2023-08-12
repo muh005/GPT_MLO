@@ -1,0 +1,625 @@
+Uniform
+State Content
+Upon completion of the magazine, you will be able to:
+• Understand the details of the SAFE Act and the Model State Law
+(MSL)
+Section Introduction
+In 2008, th e housing industry suffered significant declines due to an economic financial crisis. To help
+mitigate the impact of these changes, Congress passed the Housing & Economic Recovery Act (HERA).
+Title V of HERA is the SAFE Act. The SAFE Act was originally enforced by HUD.
+With the passage of the Dodd Frank Act in July 2010 and the subsequent creation of the Consumer
+Financial Protection Bureau (CFPB), an umbrella was created to house most of the mortgage related
+laws under one entity. One of these laws is the Secure and Fair Enforcement for Mortgage Licensing Act
+(SAFE Act) under CFPB, which is the first law this lesson will address. This will be followed by an in-depth
+review of the Model State Law (MSL) created to assist states with implementing the SAFE Act on a state
+level. Initially HUD was responsible for the implementation and enforcement of the SAFE Act.
+1
+Edition v.020419 | Ameritrain Mortgage Institute | All Rights Reserved
+The
+SAFE
+Act
+The SAFE Act was created to provide additional protections for consumers and to
+reduce fraud in residential mortgage lending. The law accomplished these
+objectives by requiring the establishment of a registry to track individuals and
+entities involved in loan origination. In addition, the SAFE Act mandates that states
+ensure mortgage loan originators comply with the Act by instituting regulations to
+implement this federal law on a state level.
+To assist in this implementation, HUD recruited two industry organizations to
+create a model or template for states to follow. This model is referred to as the
+Model State Law (MSL). A more detailed review of the MSL will be reviewed later in
+this chapter.
+Two years later in 2013, the UST was created to provide an opportunity for MLOs
+to complete a single test instead of a national and state specific tests for every
+state where licensing was desired. States have the option of joining this UST system
+which eliminates the need for testing of state specific laws. The Uniform State Test
+(UST) component of the exam tests applicants on their understanding of the SAFE
+Act and the MSL. Since content in the UST section of the test are universal to all
+states, the national exam no longer references any state specific laws.
+2
+Origins of the SAFE Act
+H.E.R.A
+Housing & Economic
+Recove ry Act
+CFPB
+Consumer Financial
+In 2008, the 110th congress passed Protection Bureau
+the Housing and Economic (Enforces SAFE Act – Reg. H)
+Recovery Act, a law designed to
+address the declining housing
+The Dodd Frank Act, which
+market. The law is comprised of
+regulates financial services, was
+titles and title V of HERA is the
+enacted in July 2010. The law
+SAFE Act.
+MSL created the Consumer Financial
+Protection Bureau (CFPB), known
+Model State Law
+as the Bureau, to enforce the
+provisions of the Dodd Frank Act.
+Model State Law is a template One year later, enforcement of the
+developed to assist states in SAFE Act SAFE Act was transferred from
+adapting state laws to meet the HUD to the CFPB. The CFPB
+Secure & Fair Enforcement
+requirements of the SAFE Act. The for Mortgage Licensing Act subsequently recoded the SAFE
+Conference of State Bank (Title V of HERA Act as Regulation H.
+Supervisors and the American
+Association of Residential
+The SAFE Act is the “Secure and
+Mortgage Regulators, both non-
+Fair Enforcement for Mortgage
+government entities, establish the
+Licensing Act” and mandates that
+standards of the banking industry
+there be a registry that tracks
+(CSBS) and the residential lending
+mortgage loan originators doing
+industries (AARMR). These two
+business within the United States.
+entities created the MSL and also
+It also requires states to adapt
+created and maintain the NMLS.
+laws to meet the conditions of the
+Act. The SAFE Act was originally
+enforced by HUD.
+NMLS
+Nationwide Mortgage
+Licensing System
+The Nationwide Mortgage
+Licensing System and Registry
+tracks mortgage loan originators.
+Figure 7: Origins of the SAFE Act Graphic
+3
+Terms that are Defined in the SAFE Act
+American Association of Residential The national association of executives and employees of the various states
+Mortgage Regulators (AARMR) who are charged with the responsibility for administration and regulation of
+(industry organization, not residential mortgage lending, servicing, and brokering, and dedicated to the
+government) goals described at www.aarmr.org.
+Along with CSBS created the Model State Law and the NMLS&R.
+Bureau The Consumer Financial Protection Bureau
+Conference of State Bank Supervisors
+(CSBS) Dedicated to maintaining the state banking system and state regulation of
+financial services in accordance with the CSBS statement of principles
+(industry organization not government) described at www.csbs.org. Along with AARMR created the Model State Law
+and the NMLS&R.
+Employee An individual:
+(1) Whose work performance is subject to control of, or controlled by a
+person.
+(2) Whose compensation for Federal income tax purposes is reported on a
+W-2 form issued by the controlling person.
+Loan processor or underwriter An individual who supports origination of residential mortgage loans by
+performing clerical or support duties at the direction of and subject to the
+(Employee exempt from licensing) supervision and instruction of:
+(1) A state-licensed loan originator
+(2) A registered loan originator
+Nationwide Mortgage Licensing System The mortgage licensing system developed and maintained by the Conference
+and Registry (NMLSR) of State Bank Supervisors and the American Association of Residential
+Mortgage Regulators for the licensing and registration of loan originators and
+the registration of registered loan originators or any system established by
+the Director.
+Nontraditional mortgage product Any mortgage product other than a 30-year fixed-rate mortgage.
+Origination of a residential mortgage All residential mortgage loan-related activities from the taking of a residential
+loan, for purposes of the definition of mortgage loan application through the completion of all required loan closing
+loan processor or underwriter documents and funding of the residential mortgage loan.
+Real estate brokerage activities Any activity that involves offering or providing real estate brokerage services
+to the public.
+Residential mortgage loan Any loan primarily for personal, family, or household use that is secured by a
+mortgage, deed of trust, or other equivalent consensual security interest on a
+dwelling (as defined by TILA) or residential real estate upon which is
+constructed or intended to be constructed a dwelling.
+Unique identifier A number or other identifier that:
+(1) Permanently identifies a loan originator.
+(2) Is assigned by protocols established by the Nationwide Mortgage
+Licensing System and Registry and the Bureau to facilitate electronic
+tracking of loan originators and uniform identification of, and public
+access to, the employment history of and the publicly adjudicated
+disciplinary and enforcement actions against loan originators.
+(3) Is used only for purposes outlined by the S.A.F.E. Act.
+4
+Individuals Required to be Licensed
+§ 12 CFR 1008.103
+A state operating a SAFE compliant program will not allow an individual to engage in residential loan
+origination activities unless the individual first:
+1. Registers as a loan originator through, and obtains a unique identifier from, the NMLSR
+2. Obtains and maintains a valid loan originator license from a state
+When is a person considered a MLO?
+An MLO is any individual who:
+1. Takes a residential mortgage loan application
+2. Offers or negotiates terms of a residential mortgage loan for compensation or gain
+3. Represents to the public through advertising of an ability to originate loans
+When is a residential mortgage loan application considered to have been taken?
+An individual is considered to have taken a residential mortgage loan application if the individual:
+▪ Receives a residential mortgage loan application
+▪ Accepts the terms offered by a borrower or prospective borrower, directly or indirectly, in response to a
+solicitation to extend an offer of residential mortgage loan terms
+▪ Offers or negotiates terms of a residential mortgage loan for compensation or gain (to a borrower or
+prospective borrower)
+What are the guidelines for independent contractor processors/underwriters?
+▪ Registers as a loan originator through and obtains a unique identifier from the NMLSR
+a. Obtains and maintains a valid loan originator license from a state
+Which individuals are not required to be licensed as MLOs under Reg H?
+(a) A state licensed or registered individual who performs only real estate brokerage activities.
+(b) An individual involved only in extending credit relating to timeshare plans.
+(c) An individual who performs only clerical or support duties and:
+o Works and/or is supervised by a state licensed or registered mortgage loan originator OR is
+licensed and registered an independent contractor.
+o Who performs duties relating to transactions that do not require a licensed loan originator.
+(d) An individual who is an employee of a depository institution registered with, and maintains a unique
+identifier through, the NMLS&R.
+(e) An employee of a bona fide nonprofit organization who acts as a loan originator with respect to
+residential mortgage loans. (A non-profit must have a 501(c)(3) election and be in the affordable
+housing or housing education business).
+(f) Any individual who offers or negotiates terms of a residential mortgage loan with, or on behalf of, an
+immediate family member of the individual.
+(g) Any individual who offers or negotiates terms of a residential mortgage loan secured by a dwelling that
+served as the individual’s residence.
+(h) A licensed attorney who negotiates the terms of a residential mortgage loan on behalf of a client as a
+secondary matter to the attorney’s representation of the client and does not receive compensation
+from the mortgage lender, broker or mortgage loan originator.
+5
+How does License Revocation and Criminal History Impact MLO Licensing Status?
+To be eligible for a loan originator license, a state must require and find, at a minimum, that an individual:
+a. Has never had a loan originator license revoked in any governmental jurisdiction, unless a formally
+vacated revocation.
+b. Has never been convicted of, or pled guilty or nolo contendere to, a felony in a domestic, foreign, or
+military court:
+i. During the 7-year period prior to application date for licensing.
+ii. At any time prior to the application date, if a felony involved an act of fraud, dishonesty, a
+breach of trust, or money laundering.
+Relating to (b) above:
+i. Expunged convictions and pardoned convictions do not affect the eligibility of the individual.
+ii. Whether a particular crime is classified as a felony is determined by the law of the jurisdiction
+in which an individual is convicted.
+6
+Education and Testing Requirements
+Pre-Licensing and Re-Licensing Education of Loan Originators
+MSL.070
+Issuance of License
+Applicants for a loan originator’s license must complete at least 20 hours of pre-licensing education by an
+NMLS approved course provider that has been reviewed and approved by the NMLS&R. The pre-licensing
+education completed by the individual must include at least:
+8 hours core requirements plus 12 hours of electives
+▪ 3 hours of Federal law and regulations.
+▪ 3 hours of ethics, which must include instruction on fraud, consumer protection, and fair lending issues.
+▪ 2 hours of training on lending standards for the nontraditional mortgage product marketplace.
+▪ 12 hours of electives.
+VENUE OF EDUCATION — Pre-licensing education may be offered either in a classroom, online, or by any other
+means approved by the Nationwide Mortgage Licensing System and Registry.
+RECIPROCITY OF EDUCATION — The pre-licensing education requirements approved by the Nationwide
+Mortgage Licensing System and Registry for any state must be accepted as credit towards completion of pre-
+licensing education requirements in any state.
+What are the testing and re-testing standards?
+▪ Achieve a test score of 75% on a written test developed by the NMLSR.
+▪ An individual may take a test three consecutive times. Each retest cannot occur less than 30 days after
+the preceding test.
+▪ If an individual fails three consecutive tests, then the individual must wait at least 6 months before
+taking the test again.
+Under what conditions must a formerly state licensed loan originator retake the test?
+If a loan originator who was formerly licensed fails to maintain a valid license for 5 years or longer, then the
+individual must retake the test and achieve a test score of 75% . This does not consider any time the individual
+was a registered loan originator (bank or credit union).
+7
+To be eligible for a loan originator license renewal, a state must require the individual to:
+(a) Continue to meet the minimum standards for a license.
+(b) Satisfy annual continuing education requirements, which must include at least 8 hours of education
+approved by the NMLSR. The 8 hours of annual continuing education must include at least:
+▪ 7 hours core plus 1 hour elective
+o 3 hours of Federal law and regulations.
+o 2 hours of ethics, including instruction on fraud, consumer protection, and fair lending
+issues.
+o 2 hours of training related to lending standards for the nontraditional mortgage product
+marketplace.
+o 1 hour elective.
+A state-licensed loan originator may:
+▪ Only receive credit for a continuing education course in the year in which the course is taken.
+▪ Not take an approved course more than one time in the same year or in consecutive years.
+An instructor will receive 2 hours of credit for every hour of credit taught.
+LAPSE IN LICENSE – Continuing Education Requirement
+A licensed mortgage loan originator who subsequently becomes unlicensed must complete the continuing
+education requirements for the last year in which the license was held prior to issuance of a new or renewed
+license.
+License renewal window – The window for license renewal is November 1 to December 31.
+License Expiration – The license of a mortgage loan originator failing to satisfy the minimum standards for license
+renewal will expire on December 31st. The Commissioner may adopt procedures for the reinstatement of expired licenses
+consistent with the standards established by the NMLS&R.
+The Bureau’s Authority to Examine Loan Originator Records § 12 CFR 1008.401
+The CFPB may:
+▪ Examine any books, papers, records, or other data of any loan originator operating in any state which is
+subject to a licensing system established by the Bureau.
+▪ Issue a summons for any loan originator or any person having possession of records to appear before
+the bureau.
+8
+Model State Law &
+the Uniform
+State Test
+2
+n
+o
+i
+t
+c
+e
+S
+1
+Edition v.020419 | Ameritrain Mortgage Institute | All Rights Reserved
+Model State Law
+State Model Language for Implementation of Public Law 110-289, Title V—S.A.F.E. Mortgage
+Licensing Act
+During the transition of incorporating the S.A.F.E. Act, several state legislatures did not have previous mortgage
+loan originator standards included in their legislative code. The Conference of State Bank Supervisors (CSBS) and
+the American Association of Residential Mortgage Regulators (AARMR) were recruited by HUD to develop a
+State model to be incorporated into a state legislative code, thus simplifying, and to a large degree
+standardizing, the incorporation of the S.A.F.E. Act into state law.
+State License and Registration Application and Issuance MSL.050
+What items must an applicant for MLO licensure provide to NMLS regarding their identity?
+BACKGROUND CHECKS—In connection with an application for licensing as a mortgage loan originator, an
+applicant must, at a minimum, supply to NMLS information regarding the applicant’s identity, including—
+(a) Fingerprints for submission to the FBI and any governmental agency or entity authorized to receive such
+information for a state, national, and international criminal history background check.
+(b) Personal history and experience, including the submission of authorization for the NMLS&R and the
+Commissioner to obtain:
+i. An independent credit report obtained from a consumer reporting agency.
+ii. Information related to any administrative, civil, or criminal findings by any governmental
+jurisdiction.
+When assessing an applicant’s character and general fitness, what are the 4 primary areas of focus?
+MSL.060 ISSUANCE OF LICENSE
+CHARACTER AND FITNESS—The applicant must demonstrate financial responsibility, character, and general
+fitness, such as to command the confidence of the community and to warrant a determination that the
+mortgage loan originator will operate honestly, fairly, and efficiently within the purposes of this Act.
+A person who demonstrates they are not financially responsible when they have shown a disregard in the
+management of their own financial condition. A determination that an individual has not shown financial
+responsibility may include, but not limited to:
+▪ Current outstanding judgments, except judgments solely as a result of medical expense.
+▪ Current outstanding tax liens or other government liens and filing.
+▪ Foreclosures within the past three years.
+▪ A pattern of seriously delinquent accounts within the past three years.
+2
+Authority to Require License (Commissioner)
+For purposes of the Model State Law, the head of the regulatory agency for residential mortgage licensing
+purposes in any state is referred to as the Commissioner. In addition to any other duties imposed upon the
+Commissioner by law, the Commissioner will require mortgage loan originators to be registered and/or
+licensed through the Nationwide Mortgage Licensing System.
+The Commissioner may establish requirements as necessary, including, but not limited to:
+1. BACKGROUND CHECKS—Background checks for:
+(a) Criminal history through fingerprint or other databases
+(b) Civil or administrative records
+(c) Credit history
+(d) Any other information as deemed necessary by the NMLS&R
+2. FEES—The payment of fees to apply for, or renew, licenses through the NMLS&R.
+3. SETTING DATES—The setting or resetting as necessary of renewal or reporting dates.
+4. OTHER—Requirements for amending or surrendering a license or any other such activities as the
+Commissioner deems necessary for participation in the NMLS&R.
+Nationwide Mortgage Licensing System and Registry Information Challenge
+Process
+The Commissioner will establish a process whereby mortgage loan originators may challenge information
+entered into the NMLS&R by the Commissioner.
+3
+Enforcement Authorities,
+Violations, & Penalties
+What are enforcement duties and responsibilities of the Commissioner in each state?
+1. To ensure there is effective supervision and enforcement of this Act, the Commissioner may:
+(a) Deny, suspend, revoke, condition, or decline to renew a license for a violation of this Act.
+(b) Deny, suspend, revoke, condition, or decline to renew a license if an applicant or licensee fails at
+any time to meet the requirements relating to the issuance of a license or standards for license
+renewal. Or withholds information or makes a material misstatement in an application for a
+license or renewal of a license.
+(c) Order restitution against persons subject to this Act for violations of this Act.
+(d) Impose fines.
+(e) Issue orders or directives as follows:
+i. Order or direct persons to cease and desist from conducting business, including
+immediate temporary orders to cease and desist.
+ii. Order or direct persons to cease any harmful activities or violations of this Act, including
+immediate temporary orders to cease and desist.
+iii. Enter immediate temporary orders to cease business under a license or interim license
+issued if the Commissioner determines that such license was erroneously granted or the
+licensee is currently in violation of this Act.
+iv. Order or direct such other affirmative action as the Commissioner deems necessary.
+What is the maximum civil penalty amount a Commissioner can assess?
+1. The Commissioner may impose a civil penalty on a mortgage loan originator or person if the
+Commissioner finds, on the record after notice and opportunity for hearing, that a mortgage loan
+originator or person subject to this Act has violated or failed to comply with any requirement of this Act
+or regulations established by the Commissioner.
+2. The maximum amount of penalty for each act or omission will be $34,401 (2023).
+3. Each violation or failure to comply with any directive or order of the Commissioner is a separate and
+distinct violation or failure.
+4
+Surety Bond, Net Worth, & Recovery Options
+What are the requirements for surety bond, net worth, or recovery fund options?
+Each state will choose to implement a requirement for surety bond, net worth, or recovery fund option to
+protect citizens of the state who have a successful claim against a mortgage loan originator for violation of
+state law, including acts of fraud. Below is an overview of the features of each option.
+Surety Bond Option
+1. COVERAGE, FORM, AND REGULATIONS — Each mortgage loan originator must be covered by a surety
+bond.
+In the event that the mortgage loan originator is an employee or exclusive agent of a person subject to
+this Act, the surety bond of the person subject to this Act can be used instead of the mortgage loan
+originator’s surety bond requirement.
+(a) The surety bond must provide coverage for each mortgage loan originator.
+(b) The surety bond must be in a form determined by the Commissioner.
+(c) The Commissioner may establish rules with respect to the requirements for surety bonds.
+2. PENAL SUM OF SURETY BOND — The penal sum of the surety bond must be maintained in an amount
+that reflects the dollar amount of loans originated as determined by the Commissioner.
+3. ACTION ON BOND — When an action is commenced on a licensee’s bond, the Commissioner may
+require the filing of a new bond.
+4. NEW BOND — Immediately upon a recovery any action on the bond, the licensee must file a new bond.
+Net Worth Option
+MINIMUM NET WORTH REQUIRED
+1. MINIMUM NET WORTH— A minimum net worth must be maintained continuously for mortgage loan
+originators. In the event a mortgage loan originator is an employee or exclusive agent of a person
+subject to this Act, the net worth of the person can be used instead of the mortgage loan originator’s
+minimum net worth requirement.
+(a) Minimum net worth must be maintained in an amount that reflects the dollar amount of loans
+originated as determined by the Commissioner.
+(b) The Commissioner may require for minimum net worth as are necessary to accomplish the
+purposes of this Act.
+Recovery Fund Option
+Some States have a recovery fund program where mortgage professionals contribute. When there is a
+successful consumer claim, funds to settle the claim are taken from the fund.
+STATE RECOVERY FUND - Each state choosing the recovery fund option will draft unique language establishing a
+fund.
+Public Access to Information
+Employment history and publicly decided disciplinary and enforcement actions against mortgage loan
+originators included in the NMLS&R for access by the public are not subject to this section.
+5
+Model State Law &
+Uniform
+the Uniform
+SSttaatet Tee sCt ontent
+3
+n
+o
+i
+t
+c
+e
+S
+1
+Edition v. 080220 | Ameritrain Mortgage Institute | All Rights Reserved
+Prohibited Acts and Practices
+What are prohibited acts and practices under this regulation?
+It is a violation of this Act for a person or individual subject to this Act to:
+(1) Directly or indirectly employ any scheme, device, or artifice to defraud or mislead.
+(2) Engage in any unfair or deceptive practice toward any person.
+(3) Obtain property by fraud or misrepresentation.
+(4) Solicit or enter into a contract with a borrower that provides in substance that the person or
+individual subject to this Act may earn a fee or commission through “best efforts” to obtain a loan even
+though no loan is actually obtained for the borrower.
+(5) Solicit, advertise, or enter into a contract for specific interest rates, points, or other financing
+terms unless the terms are actually available at the time of soliciting, advertising, or contracting.
+(6) Conduct any business covered by this Act without holding a valid license as required under this
+Act or assist or aid and abet any person in the conduct of business under this Act without a valid license
+as required under this Act.
+(7) Fail to make disclosures as required by this Act and any other applicable state or federal law.
+(8) Fail to comply with this Act or fail to comply with any other state or federal law, including the rules
+and regulations applicable to any business authorized or conducted under this Act.
+(9) Make, in any manner, any false or deceptive statement or representation including, with regard
+to the rates, points, or other financing terms or conditions for a residential mortgage loan, or engage in
+bait and switch advertising.
+(10) Negligently make any false statement or knowingly and willfully make any omission of material
+fact in connection with any information or reports filed with a governmental agency or the NMLS&R or in
+connection with any investigation conducted by the Commissioner or another governmental agency.
+(11) Make any payment, threat, or promise, directly or indirectly, to:
+▪ any person for the purposes of influencing the independent judgment of the person in connection
+with a residential mortgage loan.
+▪ any appraiser of a property, for the purposes of influencing the independent judgment of the
+appraiser with respect to the value of the property.
+(12) Collect, charge, attempt to collect, or charge, use, or propose any agreement purporting to collect
+or charge any fee prohibited by this Act.
+(13) Cause or require a borrower to obtain property insurance coverage in an amount that exceeds
+the replacement cost of the improvements as established by the property insurer.
+(14) Fail to truthfully account for monies belonging to a party to a residential mortgage loan
+transaction.
+2
+Uniform State Test (UST)
+Overview
+On April 1, 2013, NMLS launched the Uniform State Test or UST. This was the first major change to SAFE MLO Test
+requirements since the SAFE MLO tests were launched in July, 2009. The UST is a domain or section of the National Test
+Component. The UST material tests applicants on their knowledge of high level state-related content based on the SAFE
+Act and the CSBS/AARMR Model State Law (MSL) used by many states to implement the SAFE Act.
+The UST replaces the state-specific test components for the states that adopt it. Therefore, by passing the National
+exam with the Uniform State Content a candidate satisfies the testing requirements for licensure in those adopting states.
+Test Component Comparison Chart
+Test Name # of Questions Test Length Appointment Length Test Fees
+National Test 120 total 190 minutes 225 minutes $110
+Component with 115 scored
+UST
+Table 14: Test Component Comparison Chart
+3
+Temporary Authority
+The Economic Growth, Regulatory Relief, and Consumer Protection Act (S. 2155 or the amendments), signed into law on
+May 24, 2018, adds a new section to the federal SAFE Act entitled “Employment Transition of Loan Originators”. These
+amendments became effective November 24, 2019, 18 months after enactment.
+For registered MLO becoming employed by a State-licensed mortgage company seeking temporary authority to
+originate loans, they must conform to the following:
+▪ Has submitted an application to become a state licensed MLO in the application state
+▪ Must have been continuously employed by a federal chartered institution (ex. bank) for one year
+For state licensed mortgage loan originator seeking temporary authority to originate loans in another state,
+they must conform to the following:
+▪ Has submitted an application to become a state licensed MLO in the application state
+▪ Must have been continuously employed by a state licensed mortgage company for the past 30 days
+The following are applicable to both registered and state licensed MLOs seeking temporary authority:
+▪ Paid on a W2 basis
+▪ Never had an application for MLO license denied
+▪ Never had an MLO license revoked or suspended in any jurisdiction
+▪ Never been the subject of a cease and desist order
+▪ Has not been convicted of a misdemeanor or felony that would preclude licensure in the application
+state
+1. fingerprints for submission to the Federal Bureau of Investigation, and any governmental agency
+or entity authorized to receive such information for a State and national criminal history
+background check; and
+2. personal history and experience, (MU4 form) including authorization for the System to obtain an
+independent credit report obtained from a consumer reporting agency described; and
+3. information related to any administrative, civil or criminal findings by any governmental
+jurisdiction
+An application is considered received when the individual submits the required information above and
+completed the NMLS and application education and or testing requirements for licensure within 120 days.
+4
+What loans does the rule cover? (CFR 12 1026.36(b))
+Almost all closed-end consumer credit transactions secured by a dwelling, including any real property attached
+to the dwelling, are subject to the provisions on compensation, qualification, identification, and the
+establishment and maintenance of written policies and procedures for compliance.
+▪ This includes loans made to consumers that are secured by residential structures that contain one to four
+units, including condominiums and cooperatives. It is not limited to first liens or to loans on primary
+residences.
+▪ The provisions on compensation, qualification, identification, and the establishment and maintenance of
+written policies and procedures do not apply to:
+▪ Open-end credit plans, including HELOCs.
+▪ Time-share plans.
+▪ The prohibitions on mandatory arbitration clauses, waivers of federal claims, and certain financing
+practices for credit insurance apply to:
+o closed-end consumer credit transactions secured by a dwelling, except certain time-share plans,
+and to HELOCs secured by a consumer’s principal dwelling.
+What determines an individual is a loan originator? (12 CFR 1026.36(a)(1))
+A “loan originator” can be either a “loan originator organization” or an “individual loan originator.”
+5
+What actions determine if an individual is a loan originator?
+An entity may be a “loan originator,” if the entity is an organization or individual that for compensation or other
+monetary gain performs loan origination activities, such as:
+▪ Taking an application.
+▪ Arranging a credit transaction.
+▪ Assisting a consumer in applying for credit. A loan originator assists a consumer in obtaining or applying
+for credit by advising on particular credit terms that are, or may be, available to the consumer based on
+the consumer’s financial profile.
+▪ Offering or negotiating credit terms. Credit terms include rates, fees, and other costs. Credit terms are
+selected based on the consumer’s financial characteristics when those terms are selected based on any
+factors that may influence a credit decision, such as debts, income, assets, or credit history.
+▪ Making an extension of credit.
+▪ Referring a consumer to a loan originator or creditor. Referring is an activity included under each of the
+activities of offering, arranging, or assisting a consumer in obtaining or applying to obtain an extension of
+credit.
+▪ Advertising or communicating to the public that you can, or will, perform any loan origination services.
+Tip: This definition of “loan originator” is broader than the one under
+the SAFE Act and its regulations designed to implement the Act.
+Tip: If you are a servicer or work for a servicer, you become a
+loan originator if you perform loan origination activities on a
+covered transaction, such as handling a refinancing transaction or
+assisting in, or adding, a different consumer on an existing debt.
+Im plementa tion
+However, renegotiating or modifying an existing mortgage does not constitute a loan
+origination activity. You will find the criteria for determining whether a loan is defined as
+modification or a refinance in Regulation Z at § 12 CFR 1026.20(a).
+6
+An individual is not a loan originator solely based on the performance of the following activities:
+▪ Provide bona fide, third-party advisory services, such as those an accountant, attorney, or registered
+financial advisor would do. However, if a MLO advises a consumer on credit terms offered by either the
+MLO or their employer, or if the MLO receives, or expects to receive, compensation from loan originators
+or creditors for providing advice on credit terms offered by them, or for referring consumers to them,
+then the individual is a loan originator.
+▪ Provide HUD-approved housing counseling services in certain circumstances.
+▪ Provide general explanations, information, or descriptions of credit products in response to consumer
+queries.
+▪ Describe other product-related services. For example, optional monthly payment methods via telephone
+or via automatic account withdrawals, the availability and features of online account access, the
+availability of 24-hour customer support, or free mobile applications to access account information.
+▪ As an employee of a creditor or loan originator, provide contact information of a loan originator or
+creditor for whom you work, or for another person who works for that entity with the exception that the
+information does not discuss particular credit terms with the consumer that would cause a borrower to
+make a decision based on the consumer’s financial characteristics, or direct the consumer to a particular
+loan originator or creditor seeking to originate credit transactions to consumers with the consumer’s
+financial characteristics based on the employee’s assessment of those characteristics.
+▪ Perform loan-processing activities, such as compiling and assembling credit application packages and
+supporting documentation, for a loan originator or creditor. Implementation.
+▪ Persons who coordinate consummation of the credit transaction or other aspects of the credit transaction
+process, such as communicating with a consumer about process deadlines and documents needed at
+consummation, are not loan originators, provided that any communication that includes a discussion
+about credit terms available from a creditor to that consumer were previously selected and were based
+on the consumer’s financial characteristics which only confirm credit terms already agreed to by the
+consumer.
+▪ Perform credit underwriting activities, so long as you do not communicate directly with the consumer
+about specific credit terms.
+What counts as compensation? (12 CFR 1026.36(a)(3))
+For a loan originator, the term “compensation” generally includes salaries, commissions, and any financial or
+similar incentive that a MLO can receive and retain.
+For example, the term “compensation” includes:
+▪ An annual or other periodic bonus
+▪ Awards of merchandise, services, trips, or similar prizes (Comment 36(a)-5.i)
+7
+Does the name of the fee matter?
+Loan originator compensation generally includes retained payments and is not dependent on the label or name
+given to a fee.
+How does the prohibition against compensation based on a transaction term work? (§ 12 CFR 1026.36(d)(1))
+The existing compensation provisions in Regulation Z, and codified by the Dodd-Frank Act, were designed to
+eliminate some of the most common incentives that loan originators had historically used to steer consumers
+into loans that are less advantageous than those for which the consumers otherwise qualified. The existing rule
+prohibits loan origination compensation based on transaction terms, such as interest rate, or a proxy for
+transaction terms.
+The Loan Originator Rule clarifies this existing prohibition, including defining what constitutes a transaction term,
+clarifying how to determine whether a factor is a proxy for a transaction term, and clarifying when compensation
+may be paid based on profits from a mortgage-related business.
+Not Compensable Items
+For purposes of the compensation provisions, a loan originator generally may not receive compensation that is
+based on:
+▪ A term of a single transaction.
+▪ The terms of multiple transactions conducted by the MLO.
+▪ The terms of multiple transactions conducted by multiple loan originators, taken in the aggregate, such
+as most profits-based compensation plans.
+▪ The rule also prohibits anyone for purposes of the compensation provisions from paying loan originators
+compensation that is based on transaction terms. This means creditors, loan originators, or anyone else
+may not pay their own loan originator employees or other loan originators, such as brokers,
+compensation based on the term of a transaction or multiple transactions.
+Examples of prohibited compensation include, but are not limited to:
+▪ A loan originator receiving higher compensation based on the transaction’s interest rate, such as receiving
+2% of the loan amount if the interest rate is above 6% and 1% of the loan amount if the interest rate is
+6% or less.
+▪ A loan originator receiving higher compensation based on whether the loan contract contains a
+prepayment penalty.
+▪ A loan originator receiving higher compensation for closing more than 10 transactions per month with an
+interest rate higher than 6%.
+▪ An individual loan originator receiving additional compensation if the consumer buys creditor required
+title insurance from the originator’s employer or its affiliate, rather than a third party.
+8
+What is a transaction term? (§ 12 CFR 1026.36(d)(1)(ii))
+A transaction “term” is any right or obligation of the parties to a credit transaction, except for the amount of
+credit extended. “Credit transaction” means the “operative acts” and written and oral agreements that,
+together, create the consumer’s right to defer payment of debt or to incur debt and defer its payment.
+An example of an “operative act” in a covered credit transaction is the consumer’s purchase of certain goods and
+services essential to the transaction, such as required title insurance or a required appraisal.
+Terms of the transaction include:
+▪ Rights and obligations in the note or other credit contract and in the security instrument, and any
+document incorporated by reference.
+▪ Any fees or charges required to be disclosed in the Good Faith Estimate, the HUD-1, or HUD-1A that are:
+Imposed by the loan originator or creditor on the consumer for the credit or for any credit-related product
+or service provided by the loan originator or creditor.
+▪ For any product or service required as a condition of the extension of credit, such as title insurance
+protecting the creditor’s interest, or an appraisal.
+Examples of transaction terms include:
+▪ The interest rate.
+▪ The annual percentage rate.
+▪ The collateral type (e.g., condominium, cooperative, detached home, or manufactured housing).
+▪ The existence of a prepayment penalty.
+▪ The origination points or fees paid to the creditor or loan originator.
+▪ Fees for creditor-required title insurance.
+▪ Varying compensation to a loan originator based on the “product type” often will violate the rule, because
+many “products” (which is not a defined term) in the market refer to different bundles of specific
+transaction terms.
+Is the amount of credit extended a transaction term? (§ 12 CFR 1026.36(d)(1)(ii))
+The amount of credit extended is not a transaction term, if the loan originator compensation is based on a fixed
+percentage of the amount of credit extended. Such compensation may be subject to a minimum or maximum
+dollar amount, provided the amounts do not vary with each transaction.
+Examples:
+▪ A creditor is permitted to compensate a loan originator 1% of the amount of credit extended for all loans
+the originator arranges for the creditor but not less than $1,000 or greater than $5,000 for each loan.
+▪ A creditor is not permitted to compensate a loan originator 1% of the amount of credit extended for
+loans of $300,000 or more, 2% of the amount of credit extended for loans of more than $200,000 and less
+than $300,000, and 3% of the amount of credit for loans of $200,000 or less.
+9

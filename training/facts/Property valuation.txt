@@ -1,0 +1,220 @@
+Mortgage loan originators are expected to have an in-depth understanding of laws, terms, and procedures associated with
+residential mortgage industry. This chapter provides an extensive overview of how the industry works from a MLO perspective.
+1
+Edition v.01072020 | Ameritrain Mortgage Institute | All Rights Reserved
+Uniform Residential Appraisal Report
+The Uniform Residential Appraisal Report (URAR) is the primary appraisal form used in the real estate industry
+to report property values.
+A full appraisal report is also known as a Fannie Mae Form 1004. An exterior inspection, or a drive-by appraisal,
+is referred to as Form 2055. Below are important aspects of appraisals that an MLO should know.
+MLO Requirements and Limitations
+▪ An MLO is prohibited from attempting to influence the independent judgment of an appraiser
+▪ Anyone receiving any incentive as a result of the loan closing is not allowed to select the appraiser
+▪ The borrower is not allowed to pay the appraiser at the door
+Terms
+▪ Subject property – Property being purchased, refinanced or seeking secondary financing
+▪ Comps – Properties that have sold recently, close to the subject property and similar in size and
+features (generally 3-6 comps required on a loan transaction)
+▪ Geographic and Market Analysis – Addresses the economic setting of the property and the market
+forces that might impact the value
+▪ Internal Obsolescence – Internal factors that could impair the ability to sell the property. (ex. 5
+bedroom house with 1 bath)
+▪ Economic Obsolescence – External factors that could impact the ability to sell the property.
+▪ VA appraisal – Certificate of Reasonable Value (CRV)
+▪ Automated Valuation Model (AVM) – Computer programs that can provide a probable value range for
+properties by performing a statistical analysis of available data
+▪ HVCC – Home Valuation Code of Conduct – Result of Fannie Mae settlement with the New York City
+Attorney General to improve appraisal independence and integrity rules. Replaced by the provisions of
+Dodd Frank Act.
+Types of Appraisals
+▪ Sales comparison or Market data approach – Uses comps. to determine subject property value.
+Generally used in an established environment where sales have taken place.
+▪ Cost approach – Determining the cost to rebuild. Generally used in an insurance claim.
+▪ Income approach – Used with a loan relating to an investment property. Appraiser determines the fair
+market rental value of the subject property.
+Application Information and Requirements
+The receipt of a residential mortgage application triggers additional disclosure requirements. Disclosure
+requirements vary depending on the federal law definition of an application. The federal laws that require
+specific disclosure requirements relating to loan applications are: ECOA, FCRA, HMDA, RESPA and TILA. Also,
+the SAFE Act requires that a person receiving an application must be registered and/or licensed under the
+requirements of the Act.
+The Uniform Residential Loan Application (URLA) is the Fannie Mae Form 1003 or the Freddie Mac Form 65.
+2
+Appraisal Forms (Fannie Mae Forms)
+▪ Form 1004 – Uniform residential appraisal report (URAR) for an interior and exterior inspection of a
+single unit property
+▪ Form 1007 – Single family properties intended for investment purposes
+▪ Form 1073 – Interior and exterior inspection of a single unit property in a condominium
+▪ Form 2055 – External only appraisal (referred to as a “drive by”)
+Appraisal Update
+▪ An appraisal that is more than 4 months (120 days) old will require an updated appraisal
+ECOA Appraisal Rules
+▪ A notice of the right to receive a copy of the appraisal must be provided to the borrower within 3
+business days of receiving the loan application.
+▪ A copy of appraisal must be provided to clients promptly, but not later than 3 business days before
+closing. Client is entitled to a copy even if they failed to pay for the appraisal.
+▪ If a loan does not close, the client must still receive a copy of the appraisal within 30 days.
+▪ A lender is not allowed to charge a borrower for a copy of the appraisal.
+Dodd Frank Rules
+▪ Borrowers must receive a copy of an appraisal promptly, but not less than 3 days before closing.
+▪ Borrowers are no longer allowed to pay an appraiser at the door.
+▪ Any person involved in loan production is prohibited from selecting the appraiser.
+Fannie Mae Appraiser Requirements
+Appraiser must:
+▪ Be state-licensed or state certified
+▪ Have a resume of knowledge and experience
+▪ Have errors and omissions insurance policy, generally
+3
+Appraisal Rules & Definitions
+Appraisal Independence and Integrity Rules
+(12 CFR 1026.42)
+The Dodd Frank Act transferred appraisal independence and integrity rules and required behaviors to the CFPB for
+enforcement. These rules are covered under TILA 1026.42, including official interpretation available for each section.
+These rules apply to valuations completed on a consumer’s primary dwelling.
+Definitions
+Term Definition
+Covered person A creditor with respect to a covered transaction or a person that provides “settlement
+42(a) services,” the term includes any service provided in connection with a real estate
+settlement including, but not limited to, the following: title searches, title
+examinations, the provision of title certificates, title insurance, services rendered by an
+attorney, the preparation of documents, property surveys, the rendering of credit
+reports or appraisals, pest and fungus inspections, services rendered by a real estate
+agent or broker, the origination of a federally related mortgage loan (including, but
+not limited to, the taking of loan applications, loan processing, and the underwriting
+and funding of loans), and the handling of the processing, and closing or settlement;
+as defined in 12 U.S.C. 2602(3)
+Covered transaction An extension of consumer credit that is or will be secured by the consumer's
+42 (b)(1) principal dwelling.
+Valuation An estimate of the value of the consumer's principal dwelling in written or electronic
+42(b)(2) form, other than one produced solely by an automated model or system.
+Valuation • Recruiting, selecting, or retaining a person to prepare a valuation
+management • Contracting with or employing a person to prepare a valuation
+functions • Managing or overseeing the process of preparing a valuation, including by
+42(b)(3) providing:
+1. administrative services such as receiving orders and receiving a valuation,
+2. submitting a completed valuation to creditors and underwriters
+3. collecting fees from creditors and underwriters for services provided in
+connection with a valuation, and compensating a person that
+prepares valuations;
+4. Reviewing or verifying the work of a person that prepares valuations.
+Coercion In connection with a covered transaction, no covered person shall or shall attempt to
+directly or indirectly cause the value assigned to the consumer's principal dwelling to
+be based on any factor other than the independent judgment of a person that
+prepares valuations, through coercion, extortion, inducement, bribery, or intimidation
+of, compensation or instruction to, or collusion with a person that
+prepares valuations or performs valuation management functions.
+Below are important definitions from the law MLOs should know.
+4
+Violations
+Examples of actions that violate coercion standards include:
+• Seeking to influence a person that prepares a valuation to report a minimum or maximum value for
+the consumer's principal dwelling.
+• Withholding or threatening to withhold timely payment to a person that prepares a valuation or
+performs valuation management functions because the person does not value the consumer's
+principal dwelling at or above a certain amount
+• Implying to a person that prepares valuations that current or future retention of the person depends on
+the amount at which the person estimates the value of the consumer's principal dwelling
+• Excluding a person that prepares a valuation from consideration for future engagement because
+the person reports a value for the consumer's principal dwelling that does not meet or exceed a
+predetermined threshold
+• Conditioning the compensation paid to a person that prepares a valuation on consummation of
+the covered transaction.
+Mischaracterization of Value (42(c)(1)(i)
+Any one associated with a covered transaction may not display:
+• Misrepresentation (42(c)(1))
+o Prepare valuations that materially misrepresent the value of the consumer's principal dwelling in
+a valuation. A misrepresentation is material if it is likely to significantly affect the value assigned
+to the consumer's principal dwelling. A bona fide error will not be a misrepresentation.
+• Falsification or Alteration (42(c)(2)(i))
+o Falsify and alter a valuation, unless that person prepares valuations. An alteration is material if
+when changed it will likely affect the value assigned to the consumer's principal dwelling
+significantly.
+• Inducement of Mischaracterization
+o Induce a person to violate the rules associated with independent valuations.
+Permitted Actions (42(c)(2)(iii))
+Examples of actions that do not violate independence and integrity rules include:
+• Asking a person that prepares a valuation to consider additional, appropriate property information,
+including information about comparable properties, to make or support a valuation
+• Requesting that a person that prepares a valuation provide further detail, substantiation, or explanation
+for the person's conclusion about the value of the consumer's principal dwelling
+• Asking a person that prepares a valuation to correct errors in the valuation
+• Obtaining multiple valuations for the consumer's principal dwelling to select the most reliable valuation
+• Withholding compensation due to breach of contract or substandard performance of services
+• Taking action permitted or required by applicable Federal or state statute, regulation, or agency
+guidance.
+Prohibition on Conflicts of Interest
+Any person preparing a valuation or performing valuation management functions that may have a direct or
+indirect interest, financial or otherwise, in the property or transaction for which the valuation is or will be
+performed.
+5
+Employees and Affiliates
+Employees and Affiliates of Creditors; Providers of Multiple Settlement Services (42(d)(1)(i))
+A person does not violate this section based solely on the fact that the person:
+• Is an employee or affiliate of the creditor
+• Provides a settlement service in addition to preparing valuations
+• Has a relationship with an affiliate who performs another settlement service or performs valuation management
+functions
+Employees and Affiliates of Creditors with Assets of More Than $250 Million for Both of The Past Two Calendar Years
+(42(d)(1)(ii))
+If a creditor had assets of more than $250 million as of December 31st for both of the past two calendar years,
+a person subject to paragraph (d)(1)(i) of this section who is employed by or affiliated with the creditor does not have a
+conflict of interest in violation of paragraph (d)(1)(i)of this section based on the person's employment or affiliate
+relationship with the creditor if:
+• The compensation of the person preparing a valuation or performing valuation management functions is not
+based on the value arrived at in any valuation
+• The person preparing a valuation or performing valuation management functions reports to a person who is not
+part of the creditor's loan production function, as defined in paragraph (d)(5)(i) of this section, and whose
+compensation is not based on the closing of the transaction to which the valuation relates
+(42(d)(2)(ii))
+No employee, officer or director in the creditor's loan production function may be directly or indirectly involved in
+selecting, retaining, recommending or influencing the selection of the person to prepare a valuation or perform valuation
+management functions, or to be included in or excluded from a list of approved persons who prepare valuations or
+perform valuation management functions.
+EMPLOYEES AND AFFILIATES OF CREDITORS WITH ASSETS OF $250 MILLION OR LESS FOR EITHER OF THE PAST TWO
+CALENDAR YEARS. (42(d)(2)(iii), 42(d)(2))
+• For any covered transaction in which the creditor had assets of $250 million or less as of December 31st for
+either of the past two calendar years, a person subject to paragraph (d)(1)(i) of this section who is employed by
+or affiliated with the creditor does not have a conflict of interest in violation of paragraph (d)(1)(i)of this section
+based on the person's employment or affiliate relationship with the creditor if:
+o The compensation of the person preparing a valuation or performing valuation management functions is
+not based on the value arrived at in any valuation; and
+o The creditor requires that any employee, officer or director of the creditor who orders, performs, or
+reviews a valuation for a covered transaction abstains from participating in any decision to approve, not
+approve, or set the terms of that transaction.
+Loan production function. 42(d)(5)
+The definition of a loan production function means an employee, officer, director, department, division, or other unit of a
+creditor with responsibility for generating covered transactions, approving covered transactions, or both.
+When extension of credit prohibited 42(d)(5)(i)
+A creditor that knows, at or before consummation, of a violation in connection with a valuation may not extend credit
+based on the valuation, unless the creditor has acted with reasonable diligence to determine that the valuation does not
+materially misstate or misrepresent the value of the consumer's principal dwelling.
+6
+Appraisal services. 42(e)
+The services required to perform an appraisal, include:
+▪ defining the scope of work
+▪ inspecting the property
+▪ reviewing necessary and appropriate public and private data sources (for example, multiple listing
+services, tax assessment records and public land records)
+▪ developing and rendering an opinion of value, and preparing and submitting the appraisal report.
+Appraisal Management Company
+Any person authorized to perform one or more of the following actions on behalf of the creditor:
+▪ Recruit, select, and retain fee appraisers
+▪ Contract with fee appraisers to perform appraisal services
+▪ Manage the process of having an appraisal performed, including providing administrative services such
+as receiving appraisal orders and appraisal reports
+▪ Submit completed appraisal reports to creditors and underwriters
+▪ Collect fees from creditors and underwriters for services provided
+▪ Compensate fee appraisers for services performed
+▪ Review and verify the work of fee appraisers.
+Mandatory Reporting
+Any covered person that reasonably believes an appraiser has not complied with the Uniform Standards of
+Professional Appraisal Practice or ethical or professional requirements for appraisers under applicable state or
+Federal statutes or regulations should refer the matter to the appropriate state agency, if the failure to comply
+is material. A failure to comply is material if it is likely to significantly affect the value assigned to
+the consumer's principal dwelling.
+Timing of Reporting. 42(g)(1)
+A covered person must notify the appropriate state agency within a reasonable period of time after
+the person determines that there is a reasonable basis to believe that a failure to comply is material and should
+be reported.
+7
+8

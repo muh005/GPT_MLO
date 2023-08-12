@@ -1,0 +1,368 @@
+Ameritrain Mortgage
+Interactive Magazine
+Serving the Mortgage Industry since 2002
+The Facts
+About
+FACTA
+USA
+Patriot
+Act
+Read the
+Red Flags
+Bank Secrecy Act
+and FinCEN
+GLBA and the
+Safeguard Rule
+Pa ge
+1 | 21
+THIS EDITION
+Section 1
+Start with Security
+The Facts about FACTA
+E-Sign
+Section 2
+Reading Red Flags
+Section 3
+GLBA
+Safeguard Rule
+Bank Secrecy Act and Money Laundering
+Financial Crimes Enforcement Network
+Section 4
+USA Patriot Act
+Pa ge
+2 | 21
+Section 1
+Pa ge
+3 | 21
+Start
+As the Federal Trade Commission (FTC)
+states in their Start with Security: A
+Guide for Business, “When managing
+your network, developing an app, or
+even organizing paper files, sound
+security is no accident. Companies
+With
+that consider security from the start
+assess their options and make
+reasonable choices based on the nature
+of their business and the sensitivity
+of the information involved. Threats
+to data may transform over time, but
+the fundamentals of sound security
+Security
+remain constant.” *
+* FTC Security Guide for Business
+Pa ge
+4 | 21
+Pa ge
+5 | 21
+The Facts About
+B
+ack in 2003 when provisions of the Fair Credit Report Act (FCRA) were about to expire, Congress acted
+and extended the FCRA provisions. This became known as FACTA, or the Fair and Accurate Credit
+Transaction Act.
+In a ‘nutshell’… FACTA includes:
+▪ Identity theft provision – added to assist consumers and businesses in
+combating identity theft.
+▪ National fraud alert system – established with the following:
+o A consumer who believes they may be a victim of identity theft may call any of the three national
+Consumer Reporting Agencies (CRAs) to report the fact. The CRA receiving the call must put a 1-
+year fraud alert on the consumer’s credit file and notify the other two CRAs if the consumer has a
+file with them. They also will add an alert to the file.
+o If a consumer is a victim of identity theft and proof of their identity, than the fraud alert will extend
+from one year to seven-years.
+o Pre-screening, the practice of CRAs selling a consumer’s information to companies that solicit the
+consumer with credit offers, is stopped for five years.
+▪ Truncated credit card numbers – requires company to hide credit card
+numbers to assist consumers and businesses in combating identity theft.
+▪ The ‘Disposal Rule’ – companies must have secure procedures for the
+disposal of consumer reports (i.e., shredding documents).
+FACTA
+▪ Free Credit Report – national CRAs maintain a website,
+annualcreditreport.com, where consumers have a right to request a free annual
+credit report from each CRA annually.
+▪ Blocking – requires CRAs to ‘block’ information placed in a consumer report due
+to identify theft.
+▪ Identity theft business records – copies must be provided when requested.
+▪ Active Duty Alert – upon request, CRAS must include an alert in a military consumer’s file.
+Pa ge
+6 | 21
+E-Sign Act
+Speeding things up!
+Our society is concerned with speed and convenience. With this in mind, the Electronic Signatures in Global
+and National Commerce Act (E-Sign Act) was enacted.
+Why it was enacted
+The rule that allows for electronic records and signatures for transactions involving interstate or foreign
+commerce, significantly improved the speed and efficiency of communication by allowing for electronic
+transmission of signatures and documents. This is a significant benefit to the residential mortgage industry
+because consumers can participate in a financial transaction with the highest degree of convenience.
+How to apply:
+▪ The E-Sign Act allows the use of electronic records to satisfy any statute, regulation, or rule of law requiring
+that such information be provided in writing.
+▪ The consumer must affirmatively consent to such use and has not withdrawn such consent.
+▪ Financial institutions must provide the consumer a clear and conspicuous statement informing the
+consumer:
+o Of any right or option to have the record provided or made available on paper or in a non-electronic
+form; and
+o The right to withdraw consent, including any conditions, consequences, and fees in the event of such
+withdrawal; and
+o Whether the consent applies only to the particular transaction that
+triggered the disclosure or to the identified categories of records that
+More information can
+may be provided during the course of the parties’ relationship.
+be found at this link.
+▪ If the consumer consents electronically, or confirms his or her consent
+electronically, it must be in a manner that reasonably demonstrates the
+consumer can access information in the electronic form that will be used to
+provide the information that is the subject of the consent.
+▪ Oral communications or a recording of an oral communication shall not qualify as an
+electronic record. E-sign documents must be retained for 5 years.
+Pa ge
+7 | 21
+Pa ge
+8 | 21
+A
+red flag is a pattern, practice, or specific activity that indicates the possible existence of identity
+theft. The Federal Trade Commission (FTC) requires financial institutions to develop a written
+“Identify Theft Prevention Program” that is designed to detect, mitigate, and prevent identity theft.
+The FTC created 26 red flag items that must be included in the program to help creditors identify fraudulent
+activities.
+The following are the categories of the 26 red flags:
+Pa ge
+9 | 21
+Red Flag details shown on the following pages.
+NOTE: According to the FTC; “technology and criminal technics change constantly, so it’s important to keep up-
+to-date on new threats.” *
+1) A fraud or active duty alert is included with a consumer report.
+2) A consumer reporting agency provides a notice of credit freeze in
+response to a request for a consumer report.
+3) A consumer reporting agency provides a notice of address discrepancy,
+as defined in 681.1(b) of this part.
+4) A consumer report indicates a pattern of activity that is inconsistent with
+the history and usual pattern of applicant activity, such as:
+a. A recent and significant increase in the volume of inquiries.
+b. An unusual number of recently established credit relationships.
+c. A material change in the use of credit, especially with respect to recently established credit
+relationships.
+d. An account that was closed for cause or identified for abuse of account privileges by a financial
+institution or creditor.
+5) Documents provided for identification appear to have been altered or
+forged.
+6) The photograph or physical description on the identification is not
+consistent with the appearance of the applicant or customer presenting
+the identification.
+7) Other information on the identification is not consistent with
+information provided by the person opening a new covered account or
+customer presenting the identification.
+8) Other information on the identification is not consistent with readily accessible information that is on file
+with the financial institution or creditor, such as a signature card or recent check.
+9) An application appears to have been altered/forged, or gives the appearance of having been destroyed and
+reassembled.
+Pa ge
+10 | 21
+Red Flag details continued.
+10) Personal identifying information provided is inconsistent when compared
+against external information sources used by the financial institution or
+creditor. For example:
+a. The address does not match any address in the consumer report.
+b. The Social Security Number (SSN) has not been issued, or is listed on
+the Social Security Administration's Death Master File.
+11) Personal identifying information provided by the customer is not consistent with other personal identifying
+information provided by the customer. For example, there is a lack of correlation between the SSN range
+and date of birth.
+12) Personal identifying information provided is associated with known fraudulent activity as indicated by
+internal or third-party sources used by the financial institution or creditor. For example:
+a. The address on an application is the same as the address provided on a fraudulent application; or
+b. The phone number on an application is the same as the number provided on a fraudulent application.
+13) Personal identifying information provided is of a type commonly associated with fraudulent activity as
+indicated by internal or third-party sources used by the financial institution or creditor. For example:
+a. The address on an application is fictitious, a mail drop, or a prison; or
+b. The phone number is invalid, or is associated with a pager or answering service.
+14) The SSN provided is the same as that submitted by other persons opening an account, or other customers.
+15) The address or telephone number provided is the same as (or similar to) the account number or telephone
+number submitted by an unusually large number of other persons opening accounts or other customers.
+16) The person opening the covered account fails to provide all required personal identifying information on
+an application or in response to notification that the application is incomplete.
+17) Personal identifying information provided is not consistent with personal identifying information that is on
+file with the financial institution or creditor.
+18) For financial institutions and creditors that use challenge questions, the person opening the covered
+account cannot provide authenticating information beyond that which generally would be available from
+a wallet or consumer report.
+Pa ge
+11 | 21
+Red Flag details continued.
+19) Shortly following the notice of a change of address for a covered account,
+the institution or creditor receives a request for a new, additional, or
+replacement card or cell phone; or for the addition of authorized users
+on the account.
+20) A new revolving credit account is used in a manner commonly associated
+with known patterns of fraud. For example:
+a. The majority of available credit is used for cash advances or merchandise that is easily convertible to
+cash (e.g., electronics equipment or jewelry); or
+b. The customer fails to make the first payment or makes an initial payment but no subsequent
+payments.
+21) A covered account is used in a manner that is not consistent with established patterns of activity on the
+account. For example:
+a. Nonpayment when there is no history of late or missed payments;
+b. A material increase in the use of available credit;
+c. A material change in purchasing or spending patterns;
+d. A material change in electronic fund transfer patterns in connection with a deposit account; or
+e. A material change in telephone call patterns in connection with a cellular phone account.
+22) A covered account that has been inactive for a reasonably lengthy period of time is used (taking into
+consideration the type of account, the expected pattern of usage, and other relevant factors).
+23) Mail sent to the customer is repeatedly returned as undeliverable although transactions continue to be
+conducted in connection with the customer's covered account.
+24) The financial institution or creditor is notified that the customer is not receiving paper account statements.
+25) The financial institution or creditor is notified of unauthorized charges or transactions in connection with a
+customer's covered account. Notice can be from customers, victims of identity theft, law enforcement
+authorities, or other persons regarding possible identity theft in connection with covered accounts held by
+the financial institution or creditor.
+26) The financial institution or creditor is notified by a customer, a victim of identity * More information
+theft, a law enforcement authority, or any other person, that it has opened a can be found at this
+link.
+fraudulent account for a person engaged in identity theft.
+Pa ge
+12 | 21
+3
+n
+o
+i
+t
+c
+e
+S
+Pa ge
+13 | 21
+GLBA
+Gramm-Leach-Bliley Act (GLBA)
+Also, known as the “Financial Services Modernization Act” provides rules and regulations associated with the
+dissemination and protection of non-public consumer information. GLBA is regulation “P” and is enforced by
+the Consumer Finance Protection Bureau (CFPB).
+Who must comply
+The GLB Act applies to “financial institutions” – companies that offer financial products or services to
+individuals like loans, financial or investment advice, or insurance.
+The requirements:
+▪ Requires companies to give consumers privacy and right to opt out notices that explain the institution’s
+information sharing practices on an annual basis as long as a relationship exists.
+▪ Consumers have the right to opt out or say no to having their information shared with certain third parties.
+▪ If a consumer does not opt out, the non-public information of the consumer may not be shared with
+telemarketing, direct mail marketing, or marketing through email companies.
+▪ It prohibits pretexting, which is receiving non-public information through false pretenses.
+Penalties for violating GLBA
+▪ A financial institution can be fined up to $100,000 for each violation.
+▪ The officers and directors of the financial institution can be fined up to $10,000 for each violation.
+▪ Criminal penalties include imprisonment for up to 5 years, a fine, or both.
+Pa ge
+14 | 21
+GLBA
+Safeguard Rule
+What is the Safeguard Rule?
+As part of GLBA implementation, the FTC issued the Safeguard Rule which requires financial institutions to:
+▪ Have measures to keep customer information safe.
+▪ The rule mandates companies to develop a written information security
+plan that describes their program to protect customer information. More information can
+o Ex. Password protected computers that have customer non-public be found at this link.
+information and locked file cabinets that contain hard copy files of
+customer information.
+Pa ge
+15 | 21
+Bank Secrecy Act
+&
+Anti-Money Laundering
+Bank Secrecy Act and Anti Money Laundering (BSA/AML)
+O
+ne of the primary challenges we are faced with in the residential mortgage industry is money
+laundering. Money launderers use illegal funds to invest in legitimate financial transactions with the
+intent to honor those financial commitments.
+The law that addresses this issue directly is the Foreign Transactions Reporting Act of 1970, commonly known
+as the Bank Secrecy Act.
+How to apply
+The law requires financial institutions to assist U.S. government agencies
+with detecting and preventing money laundering activities.
+Specifically, the Act requires financial institutions to:
+▪ Keep records of cash purchases of negotiable instruments.
+▪ File reports of cash transactions exceeding $10,000, (daily aggregate
+amount).
+▪ Report suspicious activity that might signify money laundering, tax
+evasion, or other criminal activities.
+Pa ge
+16 | 21
+Financial Crimes Enforcement Network (FinCEN)
+Financial Crimes Enforcement Network (FinCEN)
+While the BSA mandates that financial institutions report suspicious activities, the Financial Crimes Enforcement
+Network, FinCEN, is a bureau of the U.S. Department of the Treasury. Their mission is to safeguard the financial
+system from illicit use, combat money laundering, and promote national security through the collection, analysis,
+and dissemination of financial intelligence and strategic use of financial authorities. Suspicious activity reports
+(SARs) are provided to FinCEN to carry out its responsibilities.
+▪ Non-bank financial institutions requirements:
+o The BSA defines the term ‘‘financial institution’’ to include, in part, a loan or finance company.
+o The term, however, can reasonably be construed to extend to any business entity that makes loans to
+or finances purchases on behalf of consumers and businesses.
+o Non-bank residential mortgage lenders and originators (‘‘RMLOs’’—generally known as ‘‘mortgage
+companies’’ and ‘‘mortgage brokers’’ in the residential mortgage business sector) are a significant
+subset of the ‘‘loan or finance company’’ category and are required to meet the requirements of
+FinCEN.
+How to apply
+FinCEN, under the BSA, requires RMLOs as loan or finance companies to establish anti-money laundering
+programs and report suspicious activities under the Bank Secrecy Act. At a minimum, the program must
+include:
+▪ The development of internal policies, procedures, and controls More information can
+▪ The designation of a compliance officer be found at this link.
+▪ An ongoing employee training program
+▪ An independent audit function to test programs And this link.
+▪ The BSA also requires financial institutions to file suspicious activity reports
+(‘‘SARs’’)
+Pa ge
+17 | 21
+Section 4
+Pa ge
+18 | 21
+USA Patriot Act
+You may or may not know the USA Patriot Act stands for:
+Uniting and Strengthening America by Providing Appropriate
+Tools Required to Intercept and Obstruct Terrorism.
+September 11, 2001 changed the United States forever. The terrorist attack was the basis for the Patriot Act.
+The purpose of the Act was, and is, to deter and punish terrorist acts in the United States and around the
+world.
+The law has an additional purpose of enhancing law enforcement investigative tools, some of which are:
+▪ To strengthen U.S. measures to prevent, detect, and prosecute international money laundering and
+financing of terrorism;
+▪ To subject to special scrutiny foreign jurisdictions, foreign financial institutions, and classes of international
+transactions or types of accounts that are susceptible to criminal abuse;
+▪ To require all appropriate elements of the financial services industry to report potential money laundering;
+▪ To strengthen measures to prevent use of the U.S. financial system for personal gain by corrupt foreign
+officials and facilitate repatriation of stolen assets to the citizens of countries to whom such assets belong.
+There are multiple sections of the USA PATRIOT Act that address anti-terrorism measures. We will review two
+that directly affect the residential mortgage industry:
+Section: 314 – Corporative Efforts to Deter Money Laundering
+Pa ge
+19 | 21
+Helps law enforcement identify, disrupt, and prevent terrorist acts and money laundering activities by
+encouraging further cooperation among law enforcement, regulators, and financial institutions to share
+information regarding those suspected of being involved in terrorism or money laundering.
+Section: 326 – Verification of Identification – Customer Identification Program (CIP)
+Prescribes regulations establishing minimum standards for financial institutions and their customers regarding
+the identity of a customer that must apply with the opening of an account at the
+financial institution. The program should be in writing.
+More information can
+The CIP must contain account-opening procedures detailing the identifying be found at this link.
+information that must be obtained from each customer. At a minimum, the bank
+must obtain the following identifying information from each customer before
+opening the account.
+▪ Name
+▪ Date of birth for individuals
+▪ Address
+▪ Identification number
+Pa ge
+20 | 21
+Your One Stop Multi-State Training Provider
+Pre-License and Continuing Education
+Quality Mortgage Education Since 2002
+Exam
+Prep
+MLO Licensing
+Consulting System
+Custom
+Training
+Pa ge
+21 | 21

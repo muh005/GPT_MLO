@@ -1,0 +1,449 @@
+This brochure is a summary review of the following
+subjects:
+• Real estate appraisals
+• Advertising requirements and prohibited practices
+• Fraud, FinCen, SARs, BSA/AML, SAFE/UST
+• ARMS
+Chapter Introduction
+Now that you have completed your study of the various elements of the
+mortgage process, we can now address specific areas of review. This
+assessment should assist you with transferring newly acquired
+information to long term memory, the basis for developing the ability to
+apply the knowledge to answer complex and scenario based
+questions. In this module we will review the basic elements of federal
+laws and critical numbers that are important in the residential mortgage
+industry.
+1
+Important Notes:
+• MLO is not allowed to communicate with the Appraiser for any reason.
+• Anyone receiving any incentive as a result of the loan closing is not allowed to select the appraiser.
+• The borrower is not allowed to pay the appraiser at the door.
+Terms
+1. Subject property – Property being purchased, refinanced, or seeking secondary financing.
+2. Comps – Properties that have sold recently, close to subject property and similar in size and
+features. Generally, 3-6 comps required on a loan transaction.
+3. Gross adjustment – limited to 25%. (The value of a comp. cannot be adjusted more than 25%.) This
+guarantees that comps will be similar to subject property. Net adjustment limited to 15%.
+4. Geographic and Market analysis – Addresses the economic setting of the property and the market
+forces that might impact the value.
+5. Functional Obsolescence – Internal and external factors that could impair the ability to sell the
+property. (ex. 5 bedroom house with 1 bath)
+6. VA appraisal – Certificate of reasonable value (CRV).
+7. HVCC – Home Valuation Code of Conduct – Result of Fannie Mae settlement with New York City
+Attorney General to improve appraisal independence and integrity rules. Replaced by the provisions of
+Dodd Frank Act.
+Types of Appraisals
+1. Sales comparison or Market value approach – Uses comps. to determine value of subject property.
+Generally used in an established environment where sales have taken place.
+2. Cost approach – Determining the cost to rebuild. Generally used in an insurance claim.
+3. Income approach – Used with a loan relating to an investment property. Appraiser determines the fair
+market rental value of the subject property.
+2
+Appraisal Forms (Fannie Mae forms)
+• Form 1004 – Uniform residential appraisal report (URAR) for an interior and exterior inspection of a
+single unit property.
+• Form 2055 – External only appraisal (called a drive by).
+• Form 1073 – Interior and exterior inspection of a single unit property in a condominium.
+Appraisal Update
+• An appraisal more than 4 months (120 days) old will require an updated appraisal.
+ECOA Appraisal rules
+1. Copy of appraisal must be provided to client promptly, but no later than 3 days before closing. Client
+gets copy even if they failed to pay for the appraisal.
+2. If the loan does not close the client still gets copy within 30 days.
+3. Lender is not allowed to charge borrower for a copy of the appraisal.
+Dodd Frank Rules
+1. Client gets copy of appraisal 3 days before closing.
+2. Borrower cannot pay appraiser at the door.
+3. Prohibits a person involved in loan production from selecting the appraiser.
+Fannie Mae Appraiser requirements
+1. Must be state-licensed or state-certified.
+2. Must have a resume of knowledge and experience.
+3. Generally, a copy of the errors and omissions insurance policy.
+3
+Terms
+1. Contract – Legal agreement between 2 or more parties.
+2. Mediator- Can make recommendations only.
+3. Arbitrator – Serves as a unbiased entity that generates a binding decision.
+4. Assignee – A person to whom rights are being transferred.
+5. Assignor – Person who transfers.
+6. Attorney-in-fact – Written power of attorney to act on behalf of the principal.
+7. Seller contributions- Closing costs and pre-paids only. Not towards down payment.
+8. Prepaid items – Items paid in advance – Escrows for taxes and insurance and daily interest paid in advance at
+loan closing.
+9. Maximum seller contributions: (CONVENTIONAL)
+(a) Loan to > 90% LTV = 3% lesser of sales price or appraised value
+(b) Investment property = maximum of 2%
+(c) Maximum seller contributions may not exceed closing costs and pre-paids
+Refinances
+A refinance is replacing an existing loan with another loan. It is not a modification, which is making changes to
+the existing loan.
+Kinds of refinances
+1. Rate and term, also called no cash-out. It reduces the rate and/or term of the loan.
+2. Limited cash-out – allows $2000 cash back or 2%, whichever is lower.
+3. Cash-out – Removing cash from the equity, includes a debt consolidation loan.
+Subordination
+If a borrower has a first and second mortgage and wants to replace the first, the second lien holder will need
+to remain in second position to allow a new first mortgage to replace the original first.
+Federal laws regulating advertising in the residential mortgage industry include 4 primary laws:
+• The Truth-in-Lending Act (TILA)
+• The Mortgage Assistance Relief Service (MARS)
+• The Mortgage Acts and Practices Act (MAP)
+• The Telemarketing Sales Rule (TSR)
+4
+Summary of mortgage advertising and commercial communication laws, regulations,
+disclosures, and prohibited practices.
+Law Category (R) Regulations/ (D) Disclosures/ (P) Prohibited Practices
+TILA General R The Truth-in-Lending Act addresses certain requirements relating to
+advertising mortgage products and services including disclosure requirements
+and prohibited practices.
+R If an advertisement for credit states specific terms it must only state those
+terms available by the creditor.
+R Required disclosures must be clear and conspicuous and in close proximity to
+the advertised item.
+R Disclosures by print, radio, television, and internet must not include
+unreadable fine print, fast speech, low volume and graphics, or pictures
+that obscure the disclosure content.
+TILA Open-End R Triggering Terms (these advertised terms require additional disclosures)
+when advertising for HELOCs:
+• Finance Charge
+• Other charges
+• Taxes
+• Payment terms
+D Any loan fee.
+D Dollar amounts and fees.
+D Maximum APR.
+R Advertising discounted and premium rates.
+D Period of time the advertised rate will be available.
+D Current APR for a fully indexed rate.
+D Fully indexed rate.
+R Advertising minimum periodic payments.
+D Statement that a balloon payment may result when making minimum periodic
+payments.
+D A balloon payment will result, and the amount of the balloon payment, when
+the minimum periodic payments are made for the maximum period.
+TILA Open end R Advertising tax deductible interest.
+and closed D Loan interest that exceeds the value of the home is not tax deductible.
+end D A tax advisor should be consulted regarding questions relating to the
+deduction.
+R Misleading terms.
+P Reference to “free money” relating to a HELOC.
+P Advertising any reference to APR being fixed without specifying the fixed
+period.
+5
+Law Category (R) Regulations/ (D) Disclosures/ (P) Prohibited Practices
+TILA Closed- R Triggering Terms when advertising for closed-end loans:
+End Loans • Amount or percent of any down payment
+• Number of payments or the period of repayment
+• Payment amounts
+• Finance Charge
+D The amount or percentage of the down payment.
+D The terms of repayment over the full term of the loan.
+D The APR and if the rate can increase after consummation.
+R Disclosure of interest rates and payments if more than one APR will apply over
+the life of the loan.
+D Each simple interest rate that will apply.
+D Period of time each simple interest rate will apply.
+D The APR for the loan.
+D ARMs will show the current rate based on the index and margin.
+R Prohibited practices relating to closed-end mortgages.
+P Misleading advertising of fixed rates and payments.
+P Misleading comparisons in advertising.
+P Misrepresenting advertising about government endorsements.
+P Misleading use of current lender’s name.
+P Misleading claims of debt elimination.
+P Misleading use of the word “counselor.”
+P Misleading foreign language advertising.
+MARS R The Mortgage Assistance Relief Service regulations relating to advertising
+include prohibited actions and special disclosures to ensure that consumers
+are not misled relating to the availability of services and their rights under the
+law.
+P Prohibited misrepresentations:
+• About the likelihood of obtaining a particular result as a result of the loan
+modification
+• About the time the process will take
+• About the amount of money or debt relief relating to the modification
+• The terms or conditions regarding any refunds from the MARS provider
+P It is prohibited for a MARS provider to collect an advance fee prior to the
+lender or servicer issuing a written loan modification agreement.
+P Prohibited misleading actions:
+• Implying that the MARS provider is affiliated with any governmental or non-
+profit entity or the lender that is servicing the loan
+• Suggesting the consumer will receive legal representation
+• Suggesting to the consumer that they are not required to make a scheduled
+payment
+• Declaring that agreed to services have been completed and payment is due
+R MARS regulations address both general and specific commercial
+communication before a consumer agrees to engage the services of a MARS
+provider. The following disclosures are required in both general and specific
+commercial communication:
+6
+MARS D “(NAME of Company) including the fact that there is no association with the
+(cont.) government and the service is not approved by the government or your
+lender.”
+D “Even if you accept this offer and use our service your lender may not agree to
+change your loan.”
+D Statements that may suggest that a consumer should stop making mortgage
+payments for any period must include, “If you stop making your payments you
+could lose your home or damage your credit.”
+R Specific commercial communication occurs before a consumer agrees to
+engage the services of the MARS provider.
+D “You may stop doing business with us at any time.”
+D “You may accept or reject the offer of loan modification from your
+lender/servicer.”
+D “If you reject the offer you do not have to pay us for our services.”
+D “If you accept the offer you will have to pay us (include amount) for our
+services.”
+D “(NAME of Company) including the fact that there is no association with the
+government and the service is not approved by the government or your
+Lender.”
+D “Even if you accept this offer and use our service your lender may not agree to
+change your loan.”
+D Disclosures in print must include the statement next to the disclosure in 2 pt
+font larger than the disclosure. “(IMPORTANT NOTICE)”
+D Verbal communication must include this statement, “before using this service
+consider the following information.”
+Law Category (R) Regulations/ (D) Disclosures/ (P) Prohibited Practices
+MAP R Mortgage Acts and Practices regulates non-depository institutions. The act
+addresses deceptive and abusive practices in advertising mortgage products
+and prohibits misrepresentation expressly or implied in commercial
+communication of mortgage terms.
+P Misrepresentation of the interest charged
+a. The interest charged for the mortgage credit product.
+P b. The annual percentage rate, simple annual rate, periodic rate, or any
+other rate.
+c. The existence, nature, or amount of fees or cost to the consumer associated
+with the mortgage credit product, including misrepresentation that no fees
+are charged.
+d. The existence, cost, payment terms, or other terms associated with any
+additional products or features that may be sold with the product.
+e. The terms, amounts, payments, or other requirements to taxes
+associated with the mortgage credit product.
+f. Any prepayment penalty associated with the mortgage credit product.
+g. The variability of interest, payments, or other terms of the mortgage product
+including the misuse of the term “fixed.”
+h. Any comparison between any rate that is available for less than the full term
+of the loan and any hypothetical interest rate.
+7
+MAP i. The type of mortgage product and misrepresentations relating to full
+(cont.) amortization.
+j. The amount of the obligation and misrepresentation relating to how much
+cash or credit will be available.
+k. The existence of the amount and timing of payments, including that
+no payments are required in a reverse mortgage.
+l. The potential for default including misrepresentation concerning the
+circumstances the consumer could default for non-payment of
+taxes, insurance, or maintenance.
+m. The effectiveness of how the mortgage credit product could help the
+consumer with difficulties in paying debts.
+n. The association of the mortgage credit product or the provider of such
+product especially with a governmental entity, including through the use
+of formats, symbols, and logs that may resemble such entity.
+o. Source of any commercial communication especially as it relates to the
+consumers current lender.
+p. The right of a consumer to reside in the dwelling including the time
+a consumer with a reverse mortgage may reside in the house.
+q. The fact that the consumer has been preapproved for a mortgage product.
+r. The consumers ability or likelihood to obtain a modification or that the
+consumer has been preapproved.
+s. The availability, nature, or substance of counseling services.
+P It is a violation to attain, or attempt to attain, any waiver of the consumer’s
+right to any right under the act.
+R Records must be maintained for 24 months.
+Law Category (R) Regulations/ (D) Disclosures/ (P) Prohibited Practices
+TSR R Addresses consumer fraud and abuse relating to telemarketing activities.
+P Before a consumer consents to pay for goods and services offered, failing to
+disclose truthfully, in clear and conspicuous manner all material restrictions,
+limitations, or other information.
+P Misrepresent the total costs to purchase, receive, or use.
+P Making a false or misleading statement to induce any person to pay for goods
+or services or induce a charitable contribution.
+8
+There are two categories of fraud that impact the mortgage industry.
+1. Fraud for housing or fraud for property
+• Involves material misrepresentation or omission of information with the intent to deceive or mislead a
+lender to extend credit that would likely not be offered if the facts were known
+• Generally committed by homebuyers attempting to purchase homes for their personal use
+2. Fraud for profit
+• Motivation is generally money and is normally committed by the mortgage industry personnel
+• Generally characterized by fraud schemes
+Fraud scheme defined:
+• Air Loan – Straw buyer and straw seller making a complete transaction fraudulent and fictitious
+• Churning – Excessive selling/lending activity for the purpose of generating fees
+• Chunking – Multiple loan applications submitted to various lenders without disclosing the intent to purchase
+other properties
+• A person used to buy property in order to conceal the actual owner
+Penalty for mortgage fraud
+• $1,000,000 fine and/or 30 years in prison
+Financial Crimes Enforcement Network or FinCen
+• Tracks level of fraud activity
+• Requires companies to report suspicious activity reports (SAR)
+• Under the Department of the Treasury
+Bank Secrecy Act , BSA, and Anti-Money Laundering BSA/AML
+• The act requires financial institutions to records of cash purchasers of negotiable instruments, file reports of
+cash transactions exceeding $10,000 (daily aggregate amount), and report suspicious activity that might
+signify money laundering or tax evasion.
+• Each loan or finance company must develop and implement a written anti-money laundering program to help
+prevent the loan company from being used to facilitate money laundering or financing terrorist activities.
+9
+The Financial Services Modernization Act
+Provides rules and regulations associated with the dissemination and protection of non-public
+consumer information.
+• The GLB Act requires companies give consumers privacy notices that explain the institutions
+information sharing practices.
+• Consumers have the right to opt out or say no to having their information shared with certain third
+parties.
+• If a consumer does not opt out, their non-public information may not be shared with
+telemarketing, direct-mail marketing, or marketing through email companies.
+• It prohibits pre-texting. (Getting a consumer’s information under false pretenses).
+The Safeguard Rule
+• As part of its implementation of the GLBA, the FTC issued the Safeguard rule which requires financial
+institutions to have measures to keep customer information safe.
+• The Safeguard rule requires companies to develop a written information security plan that describes
+their program to protect customer information.
+10
+• The Uniform State Test (UST) is a test that replaces the state test for states that participate in the UST program.
+• The UST tests applicants on the SAFE Act and the Model State Law (MSL) that assists states in implementing
+the SAFE Act on a state level.
+• 120 exam questions.
+• 115 scored questions
+Definitions
+• Housing and Economic Recovery Act (HERA) – Passed by congress to address the declining housing market in
+2008.
+• Secure and Fair Enforcement for Mortgage Licensing Act (SAFE Act)
+(a) Title V of HERA
+(b) Originally enforced by HUD
+(c) Currently enforced by the Consumer Financial Protection Bureau (CFPB) as regulation H
+(d) Requires that there be a registry to track mortgage loan originators (MLOs)
+(e) Requires states to ensure that MLOs be registered and/or licensed
+(f) The MSL assists states in implementing the SAFE Act on a state level
+Conference of State Bank Supervisors (CSBS) and The American Association of Residential Mortgage
+Regulators (AARMR) created the MSL and also created and currently maintains the NMLS&R.
+Nationwide Mortgage Licensing System and Registry (NMLS&R):
+(a) Registry for MLOs
+(b) Provides unique identifier numbers for every registered MLO
+(c) Requires all licensing processing to be done through the NMLS
+11
+Licensed MLOs must meet the following requirements:
+Pre-license education 20 hours:
+Core requirement: 8 hours
+(a) 3 hours of federal law
+(b) 3 hours of ethics which includes fraud, fair lending, and consumer protection
+(c) 2 hours in non-traditional lending
+Elective requirement:
+(a) 12 hours of general mortgage education
+Renewal (annual continuing education) 8 hours
+Core requirements: 7 hours
+(a) 3 hours federal law
+(b) 2 hours ethics
+(c) 2 hours non-traditional lending
+(d) 1 hour elective requirement
+(e) Must complete the education within the year in which the credit is given
+(f) Must not take the same course for credit in subsequent years
+Confidentiality
+(a) NMLS may share non-public information with state regulatory authorities
+(b) May share employment information and administrative actions with the public
+Reciprocity
+The agreement between states which states that if a person completes NMLS approved education in one
+state the other states will give credit towards that state’s education requirement.
+12
+Purpose of the SAFE Act:
+• Protect consumers
+• Reduces fraud
+Loan Processor, who is not required to be registered and/or licensed if the following applies:
+• Only clerical and support duties
+• Must be an employee
+• Must be paid on a W2 basis
+• Does not take loan applications
+• Does not negotiate rates and terms of the loan
+• Must be supervised by a registered and/or state licensed MLO
+Independent Contract Processor/Underwriter
+• Must maintain a unique identifier number
+• Licensed as a mortgage loan originator
+Non-traditional mortgage product
+• Any product other than a 30-year fixed-rate mortgage
+Exempt from licensing:
+• An MLO employed by a depository institution
+• An MLO employed by a legitimate non-profit
+(a) Non-profit must have an IRS designation 501(C)(3)
+(b) Engaged in affordable housing or housing education
+• A real estate broker not engaged in financing or receiving compensation from the lending side
+• An attorney who negotiates on behalf of a client but does not receive compensation from the lending side,
+only from the client
+• An individual negotiating terms on behalf of an immediate relative
+• An individual negotiating terms of a loan for a previous residence
+• A loan processor employed and not involved in origination functions
+13
+Mortgage Loan Originator:
+• Takes loan applications
+• Negotiates rate and terms
+• Has never had a MLO originators license revoked
+• Has not been convicted of a non-financial felony within past 7 years
+• Has never been convicted of a felony involving fraud or money laundering
+• A conviction is determined by the laws of the jurisdiction where the crime took place
+• A pardoned or expunged conviction has no impact on a license
+• If previously licensed and leaves the industry for 5 years, the MLO will need to retest
+• If previously licensed and leaves the industry and returns, the MLO will need to complete the continuing
+education for the year that he left the industry
+• May only be employed by one entity at a time
+• Must be sponsored to be active
+• May only originate in states where the sponsor is licensed
+Surety bonds, net worth, state recovery fund (consumer protections)
+• Surety bond provided by the lender covers the MLO and protects the consumer. If the consumer gets a
+recovery against the bond a new bond will be required.
+• Net Worth is required in some cases.
+• State recovery fund is where MLOs contribute to a fund designed to protect consumers if a claim is made.
+Penalties and Prohibited Acts
+• Civil penalty that can be imposed by the commissioner of $34,401 (2023) for each violation
+• Not allowed to be paid for best efforts, may only be paid when the loan closes
+• Can’t influence an appraiser to provide a particular value
+• Can’t require a person to carry insurance that exceeds the value of the replacement value of the
+property
+14
+Adjustable Rate Mortgage (ARM)
+An ARM is a mortgage loan where the interest rate can adjust up or down during the period of the loan.
+EX. 5/1 ARM 30 year loan (also called hybrid because it has a fixed term period)
+5= The period the start rate is fixed. In this example 5 years.
+1= Annual adjustment period, which means the rate can change annually after the fixed period. Adjustment
+periods may also be in months.
+Rate = Index + Margin.
+Rate = the combination of the index and the margin = fully indexed rate.
+Index = Market factor that changes based on changes in the financial market. Plural is indices; not indexes.
+The index is not under the control of the lender.
+Margin = The lender’s profit. Once established, it does not change for the life of the loan.
+Note: Since the margin never changes the only way the rate changes is a change in the index.
+CAPS = Limit the % of rate change for each adjustment period. Three categories of CAPS are:
+1. Initial CAP = First time the rate can change. Based on start rate.
+2. Periodic CAP = Kicks in after the initial CAP. Based on the previous period rate. EX. If previous period rate is 5%
+and periodic CAP is 2%, the max change is 2% up or down. In this case a low of 3% or a high of 7%.
+3. Life CAP = The maximum the rate can change over the life of the loan. Based on the start rate. EX. If the start
+rate is 3% and the life CAP is 6% the maximum the rate can reach over the life of the loan is 9%.
+Examples of indices:
+• COFI = Cost of Funds Index
+• LIBOR = London Interbank Offer Rate
+• Prime (Generally used in Home Equity Lines of Credit – HELOC)
+• T-Bill – Treasury Bill
+Which component of an ARM changes = Index
+Which component of an ARM remains the same = Margin
+15
+Example:
+A 5/1 ARM had a index of 3% when the loan was locked and the lender adds a margin of 2%. The CAPS are
+2/2/6. The index in year 6, is 5.5% and in year 7, 4.75%. What is the rate on the second adjustment period?
+Rate = Index + Margin
+YR 1-YR 5 5% = 3% + 2%
+YR 6 ? = 5.5% + 2% = 7.5% Rate (NO) Since the CAP is 2% the rate may not change up or down
+by more than 2% . The CAP limits the percentage of change to 2% which means the maximum the rate can go
+to in:
+YR 6 is 7 %.
+YR 7 ? = 4.75% + 2% = 6.75% (YES) Since the CAP limits the percentage of change, the initial
+CAP has already been used so the periodic CAP kicks in and will be used for the balance of the loan. The
+periodic CAP is based on the previous year rate. If the previous year was 7%, the CAP would have allowed the
+rate for YR 7 to increase by 2% or decrease by 2%. Which means the rate could have gone to 9% or as low as
+5%. Since the actual change in the rate is based on the index which is 4.75%, when added to the margin it
+becomes 6.75% which means it did not reach the CAP rate so the correct rate for:
+YR 7 is 6.75%
+Rounding Mortgage rates
+Rates are rounded to the nearest 1/8th of 1%, or .125.
+5.06% = 5% rounded down. 5.07 rounded up to 5.125 (midpoint of.125=.0625)
+Mortgage rate choices less than a whole number percent:
+1/8th =.125, 1/4th =.250, 3/8th =.375,1/2 =.5, 5/8 =.625, 3/4= .750, 7/8 = .875,
+16

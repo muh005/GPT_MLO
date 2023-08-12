@@ -1,0 +1,954 @@
+6/20/23, 2:52 PM Courses
+End of Course Exam
+1. End of Course Exam
+< Back Next >
+Date - 06/20/23 4:34 PM
+Total Questions: 120 | Grade Based On: Number Correct | Passing Score: 90 | Questions Correct: 111
+Question 1:
+Question:
+An insurance agent who provides coverage for a homeowner who recently closed on an owner-occupied
+property has been unable to reach the homeowner for a couple of weeks to sign several documents. He
+decides to visit the property to make contact. When he returns to his office, he notifies the mortgagee that the
+homeowner's policy has been canceled. What most likely is the basis for this decision?
+Answer (Correct): No evidence borrower lives in the property since they closed on the transaction.
+Feedback: Generally, primary purchase borrowers must occupy their residence within 60 days of
+consummation.
+Question 2:
+Question:
+A new MLO is splitting the advertising costs for ads with an online real estate publication. His compliance
+department contacts him requesting the removal of the advertisement. Use of the following language would
+not be a basis for the removal:
+Answer (Correct): financing available
+Feedback: Financing available is not a term that would trigger additional disclosures.
+Question 3:
+Question:
+Once a property is sold automatic maturity and payoff of the loan is required and it is not assumable. This
+loan type:
+Answer (Correct): is a conventional loan
+Feedback: Conventional loans have “due on sale clauses” and cannot be assumed. Only government loans
+are assumable.
+Question 4:
+Question:
+https://ameritrain.tiltlms.com/lesson/play/progress/1310046 1/27
+6/20/23, 2:52 PM Courses
+John, an MLO, and Marie, a real estate agent, have been doing business together for many years. After
+closing their last transaction together, Marie invited John on an all-expenses-paid trip to Destin, FL, for the
+Memorial Day weekend as a thank you for the referral. Unfortunately, John’s boss has an issue with this
+arrangement. What could be the concern?
+Answer (Correct): Someone could view the trip as a kickback for getting the loan closed.
+Feedback: It is a violation of RESPA to provide a kickback, anything of value, which would include a trip.
+Question 5:
+Question:
+A new MLO is reviewing information about similarities with the laws relating to mortgage licensing. Three
+of these items have a common element except:
+Answer (Correct): Model State Law
+Feedback: The SAFE Act is Title V of the Housing and Economic Recovery Act (HERA) which was re-
+coded by the CFPB and is now known as Regulation H. The Model State Law (MSL) is a template states use
+to implement the SAFE Act at the state level.
+Question 6:
+Question:
+An MLO in reviewing an appraisal and discovers several recent comparables were not included in the
+appraisal report. What can she do?
+Answer (Incorrect): Once an appraisal is complete, no changes can be made based on an MLO’s request,
+even with supporting documentation.
+Feedback: An MLO can ask a person that prepares a valuation to consider additional, appropriate property
+information, including information about comparable properties, to make or support a valuation.
+Question 7:
+Question:
+A borrower has an initial interest rate of 3.25%. The margin is set at 2.25%. The index is the COFI. The ARM
+has 2/6 CAPS. The COFI at its first adjustment is 0.5%. The COFI at its second adjustment is 0.75%. What is
+the interest rate at the second adjustment?
+Answer (Correct): 3.0%
+Feedback: The rate on the first adjustment is 2.75%. The rate on the second adjustment is 3.0%. Compare the
+market rate 3.0 [2.25% margin + .75% index = 3.0% with the ceiling based on the previous year’s rate of
+2.75% + 2% CAP = 4.75%. The borrower receives the lower of the two rates.
+Question 8:
+Question:
+As property values continue to appreciate, several bad actors recruit individuals who can qualify for financing
+to purchase homes that are not for sale to generate funds from the fictitious sales. This scheme is:
+Answer (Incorrect): churning
+https://ameritrain.tiltlms.com/lesson/play/progress/1310046 2/27
+6/20/23, 2:52 PM Courses
+Feedback: An air loan exists when there is a straw buyer and straw seller making the complete transaction
+fraudulent and fictitious.
+Question 9:
+Question:
+Under regulation Z, all are exempt from finance charges except:
+Answer (Incorrect): seller paid points
+Feedback: Interest is a cost of financing a loan and is a finance charge. A finance charge is paid to the lender
+as a condition of financing a debt.
+Question 10:
+Question:
+A broker uncovers her Mortgage Loan Originator took an application and unintentionally fails to record
+pertinent information, such as child support payment, due to being unaware of the expense. This new
+information could impact the loan application approval and the MLO is guilty of:
+Answer (Correct): negligent fraud
+Feedback: Not intentionally withholding information is negligent fraud as compared to actual fraud which is
+a knowing intent to deceive by providing false or inaccurate information.
+Question 11:
+Question:
+Which statement is correct about a higher priced mortgage loan that will attach to a primary residence?
+Answer (Correct): A loan is a HPML if the APR exceeds the APOR by 1.5% or higher for a first lien.
+Feedback: A loan is a HPML if, the APR exceeds the APOR by 1.5% or higher for a first lien. And, if the
+APR exceeds the APOR by 3.5% or higher for a subordinate lien
+Question 12:
+Question:
+Now that interest rates are rising, Jonathan, a builder, has several of his properties available for purchase.
+However, he cannot obtain new financing from his bank until he sells the remaining houses. So, he solicits
+several individuals to help him get the properties sold with straw buyers, or by any means necessary. This is
+a(an):
+Answer (Correct): Builder bailout scheme
+Feedback: This is correct.
+Question 13:
+Question:
+Per the SAFE Act, this individual must have a unique identifier number through the NMLS and need to hold a
+mortgage loan originator license.
+https://ameritrain.tiltlms.com/lesson/play/progress/1310046 3/27
+6/20/23, 2:52 PM Courses
+Answer (Correct): An independent loan processor
+Feedback: Independent loan processors must have a unique identifier number and maintain a mortgage loan
+originator license.
+Question 14:
+Question:
+This regulation addresses discrimination of creditworthy applicants.
+Answer (Correct): Regulation B
+Feedback: Regulation B is the Equal Credit Opportunity Act that ensures credit is equally available to all
+credit worthy customers without regard to the following prohibited basis: • sex • marital status • race • color •
+religion • national origin
+Question 15:
+Question:
+A borrower submitted his loan application for approval, but it was declined. She contacts her MLO to inquire
+about the appraisal status as it has been a couple of weeks since it was completed. How should the MLO
+respond to the request?
+Answer (Correct): Provide a copy of the appraisal within 30 days of determining the loan will not close.
+Feedback: A borrower must receive a copy of the appraisal, if one was done, within 30 days of determining
+the loan will not close in accordance with the Equal Credit Opportunity Act (Act).
+Question 16:
+Question:
+Don works as an MLO for a lender who provides financing for high-cost loans. He refers his customer to his
+sister who works as a HUD-approved housing counselor to expedite getting the certificate of completion.
+What is the best course of action?
+Answer (Correct): Having an affiliation between the referring MLO and the counseling agency is prohibited.
+Feedback: The homeownership counselor cannot be affiliated with or employed by an MLO’s organization.
+Question 17:
+Question:
+When a portion of a Home Equity Line of Credit (HELOC) is used to purchase a property, when combined
+with the first lien, the total outstanding liens and available credit is referred to as:
+Answer (Correct): Total Loan-to-Value (TLTV)
+Feedback: All outstanding loans, plus any available Home Equity Line of Credit (HELOC), is referred to as
+Total Loan-to-Value (TLTV) also referred to as High Combined Loan-to-Value (HCLTV) HCLTV under
+Fannie Mae.
+Question 18:
+https://ameritrain.tiltlms.com/lesson/play/progress/1310046 4/27
+6/20/23, 2:52 PM Courses
+Question:
+While taking a loan application, a borrower shares with his MLO that he recently financed a jewelry account
+not currently showing on his credit report. The debt will not likely appear on the borrower’s credit report until
+after consummation. How should the MLO handle this situation?
+Answer (Correct): Update the loan application with the new information and resubmit to underwriting.
+Feedback: This is the best course of action. Disclosure demonstrates the loan originator is ethical.
+Question 19:
+Question:
+Angela is excited to purchase her first home. She is a veteran, will apply for a VA loan, and knows her
+maximum debt to income (DTI) ratio cannot exceed a certain percentage of her gross monthly income. What
+is this percentage?
+Answer (Correct): 41%
+Feedback: The qualifying ratio for VA guaranteed loans is 41% of a veteran's gross monthly income.
+Question 20:
+Question:
+For a loan amount of $130,000 with a 4% APR, the maximum fees a creditor can charge to avoid exceeding
+the HOEPA threshold is:
+Answer (Correct): $6,500
+Feedback: The maximum amount a creditor can charge is $6,500 ($130,000 x 5%).
+Question 21:
+Question:
+According to the Equal Credit Opportunity Act (ECOA), a creditor does not need permission to ask for this
+form of income.
+Answer (Incorrect): separate maintenance
+Feedback: A borrower must provide permission to an MLO if they wish to use other forms of income to
+qualify for mortgage financing other than salaries, such as separate maintenance, alimony, and child support.
+Question 22:
+Question:
+Every fall, a title company hosts a luncheon for mortgage professionals in the industry. This year a real estate
+company decided to make a financial contribution towards some expenses to offset the cost. Is this a RESPA
+violation?
+Answer (Correct): Under this scenario neither party violates RESPA 8.
+Feedback: If mortgage professionals are not compelled to use the services of either party, there is no RESPA
+violation.
+https://ameritrain.tiltlms.com/lesson/play/progress/1310046 5/27
+6/20/23, 2:52 PM Courses
+Question 23:
+Question:
+An MLO advertises for customers on his social media page and lists several characteristics of people likely to
+get a loan approval (e.g., 600+ credit scores, steady employment). This is in accordance with:
+Answer (Correct): Truth in Lending Act (TILA)
+Feedback: TILA covers this part of advertising guidelines.
+Question 24:
+Question:
+Jack, a mortgage broker, has an opportunity to work with a new developer in the area. He plans to take
+advantage of a process where his company name will appear on the closing disclosure as the funding lender.
+This is referred to as:
+Answer (Correct): table-funding
+Feedback: Table funding occurs when a loan closes, and the broker is listed as the creditor or lender on the
+settlement statement. Under this scenario, a broker uses the lender’s funds and then transfers the loan to the
+lender immediately after closing.
+Question 25:
+Question:
+A borrower is retiring to Florida from Michigan after working for 35 years. She just entered into a contract to
+sell her house and will purchase a home in Florida. Both transactions will happen at the end of the month.
+Her MLO in Florida discussed the possibility of getting a second mortgage against her Michigan home for
+her down payment. Is this a plausible option?
+Answer (Correct): No. The borrower will no longer owe the house and therefore cannot attach a second lien
+to get equity for down payment.
+Feedback: Since the house will be sold, the borrower can no longer attach any lien to the property in
+Michigan.
+Question 26:
+Question:
+According to Dodd Frank and the Equal Credit Opportunity Act, how soon must a borrower receive a copy of
+an appraisal? Select the best response.
+Answer (Correct): Promptly, or within 3 business days prior to consummation
+Feedback: Once a lender receives an appraisal, they are to deliver it promptly (immediately) or within 3
+business days to the consumer. Promptly is faster than 3 business days.
+Question 27:
+Question:
+These funds are paid to the selling agent, on behalf of the seller, and are treated as an asset that will be
+reflected on the Uniform Residential Loan Application.
+https://ameritrain.tiltlms.com/lesson/play/progress/1310046 6/27
+6/20/23, 2:52 PM Courses
+Answer (Correct): Earnest money
+Feedback: The borrower will receive credit towards their closing costs for any earnest money paid to the
+seller associated with the purchase of real property.
+Question 28:
+Question:
+Sherry wants to open a company to process mortgage loans, therefore she should:
+Answer (Correct): Obtain a unique identifier number from NMLS and apply for her MLO license
+Feedback: Sherry will need to be licensed as a MLO in order to work as an independent contract processor.
+Question 29:
+Question:
+Which document, once signed, is an indication that the borrower is contractually obligated for a mortgage?
+Answer (Correct): promissory note
+Feedback: Once a borrower signs the promissory note they are contractually obligated for the mortgage debt.
+Question 30:
+Question:
+A borrower purchased a primary residence near the beach several states away during the pandemic. She has
+an existing primary residence in her home state that she does not plan to sell and where she currently holds a
+full-time job that requires her to work from her corporate office. A few months after closing on the beach
+property, the borrower was contacted by the FBI and charged with fraud. What’s the likely reason the
+government pursued this case?
+Answer (Correct): The borrower disclosed on the loan application she intends to occupy the property as her
+primary residence.
+Feedback: By disclosing she intends to occupy the property as her primary residence, she committed fraud as
+she cannot have two primary residences.
+Question 31:
+Question:
+Under the Home Mortgage Disclosure Act (HMDA), depository and non-depository institutions must report
+certain data to CFPB on the ________________ of each borrower by ____________ of the preceding
+calendar year.
+Answer (Correct): ethnicity, race, and sex; March 1
+Feedback: This is correct.
+Question 32:
+Question:
+https://ameritrain.tiltlms.com/lesson/play/progress/1310046 7/27
+6/20/23, 2:52 PM Courses
+A Hispanic single mother of three small children with a credit score of 685 applies for mortgage financing
+using government assistance which she receives. Eventually, the lender declined her application. As a result,
+she files a complaint alleging income discrimination and violating the Equal Credit Opportunity Act. What is
+the likely basis of the lender’s decision?
+Answer (Correct): The borrower had other risk factors other than receiving income from government
+assistance.
+Feedback: While a lender cannot discriminate against a borrower who receives income from public
+assistance, they must review the borrower’s file in totality to assess it’s overall risk (ex. rental history, down
+payment, reserves, etc.)
+Question 33:
+Question:
+Mortgage brokers can:
+Answer (Correct): Originate loans through the wholesale channel where they can represent multiple lenders.
+Feedback: Brokers do not access to their own financing and therefore cannot fund their loans or sell to the
+secondary market.
+Question 34:
+Question:
+The commissioner of the regulatory authority in each state can do all, but:
+Answer (Correct): bring charges
+Feedback: Only a state’s Attorney General’s office can bring charges against a licensee. The commissioner’s
+sole purpose is to enforce the laws for which he or she has authority.
+Question 35:
+Question:
+A borrower is located in a state where they use a three-party security instrument. The borrower and third-
+party are referred to as:
+Answer (Correct): trustor; trustee
+Feedback: The three-party security instrument is referred to as a deed of trust. It is comprised of the
+borrower who signs the document and is referred to as the Trustor. The third party is the Trustee. The Lender
+is the beneficiary.
+Question 36:
+Question:
+A refinance customer walks into a mortgage company two years after consummation demanding termination
+of his mortgage agreement as his loan is not valid. What could be his reason for this claim?
+Answer (Correct): He did not receive two copies of the notice of the right to rescind at his closing which now
+expires 3 years from the initial date the notice was to be given.
+https://ameritrain.tiltlms.com/lesson/play/progress/1310046 8/27
+6/20/23, 2:52 PM Courses
+Feedback: If the creditor fails to correctly inform the consumer of the right to rescind, the rescission period
+will extend to 3 years.
+Question 37:
+Question:
+A 2/1 temporary buydown has a start rate of 2.5%, therefore the note rate is:
+Answer (Correct): 4.5%
+Feedback: 4.5%. The note rate is two percentage points above the start rate of 2.5% The start rate begins two
+percentage points below the note rate. (This represents the 2 in 2/1 temporary buydown). The rate increases
+each year (This represents the 1 in the 2/1 temporary buydown).
+Question 38:
+Question:
+Terry and her ex-husband have been divorced for two years. Now she is applying for a mortgage loan to
+purchase a home and wants to use her alimony, which she will receive for 1,275 more days. Can she leverage
+these funds to purchase a home?
+Answer (Correct): Yes, since she will receive these funds for an additional 3+ years.
+Feedback: Terry can use alimony to qualify for a mortgage if she will continue to receive those funds for
+three years or more.
+Question 39:
+Question:
+After living in her home for three years, Gina’s house had significant damage due to a fire that started in her
+kitchen. Her insurance company requires an appraisal as one of the first steps to move forward with her
+claim. What will the insurance company most likely need for the claim?
+Answer (Correct): An appraisal report used in part to establish the cost to rebuild due to the property damage.
+Feedback: A cost approach appraisal is used in cases where there is an insurance claim to estimate the cost to
+rebuild.
+Question 40:
+Question:
+John, a new MLO, was attempting to explain to his customer how a lender provides public notice that there is
+an outstanding claim against their real property that is recorded in a county courthouse where the property is
+located. Which document will John say provides this information?
+Answer (Correct): security instrument
+Feedback: The security instrument is a document pledging an item, in this case the borrower’s home, as
+security for a loan that is recorded. Another word for security instrument is lien.
+Question 41:
+Question:
+https://ameritrain.tiltlms.com/lesson/play/progress/1310046 9/27
+6/20/23, 2:52 PM Courses
+What section of the Uniform Residential Loan Application form would a borrower note if they have ever
+defaulted on a federal debt?
+Answer (Correct): Declarations
+Feedback: This is correct.
+Question 42:
+Question:
+A fraudster submits mortgage loan applications, each for owner-occupied purchases, to several mortgage
+companies in the area within one week. This scheme is known as:
+Answer (Correct): Chunking
+Feedback: When an individual tries to obtain multiple loans at the same time as primary residence purchases,
+this would be chunking.
+Question 43:
+Question:
+In March a borrower applied for mortgage loan approval; however, she keeps running into issues. While the
+seller has been extremely patient, it has been several months since the appraisal was done and now the
+borrower is being asked to pay for another appraisal as the current one has exceeded __ days/months.
+Answer (Correct): 4 months
+Feedback: Credit documents (documents used in the approval process), including appraisals, expire in 4
+months or 120 days and will require updates to the information.
+Question 44:
+Question:
+What is the timeframe closing disclosures must be retained in accordance with TRID?
+Answer (Correct): 5 years from the date of consummation
+Feedback: This is correct.
+Question 45:
+Question:
+This act serves as an enhancement to existing law enforcement tools designed to detect and punish domestic
+and foreign terrorist activities.
+Answer (Correct): USA PATRIOT Act
+Feedback: The USA PATRIOT Act is meant to deter and punish terrorist acts in the United States and around
+the world, including to prosecute international money laundering and financing of terrorism.
+Question 46:
+Question:
+https://ameritrain.tiltlms.com/lesson/play/progress/1310046 10/27
+6/20/23, 2:52 PM Courses
+Institutions that leverage electronic signatures under the Electronic Signature in Global and National
+Commerce Act (ESIGN) must retain electronic signature documents for:
+Answer (Correct): 5 years
+Feedback: This is correct.
+Question 47:
+Question:
+A summary of title examiners findings, including chronological ownership listings and any impediments, is
+distributed to a lender in a(an):
+Answer (Correct): abstract of title
+Feedback: It is a summary giving details of the title deeds and documents that prove an owner's right to
+dispose of land, together with any encumbrances that relate to the property.
+Question 48:
+Question:
+According to the Do Not Call Improvement Act, a creditor may call a consumer for up to _____ after the
+consumer’s last transaction.
+Answer (Correct): 18 months
+Feedback: A company with which a consumer has an established business relationship may call for up to 18
+months after the consumer’s last purchase, last delivery or last payment, unless the consumer asks the
+company not to call again.
+Question 49:
+Question:
+Investors with multiple properties must list all properties they own in which section of the Uniform
+Residential Loan Application?
+Answer (Correct): Real Estate
+Feedback: This is correct.
+Question 50:
+Question:
+Mark and Ariana purchased their dream home two years ago in a well sought-after community near great
+schools for their two kids. Ariana just received a letter from the builder's attorney, notifying them an ancient
+Indian burial ground was found near the back of their property. There was no damage to their home at the
+time they received the communication from the attorney. What is their best course of action?
+Answer (Correct): Locate their owner’s title policy which they purchased at closing and contact the title
+company for further assistance.
+Feedback: Owner’s title policy protects the homeowners in the event there is a title issue after the purchase.
+Question 51:
+https://ameritrain.tiltlms.com/lesson/play/progress/1310046 11/27
+6/20/23, 2:52 PM Courses
+Question:
+An individual investor applies for financing with a lender. He states his rental income from his investment
+property adds $250 to his qualifying income. Renters pay $1,500 monthly and his mortgage payment for the
+property is $1,250. The underwriter disagrees calculating his net rental income as:
+Answer (Correct): -$125
+Feedback: -$125 Net Rental Income [$1,500 (Rental Income) x 75% = $1,125 (Actual Income) - $1,250
+(Mortgage Payment on the property]. Investor are only allowed to use 75% of their rental income as 25% is
+assumed will be used for maintenance, vacancies, etc.
+Question 52:
+Question:
+The sellers of a property receive news that the appraised value was significantly less than they had hoped.
+The appraiser noted this is due to Geographic and Market analysis data. Which is the best reason for the
+appraiser’s finding?
+Answer (Correct): There were several foreclosures in the community affecting property values for
+homeowners.
+Feedback: Foreclosures impact the marketability of homes within a community which would be an adverse
+factor that an appraiser would note in an appraisal report. Crime would be an economic obsolescence. Not
+having enough bedrooms would be an internal obsolescence. Making changes to the value by not more than
+15% would be a net adjustment.
+Question 53:
+Question:
+What was the reason for the passage of the Dodd Frank Act?
+Answer (Correct): To regulate consumer protections activities of the financial services industry.
+Feedback: The Dodd Frank Act is designed to provide increased consumer protections over the entire
+financial services industry.
+Question 54:
+Question:
+The maximum insurance amount allowed for structural damage by law under the National Flood Insurance
+Program (NFIP) is:
+Answer (Correct): $250,000
+Feedback: The maximum insurance amount allowed by law for an NFIP policy is $250,000 for the structure.
+Question 55:
+Question:
+An MLO works for a bank for eighteen months and decides to join a lender in his area. However, he’s
+concerned about being able to close his loans quickly to continue generating income after leaving. What’s his
+best option?
+https://ameritrain.tiltlms.com/lesson/play/progress/1310046 12/27
+6/20/23, 2:52 PM Courses
+Answer (Correct): He can apply for temporary authority to quickly close loans, so he does not have any
+interruption in his pay.
+Feedback: Since the MLO has worked for the bank for at least 1 year, he can apply for temporary authority
+from his home state, and he then has 4 months to submit his application for full license approval.
+Question 56:
+Question:
+After several complaints of not providing financing to residents of an economically disadvantaged
+community, a lender decides to implement a new marketing strategy to target buyers from the area. Due to
+the increased cost, the lender will assess each borrower an additional 50 basis points on each loan plus charge
+a $30 application fee. The company was eventually fined. What’s the issue?
+Answer (Correct): Targeting individuals in economically disadvantaged areas with predatory pricing benefits
+the lender while adversely impacting the community at large.
+Feedback: Essentially, this is reverse redlining which is illegal.
+Question 57:
+Question:
+Seth and his wife decide to purchase a property in a community with no external upkeep requirements. They
+choose to buy in a community where they will pay a homeowner’s association fee and have title to the land
+and building structure with attached neighbors on both sides of their property. Which is the likely scenario?
+Answer (Correct): They are buying a townhome
+Feedback: The couple is buying a townhome based on the fact they will have title to the land and building
+structure with attached neighbors on at lease side of their property.
+Question 58:
+Question:
+Beth lacks sufficient funds to close after making several upgrades for her new home purchase. She convinces
+her grandmother, who has a home with significant equity, to get a cash-out refinance and give Beth the funds
+she needs. Beth refers her grandmother’s loan to her MLO. How should Beth’s MLO handle this scenario
+once he becomes aware of her plan?
+Answer (Correct): Inform Beth of the legal implications of structuring the loan in this manner.
+Feedback: It would be a fraudulent nominee loan if these transactions were to move forward. A nominee loan
+occurs when a loan is made to one individual; however, the proceeds of the loan benefit another individual
+without the lender's knowledge.
+Question 59:
+Question:
+To meet the TRID requirements for a loan application, an MLO must collect key pieces of information from a
+purchase borrower before providing the Loan Estimate. Which item is not one of those items?
+Answer (Correct): current home address
+Feedback: The subject property address is required.
+https://ameritrain.tiltlms.com/lesson/play/progress/1310046 13/27
+6/20/23, 2:52 PM Courses
+Question 60:
+Question:
+If a borrower was charged 175 basis points on a $120,000 loan, then the fee would be:
+Answer (Correct): $2,100
+Feedback: $2,100 [$120,000 x .0175 = $2,100]
+Question 61:
+Question:
+A homeowner can request cancellation of private mortgage insurance. Which is a possible scenario?
+Answer (Correct): The loan balance represents 80% of the original property value.
+Feedback: Once the loan-to-value (LTV) reaches 80% based on the original value of the property, then the
+borrower can request cancellation.
+Question 62:
+Question:
+A buyer is purchasing a home for $310,000 with a down payment of $31,000. The property appraises for
+$320,000. He has a 1/1 ARM with an interest rate of 3.5% and closing costs are $8,500. What is the
+maximum dollar amount the seller can contribute to closing costs?
+Answer (Correct): $8,500
+Feedback: $9,3000 [$310,000 (Sales Price) - $31,000 (Down Payment) = $279,000 (Loan Amount)
+$280,000 (Loan Amount) ÷ $310,000 (Sales Price) = 90% LTV. Max seller contribution is 6% of the sales
+price or $18,600. However, the closing costs did not exceed $8,500, the maximum the seller can pay.
+Question 63:
+Question:
+A soldier on active duty is deployed overseas. He decides to refinance to reduce his monthly mortgage
+payment. During the application process, the MLO tells the borrower he will have to sign and forward
+original signatures of a document giving his family member the right to facilitate the closing on his behalf.
+What is this document?
+Answer (Correct): specific power of attorney
+Feedback: Typically, the lender will only allow the use of a specific power of attorney in real estate
+transactions.
+Question 64:
+Question:
+https://ameritrain.tiltlms.com/lesson/play/progress/1310046 14/27
+6/20/23, 2:52 PM Courses
+An underwriter requires a borrower to provide evidence of reserves. The borrower provides a copy of her
+401K retirement account showing a $42,000 vested balance and a $25,000 non-vested balance. The
+underwriter will use what amount to satisfy this reserve requirement?
+Answer (Correct): $57,000
+Feedback: $57,000 [(100% x $42,000 (vested balance ) + (60% x $25,000 (non-vested balance)]
+Question 65:
+Question:
+Robert applied for his MLO license with the state regulatory authority. After a few weeks, he received a letter
+that his license application was denied. One reason he was not denied might be:
+Answer (Incorrect): felony conviction for fraud 5 years ago
+Feedback: Credit score is not a factor the state regulatory authority will use to determine license approval.
+Question 66:
+Question:
+An MLO submits a borrower’s loan application for underwriting as an adjustable-rate mortgage. The loan is
+not approved based on this product selection. Instead, the underwriter encourages the MLO to restructure the
+loan, and it will be approved. What’s the possible scenario?
+Answer (Correct): The borrower is receiving social security income only, but as a fixed-rate product the
+underwriter is inclined to approve the loan. The borrower has 90 days to respond to the counteroffer.
+Feedback: If a borrower is receiving fixed income, the underwriter will likely approve a loan as a fixed rate
+product. The borrower has 90 days to respond to the counteroffer.
+Question 67:
+Question:
+A homeowner lives in a state where they hold legal title to the real property and equitable title, therefore this
+means:
+Answer (Correct): The property is located in a lien theory state
+Feedback: In lien theory states, the buyer, who is also the borrower, will hold the deed (title) to the real estate
+property for the life of the mortgage while they are living in the property.
+Question 68:
+Question:
+What is the earliest time a borrower can settle their loan transaction?
+Answer (Correct): 7 business days after receiving the initial Loan Estimate.
+Feedback: The borrower cannot close earlier than 7 days prior to receiving the initial Loan Estimate.
+Question 69:
+https://ameritrain.tiltlms.com/lesson/play/progress/1310046 15/27
+6/20/23, 2:52 PM Courses
+Question:
+The enforcement agencies for the Do Not Call Improvement Act are shared with the_________________ and
+the ________________________.
+Answer (Correct): Federal Trade Commission (FTC); Consumer Financial Protection Bureau (CFPB)
+Feedback: Both the FTC and CFPB share enforcement responsibilities.
+Question 70:
+Question:
+ABC lender sells loans to a secondary market investor regularly. A member of the investor's quality control
+team has just reached out to the lender regarding several glaring discrepancies associated with a significant
+percentage of submitted loan files. What is likely happening here?
+Answer (Correct): Due to a recourse clause in the contract to sell to the investor, ABC lender may have to
+repurchase these loans.
+Feedback: When a lender sells a loan to a secondary market entity, it is generally sold with recourse. This
+means if the borrower fails to meet certain conditions or major discrepancies are found, the lender may be
+required to buy back the loan.
+Question 71:
+Question:
+Equal Credit Opportunity Act (ECOA) requires lenders to communicate to each borrower a status of their
+loan application within a specific timeframe.
+Answer (Correct): 30 days of the loan application
+Feedback: A lender must provide an update of a loan application within 30 days.
+Question 72:
+Question:
+Bobby is panicked. His MLO just informed him that he needs an additional $1,500 verified funds in his bank
+account to close on his home purchase. Desperate, Bobby reaches out to his best friend to ask for a favor.
+Bobby instructs his friend to temporarily deposit the funds he needs into Bobby's bank account to meet the
+underwriting condition. Once the loan closes, Bobby will return the funds to his friend with interest. This
+action is an example of:
+Answer (Correct): asset fraud
+Feedback: Whenever funds are fraudulently placed in a borrower’s account to meet an underwriting
+condition, this is asset fraud.
+Question 73:
+Question:
+Donna was given a loan where the amortization was longer than the term resulting in her having to provide a
+lump sum to pay off the loan by the term due date. Which is the best example of this loan type?
+Answer (Correct): A loan with a 360-month amortization with a 180-month term.
+https://ameritrain.tiltlms.com/lesson/play/progress/1310046 16/27
+6/20/23, 2:52 PM Courses
+Feedback: A mortgage that requires a lump sum payment at the end of the loan term is referred to as a
+balloon.
+Question 74:
+Question:
+Megan owns a piece of property her grandparents left her in their will. She decides to sell it since she does
+not plan to move back to the state. When she sells the property, Megan will be the ________ and the new
+owner the ___________.
+Answer (Correct): grantor; grantee
+Feedback: The warranty deed in an instrument that transfers real property from a seller to a buyer. The seller
+signs the deed and is referred to as the grantor. The buyer receives the warranty deed is known as the grantee.
+Question 75:
+Question:
+The following is a true statement:
+Answer (Correct): Real estate agents can originate mortgage loans once they obtain an MLO license.
+Feedback: Real estate agents must obtain an MLO license if they want to originate mortgage loans.
+Question 76:
+Question:
+After closing her loan with a mortgage company, a consumer received several emails from the company
+stating its plan to share her information with its marketing affiliate. The consumer opted out, but the company
+shared her information any way. What options are available?
+Answer (Correct): The consumer can file a complaint against the mortgage company which could receive a
+fine up to $100,000 for each violation.
+Feedback: Institutions violating the law can be fined up to $100,000 for each violation.
+Question 77:
+Question:
+After attending a real estate investment class, a borrower decides to purchase a home that will generate rental
+income from two families while building a primary residence mortgage payment history for himself. Is this
+possible?
+Answer (Correct): Yes. He will purchase a tri-plex allowing him to live in one unit and rent the other two.
+Feedback: A tri-plex would allow a borrower to live in one unit as a primary residence while generating
+rental income from the other two units.
+Question 78:
+Question:
+Which entity establishes the loan limits for conventional loans based on average home sales?
+https://ameritrain.tiltlms.com/lesson/play/progress/1310046 17/27
+6/20/23, 2:52 PM Courses
+Answer (Correct): Federal Housing Finance Agency
+Feedback: The Federal Housing Finance Agency (FHFA) issues the maximum loan limits that apply to
+conventional loans acquired by Fannie Mae and Freddie Mac annually, effective on January 1 each year.
+Question 79:
+Question:
+The number of hours required for pre-license education is ___ which includes __ core hours. This core is
+comprised of __ hours of federal law, __hours of ethics, ___hours of non-traditional lending and ___hours of
+general electives.
+Answer (Incorrect): 20,8,3,2,1,12
+Feedback: The number of hours required for pre-license education is 20 which includes 8 core hours. This
+core is comprised of 3 hours of federal law, 3 hours of ethics, 2 hours of non-traditional lending and 12 hours
+of general electives.
+Question 80:
+Question:
+Assuming approval through their automated underwriting system (AUS), Fannie Mae or Freddie Mac will
+take delivery of:
+Answer (Correct): A loan amount of $325,750 for a borrower whose information is fully documented.
+Feedback: The GSEs will purchase loans equal to or less than the conforming loan limit that are fully
+documented and approved through their automated underwriting system.
+Question 81:
+Question:
+The vehicle used to track mortgage fraud activity is the:
+Answer (Correct): Suspicious Activity Reports (SAR)
+Feedback: The Financial Crimes Enforcement Network (FinCEN) tracks fraud activity and requires
+companies to report Suspicious Activity Reports (SAR).
+Question 82:
+Question:
+A homeowner is purchasing a home for $325,750. He has a $48,863 down payment. The property appraises
+for $333,000. The Loan-to-Value (LTV) is:
+Answer (Correct): 85%
+Feedback: $325,750 (Sales Price) - $48,864 (Down Payment) = $276,887 (Loan Amount). $276,887 (Loan
+Amount) ÷ $325,750 (Sales Price) = 84.999% rounded up to 85% Loan-to-Value (LTV).
+Question 83:
+Question:
+https://ameritrain.tiltlms.com/lesson/play/progress/1310046 18/27
+6/20/23, 2:52 PM Courses
+According to TRID, how long are terms of the Loan Estimate available, not including the interest rate, to give
+a borrower time to comparison shop?
+Answer (Correct): for a minimum of 10 days
+Feedback: This is correct.
+Question 84:
+Question:
+Calculate monthly interest for a $225,000 loan amount with a 3.5% interest rate.
+Answer (Correct): $656.25
+Feedback: $656.25 [$225,000 x 3.5% divided by 12]
+Question 85:
+Question:
+After working in the industry for a few years, a licensed MLO decides to deactivate his license to pursue
+other interests. Which of the following statements is correct?
+Answer (Correct): If he completely leaves the industry and returns within 5 years, he will not be required to
+retake the test.
+Feedback: As long as he returns to the industry within 5 years or less, he does not have to take the test again.
+Question 86:
+Question:
+Under regulation Z, the three-day right of rescission for certain transactions applies to:
+Answer (Correct): owner-occupied refinances
+Feedback: A borrower cannot rescind on purchase transactions or any investment property transactions,
+which are viewed as business loans. Rescission applies to a refinance of a borrower’s primary residence only.
+Question 87:
+Question:
+Missy has an impressive resume. She came highly recommended by a seasoned MLO who has worked in the
+industry for two decades. Yet, after working with her new employer for approximately 60 days, suddenly,
+Missy was let go. What’s the most likely scenario?
+Answer (Correct): The company found adverse information about Missy from the SARs report.
+Feedback: Information can be reported to SARs about borrowers and industry professionals.
+Question 88:
+Question:
+A municipal county government recently approved plans to build a waste treatment plant near a particular
+community. According to the county, homeowners should not be affected by the addition to the area. While
+https://ameritrain.tiltlms.com/lesson/play/progress/1310046 19/27
+6/20/23, 2:52 PM Courses
+attempting to sell a six-bedroom home with four and one-half bathrooms, an agent is not getting a lot of
+interest. The problem is likely:
+Answer (Correct): Economic Obsolescence
+Feedback: Economic obsolescence refers to the loss of value of a real estate property due to factors that are
+external to the property such as construction of a landfill nearby,
+Question 89:
+Question:
+It is an MLO’s responsibility to determine if a borrower has an ability to repay their loan before it closes.
+Which is not one of the factors an MLO must consider under the ATR rule?
+Answer (Correct): appraised value
+Feedback: While the MLO must review any expected income and assets, this does not include the value of
+the property securing the loan.
+Question 90:
+Question:
+In accordance with the Fair Credit Reporting Act (FCRA), this item will remain in an individual’s credit file:
+Answer (Correct): a bankruptcy for 10 years
+Feedback: Bankruptcies will remain in an individual’s credit file for 10 years. Collections, charged off
+accounts and paid tax liens will remain for 7 years.
+Question 91:
+Question:
+Several weeks ago, a young lady decided to purchase a home. However, after speaking with her MLO, she
+will need additional income to qualify for the property she wants. So, she contacts her friend who works in
+the human resources department to verify a slightly higher income so the lender will approve her loan for a
+higher dollar amount. What’s the issue here?
+Answer (Correct): This is fraudulent and is considered fraud for housing.
+Feedback: Fraud for housing generally involves material representation or omission of information with the
+intent to deceive or mislead a lender to extend credit that would likely not be offered if the true facts were
+known.
+Question 92:
+Question:
+Sarah works as a Branch Manager for an insurance company and receives a salary of $87,000. She’s paid bi-
+weekly and has worked the entire month of February. Sarah earns _______ monthly.
+Answer (Correct): $7,250
+Feedback: $7,250 ($87,000 salary ÷ 12 months)
+Question 93:
+https://ameritrain.tiltlms.com/lesson/play/progress/1310046 20/27
+6/20/23, 2:52 PM Courses
+Question:
+Mortgage brokers can represent multiple lenders by operating in a particular mortgage loan origination
+channel. This is referred to as:
+Answer (Correct): wholesale channel
+Feedback: Lenders work with mortgage brokers for loan origination purposes in the wholesale channel. The
+mortgage broker is a business entity that can represent numerous lenders and is not an employee of the
+lender.
+Question 94:
+Question:
+After submitting the initial Loan Estimate to a borrower, an MLO realizes she forgot to include the
+origination fee and sends her customer a revised Loan Estimate. Is this acceptable?
+Answer (Correct): No, because no changes can be made to fees that meet the zero-tolerance threshold
+requirement.
+Feedback: Origination fees are a zero-tolerance item. Therefore, fees in this category may not change once
+disclosed to a loan applicant.
+Question 95:
+Question:
+The demographic section of the Uniform Residential Loan Application requires certain information from
+borrowers to comply with these laws, except:
+Answer (Correct): FH Act
+Feedback: The Fair Housing Act is not applicable here.
+Question 96:
+Question:
+A borrower earns $8,500 monthly and applies for a mortgage loan with several open debts. His proposed
+mortgage payment is $1,912, he has a car note of $480; monthly credit card payments of $118; an installment
+furniture account with a $2,500 deferred billing; utilities of $227; and a monthly $245 HOA. He's applying
+for an FHA loan. What is his qualifying ratio?
+Answer (Correct): 33.88%
+Feedback: The answer is 33.88% [$1,912 (Mortgage payment) + $480 (Car Note) +$118 (Credit Card
+payments) +$125 (5% of $2,500 deferred billing) + $245 (HOA)= $2,880 total monthly debt divided by
+$8,500]. Utilities of $227 are not included since they are not monthly credit reporting debts.
+Question 97:
+Question:
+All are false about the Gramm, Leach, Bliley Act (GLBA), except:
+Answer (Incorrect): Is regulation C
+https://ameritrain.tiltlms.com/lesson/play/progress/1310046 21/27
+6/20/23, 2:52 PM Courses
+Feedback: Consumer can opt out or say no to having their information shared with certain third parties.
+Question 98:
+Question:
+Flood insurance is required if:
+Answer (Correct): the structure is located in a Special Flood Hazard Area (SFHA)
+Feedback: SFHA is defined as the area that will be inundated by a flood event having a 1-percent chance of
+being equaled or exceeded in any given year.
+Question 99:
+Question:
+What clause located within the promissory note allows the lender to raise the interest rate in the event of a
+default or some other stipulated condition?
+Answer (Correct): acceleration
+Feedback: An acceleration clause is a term in a loan agreement that requires the borrower to pay off the loan
+immediately under certain conditions.
+Question 100:
+Question:
+Members of an investment club are advised to use a particular real estate ownership right. They should
+consider this method because:
+Answer (Correct): it protects owners’ heirs by transferring ownership to the investor’s heirs upon death.
+Feedback: Tenants in Common refers to property owned by two or more persons at the same time. Upon
+death, the decedent's interest passes to his/her heirs designated in a will, who then become new tenants in
+common with the surviving tenants in common.
+Question 101:
+Question:
+Several builders and straw buyers were recently arrested as part of an elaborate a mortgage fraud ring that
+defrauded investors of $20 million dollars. The penalty for committing mortgage fraud is punishable by up to:
+Answer (Correct): 30 years in federal prison and $1,000,000 in fines, or both
+Feedback: Mortgage fraud is investigated by the Federal Bureau of Investigation (FBI) and is punishable by
+30 years in federal prison or $1,000,000 fine or both.
+Question 102:
+Question:
+After the passage of the SAFE Act, the federal government wanted to ensure states could implement the
+SAFE Act in their states. Therefore, states were given a template to implement the SAFE Act in their states.
+This tool is referred to as:
+https://ameritrain.tiltlms.com/lesson/play/progress/1310046 22/27
+6/20/23, 2:52 PM Courses
+Answer (Correct): MSL
+Feedback: The Conference of State Bank Supervisors (CSBS) and the American Association of Residential
+Mortgage Regulators (AARMR) created the Model State Law (MSL) which is a template that states used to
+implement the SAFE Act in their states.
+Question 103:
+Question:
+When an initial Loan Estimate was generated, it included a survey fee of $150 in the list of fees a borrower
+can shop for. The cumulative fees in this category are $2,000. The survey vendor submitted a final invoice for
+$225. Is the Loan Estimate compliant?
+Answer (Correct): Yes. The individual fee increased by $75.
+Feedback: The lender could not charge more than $2,200 ($2,000 x 10% = $200) for all fees in this category.
+An increase of $75 would still place the borrower’s fee lower than the maximum that could be charged. An
+individual fee can increase by more than 10% as long as the cumulative amount does not exceed by more
+than 10%.
+Question 104:
+Question:
+Jerry has first and second liens attached to his primary residence. He wants to refinance the first lien and keep
+the second lien in place. What would his MLO advise as the first step in the process?
+Answer (Correct): Contact the second lien holder to get an agreement to remain in second lien potion and
+allow a new first to go ahead of it.
+Feedback: If a borrower wants to refinance a first mortgage and keep the second mortgage in place, the
+second mortgage holder must agree to subordinate to the new first lien holder. To subordinate means the
+second mortgage creditor agrees to hold a second lien position to a new first mortgage that will replace the
+existing first mortgage.
+Question 105:
+Question:
+A realtor refers a potential buyer to an individual at a mortgage company that she works with regularly. The
+realtor informs the buyer to provide personal information such as pay stubs, bank statements, and W2s. What
+should happen next?
+Answer (Correct): A mortgage loan originator will assist the buyer with completing their mortgage loan
+application to qualify them for a mortgage loan.
+Feedback: Only a licensed mortgage loan originator can qualify the buyer. This stage will proceed before
+working with a mortgage loan originator assistant, processor, or underwriter.
+Question 106:
+Question:
+According to the Ability to Repay (ATR) rule, a creditor can earn up to a fixed percentage for loans of a
+specific size. Assuming a $120,000 loan amount, what is the maximum a creditor can earn in dollars or
+percentage?
+https://ameritrain.tiltlms.com/lesson/play/progress/1310046 23/27
+6/20/23, 2:52 PM Courses
+Answer (Correct): 3%
+Feedback: The maximum fees a creditor can earn under the ATR rule is 3%.
+Question 107:
+Question:
+Michelle wants to purchase a home. After starting the loan process, her MLO informs her she’s unable to
+secure mortgage financing due to several credit challenges. Michelle asks her cousin Amanda for her
+assistance by applying for the loan instead of Michelle, who will take possession of the property once it
+closes and make the payments. Amanda is considered a:
+Answer (Correct): Straw buyer
+Feedback: A person used to buy property in order to conceal the actual owner is a straw buyer.
+Question 108:
+Question:
+If a prospective MLO fails the exam, they must wait ___ days before retaking it and ___ days if they fail
+three consecutive times.
+Answer (Correct): 30; 180
+Feedback: An individual may take a test three consecutive times. Each retest cannot occur less than 30 days
+after the preceding test. They must wait 6 months before taking the test again if they fail three times.
+Question 109:
+Question:
+A city municipality fined an investor who failed to maintain his properties in severe disrepair. He has 60 days
+to bring the properties up to code or face additional fines under the Fair Housing Act (FH Act). What is the
+maximum fine the investor could face?
+Answer (Incorrect): A $10,000 fine or be imprisoned not more than one year, or both.
+Feedback:
+Question 110:
+Question:
+This document contains loan repayment terms and is signed by the mortgagor or trustor. It is referred to as a:
+Answer (Correct): promissory note
+Feedback: Borrowers sign a separate promissory note, also referred to as note, giving a personal guarantee to
+repay the outstanding loan. The note is secured by the security property using the Deed of Trust or Mortgage.
+It is not a recorded document.
+Question 111:
+Question:
+https://ameritrain.tiltlms.com/lesson/play/progress/1310046 24/27
+6/20/23, 2:52 PM Courses
+A borrower earns $8,750 per month. He has monthly debts of $1,137. The maximum mortgage payment he
+can afford is:
+Answer (Correct): $2,013
+Feedback: $2,013 [$8,750 x .36 (Conv DTI Ratio) = $3,150 - $1,137 (Mthly Debt) = $2,013 PITI (Mthly
+Mortgage Payment)]. When the question does not state what type of loan program is in use, always use
+conventional ratios (28%/36%).
+Question 112:
+Question:
+Robyn is excited to move to a new city where she will work as a mechanical engineer. After visiting a few
+times, she’s clear about where she wants to purchase a home. Her realtor shows her houses in communities
+where the realtor believes Robyn will feel more comfortable as there are other homeowners who share her
+ethnic background. Is this a violation of federal guidelines?
+Answer (Correct): Yes, as the realtor’s actions are steering.
+Feedback: The illegal practice of real estate professionals only showing members of a minority group
+properties located in specific ethnic areas is steering.
+Question 113:
+Question:
+A lender’s insurance policy protects the ______ and is ________ when the property is assigned to a new
+owner.
+Answer (Correct): lender; transferable
+Feedback: This is correct.
+Question 114:
+Question:
+After closing her refinance loan on her home, Corey changes his mind and decides to rescind the following
+day. Corey must exercise her right to rescind by midnight of the ___ business day.
+Answer (Correct): third
+Feedback: Following consummation, delivery of the notice, or delivery of all material disclosures, whichever
+occurs last, the consumer may exercise the right to rescind until midnight of the third business day.
+Question 115:
+Question:
+A borrower earns $24.13 an hour and works 38 hours a week. He is paid semi-monthly. How much does he
+earn monthly?
+Answer (Correct): $3,973.41
+Feedback: $24.13 x 38 hours x 52 weeks = $47,680.88 annual income. $47,680.88 ÷12 = $3,973.41 monthly
+income.
+https://ameritrain.tiltlms.com/lesson/play/progress/1310046 25/27
+6/20/23, 2:52 PM Courses
+Question 116:
+Question:
+A primary mandate of the Dodd Frank Act was to:
+Answer (Correct): create the CFPB
+Feedback: The CFPB was created to enforce the provisions of the Dodd-Frank Act.
+Question 117:
+Question:
+A borrower signs a contract to purchase a home for $210,000 with an appraised value of $200,000. The
+current first lien amount will be $100,000. The second lien will be a Home Equity Line of Credit (HELOC)
+for $50,000. The borrower withdraws the entire amount of the HELOC for the transaction. What will be the
+LTV, CLTV, TLTV, and the amount of funds she needs for a down payment?
+Answer (Correct): 50%,75%,75% - $50,000
+Feedback: $100,000 (1st Lien) ÷ $200,000* = 50% LTV; $100,000 (1st Lien) + $50,000 (2nd Lien) =
+$150,000 ÷ $200,000 = 75% CLTV; This CLTV is the same as the TLTV because the borrower withdrew all
+the funds at once. This requires the borrower to bring $50,000 for his down payment as the borrower now has
+a first and second lien for $150,000. *Must use the lower of the sales price or appraised value to determine
+the Loan-to-Value (LTV). The purchase price must match the appraised value because it is lower than the
+sales price.
+Question 118:
+Question:
+Mack and Joanna are siblings who decide to start two businesses in the mortgage industry. One will open a
+mortgage brokerage company, while the other will work as an independent mortgage loan processor. How
+should they disclose their relationship to customers they refer to each other?
+Answer (Incorrect): The must provide each borrower with an Affiliated Business Arrangement disclosure
+form., They cannot refer business to each other as this would violate RESPA Section 8.
+Feedback: The ABA disclosure form is a requirement with there is an associate relationship between service
+providers referring business to each other.
+Question 119:
+Question:
+A new homeowner in his 20s was attempting to explain what type of loan she has by describing key aspects.
+All items are associated with the loan program except:
+Answer (Correct): private mortgage insurance
+Feedback: Mortgage insurance premium, 100% gift for down payment and maximum 6% seller
+contributions would all be associated with a FHA transaction. Private mortgage insurance (PMI) is associated
+with conventional loans only.
+Question 120:
+https://ameritrain.tiltlms.com/lesson/play/progress/1310046 26/27
+6/20/23, 2:52 PM Courses
+Question:
+The Regulation X applies to:
+Answer (Correct): all federally related mortgage loan transactions financed for consumer use.
+Feedback: This is correct.
+https://ameritrain.tiltlms.com/lesson/play/progress/1310046 27/27
+

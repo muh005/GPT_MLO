@@ -1,0 +1,888 @@
+CA-DFPI SAFE PE
+Learning Resource
+Modules 1 & 2
+CA-DFPI SAFE PE Course I Learning Resource (v.02102022) Ameritrain. All Rights Reserved. Page 1 | 33
+Welcome
+This course is designed for Mortgage Loan Originators and is part of the required training for a
+PE License in the state of California.
+How to use this Learning Resource
+The Learning Resource is designed to assist you during training. Use this tool to take notes as
+you go. You may also use it as a preparation tool for your licensing test.
+During Training
+§ Take notes
+§ Complete activities / exercises
+Legend:
+Icons Descriptions
+Note Place to take notes about content
+Key Points Important information to remember
+Reminders Critical benefits and information
+Activity Document, practice, demonstrate, or solve
+Discussion Discussion activity
+CA-DFPI SAFE PE Course I Learning Resource (v.02102022) Ameritrain. All Rights Reserved. Page 2 | 33
+Table of Contents
+MODULE 1 ........................................................................................................................................... 5
+TOPIC: STATE REGULATORY AUTHORITY .............................................................................................. 6
+TOPIC: DEFINITIONS ............................................................................................................................. 7
+ACTIVITY: KNOWLEDGE CHECK #1 ........................................................................................................ 9
+TOPIC: MLO RESPONSIBILITIES ........................................................................................................... 10
+TOPIC: PROCESSOR RESPONSIBILITIES ................................................................................................ 11
+ACTIVITY: KNOWLEDGE CHECK #2 ...................................................................................................... 12
+TOPIC: QUALIFICATION & APPLICATION PROCESS .............................................................................. 13
+Start the application .............................................................................................................................. 13
+Education Requirements ....................................................................................................................... 13
+Testing Requirements ............................................................................................................................ 14
+Financial Requirements ......................................................................................................................... 15
+Background Requirements .................................................................................................................... 15
+Real Estate Endorsement Requirement ................................................................................................. 16
+Fee Requirements .................................................................................................................................. 16
+ACTIVITY: KNOWLEDGE CHECK #3 ...................................................................................................... 17
+TOPIC: LICENSE DENIALS .................................................................................................................... 18
+TOPIC: LICENSE MAINTENANCE .......................................................................................................... 19
+General Requirements ........................................................................................................................... 19
+Course Guidelines .................................................................................................................................. 19
+Failure to Renew .................................................................................................................................... 19
+Steps to ‘Relicense’ ................................................................................................................................ 20
+MODULE 2 ......................................................................................................................................... 21
+TOPIC: COMPLIANCE .......................................................................................................................... 22
+Recordkeeping ....................................................................................................................................... 22
+Examinations and Investigations ........................................................................................................... 22
+Prohibited Conduct and Practices .......................................................................................................... 23
+Fees and Charges ................................................................................................................................... 25
+Disclosures and Agreements .................................................................................................................. 25
+Advertising ............................................................................................................................................. 26
+ACTIVITY: KNOWLEDGE CHECK #1 ...................................................................................................... 27
+TOPIC: DISCIPLINARY ACTION ............................................................................................................ 28
+Violations ............................................................................................................................................... 28
+CA-DFPI SAFE PE Course I Learning Resource (v.02102022) Ameritrain. All Rights Reserved. Page 3 | 33
+Stage 1 – Notification, Hearing, and Appeals ........................................................................................ 29
+Stage 2 – Suspension, Revocation, and Rescission of Licenses .............................................................. 30
+Stage 3 – Penalties and Fines ................................................................................................................. 30
+ACTIVITY: KNOWLEDGE CHECK #2 ...................................................................................................... 32
+TOPIC: CALIFORNIA BILL OF RIGHTS .......................................................... Error! Bookmark not defined.
+REFERENCES ....................................................................................................................................... 33
+CA-DFPI SAFE PE Course I Learning Resource (v.02102022) Ameritrain. All Rights Reserved. Page 4 | 33
+MODULE 1
+Regulatory Authority and Licensing Process
+Module Learning Objectives
+During this module, you will review and be asked to demonstrate the following:
+§ Key definitions relating the state’s laws and regulations
+§ Knowledge of the structure and responsibilities of the state regulatory authority
+§ How to meet and apply the specific state licensing requirements and qualifications
+CA-DFPI SAFE PE Course I Learning Resource (v.02102022) Ameritrain. All Rights Reserved. Page 5 | 33
+TOPIC: STATE REGULATORY AUTHORITY
+Key Points § DFPI = Department of Financial Protection and Innovation
+§ DFPI Commissioner = Clothilde V. Hewlett
+§ DFPI Mission: “Serve Californians by effectively overseeing financial service
+providers, enforcing laws and regulations, promoting fair and honest business
+practices, enhancing consumer awareness, and protecting consumers by
+preventing potential marketplace risks, fraud, and abuse.”
+§ Department Structure includes responsibilities for:
+o Administration
+o Division of Corporation
+o Division of Financial Institution
+o Legal
+o Legislation & Policy
+o Public Affairs
+§ DFPI protect financial interests of California citizens and has oversight of:
+o State-licensed financial institutions including:
+§ Banks
+§ Credit Unions
+§ Division
+o Licensing and regulation of:
+§ Security Brokers & Dealers
+§ Investment Advisors
+§ Payday lenders
+§ Other consumer finance lenders
+Notes _________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+CA-DFPI SAFE PE Course I Learning Resource (v.02102022) Ameritrain. All Rights Reserved. Page 6 | 33
+TOPIC: DEFINITIONS
+Words have meaning
+FINANCIAL CODE - FIN
+DIVISION 9. CALIFORNIA FINANCING LAW [2200-22014]
+California Department of Financial Protection and Innovation (DFPI) require its MLOs to become familiar
+with key definitions that governs the construction of the department. Unless the context otherwise
+requires, the definitions below govern the construction of this division. Take a few moments to review
+these terms.
+Branch office Means a license to engage in business as a finance lender or broker at a location
+license other than the location identified in a finance lender or broker license application
+or amended application.
+Broker Includes any person who is engaged in the business of negotiating or performing
+any act as broker in connection with loans made by a finance lender.
+Commissioner Means the Commissioner of Business Oversight.
+Depository Has the same meaning as in Section 3 of the Federal Deposit Insurance Act, and
+institution includes any credit union.
+Expungement Means an order that allows an individual to withdraw his or her plea of guilty and
+to enter a plea of not guilty, or setting aside the verdict of guilty or dismissing the
+accusation, information, or indictment. As it relates to criminal convictions in
+another state, that state’s definition of expungement will apply.
+Federal banking Means the Board of Governors of the Federal Reserve System, the Comptroller of
+agencies the Currency, the Director of the Office of Thrift Supervision, the National Credit
+Union Administration, and the Federal Deposit Insurance Corporation.
+Finance lender Includes any person who is engaged in the business of making consumer loans or
+making commercial loans. The business of making consumer loans or commercial
+loans may include lending money and taking, in the name of the lender, or in any
+other name, in whole or in part, as security for a loan, any contract or obligation
+involving the forfeiture of rights in or to personal property, the use and possession
+of which property is retained by other than the mortgagee or lender, or any lien
+on, assignment of, or power of attorney relative to wages, salary, earnings,
+CA-DFPI SAFE PE Course I Learning Resource (v.02102022) Ameritrain. All Rights Reserved. Page 7 | 33
+income, or commission. It is the intent of the Legislature that the definition of
+finance lender shall be interpreted to include a personal property broker.
+Finance lender Do not include employees regularly employed at the location specified in the
+and broker license of the finance lender or broker, except that an employee, when acting
+within the scope of his or her employment, shall be exempt from any other law
+from which his or her employer is exempt.
+Licensee Means any finance lender or broker who receives a license.
+Nationwide (NMLS) means a mortgage licensing system developed and maintained by the
+Mortgage Conference of State Bank Supervisors and the American Association of Residential
+Licensing Mortgage Regulators for the licensing and registration of licensed mortgage loan
+System and originators.
+Registry
+Nontraditional Means any mortgage product other than a 30-year fixed rate mortgage.
+mortgage
+product
+Person Means an individual, a corporation, a partnership, a limited liability company, a
+joint venture, an association, a joint stock company, a trust, an unincorporated
+organization, a government, or a political subdivision of a government.
+Regulatory Is a statement in a section or subdivision that specifies an original bona fide
+ceiling provision principal loan amount at or above which that section or subdivision does not apply
+to a loan.
+Residential Means any loan primarily for personal, family, or household use that is secured by
+mortgage loan a mortgage, deed of trust, or other equivalent consensual security interest on a
+dwelling, or residential real estate upon which is constructed or intended to be
+constructed a dwelling. “Dwelling” means a residential structure that contains one
+to four units, whether or not that structure is attached to real property. The term
+includes an individual condominium unit, cooperative unit, mobile home, or
+trailer, if it is used as a residence.
+SAFE Act Means the federal Secure and Fair Enforcement for Mortgage Licensing Act of
+2008.
+Unique Means a number or other identifier assigned by protocols established by the
+Nationwide Mortgage Licensing System and Registry.
+identifier
+CA-DFPI SAFE PE Course I Learning Resource (v.02102022) Ameritrain. All Rights Reserved. Page 8 | 33
+ACTIVITY: KNOWLEDGE CHECK #1
+True/False
+Q1:
+A Depository Institution includes any credit union?
+A:
+True/False
+Q2: Finance lender and broker includes employees regularly employed at the location
+specified in the license of the finance lender or broker?
+A:
+Multiple Choice
+Q3: The Nationwide Mortgage Licensing System and Registry (NMLS) is a mortgage
+licensing system developed and maintained by which 2 of the following entities?
+A:
+Multiple Choice
+Q4:
+Select the 5 entities that comprise the Federal Banking Agency.
+A:
+True/False
+Q5: Nontraditional mortgage product refers to any mortgage product other than
+traditional 15-year and 30-year fixed rate mortgages?
+A:
+CA-DFPI SAFE PE Course I Learning Resource (v.02102022) Ameritrain. All Rights Reserved. Page 9 | 33
+TOPIC: MLO RESPONSIBILITIES
+Key Points § Mortgage Loan Originators are the only ones who can:
+o Negotiation terms
+o Negotiate rates
+o Sign the loan application
+§ MLOs who work for a non-depository institution (i.e., lender, broker)
+must be licensed and meet these guidelines:
+o Complete 20 hours of pre-license education
+o Complete 8 hours of continuing education annually
+o Pass a national and/or state specific exam
+o In some states, may be required to complete state specific
+mandated education
+o Work for a sponsor (employer)
+o Be named on the surety bond of a sponsor or participate in a
+state recovery account
+o Obtain a unique identifier from the Nationwide Mortgage
+Licensing System (NMLS)
+o Process license application requirements via the NMLS
+§ MLOs who work for a depository institution (i.e., bank, credit union)
+must be registered and meet these guidelines:
+o Work for a sponsor (employer)
+o Obtain and maintain a unique identifier from the Nationwide
+Mortgage Licensing System (NMLS)..
+§ MLO exemptions include people who:
+o Perform purely administrative or clerical tasks on behalf of a
+MLO.
+o Are only involved in extensions of credit relating to timeshares.
+o Are employees of a federal, state, or local government agency or
+housing finance agency.
+o Are employees of a bona fide non-profit organization who
+exclusively originate residential mortgage loans.
+CA-DFPI SAFE PE Course I Learning Resource (v.02102022) Ameritrain. All Rights Reserved. Page 10 | 33
+TOPIC: PROCESSOR RESPONSIBILITIES
+Key Points § Loan Processors:
+o Perform important clerical functions
+o Verify employment
+o Order appraisals
+o Schedule closing date
+§ Processors who work independently on contract must meet these
+guidelines:
+o May represent multiple MLOs, brokers and lenders at the same
+time
+o Must be licensed as a MLO
+o Are a business entity that provides processing services for a fee
+§ Processors who work for an employer and receive a W2 annually must
+meet these guidelines:
+o Perform clerical or support duties as an employee
+o May take direction or be supervised by:
+§ a licensed mortgage loan originator (works for a lender
+or broker)
+§ or a registered mortgage loan originator (works for a
+bank or credit union)
+§ May not function as a MLO
+Reminder Important Tip:
+If you want to originate residential loans, you’ll need to partner with an
+experienced processor to get your loans closed.
+Notes _________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+CA-DFPI SAFE PE Course I Learning Resource (v.02102022) Ameritrain. All Rights Reserved. Page 11 | 33
+ACTIVITY: KNOWLEDGE CHECK #2
+Matching
+Q6: Match the institution type with the corresponding guidelines a MLO is required to
+meet.?
+A: Depository institution (bank, credit union) must meet these requirements:
+A non-depository institution (lender, broker) must meet these requirements:
+Multiple Choice
+Q7:
+Select one or more responsibilities of a processor.
+A:
+Matching
+Q8:
+Match the responsibilities with the correct type of processor.
+A: W2 processor:
+Independent contract loan processor:
+CA-DFPI SAFE PE Course I Learning Resource (v.02102022) Ameritrain. All Rights Reserved. Page 12 | 33
+TOPIC: QUALIFICATION & APPLICATION PROCESS
+There are a number of steps to apply for a MLO license and meet the qualification requirements. The
+following steps provide a general overview of this process and the key points.
+Start the application
+Key Points § Start the application process for MLO licensing:
+o Visit the NMLS Resource Center
+o Select state licensing requirements option
+o Select the state desired from the map
+o Follow the prompts to access the license application
+o Familiarize yourself with the requirements and timelines
+o Use NMLS provided guides and checklists to remain on track
+Education Requirements
+Key Points § Pre-licensing education and experience for this state
+o Before an applicant for a MLO license can complete the application
+process, they must complete at least 20 hours of approved education
+that includes:
+§ 8 hours of core instruction comprised of:
+• 3 hours of federal law and regulation instruction
+• 3 hours of ethics (includes fraud, consumer
+protection, and fair lending issues
+• 2 hours of training related to lending standards for not
+traditional mortgage product marketplace
+§ 12 hours of electives:
+• 10 hours are general electives
+• 2 hours are state-specific for this state
+§ Pre-licensing education certification requirements are:
+o Course provider must be approved by NMLS
+o Course must be reviewed and approved by NMLS
+o Course formats must be approved by NMLS and currently include
+online, classroom, webinar
+§ Reciprocity – you can get credit for courses completed in other states toward
+your pre-license in this state. For a list of approved courses, visit the NMLS
+Resource Center.
+CA-DFPI SAFE PE Course I Learning Resource (v.02102022) Ameritrain. All Rights Reserved. Page 13 | 33
+§ Experience requirement – there is no experience required to take the MLO
+test for a pre-license in this state.
+Testing Requirements
+Key Points § Pre-licensing testing - after completing the pre-license course, an applicant for
+a MLO license must take and pass a written test:
+o Administered by an NMLS approved test provider
+o Adequately measures the applicant’s knowledge
+§ Passing test score = 75% correct answers
+§ Failing score options:
+o May retake test up to 3 consecutive times
+o Must wait to retake at least 30 days between each test
+o If all 3 tests are failed, applicant must wait 6 months to test again
+o Other retesting conditions:
+§ Licensed MLOs who fail to maintain a valid license a period of
+5 years or longer must retake the test
+§ Time spent working for a non-depository institution (bank or
+credit union) as a registered MLO will not count as part of this
+time
+Reminder Important Tip:
+Only about 63% of applicants pass the first time. To improve your chances, use
+practice exams, flash cards, and study like it’s a final exam.
+Notes _________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+CA-DFPI SAFE PE Course I Learning Resource (v.02102022) Ameritrain. All Rights Reserved. Page 14 | 33
+Financial Requirements
+Key Points § Only the employer or sponsor must meet this net worth requirement, not
+the MLO
+§ The MLO must be on the bond of the sponsor
+§ The commissioner may make or edit rules or regulations that affect the
+requirements for minimum net worth, to ensure compliance with the SAFE Act
+§ Net worth requirements:
+License Type MLO Employees Minimum Net Worth
+Requirement
+Finance lender or Broker None $25,000
+license
+Finance lender or Broker One or more $250,000
+license (makes residential
+loans)
+Finance broker (arranges, One or more $50,000
+but does makes residential
+loans)
+§ Minimum Bond Requirement:
+License Type Minimum Bond Purpose
+Residential $50,000 (Can increase Recovery of expenses, fines, and
+Mortgage lender to $100,000 by fees levied by the commissioner
+or Servicer Commissioner)
+license
+Background Requirements
+Key Points § During the application (via NMLS website) you will be asked for:
+o Person information
+o Experience
+o Authorization to NMLS and Commissioner to obtain:
+Independent credit report from consumer reporting agency
+o Information related to any administrative, civil, or criminal findings by
+any governmental jurisdiction
+§ You must submit fingerprints:
+o Can be submitted via UPS location
+CA-DFPI SAFE PE Course I Learning Resource (v.02102022) Ameritrain. All Rights Reserved. Page 15 | 33
+o Sent to Department of Justice (DOJ) who will look for convictions,
+state arrests, bail records, recognizance pending trial/appeal
+o Once confirmed, electronic response sent to NMLS and commissioner
+Reminder Important Tip:
+At any time, the commissioner may ask the NMLS to obtain state criminal history
+background check information on applicants seeking licensure in the state.
+Real Estate Endorsement Requirement
+Key Points § You must obtain a license endorsement from the Commissioner of Real
+Estate.
+§ Visit the NMLS Resource Center to seek endorsement.
+Fee Requirements
+Key Points § Application and Investigation Fees - apply to lenders, brokers, and branch
+office licenses.
+§ Applicant must pay fees for:
+o Investigating the application
+o Cost of fingerprint processing
+o Criminal history record check
+§ Those who will be investigated include:
+o Applicant
+o General partner and/or any person responsible for the conduct of the
+applicant’s lending activities in this state, if the applicant is a
+partnership
+o Persons owning or controlling (directly/indirectly) of 10% or more of
+the outstanding interests
+o Commissioner will issue and deliver a license to applicant if no reasons
+are found for denial
+Reminder Important Tip:
+Fees are non-refundable. Neither the application nor the investigation fees are
+refundable if you withdraw the application or are denied.
+CA-DFPI SAFE PE Course I Learning Resource (v.02102022) Ameritrain. All Rights Reserved. Page 16 | 33
+ACTIVITY: KNOWLEDGE CHECK #3
+True/False
+The commissioner will obtain an independent credit report from a consumer
+Q9:
+reporting agency and information related to any administrative, civil, or criminal
+findings by any governmental jurisdiction?
+A:
+Multiple Choice
+Q10:
+A finance lender with no employees must have a minimum net worth of:
+A:
+True/False
+Q11: An applicant may retake the test up to 3 consecutive times but they must wait 6
+months between each testing.
+A:
+Multiple Choice
+Q12:
+What does the term ‘reciprocity’ mean?
+A:
+CA-DFPI SAFE PE Course I Learning Resource (v.02102022) Ameritrain. All Rights Reserved. Page 17 | 33
+TOPIC: LICENSE DENIALS
+Key Points
+§ Reasons for application denial:
+o MLO license revoked in any governmental jurisdiction
+o Conviction, pled guilty, or nolo contendere to, a felony in a domestic,
+foreign, or military court during the seven-year period
+o If you fail to respond to written notification of a deficiency in the
+application within 90 days of the date of the notification
+o The commissioner can deny an application for a new location and has
+the deny an alternative person
+§ Reason to approve:
+o Applicants may still be approved if their felony convictions are
+expunged or pardoned (Commissioner may consider the
+circumstances when determining the eligibility of an applicant for
+licensure)
+Notes _________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+CA-DFPI SAFE PE Course I Learning Resource (v.02102022) Ameritrain. All Rights Reserved. Page 18 | 33
+TOPIC: LICENSE MAINTENANCE
+Once applicants have received their license, there are several conditions that must be met each year and
+on a continuing basis.
+General Requirements
+Key Points § Meet all continuing education requirements that includes:
+o Three (3) hours of instruction on federal law and regulations
+o Two (2) hours of ethics, which includes instruction on fraud, consumer
+protection, and fair lending issues
+o Two (2) hours of training related to lending standards for the
+nontraditional mortgage product marketplace
+§ Continue to meet the minimum standards:
+o No reasons for denial
+§ Pay all required fees for renewal of the license
+Course Guidelines
+Key Points § Take courses approved by NMLS
+o May only receive credit for the continuing education in the year in which
+course is taken
+o May NOT take the same course in successive years to meet requirements
+o Receive credit if you already completed a NMLS approved course from
+another state
+Failure to Renew
+Key Points § If you don’t renew
+o Commissioner may adopt procedures for reinstatement consistent
+with NMLS standards
+o Licensee may complete a late CE course
+Reminder Important Tip:
+Late CE courses are more expensive.
+CA-DFPI SAFE PE Course I Learning Resource (v.02102022) Ameritrain. All Rights Reserved. Page 19 | 33
+Steps to ‘Relicense’
+Key Points § Steps to become licensed again:
+o Commissioner may adopt procedures for reinstatement consistent
+with NMLS standards
+o Licensee may complete a late CE course
+Notes _________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+CA-DFPI SAFE PE Course I Learning Resource (v.02102022) Ameritrain. All Rights Reserved. Page 20 | 33
+MODULE 2
+Compliance and Disciplinary Actions
+Module Learning Objectives
+During this module, you will review and be asked to demonstrate the following:
+§ Compliance for required recordkeeping, conduct, practices, disclosures, and advertising
+§ Knowledge of disciplinary actions relating to notifications, hearings, suspensions, revocations, and
+violations
+CA-DFPI SAFE PE Course I Learning Resource (v.02102022) Ameritrain. All Rights Reserved. Page 21 | 33
+TOPIC: COMPLIANCE
+Many of these requirements apply specifically to this state. It’s important to be consistent and diligent in
+meeting these requirements.
+Recordkeeping
+Key Points § General requirements:
+o Keep books, accounts, records that enable commissioner to determine
+compliance.
+o Retain records/documents on any loan secured by real property in
+which loan proceeds were disbursed to an independent escrow
+holder.
+§ Maintenance and preservation:
+o Original records must be furnished within 48 hours when requested.
+o Licensees must:
+§ File an annual report to commissioner.
+§ Provide relevant state business information for preceding
+calendar year.
+§ Provide the information before March 15.
+o Licensee (lender or broker) who employs one or more MLOs must
+submit to NMLS reports of condition.
+§ Out-of-state requirements:
+o Make all records and files available to the commissioner in this state.
+o Pay the reasonable expenses of the commissioner during any
+investigation or examination.
+Examinations and Investigations
+Key Points § The commissioner will:
+o Examine each of you for compliance within this division.
+o Examine as often as appropriate, at least once every 48 months.
+CA-DFPI SAFE PE Course I Learning Resource (v.02102022) Ameritrain. All Rights Reserved. Page 22 | 33
+Prohibited Conduct and Practices
+Early sections of this course outlined licensing requirements and a lot of what you can do. What follows
+is a list of prohibited acts.
+Key Points § Violations:
+Any leader or employee of a licensee, its holding company, or its affiliates who:
+o Knowingly makes/publishes any false entry in its books or records.
+o Makes a statement of its affairs which is false.
+o Refuses or neglects to make any proper entry in the books as required
+by law.
+o Does not allow the books to be inspected by the commissioner’s
+representatives.
+§ Prohibitions:
+A finance lender or broker may not do the following:
+o Employ a mortgage loan originator whose license has lapsed.
+o Make or broker a residential mortgage loan unless that loan is offered
+by, negotiated by, or applied for through a licensed mortgage loan
+originator.
+o Disburse the mortgage loan proceeds in a form other than direct
+deposit to the borrower’s or borrower’s designee’s account, wire, bank
+or certified check, ACH funds transfer, or attorney’s check drawn on a
+trust account.
+o Fail to disburse funds in accordance with a commitment to make a
+mortgage loan that is accepted by the applicant.
+o Accept fees at closing that are not disclosed to the borrower on the
+Closing Disclosure.
+o Obtain or induce an agreement or other instrument in which blanks are
+left to be filled in after execution.
+o Intentionally delay closing of a mortgage loan for the sole purpose of
+increasing interest, costs, fees, or charges payable by the borrower.
+o Engage in fraudulent home mortgage underwriting practices.
+o Make payment of any kind to an appraiser for the purpose of
+influencing the independent judgment of the appraiser with respect to
+the value of real estate that is to be covered by the home mortgage.
+o Knowingly misrepresent, circumvent, or conceal, any material aspect or
+information regarding a transaction to which it is a party.
+o Do an act, whether of the same or a different character than specified
+in this section, that constitutes fraud or dishonest dealings.
+o Sell more than eight loans in a calendar year made under the authority
+of this license to a person who is not an institutional investor.
+o Make or service a loan that is not a residential mortgage loan.
+CA-DFPI SAFE PE Course I Learning Resource (v.02102022) Ameritrain. All Rights Reserved. Page 23 | 33
+o Make or broker a loan that is offered by, negotiated by, or applied for
+through a mortgage loan originator who is not licensed in this state
+through the NMLS, unless the mortgage loan originator is exempt from
+licensure.
+§ Exceptions to charging fees:
+A licensee may not require a borrower to pay fees or charges prior to the
+residential mortgage loan closing, except for:
+o Actual charges to be incurred by the licensee on behalf of the borrower
+for services from third parties necessary to process the application,
+such as credit reports, appraisals, flood certification, and tax service,
+and in transactions where these services are provided by the licensee, a
+charge not to exceed the prevailing market rate for the service.
+o An application fee.
+o A rate-lock fee, provided:
+§ There is a written agreement signed by the borrower and licensee.
+§ The terms of the agreement include, but are not limited to:
+(i) The expiration date of the rate-lock fee agreement.
+(ii) The principal amount of the mortgage loan, the term of the
+mortgage loan, and identification of the property.
+(iii) The initial interest rate and the discount (points) to be paid.
+(iv) The amount and payment term of the rate-lock fee along with a
+statement disclosing whether the fee is refundable and the
+terms and conditions necessary to obtain a refund.
+o The licensee demonstrates to the commissioner that it is able to
+perform under the terms of the agreement.
+o A commitment fee, upon approval of the residential mortgage loan
+application, provided:
+§ The commitment is in writing and signed by the licensee and the
+borrower.
+§ The commitment contains all of the following information:
+(i) The terms and conditions of the residential mortgage loan.
+(ii) The terms and conditions of the commitment, including, but not
+limited to, all of the following:
+• The time period during which the commitment is
+irrevocable and may be accepted by the borrower, which
+may not be less than three calendar days from the date of
+commitment or the date of mailing, whichever is later.
+• The amount and payment terms of the commitment fee,
+along with a statement disclosing whether the fee is
+refundable and the terms and conditions necessary to
+obtain a refund.
+• The expiration date of the commitment.
+§ Conditions precedent to closing.
+CA-DFPI SAFE PE Course I Learning Resource (v.02102022) Ameritrain. All Rights Reserved. Page 24 | 33
+o If the licensee has performed its obligations under the law related to
+the transaction, fees or charges collected pursuant to this section, then
+the fees can be refunded if a valid commitment or closing, respectively,
+does not occur, except that the licensee may retain appropriate fees
+upon the licensee’s demonstration to the commissioner that any of the
+following occurred:
+§ The borrower withdrew the loan application.
+§ The borrower made a material misrepresentation or omission on
+the loan application.
+§ The borrower failed, after written request, to provide
+documentation necessary to the processing or closing of the loan
+application.
+§ The closing failed to occur due solely to the fault of the borrower.
+Fees and Charges
+Key Points § The commissioner may:
+o Require an application to be made through NMLS.
+o Require fees, fingerprints, financial statements, supporting
+documents, changes of address, and any other information.
+o Establish timelines, fees, and assessments applicable to applicants for
+original MLO licenses, license renewals, and license changes.
+§ The commissioner will:
+o Issue a license or file a statement of issues within 60 days from the
+filing of a complete application for license.
+o Assess the residential mortgage lender or servicer licensee the
+reasonable expenses of any examination of the licensee and affiliates.
+Disclosures and Agreements
+Key Points § The commissioner is authorized to:
+o Enter or share agreements with other governmental agencies
+including:
+§ Conference of State Bank Supervisors
+§ American Association of Residential Mortgage Regulators
+§ Other associations representing governmental agencies
+§ Information subject to privilege or confidentiality will not be subject to:
+o Disclosure under federal or state law governing disclosure to the
+public of information held by a government agency.
+o Subpoena, discovery, or admission in any private civil action or
+administrative process.
+CA-DFPI SAFE PE Course I Learning Resource (v.02102022) Ameritrain. All Rights Reserved. Page 25 | 33
+o Assess the residential mortgage lender or servicer licensee the
+reasonable expenses of any examination of the licensee and affiliates.
+Advertising
+Key Points § No person should do any of the following:
+o Make a materially false or misleading statement.
+o Cause (or permit) any information to be advertised that is false,
+misleading, or omits information.
+o Knowingly misrepresent, circumvent, or conceal information regarding
+a transaction.
+o Commit an act that constitutes fraud or dishonest dealings.
+§ No licensee can place an ad in this state for a loan unless the licensee
+discloses in the printed or oral text (audio) the license under which the loan
+would be made or arranged.
+§ The commissioner may require the following to be stated in ads:
+o Rates of charge
+o Rates of interest
+o Charges
+o Cost of loans
+§ If the commissioner disapproves, the ad copy cannot be used and:
+o The licensee will be notified in writing of the disapproval.
+o The commissioner may direct licensee to submit ad copy for review
+prior to use.
+o The commissioner may require licensees to maintain a file of all ad
+copy for a period of two years.
+Notes _________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+CA-DFPI SAFE PE Course I Learning Resource (v.02102022) Ameritrain. All Rights Reserved. Page 26 | 33
+ACTIVITY: KNOWLEDGE CHECK #1
+Single Choice
+Q1:
+Which one of the following is NOT true about recordkeeping?
+A:
+True/False
+Q2: The commissioner will examine your records as often as he/she deems necessary with a
+minimum of every 24 months.
+A:
+Multiple Choice
+Q3: Check all the statements regarding prohibited practices that are TRUE.
+A finance lender may not do the following:
+A:
+True/False
+Q4: The commissioner will assess the residential mortgage lender or servicer licensee
+the reasonable expenses of any examination of the licensee and affiliates.
+A:
+Multiple Choice
+Q5:
+Which two of the statements about advertising below are NOT true?
+A:
+CA-DFPI SAFE PE Course I Learning Resource (v.02102022) Ameritrain. All Rights Reserved. Page 27 | 33
+TOPIC: DISCIPLINARY ACTION
+One of the goals of this course is keep you out of trouble, especially as it relates to any form of
+disciplinary action. Keep this in mind as you review reasons for action by the commissioner.
+Violations
+Key Points § Reasons for disciplinary action include:
+o Operating a mortgage lending or servicing business without a license.
+o Acting as mortgage loan originator without a license.
+o Doing business in an unsafe and potentially harmful manner to the
+public.
+o Recipient of disciplinary action by any other government entity related
+to mortgage laws.
+o You knew or should have known you were committing a violation.
+o The violation caused significant harm to:
+§ The residential mortgage lender
+§ The residential mortgage loan servicer
+§ The mortgage loan originator
+§ The public
+o You were convicted of or pleaded no contest to any crime.
+o Made material false claims and/or omitted material facts required to
+be stated in a document.
+o Knowingly used any method to obstruct or influence the enforcement
+of a provision of the California Lending Act.
+o Made false statements during licensing, investigations or
+examinations.
+o Determined to be in the public interest.
+o Judged liable by the courts in a civil action case with no more rights to
+appeal.
+o Judged liable by a governmental agency in an administrative action.
+o Failed to file a new surety bond under the following conditions:
+§ Failed to file a new bond within 10 days of a consumer, who was
+harmed, successfully making a claim against the bond
+§ Failed to file a new bond within 10 days of the commissioner
+notifying the licensee that a new bond is required
+Reminder Important Tip:
+Any violation of RESPA, TILA, or HOEPA is a violation of the California Residential
+Mortgage Lending Act.
+CA-DFPI SAFE PE Course I Learning Resource (v.02102022) Ameritrain. All Rights Reserved. Page 28 | 33
+Generally, there are three stages to disciplinary action. They follow here.
+Stage 1 – Notification, Hearing, and Appeals
+Once the commissioner has identified a potential violation, their office will send a notice of intent to
+issue an order.
+Reminder Important Tip:
+Once the person receives notice of intent to issue an order they are immediately
+prohibited from participating in license-related activities.
+Key Points § Options:
+o Recipient may request a hearing within 15 days or lose their right to
+do so.
+o Hearing will be scheduled within 30 days upon receipt.
+o The person can request a later date.
+o If the hearing is requested but NOT held within 60 days, the order is
+cancelled.
+§ Your rights:
+o The court may assign a person to represent the defendant.
+o The person assigned by the court can make decisions that would
+normally be by the company officers.
+o The commissioner and the court appointee are protected by law.
+§ Requirement to testify
+o The requirement to testify or produce documents is not waived.
+o An individual who can prove a valid claim against self-incrimination
+can’t be penalized for the claim.
+o An individual can be prosecuted for perjury.
+§ Appeals:
+o Any final order by the commissioner can be appealed in court by the
+licensee within 10 days of the order.
+o If the licensee does not appeal the licensee must comply.
+CA-DFPI SAFE PE Course I Learning Resource (v.02102022) Ameritrain. All Rights Reserved. Page 29 | 33
+Stage 2 – Suspension, Revocation, and Rescission of Licenses
+After providing notice to the licensee and giving the licensee an opportunity to attend a hearing to
+defend against the claim, the Commissioner and the court may take a variety of actions.
+Key Points § The Commissioner can take the following actions:
+o Censure or suspend a licensee up to 12 months.
+o Bar the licensee from taking a position of employment, management
+or control of any mortgage lender, servicer or MLO.
+§ Impact of being suspended or barred:
+o Can’t participate in any business-related activities associated with a
+licensed mortgage business or individual.
+o Can’t be involved in any business activities at the same location where
+a licensed mortgage company operates.
+§ Failure to comply
+o Commissioner has the right to immediately revoke the license.
+o Licensee has 10 days to get a court order to stop enforcement.
+§ The commissioner may decline to renew, suspend or revoke a license
+because:
+o A situation already exists that would have resulted in a license denial.
+o Failure to obey a subpoena.
+§ Role of Superior court in an enforcement action:
+o May issue an order for the person to appear before the commissioner.
+o Failure to obey the order could result in contempt of court charge.
+Stage 3 – Penalties and Fines
+Key Points § $100 Violations:
+o Failing to file a report required by the commissioner within 10 days of
+the due date.
+o Failing to include information required by law may result in:
+§ Fine
+§ License suspension
+§ Criminal penalties:
+May include one or both of the following:
+o A maximum fine of $10,000.
+o Imprisonment in a county jail (max one year).
+§ Civil penalties:
+o Max $2500 each violation.
+o Penalty will be assessed and recovered through the courts.
+CA-DFPI SAFE PE Course I Learning Resource (v.02102022) Ameritrain. All Rights Reserved. Page 30 | 33
+§ Citation Details:
+o Must include description of violation.
+o Must include time for the corrective action to be completed.
+o May include a fine of up to $2500.
+o Recipient must pay or notify the commissioner of intent to honor the
+citation within 30 days or the citation becomes final.
+o If not honored or paid the commissioner may go to court to seek
+action.
+o Citations and fines are not reported as disciplinary actions.
+Reminder Important Tip:
+Depending if it is in the best interest of the public, the commissioner may include a
+claim on behalf of the person harmed, that includes compensation for loss and
+return of moneys earned illegally.
+Notes _________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+CA-DFPI SAFE PE Course I Learning Resource (v.02102022) Ameritrain. All Rights Reserved. Page 31 | 33
+ACTIVITY: KNOWLEDGE CHECK #2
+True/False
+Q6: Any violation of RESPA, TILA, or HOEPA is a violation of the California Residential Mortgage
+Lending Act.
+A:
+Single Choice
+Q7: If you receive a notice of intent to issue an order, which one of the following options is
+NOT correct?
+A:
+Single Choice
+Q8: If you don’t obey an order from the Superior Court to appear before the commissioner, the
+following could occur?
+A:
+Matching
+Q9: The commissioner will assess the residential mortgage lender or servicer licensee
+the reasonable expenses of any examination of the licensee and affiliates.
+A: • Failing to file a report required by the commissioner within 10 days of the due date
+• Criminal penalty
+• Civil penalty
+• Citation
+CA-DFPI SAFE PE Course I Learning Resource (v.02102022) Ameritrain. All Rights Reserved. Page 32 | 33
+REFERENCES
+California Legislative Information
+http://leginfo.legislature.ca.gov/faces/codes.xhtml;jsessionid=9fb4004e7757236ea47152ce76f4
+Nationwide Mortgage Licensing System & Registry (NMLS)
+http://mortgage.nationwidelicensingsystem.org/Pages/Default.aspx
+CA-DFPI SAFE PE Course I Learning Resource (v.02102022) Ameritrain. All Rights Reserved. Page 33 | 33

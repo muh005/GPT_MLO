@@ -1,0 +1,197 @@
+ VA, a brief history
+ VA Loan Features
+ VA Entitlement, Discharge, and Fees
+ VA Closing Cost
+ Residual Income
+1
+Edition v.04012023 | Ameritrain Mortgage Institute | All Rights Reserved
+After the second world war ended, the government created opportunities
+for returning servicemen and women to participate in homebuying
+opportunities by providing a loan guarantee program.
+Unlike some military benefits (healthcare, insurance, etc.) veterans are not
+immediately granted the benefit of a VA loan. Like everyone else, they
+must apply for the VA loan, have their credit checked, and qualify.
+What the VA loan does do is offer some guarantees, making it easier to
+qualify for the loan, along with features that are favorable to the military
+borrower.
+The program has evolved from its initial guarantee limits to current
+guarantee limits that are consistent with the conventional conforming
+guidelines.
+NOTE: Fannie Mae will purchase VA loans that stay within the Fannie Mae
+conforming guidelines.
+2
+VA Loan Features
+VA loans offer a number of features that are unique and beneficial for currently active or
+retired veterans and their spouses.
+Enjoy a short video about VA features and benefits below.
+3
+VA Loans
+VA loans have the following general
+features.
+ VA allows 100% financing for qualified
+military borrowers.
+ VA does NOT have a maximum loan
+amount but it DOES have a maximum
+guarantee amount.
+ Lenders can make loans the borrower
+can qualify for however, VA has a
+guarantee limit.
+ VA uses the Fannie Mae conforming
+loan limits as a maximum guarantee
+amount for most counties around the
+country.
+ VA will guarantee 25% of the loan
+amount (up to the guarantee amount) in
+the event of the borrower’s default.
+Example:
+Borrower has been approved for a VA loan
+of $726,200. $726,200 x 25% = $181,550 in
+guarantees.
+ Housing expense ratio (front end ratio)
+maximum = 41%
+ DTI ratio (back end ratio) maximum =
+41%
+4
+VA Entitlement, Discharge, and Fees
+What is a VA entitlement?
+Unfortunately, it can be confusing. In simplest terms, a loan entitlement is a dollar amount the VA
+promises to repay back to a lender in the event of a borrower’s default. Generally, it’s 25% of the
+loan amount.
+Lenders will usually loan up to 4 times a Veteran's available entitlement without a down payment,
+provided the Veteran is income- and credit-qualified, and the property appraises for the asking
+price.
+There are 2 tiers of entitlements.
+The 1st tier is up to $36,000 and an additional, secondary entitlement of $145,550 ($181,550 -
+$36,000). Add those together and you get $181,550 ($726,200 x .25).
+In most counties, the maximum loan limit is $726,200. In high cost counties, the VA will still
+guarantee 25% which means the guarantees may be higher than the $181,550 entitlement amount.
+Lenders should use Fannie Mae or Freddie Mac 1-unit maximum conforming loan limits charts.
+5
+VA Entitlement, Discharge, and Fees
+Discharge Status and Loan Eligibility
+✓ When a military borrower leaves the Service, they receive a
+DD214 discharge document that shows proof of their
+service and the nature of their discharge.
+✓ To be eligible for VA guaranteed financing the borrower
+must have a certificate of eligibility (proof of entitlement)
+and a DD214 reflecting an honorable discharge.
+VA Funding Fee
+The VA funding fee is a charge assessed by the VA to receive a VA
+guaranteed loan. It’s a form of mortgage insurance (i.e., protects lender
+in the event of borrower default). The table below shows first time and
+subsequent users and veteran types pay different percentages. The
+greater the down payment, the lower the funding fee percentage is.
+Down Funding Funding Fee
+Payment Fee e c Percentage
+n
+ns Amount Percentage a n
+a o First-time Less than 5% 2.15% ife 2.15%
+L R
+n Use 5% or more 1.5% t
+& o u
+hit 1 Le0 s% to hr m o 5r %e 1 3.2 .35 %% aO
+e s a c u r Subsequent s a n h s - 3.3%
+t
+r ucs n o Use 5% or more 1.5% C A
+PC 10% or more 1.25% V
+✓ First time regular military users with less than 5% down are required
+to pay an upfront funding fee of 2.15% of the loan amount.
+Example: $144,000 x 2.15% = $3,096 funding fee.
+✓ Subsequent use of the loan entitlement will result in increased
+funding fee percentages.
+✓ A borrower that is considered disabled because of military action is
+exempt from paying the upfront funding fee.
+✓ A surviving spouse of those who died in the service, or from service
+related disabilities are exempt from paying the funding fee.
+✓ VA doesn’t allow a funding fee refund if borrower pays off the loan.
+✓ VA does not have an annual funding fee just an upfront funding fee.
+✓ VA funding fees may be financed into the loan amount, paid by the
+borrower upfront or paid by the seller.
+6
+VA borrowers may pay reasonable and customary fees for each loan, including refinances, but
+with several exemptions.
+Seller contributions are limited to 4% of the sales price
+The borrower is allowed to pay limited closing costs some of which include:
+ VA appraisal called a “Certificate of Reasonable Value” (CRV)
+ C re di t r ep ort fee (actual third-party charge)
+ Hazard insurance premium
+ Prepaid items
+ Flood certification fee
+ Survey
+ Title examination and title insurance
+ Recording fee
+Lender origination fee: lender may charge a 1% flat fee to cover origination charges which can
+include fees for:
+ Underwriting
+ Processing
+ Application fees
+ Documentation preparation
+ Attorney fees other than for title
+ Other loan related fees retained by the lender
+For more information on closing-related fees view this link:
+7
+R E S I D U A L I N C O M E
+Residual income is the
+amount of income
+leftover at the end of
+the month after all
+debts (including
+mortgage) is paid.
+About Residual Income
+The VA loan program is the only program that underwrites loans with a significant emphasis on residual income
+when qualifying the borrower for a VA guaranteed loan.
+VA actually puts more value on residual income than the DTI.
+ VA wants to ensure there is enough income remaining each month after the mortgage payment and other
+recurring qualifying expenses.
+ Residual income calculation is based on:
+o Loan amount, and
+o Where the borrower lives, and
+o Square footage of the home, and
+o How many persons will occupy the home.
+ Residual income varies based on location.
+Example: the residual income requirements in Jackson, Mississippi would be less than in Los Angeles, CA.
+The VA wants to know that veterans have enough residual income to keep their household afloat. A mortgage
+payment can put a new strain on family finances. So, borrowers looking to start the VA loan process will need a
+minimum amount of residual income depending on their loan amount, where they live and how many people
+live in the home.
+Residual income and debt-to-income ratio are interconnected financial guidelines for VA lenders. VA encourages
+lenders to put more weight on residual income than DTI ratio, and prospective borrowers with higher debt
+ratios will typically need to meet a higher standard for residual income.
+8
+The following charts reflect VA residual income requirements across geographic regions. Locate the family size
+and geographic region (based on state) to determine the residual income requirement. Here’s an example:
+Family: 7 members
+Loan Amount: $125,000
+State: Idaho
+Monthly Income: $6,000
+Monthly Debt: $3,300
+Monthly Mortgage: $1,452
+Residual income calculation: $6,000 – ($3,300 + $1452) = $1,248 (residual income).
+As you can see (table below), a family of 5 in the West (Idaho) has a residual income requirement of $1,158.
+This family has 7 members so we need to add $80 for each additional family member.
+$1,158 + $80 + $80 = $1,408. Acceptable residual income is $1,318 ($1,158 + $80 + $80). This borrower does
+NOT meet the criteria.
+VA Residual Income Chart Loan Amounts ≤ $79,999 VA Residual Income Chart Loan Amounts ≥ $80,000
+Family size Northeast Midwest South West Family size Northeast Midwest South West
+1 $390 $382 $382 $425 1 $450 $441 $441 $491
+2 $654 $641 $641 $713 2 $755 $738 $738 $823
+3 $788 $772 $772 $859 3 $909 $889 $889 $990
+4 $888 $868 $868 $976 4 $1,025 $1,003 $1,003 $1,117
+5 $921 $902 $902 $1,004 5 $1,062 $1,039 $1,039 $1,158
+Over 5 Add $75 for each add’l member up to family of 7 Over 5 Add $80 for each add’l member up to family of 7
+VA Key Geographic Regions for Residual Incomes
+Areas States
+Connecticut, Maine, Massachusetts, New Hampshire, New Jersey, New York,
+Northeast
+Pennsylvania, Rhode Island, Vermont
+Illinois, Indiana, Iowa, Kansas, Michigan, Minnesota, Missouri, Nebraska, North Dakota,
+Midwest
+Ohio, South Dakota, Wisconsin
+Alabama, Arkansas, Delaware, DC, Florida, Georgia, Kentucky, Louisiana, Maryland, Mississippi, North Carolina,
+South
+Oklahoma, Puerto Rico, South Carolina, Tennessee, Texas, Virginia, West Virginia
+Alaska, Arizona, California, Colorado, Hawaii, Idaho, Montana, Nevada, New Mexico, Oregon,
+West
+Utah, Washington, Wyoming
+9
+10

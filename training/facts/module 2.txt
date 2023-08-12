@@ -1,0 +1,1189 @@
+PE Comprehensive
+Learning Resource
+Module 2
+PE Comprehensive Course | Learning Resource | version 12012022 P ag e 1 | 40
+Ameritrain Mortgage Institute. All Rights Reserved.
+Welcome
+This course is designed for Mortgage Loan Originators and is part of the required training for a
+PE License in any state.
+How to use this Learning Resource
+The Learning Resource is designed to assist you during training. Use this tool to take notes as
+you go. You may also use it as a preparation tool for your licensing test.
+During Training
+▪ Take notes
+▪ Complete activities / exercises
+Legend:
+Icons Descriptions
+Note Place to take notes about content
+Key Points Important information to remember
+Reminders Critical benefits and information
+Activity Document, practice, demonstrate, or solve
+Discussion Discussion activity
+PE Comprehensive Course | Learning Resource | version 12012022 P ag e 2 | 40
+Ameritrain Mortgage Institute. All Rights Reserved.
+Table of Contents
+MODULE 2 .........................................................................................................................................5
+TOPIC: DEFINITIONS ...........................................................................................................................6
+ACTIVITY: KNOWLEDGE CHECK #1.......................................................................................................8
+TOPIC: ABILITY TO REPAY AND QUALIFIED MORTGAGE RULE ............................................................ 10
+ABILITY TO REPAY RULE .......................................................................................................................... 10
+QUALIFIED MORTGAGES ......................................................................................................................... 10
+Underwriting Requirements: .............................................................................................................. 11
+HIGHER PRICED MORTGAGE LOANS (HPML) .......................................................................................... 12
+NON-QUALIFIED MORTGAGES ................................................................................................................ 12
+SAFE HARBOR AND NON-SAFE HARBOR LOANS ..................................................................................... 13
+ACTIVITY: KNOWLEDGE CHECK #2..................................................................................................... 14
+ACTIVITY: Q&A................................................................................................................................. 16
+TOPIC: MORTGAGE LOAN APPLICATION ........................................................................................... 17
+UNIVERSAL RESIDENTIAL MORTGAGE LOAN APPLICATION (URLA) ....................................................... 17
+ACTIVITY: KNOWLEDGE CHECK #3..................................................................................................... 20
+TOPIC: FANNIE MAE AS STANDARD .................................................................................................. 21
+FANNIE MAE UNDERWRITING REQUIREMENTS ..................................................................................... 21
+ACTIVITY: KNOWLEDGE CHECK #3..................................................................................................... 22
+TOPIC: EQUAL CREDIT OPPORTUNITY ACT ........................................................................................ 24
+ECOA CFR 1002 ....................................................................................................................................... 24
+ECOA CFR 1002.4 .................................................................................................................................... 25
+ECOA CFR 1002.5 .................................................................................................................................... 26
+ECOA CFR 1002.9 .................................................................................................................................... 28
+ECOA CFR 1002.12 .................................................................................................................................. 28
+ECOA CFR 1002.13 .................................................................................................................................. 29
+ACTIVITY: KNOWLEDGE CHECK #4..................................................................................................... 30
+TOPIC: FH ACT .................................................................................................................................. 32
+ABOUT ..................................................................................................................................................... 32
+DEFINITIONS ............................................................................................................................................ 32
+SEC. 805. [42 U.S.C. 3605] ....................................................................................................................... 33
+TOPIC: Home Mortgage Disclosure Act (HMDA) ................................................................................ 35
+ABOUT ..................................................................................................................................................... 35
+TWO INSTITUTIONAL CATEGORIES ......................................................................................................... 36
+PE Comprehensive Course | Learning Resource | version 12012022 P ag e 3 | 40
+Ameritrain Mortgage Institute. All Rights Reserved.
+COLLECTION OF DATA ............................................................................................................................. 36
+ACTIVITY: KNOWLEDGE CHECK #5..................................................................................................... 39
+PE Comprehensive Course | Learning Resource | version 12012022 P ag e 4 | 40
+Ameritrain Mortgage Institute. All Rights Reserved.
+MODULE 2
+Origination Part 1
+Module Learning Objectives
+During this module, you will review and be asked to demonstrate the following:
+▪ Define and memorize key mortgage terms
+▪ Review the Ability to Repay and Qualified Mortgage Rule
+▪ Identify the 8 factors for a good faith determination
+▪ Recognize qualify mortgage types, benefits, and underwriting guidelines
+▪ Review Fannie Mae 1003 application and identify required information
+▪ Analyze the Fannie Mae underwriting guidelines
+▪ Learn about the key components of the Fair Lending Laws (ECOA, FH Act, HMDA)
+PE Comprehensive Course | Learning Resource | version 12012022 P ag e 5 | 40
+Ameritrain Mortgage Institute. All Rights Reserved.
+TOPIC: DEFINITIONS
+The following terms are important to know for this module and will help you improve your mortgage
+vocabulary and knowledge of the universe of real estate financing. Be sure to memorize these terms to
+improve your exam scores.
+Debt to Income Your debt-to-income ratio is all your recurring monthly debt payments divided by
+Ratio your gross monthly income. (Example: $2,000 debt / $6,000 income = 33% DTI).
+This number is one way that lenders measure your ability to manage the
+payments you make every month to repay the money you have borrowed.
+Index A market instrument that varies with market conditions. Rates tied to an index
+can adjust based on the changes in the index.
+Margin The lender’s profit which is added to the index to determine the rate which is
+referred to as the par rate or the fully indexed rate.
+Fully Indexed An interest rate based on the index and the margin.
+Rate
+Default The failure of the borrower to meet their legal obligation and the conditions of
+the loan.
+ARM Reset Adjustable-rate mortgages periodically adjust based on the index at the end of a
+fixed rate period (in the case of a Hybrid ARM). The change in the rate is known
+as an ARM ‘reset’.
+Points Fees paid directly to the lender at closing in exchange for a reduced interest rate.
+(Discount This act of paying the fees is also known as ‘buying down the rate’. Lower rates
+Points) can equal lower monthly payments. A point is equal to 1% of your loan amount
+(or $1,000 for every $100,000).
+Safe Harbor As it relates to this section it means if the lender meets certain conditions the
+lender is protected from potential liability. Unsafe harbor means the lender is
+open to liability and the courts will decide the outcome.
+PE Comprehensive Course | Learning Resource | version 12012022 P ag e 6 | 40
+Ameritrain Mortgage Institute. All Rights Reserved.
+APR (Annual The true cost of financing. The amount financed and the cost to finance is
+Percentage reflected in the Annual Percentage Rate.
+Rate)
+APOR (Average The average of all Annual Percentage Rates (e.g., interest rates, fees, other
+Prime Offer terms) for prime borrowers in the US for the previous week, published the next
+Rate) week.
+Jumbo Loan A jumbo mortgage is a home loan for an amount that exceeds
+conforming loan limits established by regulation. The conforming loan limit in
+most areas is $726,200. This amount is subject to change annually.
+Notes ________________________________________
+________________________________________
+________________________________________
+________________________________________
+________________________________________
+________________________________________
+________________________________________
+________________________________________
+________________________________________
+________________________________________
+________________________________________
+________________________________________
+________________________________________
+________________________________________
+________________________________________
+________________________________________
+________________________________________
+PE Comprehensive Course | Learning Resource | version 12012022 P ag e 7 | 40
+Ameritrain Mortgage Institute. All Rights Reserved.
+ACTIVITY: KNOWLEDGE CHECK #1
+Here’s your chance to show how good your memory is and practice the terms you just reviewed. Can
+you add their definitions in the column to the right (without peeking)? How many can you remember?
+Good luck! If you get stuck, look back to pages 5-6 of this resource document for help.
+Debt to Income
+Ratio
+Index
+Margin
+Fully Indexed
+Rate
+Default
+ARM Reset
+Points (Discount
+Points)
+Safe Harbor
+APR (Annual
+Percentage
+Rate)
+APOR (Average
+Prime Offer
+Rate)
+PE Comprehensive Course | Learning Resource | version 12012022 P ag e 8 | 40
+Ameritrain Mortgage Institute. All Rights Reserved.
+Jumbo Loan
+Notes _________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+PE Comprehensive Course | Learning Resource | version 12012022 P ag e 9 | 40
+Ameritrain Mortgage Institute. All Rights Reserved.
+TOPIC: ABILITY TO REPAY AND QUALIFIED
+MORTGAGE RULE
+ABILITY TO REPAY RULE
+The Ability to Repay rule requires MLO organizations to make a good faith determination about whether
+the borrower has the capacity to meet loan terms.
+Key Points 8 factors to consider in making the determination:
+▪ Income and Assets (excludes value of property securing the loan)
+▪ Employment status
+▪ Mortgage payments considering fully indexed rate or introductory rate
+(whichever is higher)
+▪ Fully amortized payments (payments that will pay off the loan)
+▪ Simultaneous loans on same dwelling
+▪ Monthly payments for taxes, insurance, and homeowner assoc. fees
+▪ Current debt obligations including alimony, child support and:
+o Installment debt (i.e., cars, appliances, etc.)
+o Revolving debt (i.e., credit cards, etc.)
+o Existing mortgages not being paid off
+o Debt-to-income ratio and residual income
+▪ Credit history
+QUALIFIED MORTGAGES
+Lenders have the option to originate a qualified mortgage loan.
+More information can be found in the Qualified Mortgage brochure. All rights reserved.
+http://ameritrain.tiltlms.com/uploads/ebook/play/QualifiedMortgageBrochure.pdf
+Key Points Types of Qualified Mortgages:
+▪ Can be originated by all lenders.
+o General
+o Seasoned
+▪ Note: can be originated by small creditors operating primarily in rural
+areas
+o Small Creditor
+o Balloon
+Features and Limitations
+▪ No negative amortization
+o Interest portion of the payment must be covered
+PE Comprehensive Course | Learning Resource | version 12012022 P ag e 10 | 40
+Ameritrain Mortgage Institute. All Rights Reserved.
+▪ No interest only
+o A portion of the payment must be allocated to principal
+▪ No balloon payments
+▪ Income and assets relied upon for repayment is verified and documented
+▪ Points and fee thresholds change yearly. Currently for a maximum loan
+term of 30 years the following fees apply (For 2023):
+Points/Fees Loan Amount
+Limited to 3% ≥ $ $124,331
+$ 3,750 ≥ $ 74,599 and < $ 124,331
+5% ≥ $ 24,866 and < $ 74,599
+$ 1,243 ≥ $ 15,541 and < $ 24,866
+8% ≤ $ 15,541
+Key Points Underwriting Requirements:
+These vary by the type of mortgage. See below.
+General Mortgage Underwriting Requirements:
+▪ Must qualify borrower using the maximum rate potential within first five
+years:
+o If the rate has the potential to increase that maximum rate must
+be used to qualify
+▪ Limits based on the loan's pricing
+▪ For first liens with loan amounts ≥ $124,331, the annual
+percentage rate (APR) may not exceed the average prime offer
+rate (APOR) for a comparable transaction by 2.25 or more
+percentage points as of the date the interest rate is set.
+▪ Loans must meet a full amortization schedule:
+o The qualifying payment must be the payment that will pay off the
+loan by the loan’s due date
+Seasoned Qualified Mortgage Underwriting Requirements:
+Criteria for a Seasoned QM In order to become eligible to become a seasoned QM
+and receive a safe harbor from ATR liability at the end of the 36-month seasoning
+period, the loan must meet the following criteria:
+▪ Secured by a first lien with a maximum 30-year loan term
+▪ Has a fixed rate, with regular equal periodic payments, fully amortizing and
+no balloon payments
+▪ Is not subject to the Home Ownership and Equity Protection Act
+▪ Points and fees do not exceed the 3% threshold (or other applicable limit)
+▪ Creditor must consider the consumer’s debt-to-income ratio or residual
+income, income or assets, other than the value of the dwelling, and debts,
+and verify the consumer’s income or assets, other than the value of the
+dwelling, and the consumer’s debts, using the same consider and verify
+requirements established for general QMs in the general QM rule.
+▪ Creditor must hold the loan for the entire 36- month seasoning period.
+PE Comprehensive Course | Learning Resource | version 12012022 P ag e 11 | 40
+Ameritrain Mortgage Institute. All Rights Reserved.
+▪ There must have been no more than two delinquencies of 30 or more days
+and no delinquencies of 60 or more days at the end of the seasoning period
+Small Creditor / Balloon Qualified Mortgages Underwriting Requirements:
+Only lenders that meet the asset and loan activity criteria are eligible to provide
+these categories of qualified mortgages. The following is a sample of the criteria:
+▪ Loans must have a fixed interest rate
+▪ Loan term is 5 years or longer
+▪ The small lender must hold the loan for three years unless selling the loan
+to another small lender
+▪ More than 50 percent of mortgages originated must be secured by
+properties designated as rural or underserved. (Note: Consumer Financial
+Protection Bureau publishes this list.)
+HIGHER PRICED MORTGAGE LOANS (HPML)
+Higher Priced Mortgage Loans (HPML) are loans that allow interest rates to exceed a predetermined
+threshold based on the Average Prime Offer Rate and a fixed interest rate standard. This allows the
+borrower to challenge if the Ability to Repay determination was met.
+Key Points Determining HPML Loans:
+A loan with a locked rate is a HPML if the APOR is exceeded as follows:
+Loan Exceeds APOR By ___%
+1st lien loan Exceeds APOR By 1.5%
+1st jumbo loan Exceeds APOR By 2.5%
+2nd lien loan Exceeds APOR By 3.5%
+Example:
+A lender offered a borrower a qualified mortgage for $200,000 at 5.5% on a first
+lien. At the time the loan was locked the APOR was 4%. This is a HPML loan
+because the rate offered exceeds the APOR by 1.5% for a first lien loan. The
+borrower would be able to challenge in court that the ATR was not met.
+Loan Current Rate Exceeded
+APOR offered Rate
+1st lien loan 4% 5.5% By 1.5%
+NON-QUALIFIED MORTGAGES
+These are mortgages that meet the Ability to Repay requirement; however, they are allowed to have
+risky features, such as negative amortization, interest only, terms greater than 30 years and fees that
+exceed the QM threshold. Due to the risk involved, non-Qualified Mortgage loans typically carry higher
+interest rates and less favorable terms.
+PE Comprehensive Course | Learning Resource | version 12012022 P ag e 12 | 40
+Ameritrain Mortgage Institute. All Rights Reserved.
+SAFE HARBOR AND NON-SAFE HARBOR LOANS
+Key Points Safe Harbor Loans
+If a consumer closes on a loan that is a qualified mortgage and is not a Higher
+Priced Mortgage loan, then the consumer is in the Safe Harbor region. This means
+there is the presumption that the QM meets ATR requirements, and the loan
+cannot be challenged.
+If the annual percentage rate (APR) does not exceed the average prime offer rate
+(APOR) for a comparable transaction by 1.5 percentage points or more as of the
+date the interest rate is set. The loan is considered Safe.
+Non-Safe Harbor Loans
+Qualified mortgage loans that are Higher Priced Mortgage Loans (HPML) are open
+for dispute. The consumer can challenge in court (rebut the presumption) that the
+qualified mortgage meets the Ability to Repay requirements. The court will then
+decide the outcome.
+A first-lien loan receives a “rebuttable presumption” that the consumer had the
+ability to repay if the APR exceeds the APOR for a comparable transaction by 1.5
+percentage points or more but by less than 2.25 percentage points. The loan is
+considered non-Safe.
+PE Comprehensive Course | Learning Resource | version 12012022 P ag e 13 | 40
+Ameritrain Mortgage Institute. All Rights Reserved.
+ACTIVITY: KNOWLEDGE CHECK #2
+If you get stuck, look back to pages 10-12 of this resource document for help.
+Fill in the Blanks
+Q1: Below are the 8 factors that make the determination about a borrower’s ability to repay a
+loan. Fill in the blanks by dragging and dropping the correct terms to complete the factors.
+1) Income and _________
+2) ____________ Status
+3) ____________ payments considering fully indexed or introductory rate
+4) Fully _____________ payments
+5) Simultaneous ________ on same dwelling
+6) Monthly __________ for taxes, insurance, and homeowners assoc. fees
+7) Current _____ obligations
+8) _______ history
+Multiple Choice
+Q2: Select 3 that apply. The underwriting requirements for a qualified general mortgage include
+the following:
+a) Must qualify borrower using maximum rate with 5 years
+b) ARM loan pricing limits are capped
+c) Loans must meet full amortization schedule
+d) Must hold the loan for three years
+Multiple Choice
+Q3:
+Select 3 features/limitations for ALL types of qualified mortgage loans.
+a) No negative amortization (interest must be covered)
+b) No interest only (portion must be allocated to principal)
+c) Points and fees are limited based on loan amount (example; 3% for loans ≥ $124,331)
+d) Maximum debt-to-income ratio limited to 43%.
+PE Comprehensive Course | Learning Resource | version 12012022 P ag e 14 | 40
+Ameritrain Mortgage Institute. All Rights Reserved.
+Single Choice
+Q4: For lenders to offer small creditor and balloon payment Qualified Mortgages, they must
+meet the following criteria. Select the criteria that is NOT correct.
+a) Loans must have a fixed interest rate
+b) Loan term is 5 years or longer
+c) The small lender must hold the loan for three years unless selling the loan to another small
+lender
+d) More than 70 percent of mortgages originated must be secured by properties designated as
+rural or underserved.
+Single Choice
+Q5:
+Which one of the following is NOT considered a high-priced mortgage loan?
+Loan Exceeds APOR By ___%
+1st lien loan Exceeds APOR By 2%
+1st jumbo loan Exceeds APOR By 2.5%
+2nd lien loan Exceed APOR By 3.0%
+True/False
+Q6: Non-Qualified Mortgages are allowed to have risky features (e.g., negative amortization,
+interest only, 30+ year terms, etc.).
+True / False
+Notes __________________________________________
+__________________________________________
+__________________________________________
+__________________________________________
+__________________________________________
+__________________________________________
+__________________________________________
+__________________________________________
+__________________________________________
+__________________________________________
+__________________________________________
+__________________________________________
+PE Comprehensive Course | Learning Resource | version 12012022 P ag e 15 | 40
+Ameritrain Mortgage Institute. All Rights Reserved.
+ACTIVITY: Q&A
+Here are a few common questions related to the previous topic.
+What is the maximum time an original creditor must hold non-QMs and Higher Priced QMs
+Q:
+to receive protection under Safe Harbor?
+A: 36 months is the limit.
+Q: How does Safe Harbor work?
+A: If the consumer closes on a loan that’s qualified but not a higher-priced mortgage loan, then
+it is considered to be in safe harbor and the presumption is it meets ATR requirements.
+Q: Which Act set the standards for qualified mortgages and non-qualified mortgages?
+A: The Dodd-Frank Act sets standards for qualified mortgages and non-qualified mortgages.
+Notes __________________________________________
+__________________________________________
+__________________________________________
+__________________________________________
+__________________________________________
+__________________________________________
+__________________________________________
+__________________________________________
+__________________________________________
+__________________________________________
+__________________________________________
+__________________________________________
+__________________________________________
+PE Comprehensive Course | Learning Resource | version 12012022 P ag e 16 | 40
+Ameritrain Mortgage Institute. All Rights Reserved.
+TOPIC: MORTGAGE LOAN APPLICATION
+UNIFORM RESIDENTIAL MORTGAGE LOAN APPLICATION (URLA)
+The application for a residential mortgage loan is known as a Uniform Residential Mortgage Loan
+Application, URLA for short. There are 2 versions, the Fannie Mae form 1003, and the Freddie Mac form
+65. The 1003 URLA is the industry adopted version.
+Reminder Important:
+Receipt of an application triggers additional disclosures and establishes limits on
+what and when certain fees may be collected.
+Key Points Laws governing Fannie Mae underwriting guidelines
+▪ ECOA (Equal Credit Opportunity Act)
+▪ FH Act (The Fair Housing Act)
+▪ HMDA (Home Mortgage Development Act)
+▪ TRID [TILA (Truth in Lending Act) / RESPA (Real Estate Settlement
+Procedures Act)]
+Nine Sections of the Application Form
+▪ Section 1: Borrower Information
+o This section is used to document a borrower’s personal
+information, income and employment.
+▪ Section 2: Financial Information – Assets and Liabilities
+o This section is used to collect information about an
+applicant’s financial assets, personal financial obligations
+and debts they owe.
+▪ Section 3: Financial Information – Real Estate
+o This section is used to capture information about property
+owned, and the debts and expenses related to the property.
+▪ Section 4: Loan and Property Information
+o This section is used to collect information about the loan
+purpose and the subject property being purchased or
+refinanced.
+▪ Section 5: Declarations
+o Asks specific questions about the property, how the
+property will be financed, and past financial history.
+▪ Section 6: Acknowledgements and Agreements
+PE Comprehensive Course | Learning Resource | version 12012022 P ag e 17 | 40
+Ameritrain Mortgage Institute. All Rights Reserved.
+o Informs a borrower of their legal obligations related to the
+mortgage application and asks that the borrower
+acknowledges certain information will be obtained, used,
+and shared.
+o This section is critical to the application process. The terms
+of this agreement comply with Title 18, U.S. Code 1001,
+holding both the interviewer and/or applicant criminally
+liable for misrepresentation of information provided in the
+application.
+o Violations by the applicant are referred to as “fraud for
+property or housing” and violations by the MLO interviewer
+are referred to as “fraud for profit”.
+o It is prohibited for an MLO to have a borrower sign a loan
+application with blank spaces to be filled in at a later date.
+o Once an MLO has been exposed to information, the MLO is
+bound to disclose the information unless it is prohibited by
+law. Not to disclose information is fraud and could cause the
+lender to make a loan or offer particular loan terms that the
+lender would not have made if it had known information
+that was not disclosed.
+o This is also the signature section of the URLA.
+▪ Section 7: Military Service
+o Section used to collect information about a borrower’s (or
+deceased spouse’s) military service.
+▪ Section 8: Demographic Information
+o Requests information the Lender is required by law to ask a
+borrower.
+o The information in this section is required to fulfill the
+requirements of the Home Mortgage Disclosure Act (HMDA)
+(to ensure there are no patterns of discriminatory practices).
+o The Equal Credit Opportunity Act (ECOA) also addresses this
+section by allowing the collection of data that would not be
+normally asked except to meet the requirement of HMDA.
+o ECOA provides the directions and prohibited practices as it
+relates to the collection and misuse of this data and
+information.
+▪ Section 9: Loan Originator Information
+o Provides a borrower with information about the loan
+originator
+o Includes the signature, name, and telephone number of the
+MLO, the NMLS unique identifier number of the MLO and
+the MLO’s company, and the NMLS company’s unique
+identifier number and address.
+PE Comprehensive Course | Learning Resource | version 12012022 P ag e 18 | 40
+Ameritrain Mortgage Institute. All Rights Reserved.
+Reminder Important:
+If a borrower chooses not to disclose the required data in Section 8, the
+interviewer/MLO must still provide the information based on observation and/or
+surname.
+Notes __________________________________________
+__________________________________________
+__________________________________________
+__________________________________________
+__________________________________________
+__________________________________________
+__________________________________________
+__________________________________________
+__________________________________________
+__________________________________________
+__________________________________________
+__________________________________________
+__________________________________________
+__________________________________________
+__________________________________________
+__________________________________________
+__________________________________________
+__________________________________________
+__________________________________________
+__________________________________________
+__________________________________________
+__________________________________________
+__________________________________________
+__________________________________________
+PE Comprehensive Course | Learning Resource | version 12012022 P ag e 19 | 40
+Ameritrain Mortgage Institute. All Rights Reserved.
+ACTIVITY: KNOWLEDGE CHECK #3
+If you get stuck, look back to pages 16-18 of this resource guide for help.
+Sequencing
+Q1: Sequence the Fannie Mae form 1003 sections in the correct order by matching the
+description with the numbers from 1 through to 10.
+▪ Monthly Income and Combined Housing
+1)
+Expense Information
+▪ Information for Government Monitoring
+2)
+Purposes
+▪ Type of Mortgage and Terms of Loan 3)
+▪ Assets and Liabilities 4)
+▪ Acknowledgement and Agreement 5)
+▪ Monthly Income and Combined Housing
+6)
+Expense Information
+▪ Information for Government Monitoring
+7)
+Purposes
+▪ Type of Mortgage and Terms of Loan 8)
+▪ Assets and Liabilities 9)
+▪ Acknowledgement and Agreement 10)
+PE Comprehensive Course | Learning Resource | version 12012022 P ag e 20 | 40
+Ameritrain Mortgage Institute. All Rights Reserved.
+TOPIC: FANNIE MAE AS STANDARD
+FANNIE MAE UNDERWRITING REQUIREMENTS
+The industry has adopted the Fannie Mae eligibility requirements that must be met for the loan to be
+purchased by Fannie Mae as the basis for all loan programs, with some exceptions. Since Fannie
+purchases FHA, VA, and USDA loans, these programs must meet the Fannie Mae eligibility requirements
+to be eligible for purchase. The Fannie Mae and Freddie Mac underwriting requirements are the
+standard for conventional conforming loans.
+Key Points Refer to the Fannie Mae Underwriting Matrix that is available for download from
+the course Resources section or by visiting the Fannie Mae website (for
+reference).
+Notes __________________________________________
+__________________________________________
+__________________________________________
+__________________________________________
+__________________________________________
+__________________________________________
+__________________________________________
+__________________________________________
+__________________________________________
+__________________________________________
+__________________________________________
+__________________________________________
+__________________________________________
+__________________________________________
+__________________________________________
+__________________________________________
+__________________________________________
+__________________________________________
+__________________________________________
+PE Comprehensive Course | Learning Resource | version 12012022 P ag e 21 | 40
+Ameritrain Mortgage Institute. All Rights Reserved.
+ACTIVITY: KNOWLEDGE CHECK #3
+If you get stuck, look to the Fannie Mae Underwriting Matrix resource document for help.
+Single Choice
+Q1:
+The electronic automated underwriting system for Fannie Mae is?
+a) Loan Prospector (LP)
+b) Desktop Underwriter (DU)
+c) Desktop Originator (DO)
+d) Total Scorecard (TS)
+Single Choice
+Conventional real estate financing considers a minimum of ______ years of stable
+Q2:
+employment and a continuance of non-employment income (for example, child support) for
+____ years.
+a) 5, 2
+b) 5, 3
+c) 3, 5
+d) 2,3
+Single Choice
+Q3: PMI (Private Mortgage Insurance) is required when the loan-to-value exceeds _____%, or
+the lender is financing more than _____% of the property value.
+a) 76, 76
+b) 78, 80
+a) 80, 80
+b) 80, 82
+Multiple Choice
+Q4: The HPA (Homeowners Protection Act) requires cancellation of mortgage insurance if any of
+the following THREE occur. Select the three.
+a) LTV reaches 80% at time of loan origination and the borrower requests termination
+b) LTV reaches 78%
+PE Comprehensive Course | Learning Resource | version 12012022 P ag e 22 | 40
+Ameritrain Mortgage Institute. All Rights Reserved.
+c) Good payment history (current, no 60 or 30-day late payments previous 24, 12 months
+respectfully)
+d) Borrower’s previous loan includes PMI with no late payments for the entire loan (minimum 5
+years)
+Single Choice
+Q5: The total monthly debt, DTI (debt-to-income ratio), or debt service, for conventional loans,
+cannot exceed ____% for manually underwritten files, including the housing payment.
+a) 25%
+b) 28%
+c) 32%
+d) 36%
+Notes __________________________________________
+__________________________________________
+__________________________________________
+__________________________________________
+__________________________________________
+__________________________________________
+__________________________________________
+__________________________________________
+__________________________________________
+__________________________________________
+__________________________________________
+__________________________________________
+__________________________________________
+__________________________________________
+__________________________________________
+__________________________________________
+__________________________________________
+__________________________________________
+__________________________________________
+PE Comprehensive Course | Learning Resource | version 12012022 P ag e 23 | 40
+Ameritrain Mortgage Institute. All Rights Reserved.
+TOPIC: EQUAL CREDIT OPPORTUNITY ACT
+ECOA CFR 1002
+The ECOA makes it unlawful for creditors to discriminate against an applicant based on their race, sex,
+marital status, origin, or age provided they meet the standard of creditworthiness. The CFR 1002
+regulation code is one of many included in the ECOA.
+Key Points Purpose
+▪ Promotes the availability of credit to all creditworthy applicants.
+▪ Prohibits discrimination on the basis of race, color, religion, national
+origin, sex, marital status, age, receipt of public assistance, or good faith
+exercise of any rights under the Consumer Credit Protection Act.
+▪ Requires creditors to provide applicants, upon request, with the reasons
+underlying decisions to deny credit.
+▪ Applicants must get a copy of all appraisals and other written valuations
+used in connection with the applicant’s application for first lien loans
+secured by a dwelling.
+Creditor Requirements
+▪ To notify applicants of action taken on their applications.
+▪ To report credit history in the names of both spouses on an account.
+▪ To retain records of credit applications.
+▪ To collect information about the applicant's race and other personal
+characteristics in applications for certain dwelling-related loans for
+monitoring and federal law purposes.
+▪ To provide applicants with copies of appraisal reports used in connection
+with credit transactions.
+A Completed Application
+ECOA allows the lender to establish when an application is taken. It must be a
+consistent policy for the organization. It may vary by lender.
+Most lenders look to the TRID version of an application which is the official trigger
+for many disclosures. This version determines that an application has been
+received if the following 6 items are received.
+▪ A – address of property
+▪ L – loan amount
+▪ I – income
+▪ E – estimated value
+▪ N – names(s) of applicants
+▪ S – social security number to make a credit inquiry
+PE Comprehensive Course | Learning Resource | version 12012022 P ag e 24 | 40
+Ameritrain Mortgage Institute. All Rights Reserved.
+Credit Transaction
+Governs every aspect of an applicant's dealings with a creditor regarding an
+application for credit or an existing extension of credit, including, but not limited
+to:
+▪ Information requirements
+▪ Investigation procedures
+▪ Standards of creditworthiness
+▪ Terms of credit
+▪ Furnishing of credit information; revocation, alteration, or termination of
+credit; and collection procedures
+Elderly
+Sets the age for an elderly person at 62 or older when examining any
+discrimination acts.
+Marital Status
+▪ Defines the state of being unmarried, married, or separated, as defined
+by applicable state law.
+▪ The term “unmarried” includes persons who are single, divorced, or
+widowed.
+ECOA CFR 1002.4
+General regulations.
+Key Points Discrimination
+A creditor may not discriminate against an applicant on a prohibited basis
+regarding any aspect of a credit transaction.
+Discouragement
+A creditor may not make any oral or written statement, in advertising or
+otherwise, to applicants or prospective applicants that would discourage on a
+prohibited basis a reasonable person from making or pursuing an application.
+Written Applications
+A creditor may take written applications for the dwelling-related types of credit.
+Forms of Disclosures
+A creditor that provides in writing any disclosures or information required must
+provide the disclosures in a clear and conspicuous manner in a form the applicant
+may retain.
+The Uniform Residential Loan Application, Fannie Mae form 1003 and Freddie Mac
+form 65, are acceptable forms to meet this requirement. The form 1003 is
+considered the industry standard.
+PE Comprehensive Course | Learning Resource | version 12012022 P ag e 25 | 40
+Ameritrain Mortgage Institute. All Rights Reserved.
+ECOA CFR 1002.5
+Rules concerning requests for information.
+Key Points Requests for Information
+A creditor may request any information in connection with a credit transaction as
+long as the creditor does not violate any Federal or state law regarding privacy,
+privileged information, credit reporting limitations, or similar restrictions on
+obtainable information.
+Required Collection of Information
+A creditor may request information for monitoring purposes for credit secured by
+the applicant's dwelling.
+A creditor may obtain information required by a regulation, order, or agreement
+issued by, or entered into with, a court or an enforcement agency (including the
+Attorney General of the United States or a similar state official) to monitor or
+enforce compliance with this law Act or other Federal or state statutes or
+regulations
+Limitation on Information about Race, Color, Religion, National Origin, or Sex
+A creditor may not inquire about the race, color, religion, national origin, or sex of
+an applicant or any other person in connection with a credit transaction, except to
+monitor or enforce compliance with federal or state regulations.
+Information about a Spouse or Former Spouse
+A creditor may request information concerning the spouse or former spouse of an
+applicant under the following scenarios:
+▪ The spouse will be permitted to use the account
+▪ The spouse will be contractually liable on the account
+▪ The applicant is relying on the spouse's income as a basis for repayment of
+the credit requested
+▪ The applicant resides in a community property state or is relying on
+property located in such a state as a basis for repayment of the credit
+requested; or
+▪ The applicant is relying on alimony, child support, or separate
+maintenance payments from a spouse or former spouse as a basis for
+repayment of the credit requested.
+Disclosure about Income from Other Sources
+A creditor may not inquire whether income stated in an application is derived from
+▪ alimony
+▪ child support
+▪ or separate maintenance payments
+If the applicant does not want the creditor to consider other sources of income in
+determining their creditworthiness, this information does not have to shared. The
+creditor must disclose this information to the applicant.
+PE Comprehensive Course | Learning Resource | version 12012022 P ag e 26 | 40
+Ameritrain Mortgage Institute. All Rights Reserved.
+Childbearing, Childrearing
+A creditor may not inquire about birth control practices, intentions concerning the
+bearing or rearing of children, or capability to bear children.
+A creditor may inquire about the following provided such information is requested
+without regard to sex, marital status, or any other prohibited basis:
+▪ the number and ages of an applicant's dependents or about dependent-
+related financial obligations or expenditures
+Permanent Residency and Immigration Status
+A creditor may inquire about the permanent residency and immigration status of
+an applicant or any other person in connection with a credit transaction.
+Income
+A creditor may not discount or exclude from consideration the income of an
+applicant or the spouse of an applicant because of a prohibited basis, such as:
+▪ because the income is derived from part-time employment or
+▪ is an annuity, pension, or other retirement benefit;
+▪ a creditor may consider the amount and probable continuance of any
+income in evaluating an applicant's creditworthiness.
+When an applicant relies on alimony, child support, or separate maintenance
+payments in applying for credit, the creditor may consider such payments as
+income to the extent that they are likely to be consistently made.
+Credit History
+To the extent that a creditor considers credit history in evaluating the
+creditworthiness of similarly qualified applicants for a similar type and amount of
+credit, in evaluating an applicant's creditworthiness a creditor may consider:
+▪ The credit history, when available, of accounts designated as accounts that
+the applicant and the applicant's spouse are permitted to use or for which
+both are contractually liable;
+▪ On the applicant's request, any information the applicant may present
+that tends to indicate the credit history being considered by the creditor
+does not accurately reflect the applicant's creditworthiness; and
+▪ On the applicant's request, the credit history, when available, of any
+account reported in the name of the applicant's spouse or former spouse
+that the applicant can demonstrate accurately reflects the applicant's
+creditworthiness.
+Insurance
+A creditor shall not refuse to extend credit and shall not terminate an account
+because of the applicants age for the following reasons:
+▪ credit life
+▪ health
+▪ accident
+▪ disability
+PE Comprehensive Course | Learning Resource | version 12012022 P ag e 27 | 40
+Ameritrain Mortgage Institute. All Rights Reserved.
+ECOA CFR 1002.9
+Notifications.
+Key Points When Notification is Required
+A creditor must notify an application of action taken within:
+▪ 30 days after receiving a completed application concerning the
+creditor's approval of, counteroffer to, or adverse action on the
+application
+▪ 30 days after taking adverse action on an incomplete application or a
+notice that the applicant can request within
+▪ 60 days the specific reasons for the denial
+▪ 30 days after taking adverse action on an existing account
+▪ 90 days after notifying the applicant of a counteroffer if the applicant
+does not expressly accept or use the credit offered
+Adverse Action Notification
+Content must be in writing and contain:
+▪ a statement of the action taken
+▪ the name and address of the creditor
+▪ the name and address of the federal agency that administers compliance
+with respect to the creditor
+▪ if the creditor chooses to provide the reasons orally, the creditor must
+also disclose the applicant's right to have them confirmed in writing
+within 30 days of receiving the applicant's written request for
+confirmation.
+ECOA CFR 1002.12
+Record Retention.
+Key Points Retention of Prohibited Information
+A creditor may retain in its files information that is prohibited for use in evaluating
+applications, without violating the Act, if the information was obtained:
+▪ from consumer reporting agencies
+▪ an applicant
+▪ or others without the specific request of the creditor, or
+▪ to monitor compliance with the Act and or other federal or state statutes
+or regulations
+Preservation of Records
+Documents must be retained for 25 months after the date that a creditor notifies a
+consumer applicant of action taken on an application.
+PE Comprehensive Course | Learning Resource | version 12012022 P ag e 28 | 40
+Ameritrain Mortgage Institute. All Rights Reserved.
+ECOA CFR 1002.13
+Key Points Information to be Requested
+A creditor that receives an application for credit primarily for the:
+▪ purchase or refinancing of a dwelling occupied or to be occupied by the
+applicant as a principal residence
+▪ extension of credit which will be secured by the dwelling; must request as
+part of the application the following information regarding the
+applicant(s):
+o Ethnicity, using the categories:
+• Hispanic or Latino, and
+• not Hispanic or Latino;
+o Race, using the categories:
+• American Indian or Alaska Native
+• Asian
+• Black or African American
+• Native Hawaiian or Other Pacific Islander
+• White
+o Sex
+o Marital status, using the categories
+▪ Married
+▪ Unmarried
+▪ Separated
+o Age
+Redlining
+You may not make a geographical decision not to lend in a particular area. A
+violation of ECOA occurs because the credit may become unavailable to all credit
+worthy applicants that may reside in that area.
+Reverse redlining is a violation of ECOA when a geographic area is targeted
+because it may have a high percentage of credit challenged consumers and the
+creditor targets the area for purposes of predatory and abusive lending practices.
+PE Comprehensive Course | Learning Resource | version 12012022 P ag e 29 | 40
+Ameritrain Mortgage Institute. All Rights Reserved.
+ACTIVITY: KNOWLEDGE CHECK #4
+If you get stuck, look back to pages 23-28 of this resource guide for help.
+Single Choice
+Q1:
+Does this conversation meet ECOA regulations?
+Jeff: Hi Marlena. Thanks for coming in today. I hear a bit of an accent; may I ask where
+you’re from originally?
+Marlene: I’m from El Salvador. We’ve been here for about 10 years now.
+a) No, personal questions aren’t allowed
+b) No, not allowed to ask about national origin
+c) No, neither are allowed
+d) Yes, there is no issue
+Single Choice
+Q2:
+Does this part of the conversation meet ECOA regulations?
+Jeff: You don’t need to disclose this next part regarding other income sources unless
+you want it to be considered. Should we include sources like alimony, child support,
+or other maintenance payments?
+Marlene: Probably. I do have an ‘ex’ and he does pay me alimony and child support.
+a) Yes
+b) No
+Single Choice
+Q3:
+Does this conversation meet ECOA regulations?
+Jeff: Can I get information about your ex-husband please? We’ll need specifics like his
+income, place of employment…
+Marlene: Hmmm. I may need to get some of that to you later today.
+a) Yes, it’s fine.
+b) No, creditor may not ask specifics about ex-spouses.
+c) No, creditor should try to get information now.
+d) No, creditor may not ask about place of employment.
+PE Comprehensive Course | Learning Resource | version 12012022 P ag e 30 | 40
+Ameritrain Mortgage Institute. All Rights Reserved.
+Single Choice
+Q4:
+Does this part of the conversation meet Fannie Mae 1003 underwriting guidelines?
+Jeff: So, we got most of the application filled out minus your ex’s information. You can
+sign it now to save time and call me with his information later today.
+Marlene: Great! I should have the info in about an hour.
+a) Yes, it’s fine as long as information is provided within 3 business days of
+signature.
+b) Yes, it’s fine as long as information is provided the same day as the signature.
+c) No, creditor is not allowed to have applicant sign with blank spaces to be filled in
+later.
+Single Choice
+Q5:
+Does this conversation meet ECOA regulations?
+Jeff: We have all the information required. We’ll review it and get back to you within
+the next 15-30 days to let you know about your approval status.
+Marlene: Sounds good.
+a) Yes, creditors have 30 days to notify the borrower.
+b) Yes, creditors have 45 days to notify the borrower.
+c) No, creditors have 15 days to notify the borrower.
+Notes __________________________________________
+__________________________________________
+__________________________________________
+__________________________________________
+__________________________________________
+__________________________________________
+__________________________________________
+__________________________________________
+__________________________________________
+__________________________________________
+__________________________________________
+__________________________________________
+PE Comprehensive Course | Learning Resource | version 12012022 P ag e 31 | 40
+Ameritrain Mortgage Institute. All Rights Reserved.
+TOPIC: FH ACT
+FAIR HOUSING ACT (as amended) (Title VIII of the 1968 Civil Rights Act) Sec. 800. [42 U.S.C. 3601 note]
+Short Title This title may be cited as the "Fair Housing Act". Sec. 801. [42 U.S.C. 3601]
+ABOUT
+Key Points General
+▪ Also known as Title VIII of the Civil Rights act of 1968
+▪ The Department of Housing and Development (HUD) is responsible for the
+enforcement of the Fair Housing Act
+▪ Since HUD is also responsible for the Federal Housing Administration (FHA)
+the Fair Housing Act is referred to as the FH Act to avoid confusion
+▪ Congress passed this act to address the problem of unlawful
+discrimination in housing based on a number of prohibited factors
+DEFINITIONS
+Important definitions used in FH Act.
+Blockbusting The practice of realtors using scare methods to get homeowners to sell their
+properties at a deflated price by telling them that members of a particular class,
+race, nationality or color, are moving into their neighborhood and that they
+should sell before their home values drop. Although lending professionals are
+typically not directly involved in this scheme, it is important for mortgage loan
+originators to understand the practice and avoid being a beneficiary of the illegal
+activity.
+Familiar A protected class added to the FH Act in 1988. This protection against housing
+Status discrimination applies to any person who is pregnant or in the process of securing
+legal custody of any individual who is under the age of 18 including the person
+under the age of 18. Discrimination of this nature applies to refusing housing
+opportunities because of the existence or likely existence of children occupying
+the premises.
+Handicap Another protected class added to the FH Act in 1988. A person with a physical or
+mental impairment which substantially limits the capacity of that individual to
+navigate one or more major life activities. Handicap does not include a person
+addicted to a controlled substance such as a heroin addict.
+PE Comprehensive Course | Learning Resource | version 12012022 P ag e 32 | 40
+Ameritrain Mortgage Institute. All Rights Reserved.
+Redlining The discriminatory practice of lenders deciding not to make loans in certain
+geographic areas because the lender has concluded that these areas are high-risk.
+The offensive aspect of this practice relates to the fact that frequently the
+redlined areas involve portions of the city inhabited by minority group members.
+The illegal aspect of this practice is that credit worthy residents within the area
+are denied access to loans for housing because of redlining.
+Reverse The illegal practice of targeting residents within a particular geographic location
+Redlining for predatory lending practices because they are potentially high-risk borrowers.
+Steering A potential customer is either encouraged or discouraged from purchasing
+housing in a particular area or community because of the agent's actions or
+lender’s actions. This is a violation of the FH Act because the customer has the
+right to full access and this right should not be interfered with based on a
+prohibited basis.
+SEC. 805. [42 U.S.C. 3605]
+Regulations related to discriminatory practices.
+Key Points Discrimination in Residential Real Estate-Related Transactions:
+▪ In general, it is unlawful for any person or other entity whose business
+includes engaging in residential real estate-related transactions to
+discriminate against any person in making available such a transaction, or
+in the terms or conditions of such a transaction, because of:
+o race
+o color
+o religion
+o sex
+o handicap,
+o familial status
+o national origin
+Residential real estate-related transaction:
+▪ The making or purchasing of loans or providing other financial assistance
+relating to a dwelling for:
+o purchasing
+o constructing
+o improving
+o repairing
+o maintaining
+▪ Loan secured by residential real estate
+▪ The selling, brokering, or appraising of residential real property
+PE Comprehensive Course | Learning Resource | version 12012022 P ag e 33 | 40
+Ameritrain Mortgage Institute. All Rights Reserved.
+The prohibited factors relating to protected classes under the Fair Housing Act
+have some common elements to the Equal Credit Opportunity Act (ECOA)
+however there are some differences:
+▪ Common to both acts:
+o Race
+o Color
+o National Origin
+o Sex
+o Religion
+▪ Unique to FH Act:
+o Handicap
+o Familiar status
+Notes __________________________________________
+__________________________________________
+__________________________________________
+__________________________________________
+__________________________________________
+__________________________________________
+__________________________________________
+__________________________________________
+__________________________________________
+__________________________________________
+__________________________________________
+__________________________________________
+__________________________________________
+__________________________________________
+__________________________________________
+__________________________________________
+__________________________________________
+__________________________________________
+__________________________________________
+PE Comprehensive Course | Learning Resource | version 12012022 P ag e 34 | 40
+Ameritrain Mortgage Institute. All Rights Reserved.
+TOPIC: Home Mortgage Disclosure Act (HMDA)
+12 U.S. Code Chapter 29 - HOME MORTGAGE DISCLOSURE
+ABOUT
+The last of the three fair lending laws is the Home Mortgage Disclosure Act HMDA.
+Key Points HMDA’s purposes are to:
+▪ Provide the public and public officials with sufficient information to enable
+them to:
+o Determine whether institutions are serving the housing needs of
+the communities and neighborhoods in which they are located
+o Assist public officials in distributing public sector investments in a
+manner designed to improve the private investment environment
+o Assist in identifying possible discriminatory lending patterns and
+enforcing anti-discrimination statutes
+Patterns of discrimination:
+▪ Unlike the other fair lending laws, looks for patterns of discrimination vs.
+against any single person.
+▪ Financial institutions collect various types of information from consumers
+in the course of processing loan applications.
+Regulation C:
+▪ HMDA and Regulation C require financial institutions to compile and
+report to regulators some of this information and other information
+obtained or generated concerning the application or loan.
+Reminder Important:
+Regulation C requires institutions to report lending data to their supervisory
+agencies on a loan-by-loan and application-by-application basis by way of a
+“register” reporting format. This vehicle is referred to as the HMDA Loan
+Application Register, the LAR, or the register. The report is due by March 1 of the
+following year.
+PE Comprehensive Course | Learning Resource | version 12012022 P ag e 35 | 40
+Ameritrain Mortgage Institute. All Rights Reserved.
+TWO INSTITUTIONAL CATEGORIES
+HMDA covers two categories of financial institutions.
+Key Points Depository – banks, credit unions, savings and loan institutions
+Non-depository – lenders, brokers
+COLLECTION OF DATA
+The Equal Credit Opportunity Act (ECOA) allows lenders to collect the data for monitoring purposes
+under HMDA.
+Key Points Loan information:
+For each application or loan, institutions are required to:
+▪ Identify the purpose (home purchase, home improvement, or refinancing),
+lien status
+▪ Whether the property relating to the loan or loan application is to be
+owner-occupied as a principal dwelling.
+Application information:
+▪ Institutions must report the following data for applications and originated
+loans (reporting this data is optional for purchased loans):
+o Ethnicity
+o Race
+o Sex
+o Annual income
+Price-related data:
+Institutions must report the rate spread between the annual percentage rate
+(APR) and the average prime offer rate for a comparable transaction as of the date
+the interest rate is set or locked.
+▪ The annual percentage rate is the annualized percentage of the dollar
+amount the loan will cost over the life of the loan
+▪ The average prime offer rate is the average APRs of prime or the best
+borrowers reported every week by Freddie Mac
+▪ Rate spread disclosure requirement:
+Lien status Spread Reporting requirement
+First > 1.5% Home purchase loans,
+PE Comprehensive Course | Learning Resource | version 12012022 P ag e 36 | 40
+Ameritrain Mortgage Institute. All Rights Reserved.
+dwelling secured home improvement
+loans/refinancing
+Second > 3.5% Home purchase loans,
+dwelling secured home improvement
+loans/refinancing
+▪ Excluded from the rate spread calculation:
+o Incomplete applications
+o Withdrawn
+o Denied, or approved but not accepted
+o Non-occupied house purchase
+o Home-improvement loans not secured by any dwelling
+o Assumptions
+o Home equity lines of credit
+o Loans not subject to Regulation Z
+PE Comprehensive Course | Learning Resource | version 12012022 P ag e 37 | 40
+Ameritrain Mortgage Institute. All Rights Reserved.
+PE Comprehensive Course | Learning Resource | version 12012022 P ag e 38 | 40
+Ameritrain Mortgage Institute. All Rights Reserved.
+ACTIVITY: KNOWLEDGE CHECK #5
+If you get stuck, look back to pages 32-37 of this resource guide for help.
+Matching
+Q1: The FH Act has some unique prohibited practices compared to ECOA.
+Match the law to the list of prohibited practices.
+▪ FH Act Handicap, Familiar Status
+Age, Marital Status, Public Assistance Income,
+▪ ECOA CCPA Rights
+Matching
+Q2: The FH Act has important terms you should be aware of. Match the term with the correct
+definition.
+A potential customer is either encouraged or
+▪ Redlining discouraged from purchasing housing in a
+particular area or community because of the
+agent's actions or lender’s actions.
+Deciding not to make loans in certain geographic
+▪ Steering areas because lender concluded areas are high-
+risk.
+Using scare methods to get homeowners to sell
+their properties at a deflated price by telling
+them members of a particular class are moving
+▪ Blockbusting into their neighborhood and they should sell
+before their home values drop.
+Single Choice
+Q3:
+Which of the following is NOT a HMDA requirement for data collection and reporting?
+a) A non-occupied house purchase
+b) A home improvement loan
+c) A home purchase
+d) A refinance transaction
+PE Comprehensive Course | Learning Resource | version 12012022 P ag e 39 | 40
+Ameritrain Mortgage Institute. All Rights Reserved.
+Single Choice
+Q4:
+Which of the following is NOT correct regarding HMDA-LAR requirements?
+a) Must be submitted to the Federal Reserve by March 1 following the calendar year
+covered by the data?
+b) Must retain the full HMDA-LAR for at least 3 years.
+c) Institutions must make the HMDA-LAR available to the public after deleting fields
+with specific loan data.
+d) Institutions may impose reasonable fees for costs incurred in providing (or
+producing) the data for public release.
+Matching
+HDMA rate spread disclosure requirement means institutions must report the rate spread
+Q5: between the APR (Annual Prime Rate) and APOR (Average Prime Offer Rate) for a
+comparable transaction on the date the interest rate is set or locked.
+Fill in the spread for the first and second liens that must be reported.
+▪ First lien – report if spread is: _________ > 1.5%
+> 2.5%
+> 3.0%
+▪ Second lien – report if spread is: _________ > 3.5%
+Notes __________________________________________
+__________________________________________
+__________________________________________
+__________________________________________
+__________________________________________
+__________________________________________
+__________________________________________
+__________________________________________
+__________________________________________
+__________________________________________
+__________________________________________
+__________________________________________
+__________________________________________
+PE Comprehensive Course | Learning Resource | version 12012022 P ag e 40 | 40
+Ameritrain Mortgage Institute. All Rights Reserved.

@@ -1,0 +1,935 @@
+1
+Edition v.111517 | Ameritrain Mortgage Institute | All Rights Reserved
+Violations of the law can have significant penalties. An example of the consequences of violating the law is the
+GLBA were the penalties are quite severe:
+▪ A financial institution can be fined up to $100,000 for each violation
+▪ The officers and directors of the financial institution can be fined up to $10,000 for each
+violation
+▪ Criminal penalties include imprisonment for up to 5 years, a fine, or both
+▪ If the GLBA is violated at the same time that another federal law is violated, or if the GLBA is
+violated as part of a pattern of any illegal activity involving more than $100,000 within a 12-
+month period, the violator's fine will be doubled and he or she will be imprisoned for up to 10
+years
+Prohibited Acts
+Redlining - Both the Equal Credit Opportunity Act and The Fair Housing Act address redlining. A credit worthy
+consumer has the right to access to credit. Redlining is the practice of lenders deciding not to lend in a
+particular community because that community may have a reputation of high foreclosures or a high percentage
+of credit challenged borrowers. The problem with redlining that community is that a credit worthy individual
+living in that community would be denied access to credit because it is not being made available. A lender is
+allowed to make a credit decision on the individual profile of a borrower, however, it is prohibited to make
+decisions on geographic locations.
+RESPA Prohibited Practices
+Affiliated Business Arrangements - RESPA requires the disclosure of a conflicting relationship. There are two conditions
+that require the ABA disclosure:
+▪ Ownership of greater than one percent in a company that is referring business to another company
+▪ An associate relationship where business dealing between the parties is not independent or “arms
+length”. Relatives, business affiliates etc. are required to disclose those relationships.
+▪ RESPA prohibits a sham business relationship intended to avoid the legal requirements of disclosure for
+ownership and associate relationships
+2
+RESPA Section 8 RESPA section 8 is intended to protect the consumer from excessive fees which often result
+from kickbacks and payment for non-service activities. It prohibits the payment for referrals between settlement
+service providers.
+RESPA Section 8 Violations - Prohibition Against Kickbacks & Unearned Fees
+Source: 12 CFR 1024.14 – RESPA Section 8
+The following outlines violations of Section 8.
+No referral fees
+1. No person may give, and no person may accept any fee, kickback or other thing of value
+pursuant to any agreement or understanding, oral or otherwise; incident to or part of a
+settlement service involving a federally-related mortgage loan. Any referral of a settlement
+service is not a compensable service.
+2. A business entity (whether or not in an affiliate relationship) may not pay any other business
+entity or the employees of any other business entity for the referral of settlement service
+business.
+3. The term payment is synonymous with the giving or receiving any "thing of value,'' and does not
+require transfer of money
+4. No split charges except for actual services performed.
+5. A charge by a person for which no or nominal services are performed, or for which duplicate
+fees are charged is an unearned fee and violates RESPA section 8.
+6. The source of the payment does not determine whether or not a service is compensable.
+Thing of Value
+Anything of value includes, without limitation, monies, things, discounts, salaries, commissions, fees, duplicate
+payments of a charge, stock, dividends, distributions of partnership profits, franchise royalties, credits
+representing monies that may be paid at a future date, the opportunity to participate in a money-making
+program, retained or increased earnings, increased equity in a parent or subsidiary entity, special bank deposits
+or accounts, special or unusual banking terms, services of all types at special or free rates, sales or rentals at
+special prices or rates, lease or rental payments based in whole or in part on the amount of business referred,
+trips and payment of another person's expenses, or reduction in credit against an existing obligation.
+Agreement or Understanding
+An agreement or understanding for the referral of business incident to, or part of a settlement service, need
+not be written or verbalized but may be established by a practice, pattern or course of conduct. When a thing
+of value is received repeatedly and is connected in any way with the volume or value of the business referred,
+the receipt of the thing of value is evidence that it is made pursuant to an agreement or understanding for the
+referral of business.
+3
+High Prices
+CFPB may investigate high prices to determine if they are the result of a referral fee or a split of a fee. If the
+payment of a thing of value bears no reasonable relationship to the market value of the goods or services
+provided, then the excess is not for services or goods actually performed or provided. These facts may be used
+as evidence of a violation of Section 8 and may serve as a basis for a RESPA investigation.
+Multiple Services
+When a person able to refer settlement service business, such as an attorney, mortgage lender, real estate
+broker or agent, or developer or builder, receives a payment for providing additional settlement services as
+part of a real estate transaction, such payment must be for services that are actual, necessary and distinct from
+the primary services provided by such person.
+RESPA Section 8 Permits
+Permits payment of referral under certain circumstances:
+▪ An employer's payment to his or her own employees for any referral activities.
+Scenarios Reflecting Section 8
+Illustrations of Requirements of RESPA- Reference Appendix B Part 12 CFR 1024
+The following illustrations provide additional guidance on the meaning and coverage of the provisions of
+RESPA. Other provisions of federal or state law may also be applicable to the practices and payments discussed
+in the following illustrations.
+1. Facts: A, a provider of settlement services, provides settlement services at abnormally low rates or at
+no charge at all to B, a builder, in connection with a subdivision being developed by B. B agrees to refer
+purchasers of the completed homes in the subdivision to A for the purchase of settlement services in
+connection with the sale of individual lots by B.
+Comments: The rendering of services by A to B at little or no charge constitutes a thing of value given by
+A to B in return for the referral of settlement services business. Both A and B are in violation of Section 8
+of RESPA.
+2. Facts: B, a lender, encourages persons who receive federally-related mortgage loans from it to employ
+A, an attorney, to perform title searches and related settlement services in connection with their
+transaction. B and A have an understanding that, in return for the referral of this business, A provides
+legal services to B or B's officers or employees at abnormally low rates or for no charge.
+Comments: Both A and B are in violation of Section 8 of RESPA. Similarly, if an attorney gives a portion of his or
+her fees to another attorney, a lender, a real estate broker or any other provider of settlement services who had
+referred prospective clients to the attorney, Section 8 would be violated by both persons.
+4
+Requests for Personal Information
+The Equal Credit Opportunity Act and the Fair Housing Act prohibit a lender from making a credit decision
+based on a number of prohibited factors. For that reason, lenders are not supposed to ask questions of
+personal information that would violate that provision. An example of prohibited requests for personal
+information would be:
+▪ Asking a borrower if they receive child support without disclosing to them that they are not required to
+disclose the information if they do not intend to use it for qualifying purposes
+▪ Asking about a person’s religion
+▪ Asking about family planning or child bearing
+The exception to asking about personal information is for government monitoring purposes. The Home
+Mortgage Disclosure Act (HMDA) wants to ensure that lenders are meeting the needs of their communities and
+not practicing discrimination in their lending practices. To ensure that is happening, HMDA requires lenders to
+collect information relating to ethnicity, race and sex to determine if there is a pattern of discrimination. Even,
+though this data is collected it is a prohibited act to make a credit decision based on the information.
+Prohibited and acceptable practices for loan processors
+Loan processors who claim an exemption from licensing under the SAFE Act are required to:
+▪ Be employees
+▪ Paid on a W2 basis
+▪ Work under the supervision of a registered and or licensed mortgage loan originator
+▪ Perform only clerical or administrative duties
+Loan processors who claim an exemption from licensing under the SAFE Act are prohibited from:
+▪ Taking loan applications
+▪ Negotiating rates and terms
+▪ Representing to the public that they in any way are in the business of loan origination
+Independent Contract loan processors
+▪ Must maintain a unique identifier number with the NMLS
+▪ Must be licensed as a mortgage loan originator
+5
+6
+Edition v.122817 | Ameritrain Mortgage Institute | All Rights Reserved
+During November 2012, the Consumer Financial Protection Bureau (CFPB), in partnership with the Federal Trade
+Commission (FTC), issued a warning letter to approximately a dozen mortgage lenders and mortgage brokers advising
+them to clean up potentially misleading advertisements, particularly those targeted toward veterans and older
+Americans. The CFPB also announced it had begun formal investigations of six companies that it thinks may have
+committed more serious violations of the law.
+“Misrepresentations in mortgage products can deprive consumers of important information while making one of the
+biggest financial decisions of their lives,” said CFPB Director Richard Cordray. “Baiting consumers with false ads to buy
+into mortgage products would be illegal. We will conduct a fair and rigorous investigation into these issues and will take
+appropriate action for any violations we find.”
+The basis of this stemmed from a joint “sweep,” a review conducted by the CFPB and the FTC of about 800 randomly
+selected mortgage-related ads across the country, including ads for mortgage loans, refinancing, and reverse mortgages.
+The agencies looked at public-facing ads in newspapers, on the Internet, and from mail solicitations; some came to the
+attention of the CFPB and the FTC from consumers who complained about them.
+Back in 2012, the CFPB and the FTC were looking for potential violations of the 2011 Mortgage Acts and Practices
+Advertising Rule, which prohibits misleading claims concerning government affiliation, interest rates, fees, costs,
+payments associated with the loan, and the amount of cash or credit available to the consumer. The CFPB and the FTC
+share enforcement authority for the rule. Companies that the CFPB finds have violated prohibitions on misleading
+advertising could be subject to enforcement actions.
+The CFPB’s review generally focused on mortgage advertisements, particularly ads that targeted older Americans or
+veterans. The FTC, meanwhile, examined ads by home builders, realtors, and lead generators.
+The sweep identified problems, such as:
+▪ Potential misrepresentations about government affiliation:
+For example, some of the ads for mortgage products contained official-looking seals or logos, or had other
+characteristics that could be interpreted by consumers as indicating a government affiliation.
+▪ Potentially inaccurate information about interest rates:
+For example, some ads promoted low rates that may have misled consumers about the terms of the product
+actually offered.
+▪ Potentially misleading statements concerning the costs of reverse mortgages:
+For example, some ads for reverse mortgage products claimed that a consumer will have no payments in
+connection with the product, even though consumers with a reverse mortgage are commonly required to
+continue to make monthly or other periodic tax or insurance payments, and may risk default if the payments
+aren’t made.
+▪ Potential misrepresentations about the amount of cash or credit available to a consumer: For example, some
+ads contained a mock check and/or suggested that a consumer has been pre-approved to receive a certain
+amount of money in connection with refinancing their mortgage or taking out a reverse mortgage, when a
+number of additional steps would customarily need to be completed before the consumer would qualify for the
+loan.
+7
+There are multiple laws that regulate the advertising and marketing requirements for the residential mortgage
+industry. These laws have been addressed in previous sections of this text. For purposes of this segment, we
+will review the individual laws as they relate to advertising and marketing requirements. The laws that will be
+addressed are:
+▪ The Truth-in-Lending Act (TILA)
+▪ The Mortgage Acts and Practices Rule (MAP)
+General advertising requirements for the Truth-in-Lending Act
+▪ Advertisements for specific credit terms that are actually available or will be arranged or offered
+▪ Disclosures must be clear and conspicuous, for example, favorable loan terms may not be more
+conspicuous than less favorable terms associated with the same loan product being promoted. This
+applies to all media. Print, internet and television media should not reflect smaller print for less
+favorable items, graphics should not obscure the unfavorable items and voice related ads should not
+have speeds of delivery that are not easily understood.
+▪ An advertisement made through television or radio stating any of the terms requiring additional
+disclosures under this section may alternatively comply with the requirements by stating the
+information required as applicable, and listing a toll-free telephone number along with a reference that
+such number may be used by consumers to obtain the additional cost information
+▪ Triggering terms in advertising are terms that when used require additional disclosures.
+There are different rules for Open-End and Closed-End loans.
+8
+Rules for Open-End (HELOC) advertising
+Triggering terms requiring additional disclosures
+• Finance charge
+• Other charges
+Additional disclosure
+▪ Any loan fee that is a percentage of the credit limit under the plan
+▪ An estimate of any other fees imposed for opening the plan, stated as a single dollar amount
+▪ Any periodic rate used to compute the finance charge, expressed as an annual percentage rate
+▪ The maximum annual percentage rate that may be imposed in a variable-rate plan
+Triggering term: Balloon Payment
+If an advertisement contains a statement of any minimum periodic payment and that a balloon payment may
+result if only the minimum periodic payments are made, even if such a payment is uncertain or unlikely, the
+advertisement also is required to state with equal prominence and in close proximity to the minimum periodic
+payment statement that:
+▪ A balloon payment may result, if applicable.
+▪ A balloon payment results if paying the minimum periodic payments does not fully amortize the
+outstanding balance by a specified date or time, and the consumer is required to repay the entire
+outstanding balance at such time.
+▪ The amount and timing of the balloon payment that will result if the consumer makes only the
+minimum payments for the maximum period of time that the consumer is permitted to make such
+payments.
+Triggering term: Tax Implications
+▪ An advertisement that states that any interest expense incurred under the home-equity plan is or may
+be tax deductible may not be misleading in this regard. If an advertisement distributed in paper form or
+through the Internet (rather than by radio or television) is for a home-equity plan secured by the
+consumer's principal dwelling, and the advertisement states that the advertised extension of credit may
+exceed the fair market value of the dwelling, the advertisement shall clearly and conspicuously state
+that:
+o The interest on the portion of the credit extension that is greater than the fair market value of
+the dwelling is not tax deductible for Federal income tax purposes; and
+o The consumer should consult a tax adviser for further information regarding the deductibility of
+interest and charges.
+9
+Misleading Terms
+An advertisement may not refer to a home-equity plan as “free money” or contain a similarly misleading term.
+Triggering terms:
+▪ Promotional Rates
+▪ Payments, and Periods must also include:
+Promotional rate in a variable-rate plan
+Any annual percentage rate that is not based on the index and margin that will be used to make rate
+adjustments under the plan, if that rate is less than a reasonably current annual percentage rate that would be
+in effect under the index and margin that will be used to make rate adjustments under the plan.
+Promotional payment in a variable rate plan
+▪ Any minimum payment applicable for a promotional period that is not derived by applying the index
+and margin to the outstanding balance when such index and margin will be used to determine other
+minimum payments under the plan.
+▪ Is less than other minimum payments under the plan derived by applying a reasonably current index
+and margin that will be used to determine the amount of such payments using an assumed balance.
+Promotional period
+If any annual percentage rate that may be applied to a plan is a promotional rate, or if any payment applicable
+to a plan is a promotional payment, the following must be disclosed in any advertisement, other than television
+or radio advertisements, in a clear and conspicuous manner with equal prominence and in close proximity to
+each listing of the promotional rate or payment:
+▪ The period of time during which the promotional rate or promotional payment will apply
+Rules for Closed-end Advertising
+Triggering Terms
+▪ The amount or percentage of any down payment
+▪ The number of payments or period of repayment
+▪ The amount of any payment
+▪ The amount of any finance charge
+Additional disclosure requirements for items listed above:
+▪ The amount or percentage of the down payment
+▪ Terms of repayment over the entire period of the loan
+▪ The APR and if it can increase after consummation
+10
+Prohibited Acts and Practices
+Prohibited acts or practices in advertisements for credit secured by a dwelling. 1026.24 (i)
+The following acts or practices under Regulation Z are prohibited in advertisements for credit secured by a
+dwelling:
+Misleading Advertising of “Fixed” Rates and Payments
+Using the word “fixed” to refer to rates, payments, or the credit transaction in an advertisement for variable-
+rate transactions or other transactions where the payment will increase, unless:
+(1) In the case of an advertisement solely for one or more variable-rate transactions, the phrase
+“Adjustable-Rate Mortgage,” “Variable-Rate Mortgage,” or “ARM” appears in the advertisement before
+the first use of the word “fixed” and is at least as conspicuous as any use of the word “fixed” in the
+advertisement.
+(2) Each use of the word “fixed” to refer to a rate or payment is accompanied by an equally prominent and
+closely proximate statement of the time period for which the rate or payment is fixed, and the fact that
+the rate may vary or the payment may increase after that period.
+(3) In the case of an advertisement solely for non-variable-rate transactions where the payment will
+increase (e.g., a stepped-rate mortgage transaction with an initial lower payment), each use of the word
+“fixed” to refer to the payment is accompanied by an equally prominent and closely proximate
+statement of the time period for which the payment is fixed, and the fact that the payment will increase
+after that period.
+(4) In the case of an advertisement for both variable-rate transactions and non-variable-rate transactions,
+the phrase “Adjustable-Rate Mortgage,” “Variable-Rate Mortgage,” or “ARM” appears in the
+advertisement with equal prominence as any use of the term “fixed,” “Fixed-Rate Mortgage,” or similar
+terms.
+Misleading Comparisons in Advertisements
+Making any comparison in an advertisement between actual or hypothetical credit payments or rates and any
+payment or simple annual rate that will be available under the advertised product for a period less than the full
+term of the loan, unless:
+(1) In general, the advertisement includes a clear and conspicuous comparison to the information required
+to be disclosed.
+(2) If the advertisement is for a variable-rate transaction, and the advertised payment or simple annual rate
+is based on the index and margin that will be used to make subsequent rate or payment adjustments
+over the term of the loan, the advertisement includes an equally prominent statement in close
+proximity to the payment or rate that the payment or rate is subject to adjustment and the time period
+when the first adjustment will occur.
+Misrepresentations about Government Endorsement
+Making any statement in an advertisement that the product offered is a “government loan program”,
+“government-supported loan”, or is otherwise endorsed or sponsored by any Federal, state, or local
+government entity, unless the advertisement is for an FHA loan, VA loan, or similar loan program that is, in fact,
+endorsed or sponsored by a Federal, state, or local government entity.
+11
+Misleading Use of the Current Lender’s Name
+Using the name of the consumer's current lender in an advertisement that is not sent by or on behalf of the
+consumer's current lender, unless the advertisement:
+(1) Discloses with equal prominence the name of the person or creditor making the advertisement; and
+(2) Includes a clear and conspicuous statement that the person making the advertisement is not associated
+with, or acting on behalf of, the consumer's current lender.
+Misleading Claims of Debt Elimination
+Making any misleading claim in an advertisement that the mortgage product offered will eliminate debt or
+result in a waiver or forgiveness of a consumer's existing loan terms with, or obligations to, another creditor.
+Misleading Use of the Term “Counselor”
+Using the term “counselor” in an advertisement to refer to a for-profit mortgage broker or mortgage creditor,
+its employees, or persons working for the broker or creditor that are involved in offering, originating or selling
+mortgages
+Misleading Foreign Language Advertisements
+Providing information about some trigger terms or required disclosures, such as an initial rate or payment, only
+in a foreign language in an advertisement, but providing information about other trigger terms or required
+disclosures, such as information about the fully-indexed rate or fully amortizing payment, only in English in the
+same advertisement.
+12
+Prohibited Acts and Practices
+Advertising practices under the Mortgage Acts and Practices Act (MAP)
+MAP was created to address deceptive advertising practices for non-depository institutions such as mortgage
+companies and any entity that engages in mortgage advertising. It relates to any form of commercial
+communication. It is a violation for any person to make any material misrepresentation, expressly or by
+implication, in any commercial communication, regarding any term of any mortgage credit product, including
+but not limited to misrepresentations about:
+Interest Misrepresentation
+The interest charged for the mortgage credit product, including but not limited to misrepresentations
+concerning:
+(1) The amount of interest that the consumer owes each month that is included in the consumer's
+payments, loan amount, or total amount due, or
+(2) Whether the difference between the interest owed and the interest paid is added to the total amount
+due from the consumer
+Misrepresentation of Interest rates
+The annual percentage rate, simple annual rate, periodic rate, or any other rate
+Misrepresentation of fees
+The existence, nature, or amount of fees or costs to the consumer associated with the mortgage credit
+product, including but not limited to misrepresentations that no fees are charged
+Misrepresentation of terms
+The existence, cost, payment terms, or other terms associated with any additional product or feature that is or
+may be sold in conjunction with the mortgage credit product, including but not limited to credit insurance or
+credit disability insurance
+Misrepresentation of taxes and insurance
+The terms, amounts, payments, or other requirements relating to taxes or insurance associated with the
+mortgage credit product, including but not limited to misrepresentations about:
+(1) Whether separate payment of taxes or insurance is required; or
+(2) The extent to which payment for taxes or insurance is included in the loan payments, loan amount, or
+total amount due from the consumer
+Misrepresentation of prepayment penalty
+Any prepayment penalty associated with the mortgage credit product, including but not limited to
+misrepresentations concerning the existence, nature, amount, or terms of such penalty
+13
+Misrepresentation of ARMS and the use of the word “fixed”
+The variability of interest, payments, or other terms of the mortgage credit product, including but not limited
+to misrepresentations using the word “fixed”
+Misrepresentation of comparisons
+▪ Any comparison between:
+(1) Any rate or payment that will be available for a period less than the full length of the mortgage credit
+product; and
+(2) Any actual or hypothetical rate or payment
+▪ The type of mortgage credit product, including but not limited to misrepresentations that the product is or
+involves a fully amortizing mortgage
+▪ The amount of the obligation, or the existence, nature, or amount of cash or credit available to the
+consumer in connection with the mortgage credit product, including but not limited to misrepresentations
+that the consumer will receive a certain amount of cash or credit as part of a mortgage credit transaction
+Misrepresentation of payments including reverse mortgages
+▪ The existence, number, amount, or timing of any minimum or required payments, including but not limited
+to misrepresentations about any payments or that no payments are required in a reverse mortgage or
+other mortgage credit product
+Misrepresentation about potential for default
+▪ The potential for default under the mortgage credit product, including but not limited to
+misrepresentations concerning the circumstances under which the consumer could default for nonpayment
+of taxes, insurance, or maintenance, or for failure to meet other obligations
+Misrepresentation relating to the mortgage product
+▪ The effectiveness of the mortgage credit product in helping the consumer resolve difficulties in paying
+debts, including but not limited to misrepresentations that any mortgage credit product can reduce,
+eliminate, or restructure debt or result in a waiver or forgiveness, in whole or in part, of the consumer's
+existing obligation with any person
+14
+Misrepresentation of affiliation
+▪ The association of the mortgage credit product or any provider of such product with any other person or
+program, including but not limited to misrepresentations that:
+(1) The provider is, or is affiliated with, any governmental entity or other organization; or
+(2) The product is or relates to a government benefit, or is endorsed, sponsored by, or affiliated with any
+government or other program, including but not limited to through the use of formats, symbols, or
+logos that resemble those of such entity, organization, or program
+Misrepresentation about the current lender
+▪ The source of any commercial communication, including but not limited to misrepresentations that a
+commercial communication is made by or on behalf of the consumer's current mortgage lender or servicer
+Misrepresentation relating to residing in a dwelling
+▪ The right of the consumer to reside in the dwelling that is the subject of the mortgage credit product, or the
+duration of such right, including but not limited to misrepresentations concerning how long or under what
+conditions a consumer with a reverse mortgage can stay in the dwelling
+Misrepresentation relating to approval status
+▪ The consumer's ability or likelihood to obtain any mortgage credit product or term, including but not
+limited to misrepresentations concerning whether the consumer has been preapproved or guaranteed for
+any such product or term
+Misrepresentation relating to refinancing and loan modification
+▪ The consumer's ability or likelihood to obtain a refinancing or modification of any mortgage credit product
+or term, including but not limited to misrepresentations concerning whether the consumer has been
+preapproved or guaranteed for any such refinancing or modification
+Misrepresentation of counseling services
+▪ The availability, nature, or substance of counseling services or any other expert advice offered to the
+consumer regarding any mortgage credit product or term, including but not limited to the qualifications of
+those offering the services or advice
+Waiver Not Permitted
+It is a violation for any person to obtain, or attempt to obtain, a waiver from any consumer of any protection
+provided by or any right of the consumer.
+15
+Predatory Lending and Steering
+Under TILA, Regulation Z, an entity must confirm that, in connection with a consumer credit transaction
+secured by a dwelling, a loan originator does not direct or “steer” a consumer to consummate a transaction
+based on the fact that the originator will receive greater compensation from the creditor in that transaction
+than in other transactions the originator offered or could have offered to the consumer, unless the
+consummated transaction is in the consumer’s interest (12 CFR 1026.36(e)(1)).
+The rule provides a safe harbor to facilitate compliance with the prohibition on steering. The loan originator is
+deemed to comply with the anti-steering prohibition if the consumer is presented with loan options that meet
+specific conditions for each type of transaction in which the consumer expressed an interest.
+Steering Analysis
+An institution that offers a variety of lending products or product features, either through one channel or
+through multiple channels, may benefit consumers by offering greater choices and meeting the diverse needs
+of applicants. Greater product offerings and multiple channels, however, may also create a fair lending risk
+that applicants will be illegally steered to certain choices based on prohibited characteristics. Several examples
+illustrate potential fair lending risk:
+▪ An institution that offers different lending products based on credit risk levels may present
+opportunities for loan originators or brokers to illegally steer applicants to the higher-risk products.
+▪ An institution that offers nontraditional loan products or loan products with potentially onerous terms
+(such as prepayment penalties) may present opportunities for loan originators or brokers to illegally
+steer applicants to certain products or features.
+▪ An institution that offers prime or sub-prime products through different channels may present
+opportunities for applicants to be illegally steered to the sub-prime channel. The distinction between
+guiding consumers toward a specific product or feature and illegal steering centers on whether the
+institution did so on a prohibited basis, rather than based on an applicant’s needs or other legitimate
+factors. It is not necessary to demonstrate financial harm to a group that has been “steered.” It is
+enough to demonstrate that action was taken on a prohibited basis regardless of the ultimate financial
+outcome.
+16
+Prohibition on Steering
+Determine that, in connection with a consumer credit transaction secured by a dwelling, a loan originator does
+not direct or “steer” a consumer to consummate a transaction based on the fact that the originator will receive
+greater compensation from the creditor in that transaction than in other transactions the originator offered or
+could have offered to the consumer, unless the consummated transaction is in the consumer’s interest.
+NOTE: The rule provides a safe harbor to facilitate compliance with the prohibition on steering in regulation 12
+CFR 1026.36(e)(1). The loan originator is deemed to comply with the anti-steering prohibition if the consumer
+is presented with loan options that meet all of the following conditions for each type of transaction in which
+the consumer expressed an interest:
+1. The loan originator obtains loan options from a significant number of the creditors with which the
+originator regularly does business and, for each type of transaction in which the consumer expressed an
+interest, presents the consumer with loan options that include:
+i. The loan with the lowest interest rate;
+ii. The loan with the lowest interest rate without negative amortization, a prepayment penalty,
+interest-only payments, a balloon payment in the first seven years of the life of the loan, a
+demand feature, shared equity, or shared appreciation; or, in the case of a reverse mortgage, a
+loan without a prepayment penalty, or shared equity or shared appreciation; and
+iii. The loan with the lowest total dollar amount for origination points or fees and discount points.
+2. The loan originator has a good faith belief that the options (presented to the consumer that are set
+forth, above) are loans for which the consumer likely qualifies.
+For each type of transaction, if the originator presents to the consumer more than three loans, the originator
+highlights the loans that satisfy options 1.i, 1.ii, and 1.iii above.
+17
+18
+Edition v.111517 | Ameritrain Mortgage Institute | All Rights Reserved
+Mortgage Fraud
+Mortgage Fraud Fraud in the mortgage industry has resulted in billions of dollars in losses to both the industry and to
+consumers who depend on mortgage professionals to obtain financing. Each year, the FBI reports on so-called suspicious
+activity reports (SAR). The Financial Crime Enforcement Network (FinCEN) uses SARs as vehicles to track the level of
+fraud. Every mortgage professional has a responsibility to report any suspicious activity through a mandatory program
+that every company must have in place to report SARs. Below are important definitions a MLO should know.
+Common Fraud Terms Defined
+Air Loan Exists when there is a straw buyer and straw seller making the complete transaction
+fraudulent and fictitious.
+Churning Excessive selling/lending activity for the purpose of generating fees and commissions. In
+some cases, the lender steps the rate down through multiple refinances. Each refinance
+is only to a slightly lower rate until the pre-arranged rate is reached.
+Chunking Chunking occurs when a third party convinces an uninformed borrower to invest in a
+property (or properties), with no money down and with the third party acting as the
+borrower’s agent. The third party is also typically the owner of the property or part of a
+larger group organizing the scheme. Without the borrower’s knowledge, the third party
+submits loan applications to multiple financial institutions for various properties. The
+third party retains the loan proceeds, leaving the borrower with multiple loans that
+cannot be repaid. The financial institutions are forced to foreclose on the properties
+Collusion An agreement, usually secretive, which occurs between two or more persons to deceive,
+mislead, or defraud others of their legal rights, or to obtain an objective forbidden by law,
+typically involving fraud or gaining an unfair advantage.
+Credit Report Fraud Alert A notation at the bottom of a credit report indicating that some items of identification,
+i.e., Social Security number, address, etc., are associated with past fraudulent activities.
+For example, an address may be flagged because the previous occupant allegedly used
+the property for financial misbehavior. Each credit reporting agency has different names
+for these alerts: TransUnion – HAWK Alerts, Experian – Fraud Shield, and Equifax –
+Safescan.
+Lapping A fraud that involves stealing one customer’s payment and then crediting that customer’s
+account with a subsequent payment.
+Mortgage Fraud A knowing misrepresentation of the truth or concealment of a material fact in a
+mortgage loan application to induce another to approve the granting of a mortgage loan.
+For the purposes of this text, mortgage fraud refers solely to fraudulent schemes
+pertaining to residential mortgage loans.
+Nominee Loan A loan made to one individual in which the proceeds of the loan benefit another
+individual without the knowledge of the lender.
+SARs Suspicious Activity Reports are vehicles utilized by the Financial Crime Enforcement
+(FinCEN) to track the level of fraud. Every mortgage professional has a responsibility to
+report suspicious activity through a mandatory program that every company must have in
+place.
+Straw Buyers A person used to buy property in order to conceal the actual owner. The straw buyer
+does not intend to occupy the property or make payments and often deeds the property
+to the other individual immediately after closing. The straw buyer is usually compensated
+for use of his identity. Stated Income/Stated Asset Abuse-Often called the “liar loan.”
+When borrowers cannot qualify for a loan using actual income and assets, loans are
+converted to SISA program. The result is that borrowers are put into homes that are not
+affordable and eventually lose the home and any equity.
+19
+“Mortgage fraud hurts borrowers, financial institutions, and legitimate homeowners,” said Assistant Director Kevin
+Perkins, FBI Criminal Investigative Division. “The FBI, in conjunction with our law enforcement, regulatory, and industry
+partners, continues to diligently pursue perpetrators of mortgage fraud schemes.”
+Fraudulent activity is still concentrated in the old schemes including property flipping, builder-bailouts, short sales and
+foreclosure rescues. Some of the new schemes identified were in the areas of reverse mortgage fraud, credit
+enhancements, condo conversion, loan modifications and pump and pay. The entire report is available at www.fbi.gov.
+This course will review fraudulent activities that impact the residential mortgage industry. Fraud in the mortgage
+industry is generally divided into two broad categories: fraud for housing and fraud for profit.
+Fraud for Housing and Fraud for Profit
+(a) Fraud for housing generally involves material representation or omission of information with the intent to
+deceive or mislead a lender to extend credit that would likely not be offered if the true facts were known.
+(b) Fraud for housing is generally committed by home buyers attempting to purchase homes for their personal use.
+Participants and Fraud for Housing Schemes:
+▪ Participants
+(1) Borrower and Co-Borrower
+(2) Borrower’s family members
+▪ Fraud for housing schemes
+(1) Misrepresented income
+o False/forged employment verifications
+o False/forged tax returns, pay stubs or W-2s
+(2) Misrepresented Assets
+o False/forged bank statements
+o Undisclosed second mortgage
+o Loan represented as a gift
+▪ Occupancy Fraud
+▪ Misrepresented intent to occupy
+Fraud for Profit
+(a) The motivation behind fraud for profit is money.
+(b) Fraud for profit involves the same misuse of information as fraud for housing. There is a deliberate attempt to
+deceive or mislead the lender into extending credit that the lender would not have likely offered if the true
+facts were known. However, in this case, the perpetrators abscond with the proceeds of the loan, with little or
+no intention to purchase or occupy the house.
+(c) Fraud for profit is often committed with the complicity of industry insiders such as mortgage brokers, real
+estate agents, property appraisers and settlement agents (attorneys and title examiners).
+20
+Common Mortgage Fraud Schemes
+Schemes represent the big picture or secret plan of action used to perpetrate a fraud. There are a variety of “schemes”
+prevalent in mortgage fraud scams. These schemes can involve individuals inside the financial institution or third parties.
+Various combinations of these schemes may be implemented in a single fraud.
+Understand Common Mortgage Schemes
+The mortgage professional should have a complete understanding of mortgage schemes that plague the industry.
+Understanding the mortgage schemes and definitions should be as familiar as the alphabet to the mortgage professional.
+In addition, as the environment changes, new schemes may appear. It is essential that the mortgage professional utilizes
+resources and training vehicles to remain current with new mortgage schemes. The descriptions provided below are
+examples of traditional and emerging schemes that are used to facilitate mortgage fraud.
+Builder Bailout
+This scheme is used when a builder, who has unsold units in a tract, subdivision, or condominium complex, employs
+various fraudulent schemes to sell the remaining properties.
+Buy and Bail
+This scheme typically involves a borrower who is current on a mortgage loan, but the value of the house has fallen below
+the amount owed. The borrower continues to make loan payments, while applying for a purchase money mortgage loan
+on a similar house that costs less due to the decline in market value. After obtaining the new property, the borrower
+“walks” or “bails” on the first loan.
+Double Selling
+Double selling occurs when a mortgage loan originator accepts a legitimate application and documentation from a buyer,
+reproduces or copies the loan file, and sends the loan package to separate warehouse lenders to each fund the loan.
+Equity Skimming
+Equity skimming is the use of a fraudulent appraisal that over-values a property, creating phantom equity, which is
+subsequently stripped out through various schemes.
+Fictitious Loan
+A fictitious loan is the fabrication of loan documents or use of a real person’s information to apply for a loan which the
+applicant typically has no intention of paying. A fictitious loan can be perpetrated by an insider of the financial institution
+or by external parties such as loan originators, real estate agents, title companies, and/or appraisers.
+21
+Loan Modification and Refinance Fraud
+This scheme occurs when a borrower submits false income information and/or false credit reports to persuade the
+financial institution to modify or refinance the loan on more favorable terms.
+Mortgage Servicing Fraud
+This fraud is perpetrated by the loan servicer and generally involves the diversion or misuse of loan payments, proceeds
+from loan prepayments, and/or escrow funds for the benefit of the service provider.
+Phantom Sale
+This scheme generally involves an individual or individuals who falsely transfer title to a property or properties and
+fraudulently obtain funds via mortgage loans or sales to third parties.
+Illegal Property Flipping
+A fraudulent property flip is a scheme in which individuals, businesses, and/or straw borrowers, buy and sell properties
+among themselves to artificially inflate the value of the property.
+Reverse Mortgage Fraud
+Reverse Mortgage Fraud involves a scheme using a reverse mortgage loan to defraud a financial institution by stripping
+legitimate or fictitious equity from the collateral property.
+Short Sale Fraud
+Fraud occurs in a short sale when a borrower purposely withholds mortgage payments, forcing the loan into default, so
+that an accomplice can submit a “straw” short-sale offer at a purchase price less than the borrower’s loan balance.
+Sometimes the borrower is truly having financial difficulty and is approached by a fraudster to commit the scheme. In all
+cases, a fraud is committed if the financial institution is misled into approving the short-sale offer, when the price is not
+reasonable and/or when conflicts of interest are not properly disclosed.
+Two additional fraud schemes, which are briefly addressed below, are debt elimination and foreclosure rescue schemes.
+While these schemes are typically not perpetrated directly on financial institutions, and therefore not expanded upon to
+the same degree as the above-mentioned schemes, the end result of the scheme can have a negative impact on the
+financial institution.
+22
+Common Mechanisms of Mortgage Fraud Schemes
+Mechanism is the process by which fraud is perpetrated. A single mortgage fraud scheme can often include one
+or more mechanisms and may involve collusion between two or more individuals working in unison to
+implement a fraud. The following is a list of common mechanisms used to perpetrate mortgage fraud schemes:
+▪ Asset Rental Cash or other assets are temporarily placed in the borrower’s account/possession in order
+to qualify for a mortgage loan. The borrower usually pays a “rental” fee for the temporary “use” of the
+assets.
+▪ Fake Down Payment. In order to meet loan-to-value requirements, a fake down payment through
+fictitious, forged, falsified, or altered documents is used to mislead the lender.
+▪ Fraudulent Appraisal fraud can occur when an appraiser, for various reasons, falsifies information on an
+appraisal or falsely provides an inaccurate valuation on the appraisal with the intent to mislead a third
+party.
+Debt Elimination Scheme
+Debt elimination schemes are illegal schemes that offer to eliminate a borrower’s debt for an upfront fee. The
+organizers of these schemes create phony legal documents based on the borrower’s loan(s) for presentment to
+the borrower’s financial institution or other lending institution in an attempt to falsely satisfy the loans. The
+threat this fraud scheme presents to a financial institution is the borrower’s cessation of loan payments.
+Financial institutions may find that the use of the false documents complicates the collection process and may
+temporarily prevent any final action against the borro wer.
+Foreclosure Rescue Scheme
+Foreclosure rescue schemes prey upon homeowners in financial distress or facing foreclosure, with the
+promise to help save their home. There are multiple variations of this scheme, often charging up-front fees
+and/or convincing the homeowner to deed the property to the fraudster, with the premise that the
+homeowner can rent or buy the property back once the individual’s credit has improved. The goal of the
+fraudster is to collect fees or mortgage payments that are intended for the lender, but are not delivered,
+usually resulting in the loan going into default and ultimately foreclosure, causing loss to the financial
+institution.
+Common Participants
+Various individuals participate in mortgage fraud schemes. The following list consists of common participants in
+such schemes:
+Appraiser Closing/Settlement Agent
+Processor Title Agent
+Borrower Loan Servicer
+Real Estate Agent Underwriter Originator
+Buyer Warehouse Lender
+Seller
+23
+Consequences of Fraud
+Throughout this discussion on mortgage fraud, the emphasis has been on detection, prevention and the impact on the
+victims of fraud perpetrators. However, there is another side of fraudulent activities that is the consequence of
+committing mortgage fraud.
+The Federal Bureau of Investigation and the Mortgage Bankers Association have jointly produced a Mortgage Fraud
+Warning Notice. This warning notice makes it clear that mortgage fraud is a federal offense with serious penalties, and
+will be fully investigated and prosecuted by the appropriate authorities. The FBI and MBA strongly encourage lenders to
+consider integrating the warning notice into their loan processes. The warning notice has the FBI seal and the following
+language in bold font:
+Mortgage fraud is investigated by the Federal Bureau of Investigation and is punishable by 30 years in federal
+prison or $1,000,000 fine or both. It is illegal for a person to make any false statement regarding income,
+assets, debt or matters of identification, or to willfully overvalue any land or property, in a loan and credit
+application for the purpose of influencing in any way the action of a financial institution.
+Conclusion
+Mortgage fraud continues to result in significant losses for financial institutions. It is imperative that examiners and
+financial institution personnel understand the nature of the various schemes and recognize red flags related to mortgage
+fraud. This knowledge and use of best practices will help with the prevention and deterrence of mortgage fraud in the
+financial industry
+24
+Compliance Management
+Review (CMR)
+CFPB conducts Compliance Management Reviews (CMR) to ensure entities have internal protocols to remain compliant
+with published guidelines. CFPB also understands that supervised entities will organize compliance management to
+include compliance with consumer-related state and Federal laws that are outside the scope of CFPB’s supervision
+responsibilities, in addition to the matters that are within CFPB’s scope. CFPB, therefore, expects that compliance
+management activities will be organized within a firm, legal entity, division, or business unit in the way that is most
+effective for the supervised entity, and that the manner of organization will vary from entity to entity. This section
+discusses the common elements of an effective consumer compliance management system: board of directors and
+management oversight, the compliance program, response to consumer complaints, and audit coverage of compliance
+matters.
+Compliance Management System
+A compliance management system is how a supervised entity:
+▪ Establishes its compliance responsibilities
+▪ Communicates those responsibilities to employees
+▪ Ensures that responsibilities for meeting legal requirements and internal policies are incorporated into business
+processes
+▪ Reviews operations to ensure responsibilities are carried out and legal requirements are met
+▪ Takes corrective action and updates tools, systems, and materials as necessary
+An effective compliance management system commonly has four interdependent control components:
+1) Board and management oversight
+2) Compliance program
+3) Response to consumer complaints
+4) Compliance audit.
+When all of the above, four control components are strong and well-coordinated, a supervised entity should be
+successful at managing its compliance responsibilities and risks.
+Target and Horizontal Reviews
+In addition to regularly scheduled examinations, CFPB expects to conduct Target and Horizontal Reviews. Target Reviews
+will generally involve a single entity and will focus on a particular situation such as significant volume of particular
+customer complaints or a specific concern that has come to CFPB’s attention. Horizontal Reviews will look across multiple
+entities to examine issues arising from particular products or practices and determine whether supervisory measures or
+enforcement actions are needed
+Board of Directors and Management Oversight
+CFPB will review an entity to determine how they address consumer compliance issues and associated risks of harm to
+consumers throughout product development, marketing, and account administration, and through the entity’s handling
+of consumer complaints and inquiries.
+In addition, CFPB will request and review training developed as a result of management commitments to address
+monitoring, audit, or examination findings and recommendations or issues raised in consumer complaints and inquiries.
+25
+Consumer
+C omplaint Response
+An effective compliance management system should ensure that a supervised entity is responsive and
+responsible in handling consumer complaints and inquiries. Intelligence gathered from consumer contacts
+should be organized, retained, and used as part of an institution’s compliance management system.
+Consumer Complaint Response – Examination Objectives
+Examiners will consider consumer complaints to determine whether:
+1. Consumer complaints and inquiries, regardless of where submitted, are appropriately recorded and
+categorized.
+2. Complaints and inquiries, whether regarding the entity or its service providers, are addressed and
+resolved promptly.
+3. Complaints that raise legal issues involving potential consumer harm from unfair treatment or
+discrimination, or other regulatory compliance issues, are appropriately escalated.
+4. Complaint data and individual cases drive adjustments to business practices as appropriate.
+5. Consumer complaints result in retrospective corrective action to correct the effects of the supervised
+entity’s actions when appropriate.
+6. Weaknesses in the compliance management system exist, based on the nature or number of
+substantive complaints from consumers.
+Consumer Complaint Response – Examination Procedures
+Examiners will review records, interview management, and contact consumers if needed, to evaluate this
+consumer response component of the compliance management system. Examiners will:
+▪ Obtain and review records of recent consumer complaints and inquiries received by CFPB about the
+entity and its service providers
+26
+Mortgage loan originators are expected to have an in-depth understanding of laws, terms, and procedures associated with
+residential mortgage industry. This chapter provides an extensive overview of how the industry works from a MLO perspective.
+27
+Edition v.122817 | Ameritrain Mortgage Institute | All Rights Reserved
+Title and Closing
+What determines an individual is a loan originator? (12 CFR 1026.36(a)(1))
+A “loan originator” can be either a “loan originator organization” or an “individual loan originator.”
+What actions determines if an individual is a loan originator?
+An entity may be a “loan originator”, if the entity is an organization or individual that for compensation or other
+monetary gain performs loan origination activities, such as:
+▪ Taking an application
+▪ Arranging a credit transaction
+▪ Assisting a consumer in applying for credit. A loan originator assists a consumer in obtaining or applying for credit by
+advising on particular credit terms that are or may be available to the consumer based on the consumer’s financial
+characteristics.
+▪ Offering or negotiating credit terms. Credit terms include rates, fees and other costs. Credit terms are selected based
+on the consumer’s financial characteristics when those terms are selected based on any factors that may influence a
+credit decision, such as debts, income, assets or credit history.
+▪ Making an extension of credit
+▪ Referring a consumer to a loan originator or creditor. Referring is an activity included under each of the activities of
+offering, arranging, or assisting a consumer in obtaining or applying to obtain an extension of credit.
+▪ Advertising or communicating to the public that you can or will perform any loan origination services
+Tip:
+This definition of “loan originator” is broader than the one under
+the SAFE Act and its implementing regulations because Congress chose
+to use broader language in the Dodd-Frank Act definition. Remember TILA is under
+the authority of the Dodd- Frank Act.
+Tip:
+If you are a servicer or work for a servicer, you become a loan originator if you
+perform loan origination activities on a covered transaction, such as handling a
+refinancing or assisting in adding a different consumer on an existing debt.
+However, renegotiating or modifying an existing mortgage does not constitute a loan origination activity.
+You will find the rules for what determines whether a loan is a modification or a refinance in Regulation Z at
+§ 12 CFR 1026.20(a).
+28
+MLO Activities
+An individual is not a loan originator simply due to the performance of the following activities:
+▪ Provide bona fide third-party advisory services, such as those an accountant, attorney, or registered financial advisor
+would. However, if a MLO advises a consumer on credit terms offered by either the MLO or their employer, or if the
+MLO receives, or expect to receive, compensation from loan originators or creditors for providing advice on credit
+terms offered by them, or for referring consumers to them, then the individual is a loan originator.
+▪ Provide HUD-approved housing counseling services in certain circumstances.
+▪ Provide general explanations, information, or descriptions of credit products in response to consumer queries.
+▪ Describe other product-related services (for example, optional monthly payment methods via telephone or via
+automatic account withdrawals, the availability and features of online account access, the availability of 24-hour
+customer support, or free mobile applications to access account information).
+▪ As an employee of a creditor or loan originator, provide contact information of a loan originator or creditor for whom
+you work or of another person who works for that entity so long as the MLO does not discuss particular credit terms
+with the consumer that are or may be available from a creditor or loan originator to that consumer selected based on
+the consumer’s financial characteristics, or direct the consumer to a particular loan originator or creditor seeking to
+originate credit transactions to consumers with the consumer’s financial characteristics based on the employee’s
+assessment of those characteristics.
+▪ Perform loan-processing activities, such as compiling and assembling credit application packages and supporting
+documentation, for a loan originator or creditor. Implementation.
+▪ Persons who coordinate consummation of the credit transaction or other aspects of the credit transaction process,
+such as communicating with a consumer about process deadlines and documents needed at consummation, are not
+loan originators, provided that any communication that includes a discussion about credit terms available from a
+creditor to that consumer selected based on the consumer’s financial characteristics only confirms credit terms already
+agreed to by the consumer.
+▪ Perform credit underwriting activities, so long as you do not communicate directly with the consumer about specific
+credit terms.
+29
+Compensation
+What counts as compensation? (12 CFR 1026.36(a)(3))
+For a loan originator, the term “compensation” generally includes salaries, commissions, and any financial or similar
+incentive that a MLO can receive and retain.
+For example, the term “compensation” includes:
+▪ An annual or other periodic bonus
+▪ Awards of merchandise, services, trips, or similar prizes (Comment 36(a)-5.i)
+Does the name of the fee matter?
+Loan originator compensation generally includes retained payments (payments that are earned and kept) and is not
+dependent on the label or name given to a fee.
+How does the prohibition against compensation based on a transaction term work? (§ 12 CFR 1026.36(d)(1))
+The existing compensation provisions in Regulation Z and codified by the Dodd-Frank Act were designed to eliminate some
+of the most common incentives that loan originators had historically used to steer consumers into loans that are less
+advantageous than those for which the consumers otherwise qualified. The existing rule prohibits loan origination
+compensation based on transaction terms, such as interest rate, or a proxy for transaction terms.
+The Loan Originator Rule clarifies this existing prohibition, including defining what constitutes a transaction term, clarifying
+how to determine whether a factor is a proxy for a transaction term, and clarifying when compensation may be paid based
+on profits from a mortgage-related business.
+Not Compensable Items
+For purposes of the compensation provisions, a loan originator generally may not receive compensation that is based on:
+▪ A term of a single transaction.
+▪ The terms of multiple transactions conducted by the MLO.
+▪ The terms of multiple transactions conducted by multiple loan originators, taken in the aggregate (such as most profits-
+based compensation plans).
+▪ The rule also prohibits anyone for purposes of the compensation provisions from paying loan originators compensation
+that is based on transaction terms. This means creditors, loan originators, or anyone else may not pay their own loan
+originator employees or other loan originators (such as brokers) compensation based on the term of a transaction or
+multiple transactions.
+30
+Pro hibited Compensation &
+Transaction Term
+Examples of prohibited compensation include, but are not limited to:
+▪ A loan originator receiving higher compensation based on the transaction’s interest rate, such as receiving 2 percent
+of the loan amount if the interest rate is above 6 percent and 1 percent of the loan amount if the interest rate is 6
+percent or less.
+▪ A loan originator receiving higher compensation based on whether the loan contract contains a prepayment penalty.
+▪ A loan originator receiving higher compensation for closing more than 10 transactions per month with an interest rate
+higher than 6 percent.
+▪ An individual loan originator receiving additional compensation if the consumer buys creditor required title insurance
+from the originator’s employer or its affiliate, rather than a third party.
+What is a transaction term? (§ 12 CFR 1026.36(d)(1)(ii))
+A transaction “term” is any right or obligation of the parties to a credit transaction, except for the amount of credit
+extended. “Credit transaction” means the “operative acts” and written and oral agreements that, together, create the
+consumer’s right to defer payment of debt or to incur debt and defer its payment.
+An example of an “operative act” in a covered credit transaction is the consumer’s purchase of certain goods and services
+essential to the transaction, such as required title insurance or a required appraisal.
+31
+Terms of the transaction include:
+▪ Rights and obligations in the note or other credit contract and in the security instrument (and any document
+incorporated by reference)
+▪ Any fees or charges required to be disclosed in the Loan Estimate and Closing Disclosure that are: Imposed by the loan
+originator or creditor on the consumer for the credit or for any credit-related product or service provided by the loan
+originator or creditor.
+▪ For any product or service required as a condition of the extension of credit, such as title insurance protecting the
+creditor’s interest or an appraisal.
+Examples of transaction terms include:
+▪ The interest rate
+▪ The annual percentage rate
+▪ The collateral type (e.g., condominium, cooperative, detached home, or manufactured housing)
+▪ The existence of a prepayment penalty
+▪ The origination points or fees paid to the creditor or loan originator
+▪ Fees for creditor-required title insurance
+▪ Varying compensation to a loan originator based on the “product type” often will violate the rule because many
+“products” (which is not a defined term) in the market refer to different bundles of specific transaction terms.
+Is the amount of credit extended a transaction term? (§ 12 CFR 1026.36(d)(1)(ii))
+The amount of credit extended is not a transaction term if the loan originator compensation is based on a fixed percentage
+of the amount of credit extended. Such compensation may be subject to a minimum or maximum dollar amount, so long
+as the amounts do not vary with each transaction.
+Examples:
+▪ A creditor is permitted to compensate a loan originator 1 percent of the amount of credit extended for all loans the
+originator arranges for the creditor but not less than $1,000 or greater than $5,000 for each loan.
+▪ A creditor is not permitted to compensate a loan originator 1 percent of the amount of credit extended for loans of
+$300,000 or more, 2 percent of the amount of credit extended for loans of more than $200,000 and less than
+$300,000, and 3 percent of the amount of credit for loans of $200,000 or less.
+Does the rule prevent loan originators from receiving commissions for performing activities that are not loan
+origination activities? (§ 12 CFR 1026.36(d)(1) and comment 36(a)-5.iv)
+Individual loan originators
+All payments to an individual loan originator are considered compensation for loan origination
+activities, regardless of how those charges are labeled. This prohibition prevents loan originators from receiving a
+commission for performing a service or selling a product, such as title insurance, that customers buy on the same
+transaction.
+32
+Example
+Assume an individual loan originator receives compensation of 100 basis points for each closed covered transaction. The
+MLO would be prohibited from receiving an extra commission when consumers purchase title insurance from the MLO’s
+employer.
+When a consumer directly pays the loan originator, can another person also pay the loan originator on the
+same transaction? (§ 12 CFR 1026.36(d)(2)(i)(A))
+▪ No. A loan originator may not receive compensation in connection with a particular transaction from both a consumer
+and another person.
+▪ Also, if any other loan originator receives compensation in a transaction directly from a consumer, then generally the
+loan originator may not receive compensation from a person other than the consumer in connection with that
+particular transaction
+Compensation in connection with a particular transaction, means payments such as commissions, that are specific to and
+paid solely in connection with the transaction in which the consumer also paid you compensation. This restriction applies
+regardless of when the compensation is paid – whether before, at, or after consummation.
+Example
+If a loan originator organization receives an origination fee that the consumer pays the MLO directly in a particular
+transaction, the MLO may not receive compensation in connection with that particular transaction from a person other
+than the consumer, such as a creditor.
+What constitutes a direct payment from the consumer?
+▪ If a loan originator charges an origination point or fee which a consumer pays in cash or out of the loan proceeds, that
+is a direct payment from the consumer.
+▪ If a loan originator charges an origination point or fee and that fee is paid using funds from the creditor that result from
+an increased interest rate, that is not a direct payment by the consumer.
+Example
+If a mortgage brokerage firm charges an origination fee, then the consumer agrees to an increased interest rate to generate
+a rebate from the creditor. The rebate covers settlement costs, including the origination fee you charged. This is not a
+direct payment from the consumer.
+When a consumer pays a creditor an origination point or fee, that is not considered a payment to a loan originator. This is
+true even if the consumer pays the point or origination fee out of the loan proceeds.
+What records must be maintained under the rule? (§ 12 CFR 1026.25(c)(2))
+A loan originator organization must maintain records sufficient to evidence:
+▪ All compensation you receive from creditors, consumers, and other individuals or entities
+▪ All compensation you pay to individual loan originators
+▪ The compensation agreements that govern those receipts or payments
+▪ Records of payment and receipt of compensation
+o Records are sufficient to evidence payment and receipt of compensation if they
+demonstrate the following facts:
+o The nature and amount of the compensation
+o Who paid the compensation
+o Who received the compensation
+o When the payment and receipt of compensation occurred.
+33
+Compensation Agreement
+A compensation agreement is any agreement – whether oral, written, or based on a course of conduct – that establishes a
+compensation arrangement between parties. Examples of compensation agreements include (but are not limited to):
+▪ A brokerage agreement between a creditor and a mortgage broker.
+▪ Provisions of employment contracts between a creditor and an individual loan originator employee addressing
+payment of compensation.
+The compensation agreement that an entity must retain for a particular transaction is the agreement that determined the
+compensation for that transaction.
+How long must records required by the Loan Originator Rule be maintained?
+Creditors and loan originator organizations must keep records related to the requirements for loan originator
+compensation for three years after the date of payment or receipt of compensation. Record retention is required for three
+years after each receipt or payment, even if multiple compensation payments relate to a single transaction.
+Example:
+Assume a loan originator organization pays an individual loan originator a commission consisting of two separate payments
+of $1,000 each on June 5, 2017, and July 7, 2017. The loan originator organization must retain the records of the two
+payments through June 4, 2020, and July 6, 2020, respectively.
+What information must a loan originator organization include on the loan documents? (§ 12 CFR 1026.36(g))
+A loan originator organization for a transaction must provide on specified loan documents the following as applicable:
+▪ Loan originator organization’s name and NMLSR ID, if the NMLSR has provided you an NMLSR ID
+▪ The name of the individual loan originator (as the name appears in the NMLSR) with primary responsibility for the
+origination and his NMLSR ID, if he has one.
+34
+Tip: If you as a loan originator organization or individual loan originator have been provided a
+unique identifier by the NMLSR, it must be included on:
+• the credit application
+• note or loan contract
+• security instrument, regardless of whether you are required to
+obtain an NMLSR unique identifier
+• business cards
+• email
+• applicable advertising documents (varies by state law)
+What happens when there is more than one loan originator on a transaction?
+If there is more than one loan originator for a transaction, then the applicable documents must include the name and
+NMLSR ID of the individual loan originator with primary responsibility for the transaction at the time the loan document is
+issued.
+If the individual loan originator with primary responsibility for a transaction changes, then it will not be necessary to reissue
+previously completed documents merely to update a loan originator name and NMLSR ID.
+Going forward, an entity would include on loan documents the information about the individual who now has primary
+responsibility, and would not include the information about the individual who formerly had primary responsibility.
+35

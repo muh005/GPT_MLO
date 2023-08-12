@@ -1,0 +1,520 @@
+TILA Regulation Z
+Truth in Lending Act
+(12 CFR 1026)
+TIL-ZA or TILA the Godzilla
+Regulatory Authority
+Originally under Federal Reserve
+Transferred to Consumer Financial Protection Bureau (CFPB)
+Title 1 of the Consumer Credit Protection Act
+• Amended under TRID
+• CFPB amended Regulation Z early and closing TILA disclosures by integrating them with
+RESPA Sections 4 and 5 disclosures effective October 3, 2015
+TILA Regulation Z
+Truth in Lending Act
+(12 CFR 1026)
+Subparts
+Subpart A– General
+Subpart B –Open-End Credit
+Subpart C –Closed-End Credit
+Subpart D– Miscellaneous
+Subpart E –Special Rules for Certain Home Mortgage Transactions
+TILA Regulation Z
+Truth-in-Lending Act
+(12 CFR 1026) –Subpart A
+Purpose:
+Promote the informed use of consumer credit by requiring
+disclosures about its terms and cost (Cost of Financing)
+Coverages:
+Regulation Z applies to each individual or business that offers or extends
+credit when key conditions are met:
+1. The credit is offered or extended to consumers
+2. The credit is subject to a finance charge or is payable by a written
+agreement in more than four installments
+3. The credit is primarily for personal, family or household purposes
+Term or Phrase Definition Under TILA
+TILA
+Business day A day on which the creditor's offices are open to the public for carrying on substantially all ofits
+business functions, same as RESPA.
+Mailbox Rule For the purposes of rescission, a business day means all calendar days except Sundays and the legal
+Truth-in-Lending Act
+public holidays specified in 5 U.S.C. 6103(a), such as New Year's Day, the birthday of Martin Luther
+King, Jr., Washington's Birthday, Memorial Day, Independence Day, Labor Day, Columbus Day,
+(12 CFR 1026) –Subpart A
+Veterans Day, Thanksgiving Day and Christmas Day
+Regulation Z
+Consummation The time that a consumer becomes contractually obligated on a credit transaction. (Generallywhen
+the promissory note is signed)
+Consumer A natural person to whom consumer credit is offered or extended.
+Creditor A person:
+(A) Who regularly extends consumer credit that is subject to a finance charge or is payable by
+written agreement in more than four installments (not including a down payment)
+(B) To whom the obligation is initially payable, either on the face of the note or contract, or by
+agreement when there is no note or contract.
+Does not include a person that does not extend credit more than 5 times within a year.
+Finance Charge Finance charge is the cost of consumer credit as a dollar amount. It includes any charge payable
+directly or indirectly by the consumer and imposed directly or indirectly by the creditor as a
+condition of the extension of credit.
+Periodic rate A rate of finance charge that is or may be imposed by a creditor on a balance for a day, week,
+month or other subdivision of a year.
+Person Means a natural person or an organization, including a corporation, partnership, proprietorship,
+association, cooperative, estate, trust or government unit.
+Prepaid finance charge Any finance charge paid separately in cash or by check before or at consummation of a transaction,
+orwithheld from the proceeds of the credit at any time.
+Residential mortgage A transaction in which a mortgage, deed of trust, purchase money security interest arising under an
+transaction installment sales contract, or equivalent consensual security interest is created or retained in any
+consumer dwelling to finance the acquisition or initial construction of that dwelling
+Security interest An interest in property that secures performance of a consumer credit obligation, and that is
+recognized by state or federal law.
+TILA Regulation Z
+Truth-in-Lending Act
+(12 CFR 1026) –Subpart B
+Open-End Credit -
+(Allows borrowers to continually adjust their borrowing amount and pay back the funds they have
+used over an indefinite period of time)
+Same as Home Equity Line of Credit (HELOC)
+A revolving account secured by the equity in real property
+Early Disclosures (Due at time of application)
+• Application Disclosure
+• HELOC Brochure
+Tax Deductibility
+• A consumer must consult a tax advisor regarding the deductibility of interest and charges for the HELOC Account.
+• An MLO is acting outside the scope of his or her authority if tax advice or any other specialized advice outside of
+mortgage loan origination is provided.
+The annual percentage rate includes only interest and no other costs.
+Closed-End Credit
+(Allows borrowers to obtain a fixed sum of money that must TILA
+be paid back by a designated point in time)
+Truth-in-Lending Act
+The two major disclosure requirements are:
+(12 CFR 1026) –Subpart C
+▪ the finance charge (the dollar amount the extension of credit will cost the
+Regulation Z
+borrower) and
+▪ the annual percentage rate (the cost of the financing annualized over the life of
+the loan).
+Closed-End Disclosures
+The creditor must disclose the following information for each transaction, as
+applicable:
+o Creditor - The identity of the creditor making the disclosures
+o Amount Financed
+o Itemization of Amount Financed
+o Finance Charge – “The dollar amount the credit will cost you”
+o Annual Percentage Rate – “The cost of your credit as a yearly rate.”
+o Variable-Rate
+o Payment Schedule
+o Total of Payments
+o Any Demand Feature
+o Total Sale Price
+Closed-End Credit
+TILA
+The two major disclosure requirements are:
+• the finance charge (the dollar amount the extension of credit will cost the borrower)
+Truth-in-Lending Act
+• the annual percentage rate (the cost of the financing annualized over the life of the
+(12 CFR 1026) –Subpart C
+loan).
+Regulation Z
+Closed-End Disclosures
+The creditor must disclose the following information for each transaction, as applicable:
+o Prepayment - Loan documents that disclose the prepayment penalty are the TIL
+disclosure, Good Faith Estimate, HUD1, Loan Estimate, Closing Disclosure and the
+Note
+o Late Payment
+o Security Interest-The fact that the creditor has or will acquire a security interest in
+the property purchased as part of the transaction
+o Insurance and Debt Cancellation
+o Certain Security Interest Charge
+o Contract Reference
+o Assumption Policy - In a residential mortgage transaction, a statement whether or
+not a subsequent purchaser of the dwelling from the consumer may be permitted to
+assume the remaining obligation on its original terms (Applies to gov’t loans only)
+o Required Deposit
+TILA Regulation Z
+Truth-in-Lending Act
+(12 CFR 1026.19) –Subpart C
+Variable Rate Transactions
+Same as Adjustable-Rate Mortgage (ARM)
+If the annual percentage rate may increase after consummation in a transaction secured by any consumer dwelling with
+a term greater than one year, the following disclosures must be provided at the time an application form is provided or
+before the consumer pays a nonrefundable fee, whichever is earlier.
+Required Disclosures (within 3 business days)
+• Consumer Handbook on Adjustable-Rate Mortgages (CHARM)
+• Loan Program disclosure
+TILA
+Regulation Z
+Truth-in-Lending Act
+(12 CFR 1026.22) –Subpart C
+Annual Percentage Rate (APR)
+A measure of the cost of credit, expressed as a yearly rate
+A creditor must ensure the APR is accurate by meeting the following conditions:
+▪ annual percentage rate is accurate if it is not more than 1/8 of 1 percentage point above or below the annual
+percentage rate determined for regular transactions (fixed rate products).
+Ex. MLO discloses to a borrower a particular APR associated with a $100,000 loan amount; then the MLO adds
+additional fees of $100 to the Loan Estimate resulting in a changes to the APR. Since the $100 is less than 1/8 of 1
+percentage point (.00125 x $100,000 = $125) from the initial APR, the APR is still accurate and the MLO would not
+have to redisclose the new APR to the borrower.
+▪ annual percentage rate is accurate if it is not more than 1/4 of 1 percentage point above or below the annual
+percentage rate determined for irregular transactions (adjustable-rate products).
+NOTE: Regular transactions are fixed rate products. Irregular transactions are adjustable rate products.
+TILA
+Regulation Z
+Truth-in-Lending Act
+(12 CFR 1026.23) –Subpart C
+Right of Rescission
+▪ Applies to refinance transactions only for a primary dwelling (owner-occupied)
+▪ Each borrower (e.g. husband or wife) whose ownership has the right to rescind the transaction.
+▪ A borrower may exercise the right to rescind until midnight of the third business day.
+(Business day is based on Mailbox Rule which is any day excluding Sundays and legal public holidays).
+▪ When more than one borrower in a transaction has the right to rescind, the right by either borrower becomes effective
+for all borrowers.
+▪ A creditor must deliver two copies of the notice of the right to rescind to each consumer entitled to rescind (one copy
+to each if the notice is delivered in compliance with provisions of the E-Sign Act).
+▪ Within 20 calendar days after receipt of a notice of rescission, the creditor must:
+o return any money or property that has been given to anyone, and
+o take any action necessary to reflect the termination of the security interest.
+▪ If borrower does not receive the required notice, then the right to rescind will expire three years after consummation.
+▪ Notice can be given via:
+o mail
+o electronic transmission (email),
+o delivered to the creditor's designated place of business.
+TILA Regulation Z
+Truth-in-Lending Act
+(12 CFR 1026)
+Recordkeeping – 2 years
+Individual Action
+Closed-end Transaction –
+o Minimum $400 and maximum $4,000
+Class Action
+o Amount allowed by the court
+o No minimum per member
+o Total recovery – lessor of $1,000,000 or 1% of net worth
+TILA Regulation Z
+Truth-in-Lending Act
+(12 CFR 1026.25)
+Inspection
+Creditor must permit inspection by regulatory authority
+Closing Disclosures
+o Retain closing disclosure related documents for five years
+o If owner transfers or sells interest in a mortgage loan covered under TRID, the owner or servicer must retain
+disclosures for the remainder of the five years
+o CFPB has right to require copies of records related to the disclosures
+HOEPA Regulation Z
+Home Ownership Equity Protection Act
+(12 CFR 1026.32)
+Purpose
+ addresses certain deceptive and unfair practices in home equity lending
+ establishes requirements for certain loans with rates and fees above a certain threshold
+ Known as TILA Section 32
+ Referred to as Section 32 Mortgages or High-Cost loans
+Coverages and Exclusions
+HOEPA includes:
+Purchase-money mortgages
+o
+Refinances
+o
+Closed-end home equity loans
+o
+Open-end (HELOCS)
+o
+HOEPA Excludes
+Reverse mortgages
+o
+Construction loans
+o
+HOEPA Regulation Z
+Home Ownership Equity Protection Act
+(12 CFR 1026.32)
+Thresholds
+HOEPA has three tests to determine if a mortgage exceeds the HOEPA thresholds:
+ The APR (uses the Average Prime Offer Rate (APOR) as a basis for this threshold)
+ The Points and Fees
+ The Pre-payment Penalty
+HOEPA excludes
+ Reverse mortgages
+ Construction loans
+HOEPA Regulation Z
+Home Ownership Equity Protection Act
+(12 CFR 1026.32)
+APR Coverage Test
+A loan is a high cost mortgage if the APR calculated with the locked-in rate exceeds the Average Prime
+Offer Rate (APOR)* (which is an average of the APRs of prime borrowers in the United States during the
+previous week) by more than:
+6.5% on a first lien
+o
+8.5% on a first lien less than $50,000
+o
+8.5 % on a junior lien transaction
+o
+NOTE "Average Prime Offer Rate" means an annual percentage rate for “A” prime rated consumers who
+closed on their loans last week. The Federal Reserve Board (Board) publishes the APOR weekly. Lender uses
+this number to establish the threshold for the current week.
+HOEPA Regulation Z
+Home Ownership Equity Protection Act
+(12 CFR 1026.32)
+APR Coverage Test Example
+6.5% on a first lien
+o
+8.5% on a first lien less than $50,000
+o
+8.5 % on a junior lien transaction
+o
+Let’s assume the APOR last week was 3%, add 6.5% to get 9.5%, the APR threshold for a first lien. If an MLO has a
+borrower whose APR for their first lien loan exceeds 9.5%, then they would have a high-cost loan. If a borrower has a
+second lien loan that exceeds 11.5%, then they would have a high-cost loan.
+>
+6.5% + 3% = 9.5% (APR Threshold)
+(1st Lien) (APOR)
+8.5% + 3% = 11.5% (APR Threshold)
+(2nd Lien) (APOR)
+HOEPA Regulation Z
+Home Ownership Equity Protection Act
+(12 CFR 1026.32)
+Points and Fees Test (For 2023)
+A loan is a high-cost mortgage if the points and fees exceed the following thresholds:
+5% of the loan amount for loans equal to or greater than $24,866
+8% of the total loan amount, or $1,243 , for loan amounts less than $24,866
+Pre-payment Penalty Test
+A transaction is a high-cost mortgage if a prepayment penalty is charged for:
+More than 36 months after closing
+o
+An amount more than 2% of the amount prepaid
+o
+HOEPA Regulation Z
+Home Ownership Equity Protection Act
+(12 CFR 1026.32)
+Homeownership Counseling Requirements
+ Before making a “high cost mortgage” the consumer must produce written evidence that they received home
+ownership counseling.
+ The homeownership counselor cannot be affiliated with or employed by a MLO’s organization.
+ MLOs cannot steer the consumer to a particular counseling agency.
+ The consumer must have received the Loan Estimate before the counseling session.
+ A list of homeownership counselors must be provided to all federally related loan applications within 3 days of
+receiving the application.
+ Maximum 30 days old for homeownership list which can be found on CFPB and HUD websites.
+ Minimum of 10 counseling agencies on list
+NOTE: MLOs may pay the counseling fee for the consumer, but may not condition payment on the consumer getting
+the high cost loan.
+HOEPA Regulation Z
+Home Ownership Equity Protection Act
+(12 CFR 1026.32)
+Prohibited Acts or Restrictions on High-Cost Mortgages
+ Cannot charge a fee to modify, renew, defer, extend, or amend a high-cost mortgage.
+ Late fee is limited to 4% of the past due payment.
+ Most fees for payoff statements are banned.
+ Points and fees cannot be financed into the loan.
+ No negative amortization (interest must be covered).
+ No rate increase after default.
+ No paying a contractor directly from the proceeds of a high-cost loan.
+ Refinancing a high-cost mortgage into another high-cost mortgage within one year after having extended credit.
+ All loans must meet the ability-to-repay requirements under the Dodd Frank Act.
+ A borrower must receive a notice, three business days before consummation, that they are:
+not obligated to continue with the loan and
+o
+can cancel.
+o
+ Generally, a balloon mortgage must not be less than 5 years.
+HPML Regulation Z
+Higher Priced Mortgage Loan
+(12 CFR 1026.35)
+Purpose Not the same as HOEPA
+ addresses certain mortgages with higher than average terms
+ establishes requirements for certain loans with rates and fees above a certain threshold
+ More expensive than a mortgage with average terms; additional protections apply
+ Known as TILA Section 35
+ Referred to as Section 35 Mortgages or High-Priced loans
+Coverages and Exclusions
+HPML includes:
+Purchase-money mortgages
+o
+Refinances
+o
+Closed-end home equity loans
+o
+Open-end (HELOCS)
+o
+HPML Excludes
+Reverse mortgages
+o
+Construction loans
+o
+HPML Regulation Z
+Higher Priced Mortgage Loan
+(12 CFR 1026.35)
+APR Coverage Test Example
+1.5% on a first lien
+o
+2.5% on a jumbo loan
+o
+3.5 % on a second lien
+o
+Let’s assume the APOR last week was 3%, add 1.5% to get 4.5%, the APR threshold for a first lien. If a MLO has a
+borrower whose APR for their first lien loan is greater than or equal to 4.5%, then they would have a higher-priced
+loan. If a borrower has a second lien loan that is greater than or equal to 6.5%, then they would have a higher priced
+loan.
+≥
+1.5% + 3% = 4.5% (APR Threshold)
+(1st Lien) (APOR)
+3.5% + 3% = 6.5% (APR Threshold)
+(2nd Lien) (APOR)
+HPML Regulation Z
+Higher Priced Mortgage Loan
+(12 CFR 1026.35)
+HPML Requirement to Escrow for Property Taxes and Insurance
+A creditor may not:
+ extend a higher-priced mortgage loan secured by a first lien on a consumer's principal dwelling unless an escrow
+account is established before consummation
+(Escrows include property taxes and premiums for property-related insurance required by the creditor)
+HPML Regulation Z
+Higher Priced Mortgage Loan
+(12 CFR 1026.35)
+Escrow Account Cancellation
+A creditor may cancel upon the earlier of:
+ Termination of the debt
+ Consumer request cancellation after 5 years
+Delayed Cancellation
+A creditor may not cancel an escrow account upon request unless:
+ The unpaid principal balance is less than 80% of the original value securing the property
+ The consumer is current on the mortgage
+HPML Regulation Z
+Higher Priced Mortgage Loan
+(12 CFR 1026.35)
+HPML Appraisal Requirements
+A creditor may not extend credit on a Higher Priced Mortgage Loan without first obtaining a written appraisal of the
+interior and exterior of the property.
+Additional appraisal required when:
+ The seller acquired the property within 90 days of the consumer’s agreement to purchase and the price exceeds
+the acquisition price by more than 10% .
+ The seller acquired the property 91-180 days prior to the date the consumer agreed to purchase and the
+acquisition price is exceeded by more than 20% .
+ Lender must pay for the additional appraisal. Appraisal Exemption
+(2023)
+Exemption from secondary appraisal requirement $31,000
+A second appraisal is not required if:
+ A loan is a Higher Priced Mortgage Loan and is also a qualified mortgage (QM).
+NOTE: Appraisal copies are provided at no charge to the consumer.
+HPML Regulation Z
+Higher Priced Mortgage Loan
+(12 CFR 1026.35)
+Pre-payment Penalties
+ Pre-payment penalties are limited to the first 2 years.
+ No pre-payment penalty is allowed if the rate can change anytime within the first 4 years of the loan.
+All HOEPA loans that exceed the HOEPA APR threshold are also HPML loans and are subject to both TILA section 32 and
+HPML section 35 requirements
+HPML Regulation Z
+Higher Priced Mortgage Loan
+(12 CFR 1026.35)
+Exemptions for Escrow Account Requirements
+Under specific conditions, and for some loans, escrows or impounds are NOT required. They include:
+ A transaction secured by shares in a cooperative.
+ A transaction to finance the initial construction of a dwelling.
+ A temporary or “bridge” loan with a loan term of twelve months or less
+ A reverse mortgage transaction
+ Insurance premiums secured by dwellings in condominiums, planned unit developments, or other common interest
+properties.
+ During any of the three preceding calendar years, the creditor extended:
+more than 50% of its total transactions secured by a first lien, in “rural” or “underserved” areas
+o
+originated 500 or fewer covered transactions, as defined by being secured by a first lien.
+o
+ As of the end of the preceding calendar year, the creditor had total assets of less than $2,000,000,000
+ Neither the creditor nor its affiliate maintains an escrow account of the type for any extension of consumer credit
+secured by real property or a dwelling that the creditor or its affiliate currently services.
+ATR Regulation Z
+Ability to Repay/QM
+(12 CFR 1026.43)
+Mandated by Dodd Frank
+Regulatory Authority: CFPB
+ATR determined by borrower meeting 8 Factors. Qualified Mortgage (QM) presumes ATR met.
+1. Expected income and assets (exclude value of the property securing the loan).
+2. Employment status
+3. Mortgage payments considering:
+(a) The fully indexed rate or introductory rate, whichever is higher
+(b) Fully amortized payments
+4. Simultaneous loans on same dwelling
+5. Monthly payments for taxes, insurance and homeowners assoc. fees (P.I.T.I.)
+6. Current debt obligations including alimony and child support including:
+(a) Installment debt
+(b) Revolving debt
+(c) Existing mortgages not being paid off
+7. Debt- to-Income ratio and residual income
+8. Credit history
+ATR Regulation Z
+Ability to Repay/QM
+(12 CFR 1026.43)
+Qualified Mortgage
+Definition Types
+Features/Limitations
+ No risky features  General
+ No negative
+ Assumes ATR met  Seasoned All creditors
+amortization
+ Small
+ No interest only
+Creditor Rural Areas
+ Max term: 30 yrs
+ Balloon Only
+ Points & Fees: 3%
+Seasoned QM (Held for 36 mths)
+General QM
+Eligibility + Safe Harbor criteria:  Qualify w/ max. rate in 5 years
+ First lien w/ max 30-year term  Limits based on loan’s pricing
+ Fixed rate, 360/360, no balloons
+(A first lien ≥ $124,331 APR may not be
+ Not subject to HOEPA
+> APOR + 2.25%)
+ Max 3% fees  360/360
+ Verify and document qualifying info
+(income, credit, DTI)
+ Max 2-30-day lates; no 60-day lates
+ATR
+Regulation Z
+Ability to Repay/QM
+SAFE Harbor vs Non-SAFE Harbor
+ QM (met 8 factors)  QM (met 8 factors)
+ Not a HPML  Is a HPML
+Means Means
+• Presumes QM met • Open for dispute
+• Borrower cannot sue • Borrower can sue
+Penalty Higher Priced Mortgage Loans (HPML) – Rebuttable Presumption
+If a consumer can prove in court that the loan
+• Exceeds the APOR by 1.5% APR or more for a 1st lien loan
+did not meet ATR requirements the consumer is
+• Exceeds the APOR by 3.5% APR or more for a 2nd lien loan
+entitled to:
+Average Prime Offer Rate (APOR) is the average of all APR rates in
+• 3 times the finance charges plus attorney fees
+the US for the previous week, published the next week.
+• Maximum period to file a claim is 3 years
+Determination if the loan is a HPML loan occurs when the rate is
+locked.
+TILA Regulation Z
+Truth-in-Lending Act Summary
+(12 CFR 1026)
+Terms
+Purpose
+Consummation - When the promissory note is signed
+Addresses the Cost of Financing
+Business day - A day on which the creditor's offices are open to the
+Coverages public
+Mailbox Rule - All calendar days except Sundays and the legal public
+Applies to each individual or business that offers
+holidays
+or extends credit when key conditions are met:
+Prepaid finance charge - Any finance charge paid separately in cash or
+1. The credit is offered or extended to
+by check before or at consummation of a transaction, or withheld
+consumers
+from the proceeds of the credit at any time
+2. The credit is subject to a finance charge or is
+Finance Charge – “The dollar amount the credit will cost you”
+payable by a written agreement in more than
+Annual Percentage Rate – “The cost of your credit as a yearly rate”
+four installments
+3. The credit is primarily for personal, family or
+household purposes
+Adjustable-Rate Mortgage Recordkeeping
+-
+Loan Types
+Consumer Handbook on Adjustable- 2 years (up to 5 for some
+Open-end Credit (HELOC) Rate Mortgages (CHARM) docs)
+Closed-end Credit

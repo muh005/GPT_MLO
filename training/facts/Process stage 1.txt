@@ -1,0 +1,103 @@
+Chapter Introduction
+At this point in our journey, the loan originator has completed the application except for the
+property address, and the results from the automated underwriting have been received. The
+borrower brought supporting documents to the interview and copies of the supporting
+documents were made by the mortgage loan originator, and the originals were returned to the
+borrower. The processor will now enter the picture as the person who verifies the information
+and documents the borrower has provided. The processor can be an employee of the mortgage
+broker and or the mortgage lender. If a processor is an employee, the following standards must
+be met for the processor to be exempt from the licensing requirements for loan origination:
+▪ Perform only clerical and support activities for a single entity
+▪ Be an employee of a licensed mortgage lender or mortgage broker
+▪ Be paid on a W2 basis
+▪ Be supervised by a registered or licensed mortgage loan originator through the NMLS
+▪ Take no loan applications
+▪ Does not negotiate rates and terms
+▪ Does not represent to the public in any way that they are involved in the origination
+process
+1
+Edition v.01072020 | Ameritrain Mortgage Institute | All Rights Reserved
+Processor as Independent Contractor
+If a processor is an independent contractor they would not meet the standards of an employee
+because they are not paid on a W2 basis, are not supervised by a mortgage loan originator, and
+represent multiple entities.
+Independent contract processors must meet all the requirements of a licensed mortgage
+originator. Even though the processor does not originate loans they would be required to meet
+those standards. We will address the specific standards for loan origination later in this course.
+Administration and Verification
+The mortgage loan processor's function is crucial as it is in this capacity that the processor verifies
+borrowers' information as part of a mortgage loan file in preparation for an underwriter to review.
+The underwriter will make the final decision on behalf of the lender if there will be a loan
+commitment and ultimate funding of the loan. The processing function is considered administrative
+and involves the collection, application, evaluation of information provided, requesting missing
+items and ordering additional services. The processing function is more operational and less sales
+oriented. In fact, the processor should only be involved in the overall process after loan origination.
+Processing occurs after the mortgage loan originator receives the application information. The
+processor ensures that the collected information has integrity by confirming the following:
+2
+Verifications
+Verification of Employment
+The verification of employment must cover at least two (2) years of stable employment for a job that does not
+have a definitive ending date. The Fannie Mae form is the official verification of employment form provided to
+the employer to verify employment. The borrower's employer must complete the form and return it to the
+processor. Underwriting guidelines do not allow the borrower or any interested third party to deliver this
+document to the processor or lender.
+▪ 2 years stable and 3 years of continuance
+The verification of employment is to cover at least the most recent two (2) years of stable income for
+employment that does not have a definitive ending date. If the income has a specific end date, such as
+social security or child support, then the income must meet the 3-year continuance test. A lender will use
+the awards letter for social security and any decree requiring the payment of child support to determine if
+those benefits are allowable for income purposes. Generally, any income associated with a child will
+typically end at age 18. The processor will not use the income as qualifying income for a child who is already
+15 years old at the time of the application. Qualifying income is the monthly gross income that includes
+social security, Medicare, and withholding taxes.
+▪ Non-taxable income
+If the income is confirmed as nontaxable and its tax-exempt status is likely to continue, the lender may
+make an adjustment for tax purposes. Under this scenario, the lender will develop an “adjusted gross
+income” for the borrower by adding an amount equivalent to 25% of the nontaxable income to the
+borrower’s income. Essentially, the new adjusted income will become equivalent to gross income before
+taxes are deducted.
+▪ Tax returns to verify income
+If the borrower’s income is considered self-employed, then the most recent two (2) years of tax returns are
+required.
+▪ Other documents
+o The most recent 30 days of paystubs
+o The most recent 2 years of W2s
+Verification of rental
+Borrowers who do not already own a home are qualified based on rental history. The processor will verify the
+most recent 12 months of rental history.
+3
+Verifications
+Verification of Rental
+▪ Borrowers who do not already own a home are qualified based on rental history. The processor will verify
+the most recent 12 months of rental history
+Verification of Mortgage
+▪ Borrowers who already own a home are qualified based on their mortgage payment history. The processor
+will verify the most recent 12 months of mortgage payments.
+Verification of Assets
+▪ The main verification of assets is cash assets found on a bank statement. The processor will verify the most
+recent 60 days of bank statements. If there has been an average balance that is still reflected in the account
+for the past 60-days, the funds are considered seasoned and are generally accepted. Any large deposits or a
+current balance that is substantially greater than the average balance will need to be sourced and verified.
+▪ Once these verifications have been completed the processor will verify that the collected information
+supports the data used to receive a preliminary approval provided by the automated underwriting system
+(AUS). Sometimes there are missing pieces of information such as a paystub or W2. In those cases, since the
+loan has already been originated the processor can contact the borrower to collect any missing documents
+or get updated or correct information that was provided in error or not collected. The processor will use
+third party sources, such a payroll services and public records, as part of the verification process. Unless the
+processor can verify information provided is accurate the underwriter will not receive the file as any loan
+approval decision would be based on inaccurate information.
+4
+Preapproval Letter
+The processor and mortgage loan originator work together with the borrower to ensure that all outstanding
+conditions to complete the application and verification documents are cleared.
+Preapproval letter
+Now that we have completed the verification process and have verified that the borrower meets the basic
+approval requirements, it is time to find a real property that will fit within the parameters of the borrower’s
+approval . To begin the house hunting process, the lender will issue the borrower a preapproval letter. A
+preappro val letter is provided to the borrower with the qualifying details to allow the borrower to begin the
+home pu rchase process. The letter will provide the real estate agent the needed security that they are working
+with a bo rrower that has already been preapproved.
+The processor will now wait for the real estate contract to complete the last outstanding item for the loan
+application.
+5

@@ -1,0 +1,253 @@
+RESPA Regulation X
+Real Estate Settlement Procedures Act
+(12 CFR 1024)
+REX-SPA
+Regulatory Authority
+Originally under Housing and Urban Development (HUD)
+Transferred to Consumer Financial Protection Bureau (CFPB)
+RESPA Regulation X
+Real Estate Settlement Procedures Act
+(12 CFR 1024)
+Purpose:
+1. Disclosure of the cost of services
+2. Anti-referral and kickbacks (RESPA Section 8)
+Coverages:
+1. Federally related loans
+2. Secured with a mortgage or security instrument
+3. 1 to 4 family residential properties
+RESPA Regulation X
+Real Estate Settlement Procedures Act
+(12 CFR 1024)
+RESPA DISCLOSURES
+Good Faith Estimate - an estimate of fees; cost of services
+Timing – Must provide to borrower within 3 business days after receiving the
+o
+application
+HUD 1 Settlement Statement – itemizes the cost to settle loan transaction at closing
+Special Information Booklet – explains the GFE and HUD 1
+NOTE: The terms "settlement" and "closing" can be and are used interchangeably under
+RESPA and within the mortgage industry.
+RESPA Regulation X
+Real Estate Settlement Procedures Act
+(12 CFR 1024)
+TILA-RESPA Integrated Rule (TRID) Amendment:
+(RESPA 4) – HUD 1 Settlement Statement Provide to borrower if a creditor:
+(RESPA 5) – Good Faith Estimate • makes 5 or fewer loans annually or
+• makes reverse mortgages
+Considered RESPA Disclosures
+Provide to borrower if a creditor:
+Loan Estimate (LE)
+(Merger of GFE + Early Truth-in-Lending Discl.) • makes 6 or more loans annually
+Closing Disclosure (CD)
+(Merger of HUD 1 + Final Truth-in-Lending Discl.)
+Considered TRID Disclosures
+RESPA Regulation X
+Real Estate Settlement Procedures Act
+(12 CFR 1024)
+Other RESPA DISCLOSURES
+Affiliated Business Arrangement (AfBA) - provide at the time of referral with whom the referring party has:
+ a greater than 1% ownership
+ other beneficial interest
+ an associate relationship, meaning the transaction would not qualify as “arms-length”
+Sham Affiliate
+It is a business relationship created between settlement service providers for the sole purpose of splitting
+fees. When splitting of fees occurs when no service is provided, it is a violation of RESPA Section 8
+Seller Required Title Insurance - RESPA prohibits a seller from requiring the home buyer to use a particular
+title insurance company
+RESPA Regulation X
+Real Estate Settlement Procedures Act
+Other RESPA DISCLOSURES
+(12 CFR 1024)
+Servicing Disclosure
+Term or Phrase Definition Under RESPA
+Master Servicer The owner of the right to perform servicing, which may actually perform
+the servicing itself or may do so through a subservicer.
+Mortgage servicing loan A federally-related mortgage loan, when the mortgage loan is secured by a
+first lien. The definition does not include subordinate lien loans or open-
+end lines of credit (home equity plans) covered by the Truth in Lending Act
+and Regulation Z, including open-end lines of credit secured by a first lien.
+Qualified written request A written correspondence from the borrower to the servicer.
+Subservicer A servicer who does not own the right to perform servicing, but who does
+so on behalf of the master servicer.
+Transferee servicer A servicer who obtains or who will obtain the right to perform servicing
+functions pursuant to an agreement or understanding.
+Transferor servicer A servicer, who transfers, or will transfer, the right to perform servicing
+functions pursuant to an agreement or understanding.
+Service release premium The fee earned for selling the rights to service a residential real estate loan.
+(SRP)
+RESPA Regulation X
+Real Estate Settlement Procedures Act
+(12 CFR 1024)
+Other RESPA DISCLOSURES
+Servicing Disclosure - required within three business days of receiving a loan application
+for a mortgage servicing loan. Is part of the loan estimate.
+ Must indicate whether the servicing of the loan may be assigned, sold or transferred
+to any other person at any time while the loan is outstanding
+• Each transferor servicer and transferee servicer of any mortgage servicing loan shall
+deliver to the borrower a written Notice of Transfer, of any assignment, sale, or
+transfer of the servicing of the loan.
+RESPA Regulation X
+Real Estate Settlement Procedures Act
+(12 CFR 1024)
+Other RESPA DISCLOSURES
+Servicing Disclosure - required within three business days of receiving a loan application for a mortgage servicing loan.
+Is part of the loan estimate.
+Timing (Delivery of Notice of Transfer) – 15-day Notice
+• The transferor must deliver notice to the borrower no less than 15 days before the effective date of the transfer of
+the servicing of the mortgage servicing loan
+• The transferee must deliver the notice to the borrower no more than 15 days after the effective date of the transfer
+Consumer protection during transfer of servicing
+• If during the 60-day period beginning on the effective date of transfer a servicer receives payment on or before the
+applicable due date:
+o a late fee may not be imposed on the borrower with respect to that payment
+o the payment may not be treated as late for any other purposes
+RESPA Regulation X
+Real Estate Settlement Procedures Act
+(12 CFR 1024)
+Other RESPA DISCLOSURES
+Servicing Disclosure - required within three business days of receiving a loan application for a mortgage servicing loan.
+Is part of the loan estimate.
+Duty of loan servicer to respond to borrower inquiries
+• 5 business days – a servicer must acknowledge a qualified written request (QWR) from a borrower
+• 30 business days – a servicer must take action on a qualified written request from a borrower
+• 60 business days – a servicer may not provide adverse information regarding any payment that is the subject of the
+qualified written request to any consumer reporting agency.
+A servicer must notify a borrower of any delinquency by the 36th day of the delinquency on the loan payment.
+A servicer must make payments from the escrow account in a timely manner for the taxes, insurance premiums and
+other charges as the payments become due.
+RESPA Regulation X
+Real Estate Settlement Procedures Act
+(12 CFR 1024)
+Other RESPA DISCLOSURES
+Servicing Disclosure - required within three business days of receiving a loan application for a mortgage servicing loan. Is
+part of the loan estimate.
+Damages
+ Individuals – may not exceed $1,000 per individual
+ Class Actions –
+o may not exceed $1,000 for each class member
+o the total amount of any additional damages in a class action may not exceed the lesser of $500,000, or 1% of the
+net worth of the servicer.
+Penalties for Failure to Submit Initial or Annual Escrows
+ a civil penalty of 75 dollars ($75)
+ total of the assessed penalties may not exceed $130,000 for any one servicer for violations that occur during any
+consecutive 12-month period.
+RESPA Regulation X
+Real Estate Settlement Procedures Act
+Other RESPA DISCLOSURES
+(12 CFR 1024)
+Escrow Disclosure
+RESPA Regulation X
+Real Estate Settlement Procedures Act
+(12 CFR 1024)
+Other RESPA DISCLOSURES
+Initial Escrow Statement – itemizes the estimated taxes, insurance premiums and other charges anticipated to be paid
+from the Escrow Account during the first twelve months of the loan. Must be provided:
+at closing or
+o
+no later than 45 days after closing.
+o
+Annual Escrow Statement – Establishes the status of the escrow account. Determines if the account is over or short.
+Must be provided:
+within 30 days of the end of the calendar year.
+o
+RESPA Regulation X
+Real Estate Settlement Procedures Act
+(12 CFR 1024)
+RESPA Section 8 -
+Prohibition Against Kickbacks & Unearned Fees
+Any referral of a settlement service is NOT a compensable service
+ A business entity (whether or not in an affiliate relationship) may not pay any other business entity or the
+employees of any other business entity for the referral of settlement service business.
+ For a federally-related mortgage loan, payments may only be received for services actually performed.
+ The term payment is synonymous with the giving or receiving any "thing of value”, and does not require transfer of
+money.
+RESPA permits –
+• An employer's payment to his or her own employees for any referral activities
+Examples of service providers (federally related mortgage loans):
+Attorney, Real Estate Agent, MLO, Appraiser, Surveyor, Title Insurance Agent, etc.
+RESPA Regulation X
+Real Estate Settlement Procedures Act
+(12 CFR 1024)
+RESPA Section 8 -
+Prohibition Against Kickbacks & Unearned Fees
+Referral fees - No person may give and no person may accept any fee, kickback or other thing of value
+Thing of Value – For example, monies, things, discounts, services of all types at special or free rates, sales or rentals at
+special prices or rates, trips and payment of another person's expenses, or reduction in credit against an existing
+obligation
+Agreement or Understanding - need not be written or verbalized but may be established by a practice, pattern or
+course of conduct.
+High Prices - the payment of a thing of value bears no reasonable relationship to the market value of the goods or
+services provided
+Multiple Services - payment for providing additional settlement services as part of a real estate transaction, such
+payment must be for services that are actual, necessary and distinct from the primary services provided
+RESPA Regulation X
+Real Estate Settlement Procedures Act
+(12 CFR 1024)
+RESPA Section 8 -
+Prohibition Against Kickbacks & Unearned Fees
+Violations of Section 8
+Penalty – 1 year in prison
+Fines – $10,000
+or both
+Civil lawsuits
+1 Year –
+Timeframe individuals have to bring a private law suit to enforce violations of Section 8 or 9.
+o
+3 Years –
+Timeframe a person may bring an action for violations of Section 6.
+o
+Timeframe HUD, a State Attorney General or State insurance commissioner may bring an injunctive action to
+o
+enforce violations of Section 6, 8 or 9 of RESPA
+Recordkeeping – 5 years
+RESPA Regulation X
+Real Estate Settlement Procedures Act
+(12 CFR 1024.17)
+Forced Placed Insurance
+“Force-placed insurance” means hazard insurance obtained by a servicer on behalf of the owner or assignee of a
+mortgage loan that insures the property securing such a loan.
+Basis for Charging Borrower for Force-Placed Insurance
+A servicer may not assess on a borrower a premium charge or fee related to forced-placed insurance unless the servicer
+has a reasonable basis to believe that the borrower has failed to comply with the mortgage loan contract's requirement
+to maintain hazard insurance.
+Before a servicer can assesses a borrower any premium charge or fee related to forced-placed insurance, the servicer
+must:
+▪ Deliver to a borrower or place in the mail a written notice at least 45 days before a servicer assesses on a borrower
+such charge or fee.
+▪ If no evidence that the insurance is in place, the creditor may deliver a second notice 15 days after the initial notice.
+RESPA Regulation X
+Real Estate Settlement Procedures Act
+(12 CFR 1024.41)
+Loss Mitigation
+Prohibition on Foreclosure
+A servicer may not make the first notice or filing required by applicable law for any judicial or non-judicial foreclosure
+process unless:
+▪ A borrower's mortgage loan obligation is more than 120 days delinquent;
+▪ The foreclosure is based on a borrower's violation of a due-on-sale clause; or
+▪ The servicer is joining the foreclosure action of a subordinate lienholder
+RESPA Regulation X
+Real Estate Settlement Procedures Act Summary
+(12 CFR 1024)
+Disclosures
+Servicer to respond to borrower inquiries
+GFE – provide within 3 business days
+HUD1 – provide at closing (settlement)  5 business days – acknowledge a qualified written request
+AfBA – provide at the time of the referral (QWR)
+Servicing – provide within 3 business days
+ 30 business days –take action on a QWR
+Escrow – provide:
+ 60 business days –may not provide adverse information
+initial at closing or within 45 days of closing
+o
+annual – within 30 days of calendar year regarding QWR to any consumer reporting agency.
+o
+Delinquency
+RESPA Section 8
+(Prohibition against kickbacks and unearned fees)  36th day - notify a borrower of any delinquency
+ Referral fees
+ Thing of Value Violations of Section 8 Recordkeeping
+ Agreement or Understanding
+Penalty – 1 year in prison 5 years
+ High Prices
+Fines – $10,000 or both
+ Multiple Services

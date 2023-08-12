@@ -1,0 +1,195 @@
+FHA
+MORTGAGE
+LOANS
+FHA, a brief history
+
+FHA Underwriting
+
+FHA Loan Types
+
+FHA and Insurance
+
+FHA Qualification and Closing
+
+1
+Edition v.12012022 | Ameritrain Mortgage Institute | All Rights Reserved
+FHA, a brief history…
+The Federal Housing Administration (FHA) was
+created by the National Housing Act of 1934 to
+provide affordable housing opportunities for
+borrowers and to provide protections to lenders
+who funded these loans.
+Prior to the introduction of the FHA, affordable
+financing was not available. This in turn limited
+consumer participation in residential mortgage
+financing.
+FHA, unlike Fannie Mae, does NOT purchase
+loans, instead FHA insures loans by covering a
+lender’s loss in the event of a borrower’s
+default.
+In 1965 the Department of Housing and Urban
+Development was created as a cabinet level
+department to ensure fairness in housing
+availability. FHA joined HUD in 1965.
+NOTE: Many references to FHA may also be a
+reference to HUD as it may be a HUD policy that
+is implemented within FHA.
+2
+F HA Underwriting
+FHA requires loans to meet insurance standards before insuring them. Underwriters that
+underwrite FHA loans use the Single-Family Policy Handbook 4000.1 to underwrite FHA loans.
+A copy can be found here. Be sure to save the link to your Favorites.
+3
+FHA Underwriting
+FHA loans have the following general features.
+Low down payment Allows for gift funds: Loans are assumable
+ 100% of funds needed at New borrower must
+Down payment or minimum
+closing can be a gift meet lender qualifying
+cash investment as low as
+ Must come from an standards prior to
+3.5% of the sales price
+eligible donor such as assuming the loan
+(available with credit scores
+relative, non-profit balance
+above 580)
+ Not allowed to be
+provided by the seller or
+Borrower eligibility:
+Longer terms lender
+ No age limits
+Allows 30-year financing
+ Citizens, permanent
+In most cases mortgage
+residents and non-
+insurance referred to as
+permanent residents
+More liberal underwriting
+mortgage insurance
+under certain
+requirements:
+premium (MIP) is required:
+conditions
+ Credit requirement less  Up front mortgage  Borrowers with
+stringent than insurance premium delinquent federal or
+conventional (UFMIP is paid at closing) government debts are
+ Higher housing expense  Annual mortgage generally not eligible
+ratio (front end ratio) insurance premium (MIP for FHA eligibility
+PITIA/Income = 31% is annual but paid (there are exceptions)
+ DTI ratio (back end ratio) monthly as part of PITIA)
+Debt + PITIA/Income = 43%
+Seller concessions are
+allowed toward:
+ Closing costs
+ Prepaid items
+4
+ABOUT FHA LOANS
+Section 203(b) - Insured
+Mortgage Section 203(K) -
+Rehabilitation Loan
+✓ The standard and most popular
+Section 251 - ARM loans
+FHA loan program for purchases
+✓ Allows borrowers to finance
+and refinancing of primary
+improvements into the loan
+residences. ✓ Start rate is limited to annual
+before taking possession.
+✓ A full qualifying loan where the adjustments of 1%.
+✓ A minimum of $5,000 in
+standard FHA requirements apply. ✓ Maximum rate increase over the life
+repairs is required.
+of the loan is 5%.
+FHA Loan Types
+FHA Loan Limits
+FHA loan limits are based on Metropolitan Statistical Areas (MSA). These are geographical areas,
+generally counties and/or city environments with larger populations. They may even represent
+multiple counties.
+The maximum loan amounts are based on the median range of housing costs within a county or
+MSA.
+For example: the Atlanta, Georgia MSA includes numerous cities and counties and the maximum
+loan amount published by HUD in 2023 for a single property is $472,030.
+The current national low-cost area mortgage loan limits are 65% of the conventional conforming
+loan limit for a single unit property.
+This is important because Fannie Mae will purchase FHA loans. And those maximum loan amounts
+must stay within Fannie Mae conforming guidelines.
+Here’s a link to the HUD loan limits cost lookup. Don’t forget to save to your Favorites.
+5
+FHA &
+INSURANCE
+A
+ll loan programs covered in this course have some form of
+mortgage insurance that protects the lender in the event of the
+borrower’s default.
+NOTE: The conventional mortgage insurance is known as PMI (Private
+Mortgage Insurance). This has nothing to do with FHA which refers to the
+mortgage insurance as MIP (Mortgage Insurance Premium).
+The FHA mortgage insurance program has both an upfront mortgage insurance premium (UFMIP) paid at
+closing or financed into the loan, and an annual mortgage insurance paid monthly as part of the PITIA.
+The MIP with FHA is very important because it is utilized to fund the insurance payments that are provided to
+the lenders in the event of a borrower’s default. That coverage is 100% of the lender’s loss.
+6
+FHA &
+INSURANCE
+Annual Mortgage Insurance
+Annual mortgage insurance varies and is based on the loan
+amount, loan term, and loan-to-value.
+✓ Paid monthly with the PITIA payment
+✓ Minimum annual MIP term = 11 years
+✓ Maximum annual MIP term = the loan term
+FHA Up Front Mortgage Insurance (UFMIP)
+✓ All fully qualifying purchases and refinance transactions require
+UFMIP
+✓ Cost is 1.75 % of the loan amount
+✓ Can be financed into the loan
+✓ Can be financed over the FHA loan amount limits
+o Example: Loan amount limit for the county is $275,665.
+The UFMIP is ($275,665 x 1.75%) = $4,824.14
+The max. financing includes $275,665 + $4,824.14 =
+$280,489.14
+✓ Can be paid by the seller as a concession
+✓ Can be refunded under the following condition:
+o Refinancing to another FHA loan within a 3-year period
+o Refund is prorated over a 3-year period
+7
+FHA Qualification
+& Closing
+FHA Qualifying Guidelines
+FHA (like all other loan programs) has requirements for mortgage payment and DTI ratios for
+manually underwritten loans.
+Remember these ratios are based on gross monthly income and monthly recurring debts.
+▪ Mortgage payment ratio (PITIA ÷ Income) = 31%
+▪ DTI ratio (Debt + PITIA ÷ Income) = 43%
+8
+FHA Qualification & Closing
+FHA TOTAL Scorecard FHA Credit Score
+FHA uses an automated underwriting FHA down payment requirements are
+program with a custom algorithm to tied directly to the representative
+determine the loan decision. The credit score.
+program is called the FHA TOTAL
+ Minimum credit score 580: down
+Scorecard.
+payment 3.5%
+FHA does not have an automated  Minimum credit score 500-579 :
+underwriting system (AUS) to carry the down payment 10%
+program so the TOTAL Scorecard  Credit scores below 500 are NOT
+program can be accessed through the eligible for FHA financing
+Fannie Mae DU and Freddie Mac LP
+underwriting systems.
+Seller Concessions FHA Anti-Flip Policy
+FHA will allow the seller to contribute FHA will not approve a borrower for an
+to the borrower’s closing cost and FHA loan if the seller of the property
+prepaid items: had owned the property for less than
+90 days at the time the sales contract
+ Up to 6% of the sales price
+was executed.
+ Closing costs allowable fees include
+origination fees, discount points, FHA will require the lender to request
+processing, underwriting… a second appraisal at the lender’s
+ Tax service can be paid by the seller, expense if the property is being sold
+not the borrower for 100% or more over the acquisition
+ Not towards the down payment price if the contract is entered into
+within the 91st day up to the 180th
+day after acquisition.
+9
+10

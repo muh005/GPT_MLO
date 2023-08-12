@@ -1,0 +1,111 @@
+6/15/23, 10:04 PM Courses
+Part 1: 15 Hour Portion - 10 Day Course
+8. Module 2 Quiz
+< Back Next >
+Date - 06/16/23 1:00 AM
+Total Questions: 10 | Grade Based On: Number Correct | Passing Score: 7 | Questions Correct: 10
+Question 1:
+Question:
+Fannie Mae is the standard for basic underwriting in residential real estate. The standard for stable
+employment is _______ years. The standard for continuance of non-employment forms of income
+is________ years and ________days of paystubs. For self-employed individuals the requirement is a
+minimum of_______ years of filed tax returns and a signature on the IRS form __________ to allow the
+lender to access a copy of the tax transcript.
+Answer (Correct): Two, Three, 30, two, 4506C
+Feedback: Fannie Mae is the standard for basic underwriting in residential real estate. The standard for stable
+employment is two years. The standard for continuance of non-employment forms of income is three years
+and thirty days of paystubs. For self-employed individuals the requirement is a minimum of two years of filed
+tax returns and a signature on the IRS form 4506C to allow the lender to access a copy of the tax transcript.
+Question 2:
+Question:
+For conventional conforming loans if a lender provides financing for more than 80 percent of the value of a
+property, the loan is considered risky. Under this scenario, the lender will require the borrower to purchase
+mortgage insurance to protect their investment (interest in the property) against default. Since conventional
+loans have no government involvement, the insurance is called ________. It can be automatically canceled
+when the loan reaches______ percent of the original value and termination can be requested when the loan
+reaches _______ percent of the original value. Request for termination requires a good payment history with
+no________ day late payments in the past 24 months, no ______ day late payments in the past_______
+months and the borrower must be _________ at the time of cancellation.
+Answer (Correct): PMI, 78, 80, 60, 30, 12, current
+Feedback: For conventional conforming loans if a lender provides financing for more than 80 percent of the
+value of a property, the loan is considered risky. Under this scenario, the lender will require the borrower to
+purchase mortgage insurance to protect their investment (interest in the property) against default. Since
+conventional loans have no government involvement, the insurance is called private mortgage insurance
+(PMI). It can be automatically canceled when the loan reaches 78 percent of the original value and
+termination can be requested when the loan reaches 80 percent of the original value. Request for termination
+https://ameritrain.tiltlms.com/lesson/play/progress/1310027 1/3
+6/15/23, 10:04 PM Courses
+requires a good payment history with no 60 day late payments in the past 24 months, no 30 day late payments
+in the past 12 months and the borrower must be current at the time of cancellation.
+Question 3:
+Question:
+Manually underwritten conventional loans are limited to a 28% housing payment ratio when compared to a
+borrower's gross monthly income and a total debt-to-income (DTI) of 36%. Automated underwriting system
+(AUS) uses historical data to make loan recommendations for borrower profiles that exceed the manual
+underwriting guidelines. The Fannie Mae AUS system is ______ and the Freddie Mac AUS system is
+_______.
+Answer (Correct): DU, LP
+Feedback: The Fannie Mae AUS is Desktop Underwriter (DU). The Freddie Mac AUS is Loan Prospector
+(LP).
+Question 4:
+Question:
+A Qualified Mortgage is associated with the ATR. Which of the following best defines that relationship?
+Answer (Correct): A QM has a presumption that the ATR has been met.
+Feedback: A QM is a loan that does not have risky features, such as interest-only and negative amortization.
+It presumes that the ATR has been met and that presumption is only up for a challenge if the QM is an
+HPML. A QM that is not an HPML is also considered in the Safe Harbor region which means there is the
+presumption that the ATR has been met and will hold up to a court challenge.
+Question 5:
+Question:
+Under the ECOA there are time requirements for notifying the borrower. The borrower must be notified of a
+status within ________ days of the application. Must be notified within _______ days of taking an adverse
+action and ________ days if there is a counter offer:
+Answer (Correct): 30,30,90
+Feedback: Under the ECOA there are time requirements for notifying the borrower. The borrower must be
+notified of a status within 30 days of the application. Must be notified within 30 days of taking an adverse
+action and 90 days if there is a counter offer.
+Question 6:
+Question:
+There are 4 categories of Qualified Mortgages - General, Seasoned, Balloon and Small Creditor. Which
+features are common to all and unique to the General QM category?
+Answer (Correct): No negative amortization; No interest only; Term limited to max 30 years Max fees over
+$124,331 is 3%; No maximum DTI.
+Feedback: Features common to all qualified mortgages are - No negative amortization, No interest only,
+Term limited to max 30 years, Max fees over $124,331 is 3%. The underwriting feature unique to the General
+QM is there is no maximum DTI.
+https://ameritrain.tiltlms.com/lesson/play/progress/1310027 2/3
+6/15/23, 10:04 PM Courses
+Question 7:
+Question:
+There are prohibited factors under ECOA that prevent credit decisions from being based on these factors. The
+following is not one of these factors:
+Answer (Correct): Handicapped
+Feedback: Handicapped is a prohibited factor under the FH Act not ECOA. Other prohibited factors under
+ECOA are religion, race, national origin, and income from public assistance.
+Question 8:
+Question:
+There are three fair lending laws that protect consumers. The law that addresses discrimination in any aspect
+of the credit decision and the application process is ________. The law that addresses discrimination in
+housing is_____________. The law that addresses patterns of discrimination is_____________.
+Answer (Correct): Equal Credit Opportunity Act (ECOA), Fair Housing Act (FH Act), Home Mortgage
+Disclosure Act (HMDA)
+Feedback: There are three fair lending laws that protect consumers. The law that addresses discrimination in
+any aspect of the credit decision and the application process is ECOA. The law that addresses discrimination
+in housing is the FH Act. The law that addresses patterns of discrimination is HMDA.
+Question 9:
+Question:
+The Fair Housing Act is enforced by ________ and added _________________ and ___________ in 1988.
+Answer (Correct): HUD, handicap, familial status
+Feedback: The Fair Housing Act is enforced by HUD and added handicap and familial status in 1988.
+Question 10:
+Question:
+The residential loan application is the ___________ and is also referred to as Fannie Mae form 1003. The
+section that addresses collecting information relating to ethnicity and sex is___________________ and the
+section that addresses past events, immigration status and intended use of the property
+is__________________.
+Answer (Correct): Uniform Residential Loan Application, Demographic Information and Declarations
+Feedback: The residential loan application is the Uniform Residential Loan Application (URLA) and is also
+referred to as Fannie Mae form 1003. The section that addresses collecting information relating to ethnicity
+and sex is Demographic Information and the section that addresses past events, immigration status and
+intended use of the property is Declarations.
+https://ameritrain.tiltlms.com/lesson/play/progress/1310027 3/3

@@ -1,0 +1,73 @@
+6/15/23, 9:23 PM Courses
+Part 1: 15 Hour Portion - 10 Day Course
+10. Module 3 Quiz
+< Back Next >
+Date - 06/09/23 10:54 PM
+Total Questions: 10 | Grade Based On: Number Correct | Passing Score: 7 | Questions Correct: 10
+Question 1:
+Question:
+The following identifying information is not required for the Customer Identification Program (CIP).
+Answer (Correct): Gender
+Feedback: At a minimum, the bank must obtain the following identifying information from each customer
+before opening the account. Name Date of birth for individuals Address Identification number Gender
+is not a required item.
+Question 2:
+Question:
+The Bank Secrecy Act addresses:
+Answer (Correct): money laundering
+Feedback: The Bank Secrecy Act tracks reporting of more than $10,0000 in cash to assist in avoiding money
+laundering.
+Question 3:
+Question:
+Credit scores range from:
+Answer (Correct): 300 to 850
+Feedback: The FICO scoring system is 300 - 850
+Question 4:
+Question:
+FINCEN is:
+Answer (Correct): Financial Crimes Enforcement Network
+https://ameritrain.tiltlms.com/lesson/play/progress/1310025 1/3
+6/15/23, 9:23 PM Courses
+Feedback: FinCen is the vehicle used by the FBI to publish fraud statistics
+Question 5:
+Question:
+The following item is not directly addressed by GLBA and related laws:
+Answer (Correct): Identity theft
+Feedback: Identity theft is associated directly with FACTA
+Question 6:
+Question:
+The USA PATRIOT Act has a program that is designed to provide specific information to financial
+institutions to protect against terrorism and money laundering. What is this program?
+Answer (Correct): Customer Identification Program
+Feedback: The Customer Identification Program (CIP) requires financial institutions to collect names,
+addresses and an identifying numbers, like a social security number or date of birth, for those applying for
+loans.
+Question 7:
+Question:
+The following statement is not correct relating to the Red Flag program:
+Answer (Correct): A mortgage broker is exempt from red flag requirements
+Feedback: A mortgage broker is not exempt from the Red Flag program.
+Question 8:
+Question:
+The Fair and Accurate Credit Transaction Act (FACTA) is associated with all of the following except:
+Answer (Correct): FTC created the Safeguard rule to support the provisions of FCRA
+Feedback: The Safeguard rule is associated with the GLBA, not FACTA.
+Question 9:
+Question:
+What is the Safeguard Rule?
+Answer (Correct): A rule issued by the FTC that requires companies to have measures to keep customer
+information safe
+Feedback: The Safeguard rule is a rule issued by the FTC that requires companies to have measures to keep
+customer information safe.
+https://ameritrain.tiltlms.com/lesson/play/progress/1310025 2/3
+6/15/23, 9:23 PM Courses
+Question 10:
+Question:
+A consumer reporting agency must do the following once they receive a verified call indicating fraud against
+a consumer for whom the consumer reporting agency maintains a file:
+Answer (Correct): Include a fraud alert in the file of that consumer and also provide that alert along with any
+credit score generated in using that file for a period of not less than 1 year beginning on the date of the
+request
+Feedback: Include a fraud alert in the file of that consumer and also provide that alert along with any credit
+score generated in using that file for a period of not less than 1 year beginning on the date of the request.
+https://ameritrain.tiltlms.com/lesson/play/progress/1310025 3/3

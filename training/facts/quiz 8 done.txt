@@ -1,0 +1,81 @@
+6/16/23, 2:26 PM Courses
+Part 1: 15 Hour Portion - 10 Day Course
+23. Module 8 Quiz
+< Back Next >
+Date - 06/16/23 5:18 PM
+Total Questions: 10 | Grade Based On: Number Correct | Passing Score: 7 | Questions Correct: 10
+Question 1:
+Question:
+At a meeting to complete a loan application a borrower received a quote of 6.03% APR associated with a
+mortgage transaction. On the day of settlement, the APR decreased to 4.95% APR. How would you interpret
+what has transpired with this transaction?
+Answer (Correct): Any change in APR more than .125% above or below a percent of the initial APR makes
+this loan inaccurate
+Feedback: A variance of more than 1/8th of 1% on a regular loan from the previously disclosed APR requires
+re-disclosure.
+Question 2:
+Question:
+Creditors have certain requirements under Regulation Z relating to the right to rescind. Which statement is
+incorrect relating to the creditors' responsibilities?
+Answer (Correct): The creditor must begin the process of ensuring all security interests are terminated
+including the security interest of subcontractors or suppliers within 30 days of the consumer exercising her
+right to rescind.
+Feedback: Termination of all security interest must take place within 20 days of the consumer exercising her
+right to rescind.
+Question 3:
+Question:
+A closed-end transaction under Regulation Z requires all the following disclosures EXCEPT:
+Answer (Correct): A home equity plan disclosure
+Feedback: A home equity plan disclosure is associated with an open-end transaction like a revolving account.
+Question 4:
+Question:
+https://ameritrain.tiltlms.com/lesson/play/progress/1310012 1/3
+6/16/23, 2:26 PM Courses
+Which of the following is NOT a reason for TILA?
+Answer (Correct): Governs charges for business entities
+Feedback: TILA covers financing for consumers not businesses.
+Question 5:
+Question:
+Home Equity plans under Regulation Z include the following:
+Answer (Correct): A loan for a child’s college tuition
+Feedback: All other options are business related activities. A child's college tuition is would fall under credit
+that is used primarily for personal, family or household purposes.
+Question 6:
+Question:
+A Residential Mortgage Transaction defined under Regulation Z:
+Answer (Correct): Includes a security interest in any consumer dwelling
+Feedback: TILA considers a residential mortgage transaction as a security in any consumer dwelling; not a
+commercial dwelling.
+Question 7:
+Question:
+In a transaction subject to rescission, the creditor must deliver two copies of the right to rescind to each
+consumer entitled to rescind or one copy if the notice is delivered electronically. The following statement is
+correct relating to the notice and the right to rescind:
+Answer (Correct): When a consumer rescinds a transaction the security interest giving rise to the right of
+rescission becomes void and the consumer shall not be liable for any amount including any finance charges
+Feedback: When a consumer rescinds, effectively the consumer is saying the transaction never happened.
+The consumer can't have any costs associated with something that never happened.
+Question 8:
+Question:
+Regulation Z implements the Federal Truth-in-Lending Act (TILA) under the authority of which federal
+agency?
+Answer (Correct): The Consumer Financial Protection Bureau
+Feedback: CFPB under the Dodd Frank Act is the enforcement agency over TILA or Reg Z.
+Question 9:
+Question:
+https://ameritrain.tiltlms.com/lesson/play/progress/1310012 2/3
+6/16/23, 2:26 PM Courses
+An applicant is required to pay an underwriting fee because he is financing; however, he pays cash for the
+fee. Is his underwriting fee included in the finance charge?
+Answer (Correct): Yes, because the applicant is financing
+Feedback: The reason the borrower has an underwriting fee is because he is financing. The fact that he pays
+cash for the fee is not important. The fee is included in the finance charge because he is financing. Remember,
+the finance charge is the dollar amount the credit will cost.
+Question 10:
+Question:
+Generally, in a refinance transaction on a primary residence, in which a security interest will be acquired or
+retained in any consumer dwelling, all of the following are correct EXCEPT:
+Answer (Correct): When more than one consumer has the right to rescind in a transaction all consumers are
+required to exercise their right to rescind for the rescission to be effective
+Feedback: It takes only one consumer to rescind the transaction even if multiple consumers have that right.
+https://ameritrain.tiltlms.com/lesson/play/progress/1310012 3/3

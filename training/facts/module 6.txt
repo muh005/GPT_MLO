@@ -1,0 +1,988 @@
+PE Comprehensive
+Learning Resource
+Module 6
+PE Comprehensive Course | Learning Resource | version 12012022 P ag e 1 | 33
+Ameritrain Mortgage Institute. All Rights Reserved.
+Welcome
+This course is designed for Mortgage Loan Originators and is part of the required training for a
+PE License in any state.
+How to use this Learning Resource
+The Learning Resource is designed to assist you during training. Use this tool to take notes as
+you go. You may also use it as a preparation tool for your licensing test.
+During Training
+▪ Take notes
+▪ Complete activities / exercises
+Legend:
+Icons Descriptions
+Note Place to take notes about content
+Key Points Important information to remember
+Reminders Critical benefits and information
+Activity Document, practice, demonstrate, or solve
+Discussion Discussion activity
+PE Comprehensive Course | Learning Resource | version 12012022 P ag e 2 | 33
+Ameritrain Mortgage Institute. All Rights Reserved.
+Table of Contents
+MODULE 6 .........................................................................................................................................4
+TOPIC: DEFINITIONS ...........................................................................................................................5
+ACTIVITY: KNOWLEDGE CHECK #1.......................................................................................................7
+TOPIC: LOAN PRODUCT REVIEW .........................................................................................................9
+TOPIC: ARM LOAN PRODUCT ............................................................................................................ 12
+About ARMS ............................................................................................................................................ 12
+About CAPS ............................................................................................................................................. 13
+MICR Principal ......................................................................................................................................... 16
+ARM Disclosures ..................................................................................................................................... 17
+ACTIVITY: KNOWLEDGE CHECK #2..................................................................................................... 18
+TOPIC: NON-TRADITIONAL LOAN PRODUCT ...................................................................................... 20
+About Non-Traditional Loans .................................................................................................................. 20
+Non-Traditional Laws .............................................................................................................................. 21
+Deregulation ........................................................................................................................................... 21
+Re-regulation .......................................................................................................................................... 22
+Federal Reserve ....................................................................................................................................... 25
+Reverse Mortgages ................................................................................................................................. 25
+Refinance Transactions ........................................................................................................................... 26
+Net Tangible Benefit ............................................................................................................................... 27
+Permanent Buydown .............................................................................................................................. 28
+Buydown Practice Part 1 ......................................................................................................................... 30
+Buydown Practice Part 2 ......................................................................................................................... 30
+Temporary Buydown............................................................................................................................... 31
+Basis Points ............................................................................................................................................. 32
+ACTIVITY: KNOWLEDGE CHECK #3..................................................................................................... 33
+PE Comprehensive Course | Learning Resource | version 12012022 P ag e 3 | 33
+Ameritrain Mortgage Institute. All Rights Reserved.
+MODULE 6
+Loan Products
+Module Learning Objectives
+During this module, you will review and be asked to demonstrate the following:
+▪ Define and memorize key mortgage terms
+▪ Knowledge of a variety of loan products
+▪ Knowledge of deregulations that created a subprime market
+PE Comprehensive Course | Learning Resource | version 12012022 P ag e 4 | 33
+Ameritrain Mortgage Institute. All Rights Reserved.
+TOPIC: DEFINITIONS
+The following terms are important to know for this module and will help you improve your mortgage
+vocabulary and knowledge of the universe of real estate financing. Be sure to memorize these terms to
+improve your exam scores.
+Usury The practice of making unethical mortgage loans that may include rates that
+exceed the law. States have usury laws that define these usury limits. The
+maximum interest rate that can be charged is commonly referred to as the usury
+limit.
+Index (plural is A market instrument that varies with market conditions. Rates tied to an index can
+indices) adjust based on the changes in the index. Popular indices include COFI, LIBOR,
+Prime, and T Bill.
+COFI (Cost of
+The Cost of Funds Index used in adjustable-rate mortgages.
+Funds Index)
+LIBOR (London
+The London Interbank Offered Rate is an index used in the residential mortgage
+Interbank
+industry for adjustable-rate mortgages.
+Offered Rate)
+Prime Prime is a popular index used with home equity lines of credit.
+T Bill (Treasury
+Treasury bill index is used in many longer-term financing products.
+Bill)
+Hybrid Loan A loan that combines a fixed period and an adjustable period within the same loan
+term. For example, a 5/1 ARM has a fixed rate for the first 5 years and then can
+adjust every year afterwards.
+Cap A percentage limitation on how high or low an adjustable rate may increase or
+decrease. We’ll discuss 3 types:
+▪ Initial cap: the max limit the first time the rate can adjust
+▪ Periodic cap: the max limit each subsequent time the rate can adjust
+▪ Life cap: the max limit the rate can adjust over the lifetime of the loan
+PE Comprehensive Course | Learning Resource | version 12012022 P ag e 5 | 33
+Ameritrain Mortgage Institute. All Rights Reserved.
+Initial, periodic, and life caps are often shown as initial/periodic/life. For example;
+2/2/5 means the initial and periodic caps can rise or fall 2% each time they adjust,
+but only for a maximum of 5% increase or decrease.
+Subprime Refers to non-traditional mortgage loans to borrowers with challenged credit
+(poor credit history). These normally carry unfavorable conditions for the
+borrower, like higher interest rates, and are riskier for the lender due to the
+borrower’s credit.
+Secondary The secondary market is where banks and lenders can sell home loans and
+Market servicing rights to other lenders and investors. These sales help free up funds so
+banks and lenders have money available to make more home loans.
+Subordination When there are two mortgages on a home and one of the mortgages must be
+subordinated (placed in a lower position).
+The most common example is when a borrower has two mortgages and refinances
+their first. The lender in first position wants to guarantee repayment of the loan,
+so the borrower signs a subordinate agreement indicating the 2nd loan is
+subordinate to the first (2nd lien position to the 1st loan). Debts in first position
+have a higher priority which enables them to be repaid in full.
+Buydown A buy down occurs when a borrower pays an upfront fee on a loan product to
+reduce the interest rate over the life of the loan.
+Temporary Buydown:
+Allows the borrower to buy down the interest rate, but only for a short period
+(typically the first 2 or 3 years of the loan).
+Basis Point A basis point is a unit of measure: 1/100th of 1% (0.01% or 0.0001). Basis points
+are used within the financial industry to communicate differences in interest rates.
+Example: 100 basis points = 1% or 1 point in the case of discount points.
+Points (Discount Fees paid directly to the lender at closing in exchange for reduced interest rates
+Points) are points. The act of paying this fee is also known as “buying down the rate”.
+Lower rates can equal lower monthly payments. A point is equal to 1% of your
+loan amount (or $1,000 for every $100,000).
+PE Comprehensive Course | Learning Resource | version 12012022 P ag e 6 | 33
+Ameritrain Mortgage Institute. All Rights Reserved.
+ACTIVITY: KNOWLEDGE CHECK #1
+Here’s your chance to show how good your memory is and practice the terms you just reviewed. Can
+you add their definitions in the column to the right (without peeking)? How many can you remember?
+Good luck! If you get stuck, look to pages 5-6 of this resource guide.
+Usury
+Index (plural is
+indices)
+COFI (Cost of
+Funds Index)
+LIBOR (London
+Interbank
+Offered Rate)
+Prime
+T Bill (Treasury
+Bill)
+Hybrid Loan
+Cap
+PE Comprehensive Course | Learning Resource | version 12012022 P ag e 7 | 33
+Ameritrain Mortgage Institute. All Rights Reserved.
+Subprime
+Secondary
+Market
+Subordination
+Buy down
+Basis Points
+Points (Discount
+Points)
+Notes _________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+PE Comprehensive Course | Learning Resource | version 12012022 P ag e 8 | 33
+Ameritrain Mortgage Institute. All Rights Reserved.
+TOPIC: LOAN PRODUCT REVIEW
+Previously, you learned loan products range from fixed interest rate products to adjustable rate
+products to non-traditional loan products.
+Within this product range there is generally a loan product that will meet the needs of most borrowers.
+Review these loan products.
+Key Points ▪ Fixed Rate: Rate remains fixed during the term of the loan.
+o Benefit to the borrower: stable principal and interest payment and a
+hedge against higher interest rates that may occur during the life of the
+loan.
+o Benefit to the lender: stable long-term predictable returns.
+▪ Adjustable rate: Rate is allowed to change periodically during the term of the
+loan.
+o Benefit to the lender: the lender is committed to an interest rate for a
+shorter period; for example, a 30-year fixed. This allows the lender to
+have returns more in line with the changing interest rate marketplace.
+o Benefit to the borrower: lower interest rates during the fixed term of
+the loan and the borrower can take advantage of lower rates.
+o Risk: as interest rates rise, borrower will pay higher rates.
+▪ Interest only loan: Interest is paid with no contribution to principal. Considered
+a non-moving loan because the principal remains the same during the interest
+only payment period.
+o Benefit to the borrower: lower payments during the interest only
+period.
+o The major risk is that there will be higher payments after the interest
+only period had ended.
+PE Comprehensive Course | Learning Resource | version 12012022 P ag e 9 | 33
+Ameritrain Mortgage Institute. All Rights Reserved.
+Key Points ▪ Negative Amortization loan: The interest is deferred during a period of the
+loan.
+o Borrower still owes the deferred amount.
+o Principal has increased.
+o Most popular deferred interest program was the “option arm” which
+allowed a portion of the interest payment to be deferred.
+o Benefit to the borrower: lower payments during the deferred interest
+period.
+o Risks: if home values decrease, the borrower can be in a position of
+owing more than the original debt and/or more than the home was
+worth at the time of purchase.
+▪ Home Equity Loan: Loans secured by the equity in a borrower’s home.
+o These loans are generally in a secondary lien position because there is
+usually a primary loan on the property.
+o Two types of home equity loans:
+• Fixed rate and term: generally referred to as a second mortgage.
+This loan has a fixed rate and a fixed term, generally with a 15-
+year maximum.
+• Line of credit: referred to as a HELOC (Home Equity Line of
+Credit). Funds are drawn as needed (like a credit card) and the
+required minimum payment terms are interest only payments.
+Like an ARM, the loan is tied to an index, so rates vary based on
+the index being used.
+▪ Balloon Loan: Allows a payment plan that will not pay off the loan by the due
+date.
+o Benefit to the borrower: lower payments
+o Risk: at the end of the loan term a lump sum is due.
+o Benefit to lender: short term loan commitment, limits the lenders
+exposure to interest rate fluctuations.
+▪ Bridge loan: A temporary loan between the sale of one property and the
+purchase of another. Generally limited to no more than an 18-month term.
+o Benefit to the borrower: provides capital to the borrower during the
+transition. Will be paid off from the proceeds of the property for sale.
+▪ Construction loan: Loan for the construction period only.
+o Benefit to the borrower: funding for home construction that only
+requires interest payments during the loan period.
+o Risk: the loan must be paid at the end of the construction period.
+▪ Construction to Permanent Loan: a permanent loan that includes a
+construction loan.
+o Benefit to the borrower: combines permanent and construction
+financing with one closing instead of two.
+PE Comprehensive Course | Learning Resource | version 12012022 P ag e 10 | 33
+Ameritrain Mortgage Institute. All Rights Reserved.
+▪ Reverse Mortgage: A loan product to allow seniors (age 62 or older) to use the
+equity in their homes to provide income for the future.
+▪ Benefit to the borrower: provides income during the later years in a
+consumer’s life.
+▪ Refinance loans: A loan product that allows a borrower to refinance an existing
+loan by replacing it with a new loan and paying off the balance of the old loan.
+▪ Benefit to the borrower: can reduce interest rates and terms, resulting
+in savings. Some borrowers may use the proceeds to pay other debts,
+often called a debt consolidation loan.
+▪ Loan Assumption: borrower assumes an existing loan.
+o Assumable loans: include government loan programs like FHA and VA
+o Non-assumable loans: conventional loan programs are not assumable
+because they have a “due on sale clause”.
+o Benefit to the borrower: typically saves loan closing costs.
+▪ Loan Modification: modify an existing loan product but does not create a new
+loan.
+o Benefit to borrower: allows borrowers who may be in danger of
+default to avoid foreclosure by modifying existing terms. This is NOT a
+form of refinancing.
+▪ Non-Traditional Loans: generally, these are loans offered to borrowers with
+unique challenges, such as poor credit.
+o Benefit to borrower: challenged borrowers can get access to credit.
+o Risks: rates are generally higher and loan terms more unfavorable.
+Notes _________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+PE Comprehensive Course | Learning Resource | version 12012022 P ag e 11 | 33
+Ameritrain Mortgage Institute. All Rights Reserved.
+TOPIC: ARM LOAN PRODUCT
+About ARMS
+ARMs are one of the more complicated loan products to understand.
+Key Points What’s an ARM?
+▪ An adjustable-rate mortgage is a loan product where the interest rate may go
+up or down because the interest rate is tied to an index.
+What’s an Index?
+▪ It’s a financial factor that changes based on market conditions.
+▪ Plural for index is indices.
+▪ Common indices include:
+o COFI: Cost of Funds Index, per the 11th District Federal Home Loan
+Bank located in San Francisco.
+o LIBOR: London Interbank Offered Rate is an index from the United
+Kingdom.
+o Prime: popular index used with home equity lines of credit.
+o T Bill: Treasury Bill used in many longer-term financing products.
+▪ NOTE: Lender is required to provide borrower with historical index
+performance.
+About ARMs:
+▪ Fixed period: most ARMs have a period where the rate remains the same,
+followed by a period where the rate may adjust.
+▪ Hybrid loans: contain both fixed and adjustment periods within the same loan
+term.
+ARM tied to Index:
+▪ Adjustable rates may adjust each year after a fixed period:
+o Fixed period: rate remains the same.
+o Adjustment period: rate can fluctuate.
+▪ Reset period: period when rate changes from fixed to adjustable.
+▪ Fixed periods: range from 1-10 years (when the loan starts).
+▪ Shorter fixed periods: lower rates because of the lower risk to lender.
+▪ Longer fixed periods: slightly higher rates but more favorable to borrower.
+ARM Examples:
+▪ 10/1 ARM: fixed rate for 10 years, then rate adjusts each year afterwards.
+▪ 5/1 ARM: fixed rate for 5 years, then rate adjusts each year afterwards.
+▪ 1-year ARM: rate adjusts each year without a fixed period.
+PE Comprehensive Course | Learning Resource | version 12012022 P ag e 12 | 33
+Ameritrain Mortgage Institute. All Rights Reserved.
+Rate Refresher:
+Rate = Index + Margin
+▪ Rate: also called the fully indexed rate. A trick to remember the formula
+is ”RIM” (Rate = Index + Margin).
+▪ Index: benchmark interest rate that the ARM is based on (e.g., COFI, Prime, T-
+Bill, LIBOR).
+▪ Margin: lender’s profit. Once margin is established on the loan, it does not
+change.
+Example: a customer has a 5/1 ARM and was locked into it at a 5% fully indexed
+rate. The rate includes a fixed index of 3% for 5 years and a fixed margin of 2% for
+the life of the loan. In year 6, the rate can adjust and the 3% index could go up or
+down. Sometimes there are wild swings in the index.
+5/1 ARM (5 years fixed, adjusts each year afterwards)
+5% fully indexed rate = 3% (index) + 2% (margin)
+If it goes down = that’s good for the borrower.
+If it goes up = that means the borrower’s interest rate will increase.
+About CAPS
+To prevent dramatic swings in the interest rate from impacting the borrower, lenders are legally
+required to establish limitations on how high/low the rate can go. These limits are called caps.
+Key Points Caps limit: There are three types of caps. They include:
+PE Comprehensive Course | Learning Resource | version 12012022 P ag e 13 | 33
+Ameritrain Mortgage Institute. All Rights Reserved.
+▪ Initial cap: how much the index can go up/down during the first adjustment
+period (reset period).
+▪ Periodic cap: how much the index can go up each adjustment period that
+follows.
+▪ Life cap: how much in total the index can go up. Most commonly this is held
+to 5%.
+NOTE: These caps are sometimes displayed as 2/2/5 which means the initial cap is
+2%, the periodic cap is 2%, and the life cap is 5%.
+5/1 ARM example:
+5/1 ARM
+Initial cap = 2%
+Periodic cap = 2%
+Lifetime cap = 5%
+Benchmark index used = LIBOR
+Year 1
+Index rate = 3%
+3% + 2% = 5% rate
+Year 2
+Index rate = 3.5% (increases)
+3% + 2% = 5% rate (no changed locked in rate)
+Year 3
+Index rate = 4.0% (increases)
+3% + 2% = 5% rate (no changed locked in rate)
+Year 4
+Index rate = 5.0% (increases)
+3% + 2% = 5% rate (no changed locked in rate)
+Year 5
+Index rate = 6.0% (increases)
+3% + 2% = 5% rate (no changed locked in rate)
+Year 6
+Index rate = 6.5% (increases)
+5% + 2% = 7% rate (although index has increased 3.5%, initial cap limits index
+increases to 2%)
+PE Comprehensive Course | Learning Resource | version 12012022 P ag e 14 | 33
+Ameritrain Mortgage Institute. All Rights Reserved.
+Year 7
+Index rate = 7.5% (increases)
+7% + 2% = 9% rate (periodic cap limits index increases 2%)
+Year 8
+Index rate = 9.0% (increases)
+8% + 2% = 10% rate (life cap limits index increases 1% as borrower has reached 5%
+total increase from 3% to 8%)
+Years 9 – 30 (increases)
+Index rate varies but this specific rate will never be higher than 5% (starting rate) +
+5% index increase or lower than the 2% margin (can’t be lower as lender must
+receive profit margin).
+Notes _________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+PE Comprehensive Course | Learning Resource | version 12012022 P ag e 15 | 33
+Ameritrain Mortgage Institute. All Rights Reserved.
+MICR Principal
+This chart called MICR, short for Margin, Index, Caps, and Rate can help you explain to customers
+what they can expect with interest rates.
+Key Points Here is a different 5/1 ARM example.
+Notice the margin is lower. This time, the rates will go up and down.
+Margin: once set at 1.5% it does not change.
+Index: represents the LIBOR index %.
+Rate: increases and decreases can be added/subtracted from the rate.
+MICR Example:
+5/1 ARM
+Benchmark index = LIBOR
+Initial cap = 2%
+Periodic cap = 2%
+Life cap = 5%
+Comments to the right explain each row. See below table:
+Years Margin Index Caps Rate Comments
+Start 1.5% 3% n/a 4.5% The caps do not yet apply as
+the rate is being established.
+1-5 1.5% n/a n/a 4.5% Rate remains fixed for the first
+5 years
+6 1.5% 10% 2% 6.5% Index increases from 3% to
+(initial) 10%, however cap limits the
+change to a 2% increase (4.5%
++ 2% = 6.5% fully indexed rate)
+7 1.5% 3% 2% 4.5% The index rate drops sharply
+(periodic) to 3% from 10%. Although this
+is a 7% decline, the cap limits
+the decrease to 2% (6.5% - 2%
+= 4.5% fully indexed rate)
+8 1.5% 7% 2% 6.5% Index increases from 3% to
+(periodic) 7%, however cap limits the
+change to a 2% increase (4.5%
++ 2% = 6.5% fully indexed rate)
+9 1.5% 10% 2% 8.5% Index increases from 7% to
+(periodic) 10%, however cap limits the
+change to a 2% increase (6.5%
++ 2% = 8.5% fully indexed rate)
+PE Comprehensive Course | Learning Resource | version 12012022 P ag e 16 | 33
+Ameritrain Mortgage Institute. All Rights Reserved.
+10 1.5% 12% 2% 9.5% Index increases from 10% to
+(periodic) 12%, however cap limits the
+change to a 1% increase
+because borrower has reached
+5% life cap maximum (8.5% +
+1% = 9.5% fully indexed rate).
+9.5% - 4.5% starting rate is 5%.
+11-30 1.5% varies See note See Note:
+note During the life of the loan the
+index will vary. However,
+because the life cap on the
+loan is 5% that means no
+matter how high the index
+rises the rate will never be
+higher than the start rate of
+9.5% (4.5% start + 5%) or
+lower than 1.5% margin (4.5%
+start - 5% will never be lower
+than margin)
+ARM Disclosures
+The following includes the ARM requirements for disclosure, timing, and advertising. Please review
+this information carefully as you’ll need to apply it.
+Key Points Must be disclosed to borrower:
+▪ Index used (i.e., COFI, LIBOR, Prime, T Bill.)
+▪ Margin added to the index (i.e., 1.5%, 2%, etc.)
+▪ Initial cap: % rate adjustment during first adjustment period
+▪ Periodic cap: % rate adjustment each subsequent adjustment period
+▪ Life cap: overall % rate can adjust during the life of the loan
+Timing requirement:
+▪ Borrower must be notified between 210 days and 240 days prior to their first
+adjustment (reset period).
+Reminder Important:
+▪ It is a prohibited act in an advertisement for an ARM loan to mention the word
+‘fixed’ before the word ‘adjustable’. When the word ‘fixed’ is used it must be
+followed in close proximity with the actual fixed term (e.g., 5 years, 7 years,
+etc.).
+PE Comprehensive Course | Learning Resource | version 12012022 P ag e 17 | 33
+Ameritrain Mortgage Institute. All Rights Reserved.
+ACTIVITY: KNOWLEDGE CHECK #2
+If you get stuck, look back to pages 9-17 of this resource guide for help.
+Fill in the blank
+Q1:
+List the 4 major indices:
+A: a)
+b)
+c)
+d)
+Multiple Choice
+Q2:
+Select the 3 items you must disclose to the borrower.
+A: a) Index used
+b) Refinance option if rate goes up
+c) Margin
+d) Caps (initial, periodic, life)
+Fill in the blanks
+Q3: You must notify the borrower no earlier than ____days and no later than ____ days prior
+to their reset date (adjustment period).
+A:
+Fill in the blanks
+Fill in ALL the rate fields based on the information provided in the MICR chart.
+Background Information:
+5/1 ARM
+Q4:
+Benchmark index = Prime
+Initial cap = 2%
+Periodic cap = 1%
+Life cap = 5%
+A: Years Margin Index Caps Rate Comments
+Start 2% 3.5% n/a 5.5% The caps do not yet apply as the rate
+is being established.
+1-5 2% n/a n/a 5.5% Rate remains fixed for the first 5
+years
+6 2% 5% 2% (initial) ___ % Index increases from 3.5% to 5%
+7 2% 3.5% 1% (periodic) ___ % The index rate drops from 5% to 3.5%
+8 2% 5% 1% (periodic) ___% Index increases from 3% to 5%
+PE Comprehensive Course | Learning Resource | version 12012022 P ag e 18 | 33
+Ameritrain Mortgage Institute. All Rights Reserved.
+9 2% 7% 1% (periodic) ___% Index increases from 5% to 7%
+10 2% 12% 1% (periodic) ____% Index jumps from 7% to 12%
+Fill in the blanks
+Fill in the rate fields based on the information provided in the MICR chart.
+Background Information:
+3/1 ARM
+Q5:
+Benchmark index = COFI
+Initial cap = 1.5%
+Periodic cap = 1.5%
+Life cap = 5%
+A: Years Margin Index Caps Rate Comments
+Start 1.5% 2.5% n/a 4% The caps do not yet apply as the rate
+is being established.
+1-3 1.5% n/a n/a 4% Rate remains fixed for the first 3 years
+6 1.5% 4% 1.5% (initial) I n d ex increases from 2.5% to 4%
+___ %
+7 1.5% 6 1.5% T h e index rate drops from 4% to 6%
+(periodic) ___ %
+8 1.5% 9 1.5% I n d ex increases from 6% to 9%
+(periodic) ___ %
+9 1.5% 10 1.5% I n d ex increases from 9% to 10%
+(periodic) ___ %
+10 1.5% 12 1.5% I n d ex increases from 10% to 12%
+(periodic) ___ %
+PE Comprehensive Course | Learning Resource | version 12012022 P ag e 19 | 33
+Ameritrain Mortgage Institute. All Rights Reserved.
+TOPIC: NON-TRADITIONAL LOAN PRODUCT
+About Non-Traditional Loans
+Non-traditional loans are products generally offered to borrowers with unique challenges. These
+challenges may include inadequate or challenged credit or other factors. Borrowers that obtain these
+loans are generally referred to as subprime.
+These loans carry more risk to lenders than prime borrowers because of consumers’ history with loan
+products of this type. They also will have higher interest rates and less favorable loan terms.
+Key Points What is a non-traditional loan?
+▪ A loan for borrowers with challenged credit
+▪ Generally referred to as subprime
+▪ Greater risk to lender than prime borrowers
+▪ Less favorable loan terms, higher rates for borrower
+▪ NOTE: SAFE Act defines non-traditional differently. It is any loan that is NOT a
+30-year fixed loan.
+Notes _________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+PE Comprehensive Course | Learning Resource | version 12012022 P ag e 20 | 33
+Ameritrain Mortgage Institute. All Rights Reserved.
+Non-Traditional Laws
+For many folks who may not be familiar with the mortgage industry, the first time they likely heard
+the term subprime was when the mortgage industry was in crisis near the end of 2007.
+As you just learned, subprime lending is a riskier form of lending.
+Key Points Subprime:
+▪ Riskier lending to borrowers with challenged credit
+▪ 1980s Congress deregulated subprime safeguards
+▪ Deregulated environment created risky lending behavior
+Deregulation
+The first deregulation we’ll discuss was passed in 1980 by Congress and was called the Depository
+Institutions and Deregulation and Monetary Control Act (DIDMCA).
+Key Points DIDMCA: Depository Institutions and Deregulation and Monetary Control Act.
+▪ Removed rate caps: This Act removed caps on interest rates, so lenders could
+charge what they wanted.
+▪ Overrode state usury limits: Before that, states placed restrictions on interest
+rates. These restrictions were called usury limits. They made lenders subject to
+state penalties if they charged rates above these usury limits.
+▪ Drove rates higher: By 1982, mortgage interest rates had risen so high (to over
+19%) that sales started slowing. Lenders in turn created products so borrowers
+could reduce their mortgage payments and rates.
+▪ Gave rise to creative loan products: These creative loan products included
+ARMS, graduated payments, interest-only, and negative amortization loans.
+AMPTA: Alternative Mortgage Transactions Parity Act.
+Many states required loan products to be fixed and did not allow these creative
+products.
+▪ Overrode state restriction on fixed loans: Congress stepped in again and
+overrode the states by passing the Alternative Mortgage Transactions Parity Act
+(AMPTA).
+▪ Gave rise to radical loan products: This Act allowed lenders to offer creative,
+less conservative products in ALL states. Examples include: balloon mortgages,
+where there is a lump sum payment due at the end of the term, and flexible
+ARMS, where borrowers could pay less than the interest due.
+PE Comprehensive Course | Learning Resource | version 12012022 P ag e 21 | 33
+Ameritrain Mortgage Institute. All Rights Reserved.
+▪ Took away prepayment penalty limits: Opened the door for abusive practices
+from unscrupulous lenders.
+▪ The prepayment penalty preemption was eventually rolled back in 2002.
+Re-regulation
+Non- traditional lending became even more risky during the first part of this century when lenders
+started to approve borrowers for loans without verifying their ability to repay the mortgage debt.
+Lenders took this risk because real estate values kept appreciating. They incorrectly assumed it would
+continue upward and their risk could be hedged against the increasing property values.
+Key Points Examples of risky loans after deregulation:
+▪ Stated income and stated asset loans: SISA
+▪ No income no asset loans: NINA
+▪ No ratio loans
+▪ No documentation loans
+Federal Banking Agencies
+In 2006 the federal banking agencies sounded the alarm about the irresponsible
+underwriting when they came out with the “Interagency Guidance on Non-
+traditional Mortgage Product Risk”.
+Their objective was to highlight the risks of non-traditional mortgages and
+establish guidelines for the industry. Agencies included:
+▪ Office of the Comptroller of the Currency (OCC)
+▪ Board of Governors of the Federal Reserve System (Board)
+▪ Federal Deposit Insurance Corporation (FDIC)
+▪ Office of Thrift Supervision (OTS)
+▪ National Credit Union Administration
+PE Comprehensive Course | Learning Resource | version 12012022 P ag e 22 | 33
+Ameritrain Mortgage Institute. All Rights Reserved.
+Key Points Interagency Guidance on Non-Traditional Mortgage Product Risk
+The 3 categories the agencies focused on:
+▪ Existing Risk Factors
+▪ Risk Management
+▪ Consumer Protection issues
+Existing Risk Factors:
+These practices create risk and consequences for the industry.
+Risky Practices Negative Consequence
+Underwriting guidelines for income Limited documentation decreases ability
+and assets that are less rigorous to qualify borrower’s ability to repay.
+than they should be (i.e., reduced
+document loans).
+Lenders are encouraged to use Two mortgages increase potential to
+second liens so borrowers can default and reduces mortgage insurance
+avoid escrow accounts, mortgage pool.
+insurance, and higher down
+payments.
+Multiple risks (often called Increased ‘layered’ risks mean a small
+layering) place borrowers in a change in the borrower’s income can
+compromised position with respect jeopardize loan.
+to loan stability compared to
+traditional loans.
+Dependent loans where the asset, Dependency on the asset creates
+not the ability to repay, was the challenges should the asset’s value
+driver for loan approval. decrease and offset the loan value.
+Failing to consider the future Should interest rates climb, borrower
+payment shock on an adjustable will not only be shocked by the
+rate loan after the fixed period had additional costs, they may be unable to
+ended. pay the new interest rate.
+The use of prepayment penalties to Excessive prepayment penalties make it
+make it difficult for a borrower to expensive for borrowers to refinance to
+transition out of a risky loan. more manageable loan products.
+PE Comprehensive Course | Learning Resource | version 12012022 P ag e 23 | 33
+Ameritrain Mortgage Institute. All Rights Reserved.
+Key Points Risk Management:
+These practices can mitigate risk and improve industry stability.
+Management Practices Positive Impact
+Policies should consider how best Clear policies can provide guidance about
+to manage non-traditional volume how much non-traditional products to
+and product mix. sell.
+Limit concentrations of non- This reduces lender risk because
+traditional loan products. historically, these loan products have
+underperformed compared to traditional
+loan products.
+Stronger internal controls, Controls, audit mechanisms, and sound
+monitoring, and compliance processes can help manage risk and
+activities should be incorporated. identify performance gaps earlier.
+Quality control (QC) standards for Mirroring standards improves
+third party originators (TPOs) consistency and helps manage TPOs who
+especially where mortgage may have their own goals and agendas.
+brokers are utilized should mirror
+internal QC standards.
+Same internal control standards Limits bad loans sold to secondary
+must be applied to loans sold to markets. Also limits exposure to lender
+secondary markets. should they need to repurchase
+defaulted mortgages.
+Consumer protection issues:
+Consumers should receive adequate information on the risks associated with many
+of the non-traditional products.
+Concerns and objectives:
+▪ Lenders who promote these products must inform the consumer of the
+benefits and risks in advance.
+▪ Lender focus should be on ensuring borrower is clear about risk vs. selling on
+affordability and flexibility.
+▪ Borrower must fully comprehend the potential consequences of any risky loan
+products and include the potential for future payment increases.
+Reminder Important:
+Lenders have legal responsibilities. Federal laws like Truth-in-Lending Act (TILA)
+and Real Estate Settlement Procedures Act (RESPA) mandate lenders properly
+disclose fees and rates. Additionally, federal laws also prohibit deceptive
+advertising and require that advertising be clear and conspicuous.
+PE Comprehensive Course | Learning Resource | version 12012022 P ag e 24 | 33
+Ameritrain Mortgage Institute. All Rights Reserved.
+Federal Reserve
+Key Points The Federal Reserve followed the Interagency Guidance on Non-Traditional
+Mortgage Product Risk with a statement on subprime lending which addressed
+the risk factors and the recommendation that:
+▪ Lenders verify the borrower’s ability to pay before approving the loan.
+▪ Ensure that consumers understood the terms of the loans they were receiving.
+o Payment shock potential
+o Prepayment penalties
+o Balloon payment
+o Responsibility for taxes and insurance
+Reverse Mortgages
+Key Points Here are the basics about the most popular form of reverse mortgage called a
+Home Equity Conversion Mortgage (HECM).
+▪ An FHA federally insured reverse mortgage.
+▪ Borrowers must be age 62 or older.
+▪ All borrowers must have FHA, HUD, or HECM approved counseling.
+▪ Borrowers are responsible for their own taxes and insurance.
+▪ Subject property must be borrower’s primary residence.
+▪ At least one borrower must occupy the home.
+▪ Means testing to qualify the borrower.
+Notes _________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+PE Comprehensive Course | Learning Resource | version 12012022 P ag e 25 | 33
+Ameritrain Mortgage Institute. All Rights Reserved.
+Refinance Transactions
+Key Points This is the last loan product we’ll review in this module.
+A refinance is a loan product where the original loan is being replaced by a new
+loan. This process requires the proceeds of the new loan to be used to pay off the
+existing loan. There are different reasons for refinancing a loan.
+List of the different refinancing options:
+▪ Rate and term refinance: Reduces the rate and/or the term.
+▪ Limited cash-out refinance: Reduces the rate and/or term and can withdraw
+some limited cash from the transaction. Cash is limited to 2% of the loan
+amount or $2,000, whichever is less.
+▪ Cash out: refinance for the primary purpose of taking cash out from the equity
+built up in the property. The loan amount will be higher than the amount owed
+on the original loan by the closing costs and additional cash that is desired.
+This is often referred to as debt consolidation loan, a loan to pay off existing
+debts that generally have nothing to do with the property.
+▪ Subordination: required when there are two loans on the property: a first and
+a second. The borrower wants to keep the second and refinance the first. The
+second lien holder will need to agree to remain in second position allowing the
+new loan to be in first position. This means that the second lien holder will
+subordinate their position when the first is paid off to allow the new loan to be
+in first position.
+▪ Loan assumption: a borrower can assume a loan without going through the
+normal loan qualifying process that includes lender closing costs. Both FHA and
+VA loans are assumable loans with the lender agreeing to allow the new
+borrower to assume the loan.
+▪ Due on sale clause: conventional loans have a clause that requires the loan to
+be paid if the loan is sold or transferred to another party. This means that a
+conventional loan is not assumable.
+PE Comprehensive Course | Learning Resource | version 12012022 P ag e 26 | 33
+Ameritrain Mortgage Institute. All Rights Reserved.
+Net Tangible Benefit
+You can imagine if lenders benefit from the costs associated with refinance transactions, it’s only fair
+that the borrower also benefit.
+Key Points Net Tangible Benefit:
+▪ Lenders required to ensure transactions are beneficial to borrowers.
+▪ Refinanced loan should pass net tangible benefit test.
+Examples of a Net Tangible Test:
+▪ Going from an ARM to a fixed rate.
+▪ Reducing the interest rate.
+▪ Reducing the loan term.
+▪ Borrower recouping the cost of the refinance within 36 – 48 months.
+▪ Borrower receiving cash of at least 3 times the cost to refinance in a cash-
+out refinance transaction.
+Notes _________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+PE Comprehensive Course | Learning Resource | version 12012022 P ag e 27 | 33
+Ameritrain Mortgage Institute. All Rights Reserved.
+Permanent Buydown
+Within most loan products there are variations and opportunities to reduce rates even further. One
+such variation is a buydown.
+Key Points What is a Buydown? A buydown is when a borrower pays an upfront fee on a loan
+product to reduce the interest rate. Literally, they pay a fee for a lower rate.
+Buydown options:
+▪ Permanent buydown (loan life)
+▪ Temporary buydown (limited years)
+Permanent buydown (loan life) - with a permanent buydown, the borrower,
+seller, or lender pays an upfront fee, called a discount point, to reduce the interest
+rate over the life of the loan.
+Example:
+Let’s say a borrower is buying a home
+for $240,000. They pay a down
+payment of $40,000 that leaves a loan $240,000 (home value)
+balance of $200,000. - $40,000 (down payment)
+= $200,000 loan
+Let’s say the interest rate is 4%. If
+nothing changes and they lock in their
+Interest rate = 4%
+interest rate at 4%, their principal and
+P&I on $200,000 = $954/monthly
+interest would be $954/month (before
+taxes, mortgage insurance, etc.).
+Lender offers 2 discount points to
+However, what if the borrower can buydown interest rate .5%
+lower their interest rate by .5% with a
+permanent buydown? Let’s do the $954/monthly
+math. - $898/monthly
+= $56 (monthly savings)
+A 3.5% interest rate equates to a P&I
+x 12__________
+of $898/month.
+= $672 (annually)
+That’s $56 savings monthly, $672 x 30 years_____
+annually, and more than $20,000 over = $20,160 (lifetime savings)
+the life of the loan.
+1 discount point = 1% of loan
+That’s a nice savings. Let’s see what it
+will cost to get the savings.
+Our examples
+What if the lender offers the .5% rate 2 discount points = 2% x $200,000 =
+decrease for 2 discount points? Again, $4,000 fee
+let’s do the math.
+PE Comprehensive Course | Learning Resource | version 12012022 P ag e 28 | 33
+Ameritrain Mortgage Institute. All Rights Reserved.
+Each discount point = 1% of the loan
+amount. In this case, the loan amount
+is $200,000, so 2 discount points, is 2%
+of $200,000, and that equals $4,000 to
+buydown the interest rate to save
+$20,000 over the life of the loan.
+The borrower, seller, or lender
+themselves may pay to buydown the
+interest rate. In any case, the discount
+points must be paid up front.
+Notes _________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+PE Comprehensive Course | Learning Resource | version 12012022 P ag e 29 | 33
+Ameritrain Mortgage Institute. All Rights Reserved.
+Buydown Practice Part 1
+This is a two-part practice. First, you’ll identify the P&I for 2 different rates. Then you’ll identify the
+discount point cost and savings.
+Key Points Basic Information you will need:
+▪ Reminder marker if you forget how to identify the P&I
+▪ Amortization Tables
+▪ Then fill in the 5 blanks
+Home value = $300,000
+Down payment = $60,000
+Loan length = 30 years
+Current interest rate offer = 4.5%
+Potential buydown rate = 3.75%
+Challenge: Figure out the P&I on the loan value at 4.5% and at 3.75%.
+P&I for $240,000 at 4.5% interest = ________
+P&I for $240,000 at 3.75% interest = ________
+Savings for lower rate each month = ________
+Savings annually = _____
+Savings over loan life = ______
+Buydown Practice Part 2
+Key Points You identified the savings. Now figure out what it will cost. The lender is offering
+the 3.75% for 2.5 discount points.
+$240,000 x _____% = $________
+PE Comprehensive Course | Learning Resource | version 12012022 P ag e 30 | 33
+Ameritrain Mortgage Institute. All Rights Reserved.
+Temporary Buydown
+These buydowns are like permanent buydowns except they’re typically at the beginning of the loan
+for the first 1 to 3 years.
+Key Points Because they are temporary, they are usually offered by the seller (or home
+builder) as an incentive to encourage the borrower to buy now by luring them with
+a lower rate the first few years.
+▪ Rate is reduced only during the buydown period (1-3 years generally).
+▪ Fees are paid up front, most frequently by seller as a part of closing costs.
+▪ Reverts to note rate after buydown period for the remainder of the loan.
+▪ Examples include 2/1 or 3/2/1 temporary buydowns.
+Review the chart to understand the savings and how the discounted rates
+increase.
+Loan amount: $160,000
+Interest rate: 5.75%
+Temporary buydown: 3/2/1
+Year Rate Payment Saving Saving
+Monthly Annually
+1 2.75% (-3%) $653 $281 $3,372
+2 3.75% (-2%) $741 $193 $2,316
+3 4.75% (-1%) $835 $99 $1,188
+4-30 5.75% $934
+Total $6,876
+Savings
+PE Comprehensive Course | Learning Resource | version 12012022 P ag e 31 | 33
+Ameritrain Mortgage Institute. All Rights Reserved.
+Basis Points
+Basis points are a method of communicating within the financial industry, particularly in the mortgage
+financing industry.
+Key Points A basis point is equal to 1/100th of 1%. This means 100 basis points is equal to 1%.
+Example:
+▪ 100 basis points = 1%
+▪ Discount points:
+o 1 discount point = 100 basis points
+o .5 discount point = 50 basis points
+Loan origination compensation is calculated using basis points.
+Example 1:
+A mortgage loan originator earns 100 basis points on his loan volume. If he closes a
+loan for $200,000, he would receive a commission of $2,000 which is 1% of the
+$200,000 or 100 basis points.
+Example 2:
+A borrower has been told by the lender that her rate will be reduced by 25 basis
+points. If her rate was previously 4.25%, her new rate would be 4%.
+Example 3:
+A borrower has been told it will cost 200 basis points to reduce her rate. If the loan
+amount is $100,000 it will cost the borrower $2,000 which is 2% of $100,000.
+Notes _________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+_________________________________________
+PE Comprehensive Course | Learning Resource | version 12012022 P ag e 32 | 33
+Ameritrain Mortgage Institute. All Rights Reserved.
+ACTIVITY: KNOWLEDGE CHECK #3
+If you get stuck, look back to pages 20-32 of this resource guide for help.
+Single Choice
+Q1:
+SAFE Act legislation specifically defines nontraditional lending products as:
+A: a) Subprime mortgages
+b) Any product other than a 30-year fixed-rate mortgage
+c) Nonconforming mortgages
+d) Conforming mortgages
+Single Choice
+Q2: The Federal Reserve statement on Subprime Lending recommends lenders ensure
+consumers understand all of the following except:
+A: a) Payment Shock
+b) Pre-payment penalties
+c) Full documentation loans
+d) Balloon payments
+Single Choice
+Q3:
+The Alternative Mortgage Transaction Parity Act (AMTPA):
+A: a) Provided borrowers limited options for affordable financing
+b) Overrode the states’ rights to limit lending to fixed mortgages
+c) Increased the overall interest rates available
+d) Reduced the pool of qualified borrowers
+Single Choice
+Q4:
+The Depository Institutions Deregulation and Monetary Control Act (DIDMCA):
+A: a) Deregulated interest rates
+b) Introduced ARMS
+c) Regulated the flow of money
+d) Exempted consumer loans
+Single Choice
+Q5: Which of the following is a subprime loan characteristic which was identified as a form of
+predatory lending:
+A: a) Providing the consumer adequate information to make an informed decision on the
+loan product
+b) Having a prepayment penalty that exceeds the fixed period
+c) Providing the consumer an opportunity to refinance their loan at least 60 days
+without penalty before the fixed period has ended
+d) Charging a higher rate relative to the degree of risk
+PE Comprehensive Course | Learning Resource | version 12012022 P ag e 33 | 33
+Ameritrain Mortgage Institute. All Rights Reserved.
